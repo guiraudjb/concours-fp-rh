@@ -1,0 +1,267 @@
+GUIDE COMPLET POUR OPTIMISER LE FONCTIONNEMENT DES ÉQUIPES EN MODE MIXTE ENTRE PRÉSENTIEL ET DISTANCIEL.
+
+LEXIQUE COMPLET.
+
+      Le management visuel désigne une méthode de suivi participatif d'activité où toute l'équipe contribue en s'appuyant sur un support accessible comme un tableau ou un document en ligne.
+
+      L'approche A désigne une méthode d'analyse par critères d'éligibilité qui consiste à définir des exceptions pour déterminer si une activité est réalisable à distance.
+
+      L'approche B désigne une méthode par liste de tâches qui consiste à définir de manière précise et limitative les activités éligibles ou non au télétravail.
+
+      La règle SMART désigne un cadre permettant de fixer des objectifs simples, mesurables, acceptables, réalistes et temporels pour améliorer la responsabilisation des collaborateurs.
+
+      Le DITP désigne la Direction interministérielle de la transformation publique qui propose des guides sur le télétravail et la facilitation du travail.
+
+      La DGAFP désigne la Direction générale de l'administration publique qui fournit des ressources sur la culture du mode projet et l'encadrement dans la fonction publique.
+
+      Le sigle DINUM désigne la direction interministérielle du numérique qui recommande des outils comme Tchap ou Resana pour faciliter le travail collaboratif.
+
+      Le terme feedback désigne un retour constructif permettant de remercier, de valoriser ou de comprendre les difficultés rencontrées par un membre de l'équipe.
+
+      L'outil Tchap désigne une messagerie instantanée de l'État utilisée pour échanger en privé ou en groupe et partager des fichiers.
+
+      La plateforme Resana désigne un outil collaboratif permettant de stocker, partager et coéditer des documents ou de piloter des projets.
+
+      L'outil Pix désigne un service public en ligne qui permet d'évaluer, de développer et de certifier ses compétences numériques.
+
+      Le décret n° deux mille seize-cent cinquante et un du onze février deux mille seize désigne le texte réglementaire relatif aux conditions et modalités de mise en œuvre du télétravail dans la fonction publique et la magistrature.
+
+COURS DÉTAILLÉ.
+
+I. ORGANISATION ET EFFICACITÉ DE L'ACTIVITÉ.
+
+   A. Identification des activités éligibles au télétravail.
+
+      L'identification des activités éligibles au télétravail peut s'appuyer sur deux approches distinctes au sein d'un service. L'approche A repose sur une analyse par critères d'éligibilité des tâches tandis que l'approche B utilise une liste précise de tâches éligibles ou non.
+
+      Dans le cadre de l'approche A, il est recommandé de partir du principe que toutes les activités sont a priori réalisables à distance pour ensuite définir les exceptions. Les activités non réalisables incluent l'accueil physique du public ou celles nécessitant des déplacements.
+
+      Certaines missions sont également exclues si elles comportent des contraintes liées à l'utilisation de matériels spécifiques ou si le niveau de dématérialisation est insuffisant. Pour faciliter la réalisation des activités éligibles, l'équipe peut accélérer la dématérialisation ou utiliser de nouveaux outils.
+
+   B. Mise en place d'un suivi collectif des activités.
+
+      Le suivi collectif permet de donner de la visibilité sur l'ensemble des activités de l'équipe et leur niveau d'avancement malgré la distance. Il peut prendre la forme d'un tour de table en réunion d'équipe ou d'un tableau de suivi dans un document partagé.
+
+      Le management visuel constitue une méthode de suivi participatif utilisant un support accessible comme un tableau, un mur ou une plateforme digitale de suivi de projet telle que Plano. Ce support sert de base à la réunion d'équipe en reprenant les informations clés classées par rubriques.
+
+      Pour réussir ce dispositif, l'équipe peut utiliser des cartes, des calendriers amovibles ou des stickers pour spécifier un succès ou une alerte. Le manager doit instaurer une dynamique de confiance en définissant avec ses collaborateurs les modalités de suivi comme la fréquence et le mode de communication.
+
+   C. Simplification et évolution des processus de travail.
+
+      Le travail en mode mixte nécessite davantage de fluidité et de réactivité, ce qui offre l'opportunité de simplifier les processus existants. La démarche vise à identifier les étapes redondantes ou les procédures qui mobilisent trop d'équipes pour faciliter la coopération.
+
+      Une démarche systématique consiste à identifier les processus prioritaires, à repérer les points bloquants et à proposer des idées de simplification. Cela peut inclure la dématérialisation de documents ou la suppression de visas non décisionnels.
+
+      L'évolution des processus doit être accompagnée par le manager qui formalise les nouveaux usages et communique les changements à chaque collaborateur. Pour aller plus loin, une fiche de simplification peut être utilisée pour lister les étapes, les irritants et les propositions de simplification.
+
+II. OUTILS ET ÉQUIPEMENTS DE COLLABORATION.
+
+   A. Sélection et usage des outils numériques.
+
+      Le choix des outils numériques doit répondre à des besoins précis sans pour autant les multiplier afin de ne pas créer de complexité inutile.
+
+      Il est recommandé de privilégier des outils simples d'utilisation et de s'assurer qu'ils sont adaptés aux besoins de l'équipe pour organiser des réunions ou suivre l'avancement des projets.
+
+      La messagerie instantanée comme Tchap permet d'échanger en privé ou en groupe et de partager des fichiers tels que des photos ou des vidéos.
+
+      Les services de webconférence facilitent l'organisation de réunions ou de formations à distance avec des fonctionnalités comme le tchat intégré ou l'édition de documents en mode collaboratif.
+
+      La plateforme Resana est conçue pour stocker et partager des documents ainsi que pour piloter des projets de manière collaborative.
+
+      L'espace collaboratif Osmose permet de créer une communauté pour partager des contenus et planifier des réunions.
+
+   B. Accompagnement à la montée en compétence digitale.
+
+      Le manager doit s'assurer que les membres de son équipe maîtrisent les outils mis à leur disposition et peut les orienter vers des formations ou des ressources adaptées.
+
+      Pour faciliter l'adoption des nouveaux outils, l'équipe peut désigner des ambassadeurs qui serviront de personnes ressources pour répondre aux questions des collègues.
+
+      L'évaluation des compétences numériques peut se faire via des tests d'autodiagnostic ou l'outil Pix qui permet de développer et de certifier ses connaissances.
+
+      Il est possible de se rapprocher de la direction du numérique pour connaître l'offre de service ministérielle disponible.
+
+   C. Dématérialisation et gestion du matériel.
+
+      Les agents doivent contribuer aux démarches de dématérialisation en faisant remonter leurs besoins pour faciliter le développement du télétravail.
+
+      Lorsqu'un document doit être transporté, il est impératif de respecter sa confidentialité et sa sécurité, notamment lors de l'utilisation de tiers-lieux.
+
+      Le manager doit identifier les besoins en équipement de son équipe pour faciliter les interactions et les réunions efficaces, comme l'attribution d'un grand écran.
+
+      Les agents sont invités à échanger avec leur manager sur leurs besoins spécifiques en matériel pour rester opérationnels à distance.
+
+III. ANIMATION ET COMMUNICATION DU COLLECTIF.
+
+   A. Définition des règles du jeu et de la charte d'équipe.
+
+      Le travail en mode mixte nécessite de définir des règles du jeu pour faciliter le fonctionnement et tirer parti des temps de présence physique.
+
+      L'équipe peut choisir de définir des jours de présence commune pour privilégier les activités de coopération et les rituels informels.
+
+      Chaque membre doit informer ses collègues de ses jours de télétravail en utilisant des outils comme l'agenda partagé ou un planning commun.
+
+      La charte d'équipe peut inclure des règles pour limiter la sollicitation des collègues entre certaines heures afin de respecter l'équilibre entre vie professionnelle et vie personnelle.
+
+      En cas d'urgence, les règles doivent garantir que les collaborateurs sont sollicités de la même manière, qu'ils soient en présentiel ou à distance.
+
+   B. Optimisation de la communication et choix des canaux.
+
+      La communication doit être adaptée à la nature et au degré d'urgence de la demande pour garantir l'efficacité de l'équipe.
+
+      Le choix du canal est déterminant, par exemple en utilisant la messagerie instantanée pour un point urgent ou le mail pour traiter un sujet de fond laissant une trace écrite.
+
+      Un appel téléphonique est préférable pour un besoin de convivialité ou pour un conseil sur un sujet délicat, tandis que la visioconférence est adaptée pour un débriefing de réunion.
+
+      Il est recommandé de privilégier les échanges de vive voix plutôt que l'écrit pour faire un retour sur le travail d'un collaborateur.
+
+      La charte de communication peut fixer des règles de courtoisie comme l'accusé de réception rapide des mails ou le signalement immédiat d'une difficulté.
+
+   C. Organisation et animation de réunions efficaces.
+
+      Les réunions efficaces en mode mixte ou à distance nécessitent une préparation rigoureuse du contenu et du déroulé.
+
+      L'organisateur doit tester les outils à l'avance, ouvrir la salle virtuelle quelques minutes avant et prévoir une solution de repli en cas de problème technique.
+
+      Pendant la réunion, il est essentiel de donner le cadre, de partager l'ordre du jour et de veiller à ce que chaque participant puisse s'exprimer.
+
+      L'utilisation du tchat ou de documents partagés permet de maintenir l'attention et de faire participer tout le monde sans s'interrompre.
+
+      Une réunion réussie se conclut par la reformulation des décisions prises et l'envoi d'un compte-rendu synthétique aux participants.
+
+IV. CULTURE D'ÉQUIPE ET MANAGEMENT DE LA CONFIANCE.
+
+   A. Renforcement des marqueurs culturels et de l'autonomie.
+
+      Le travail mixte permet de transformer la culture d'équipe en s'appuyant sur cinq marqueurs essentiels que sont la confiance, l'autonomie, la responsabilisation, l'agilité et la fluidité de la communication.
+
+      Pour renforcer ces marqueurs, l'équipe peut mettre en place des rituels informels comme un tour d'inclusion en début de réunion ou des moments de convivialité réguliers tels que le café du vendredi.
+
+      L'aménagement des espaces de travail contribue également à la culture en utilisant des affiches sur les bureaux pour indiquer la présence ou l'absence des collègues.
+
+      L'autonomie est un levier majeur où chaque membre est responsable de ses activités et peut solliciter les ressources nécessaires comme ses collègues ou ses outils.
+
+      Le niveau d'autonomie n'est pas figé car il peut croître avec l'expérience et nourrit directement la prise d'initiatives de l'agent.
+
+   B. Développement de la responsabilité individuelle et collective.
+
+      La responsabilisation consiste pour chaque membre à être en charge de son propre périmètre d'action et à en rendre compte.
+
+      Chaque agent peut jouer un rôle actif dans la cohésion du collectif en endossant des chapeaux spécifiques comme celui de prendre des nouvelles ou d'organiser des temps de convivialité.
+
+      D'autres rôles de cohésion incluent la veille des bonnes pratiques pour améliorer le travail mixte ou le lancement d'initiatives pour améliorer les espaces de travail.
+
+      Le manager assure la responsabilité de l'organisation en identifiant les activités éligibles au télétravail et en veillant à l'équité lors des situations d'urgence.
+
+      L'agent contribue à la responsabilité collective en communiquant son calendrier de télétravail et en informant ses collègues sur la manière de le joindre.
+
+   C. Pratique du feedback et des retours constructifs.
+
+      Les retours constructifs sont essentiels pour maintenir le lien et doivent être intégrés dans le quotidien pour valoriser les réussites ou comprendre les difficultés.
+
+      Pour réussir un feedback, il est crucial de distinguer les faits réels des interprétations ou des émotions personnelles.
+
+      Il est recommandé de privilégier les échanges de vive voix plutôt que l'écrit et de choisir un endroit neutre pour mener la discussion.
+
+      La réciprocité est un principe fondamental car l'objectif est de parvenir à une compréhension partagée et à une solution satisfaisante pour les deux parties.
+
+      Les retours peuvent être verticaux entre un manager et son collaborateur ou horizontaux entre les membres d'une même équipe.
+
+V. BIEN-ÊTRE ET COHÉSION SOCIALE.
+
+   A. Préservation de l'équilibre vie professionnelle et vie personnelle.
+
+      Le manager doit être exemplaire en évitant d'envoyer des courriels en dehors des horaires de travail définis.
+
+      Il est important de ne pas utiliser de manière excessive la communication en temps réel car les notifications incessantes sont un facteur de stress.
+
+      Il peut être utile de fixer des plages horaires précises où chaque collaborateur doit être joignable pour organiser le travail.
+
+      Le respect des temps de repos et de congé est une vigilance particulière que le manager doit exercer pour ses collaborateurs.
+
+      L'agent doit veiller à bien marquer la limite entre son temps de travail et son temps personnel par des rituels comme le rangement de ses affaires.
+
+      Il est conseillé d'adopter des horaires réguliers et de délimiter un espace dédié ou isolé pour travailler à domicile.
+
+   B. Lutte contre l'isolement et maintien du lien social.
+
+      Le manager doit exercer une vigilance particulière sur le risque de mise à l'écart et d'isolement des agents en télétravail.
+
+      Il est nécessaire de réunir régulièrement l'ensemble de l'équipe physiquement pour prévenir ce sentiment d'isolement.
+
+      Les agents peuvent également lutter contre l'isolement professionnel en prenant des nouvelles de leurs collègues de manière régulière.
+
+      Si un collaborateur semble en difficulté ou en situation d'isolement, il est important d'alerter le manager.
+
+      L'agent doit tenir son manager informé de son état d'esprit et l'alerter en cas de besoin concernant sa charge de travail ou ses relations.
+
+      Le partage d'information est essentiel pour la réalisation des missions et doit être facilité par des outils de suivi communs.
+
+   C. Aménagement des espaces et rituels de convivialité.
+
+      L'aménagement des espaces communs avec des plantes ou de la décoration permet de renforcer le sentiment d'appartenance à l'équipe.
+
+      Il est possible de rendre accessibles les bureaux laissés vides le temps d'une journée de travail pour des réunions en présentiel ou à distance.
+
+      L'utilisation d'affiches sur le bureau peut indiquer si une personne est sur place ou non afin que son poste soit utilisé par d'autres collègues.
+
+      Les rituels de convivialité peuvent être réguliers comme un café du vendredi ou plus ponctuels pour reconnaître les réussites de l'équipe.
+
+      Le manager peut organiser des temps informels en bilatéral pour maintenir le lien avec chaque collaborateur.
+
+      Les échanges informels peuvent prendre la forme d'un simple appel téléphonique, d'une discussion sur la messagerie instantanée ou d'une pause-café en visioconférence.
+
+VI. PILOTAGE ET AMÉLIORATION CONTINUE.
+
+   A. Mise en œuvre d'une démarche d'amélioration continue.
+
+      Le passage à un mode de travail mixte en présentiel et à distance nécessite de réaliser des points réguliers avec l'équipe pour évaluer la maturité du fonctionnement collectif.
+
+      Ces échanges permettent d'identifier ce qui fonctionne bien ou moins bien, de repérer les bonnes pratiques à conserver et de définir de nouveaux modes de travail sur des dimensions comme l'efficacité ou l'animation du collectif.
+
+      L'amélioration des processus peut être réalisée de manière systématique en identifiant les points bloquants et en proposant des simplifications comme la dématérialisation de documents ou la suppression d'étapes redondantes.
+
+      Pour le suivi des activités, l'équipe peut adopter le management visuel qui consiste en un support participatif et accessible comme un tableau ou une plateforme digitale de suivi de projet telle que Plano.
+
+      La mise en œuvre de ce management visuel doit se faire de manière itérative en définissant d'abord un support, puis des rubriques prioritaires avant de tester le dispositif lors d'une réunion d'équipe.
+
+   B. Suivi de la feuille de route et des actions.
+
+      La feuille de route permet d'avoir une vision d'ensemble des actions définies pour améliorer les fonctionnements dans le cadre du travail mixte sur une période de trois mois.
+
+      Pour chaque thématique travaillée, les actions identifiées doivent être reportées dans le calendrier en précisant l'action, la date prévue pour sa réalisation et la personne qui s'en charge.
+
+      Le suivi de l'avancement des activités peut s'appuyer sur un tableau de suivi dans un document partagé avec des colonnes pour l'activité, la personne responsable, les actions réalisées et les actions à réaliser.
+
+      Il est essentiel de questionner régulièrement ses propres pratiques de travail pour évaluer l'efficacité, le bien-être et l'influence du mode mixte sur les relations avec le collectif de travail.
+
+   C. Intégration des nouveaux arrivants dans le mode mixte.
+
+      Les nouveaux arrivants, les stagiaires et les alternants doivent bénéficier d'une attention particulière lors de la mise en place du travail en mode mixte.
+
+      Leur niveau d'autonomie étant potentiellement moins élevé, le manager doit consacrer davantage de temps pour échanger avec eux lorsqu'ils sont à distance.
+
+      L'intégration réussie repose sur un accompagnement spécifique pour permettre aux nouveaux membres de comprendre les règles du jeu et les modalités de fonctionnement de l'équipe.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre le télétravail avec une simple question d'outils digitaux car il impacte aussi l'organisation et le bien-être.
+
+      Le management par objectifs ne doit pas être confondu avec un contrôle excessif des activités des collaborateurs.
+
+      Il est important de nuancer la notion d'autonomie car elle n'est pas figée et peut évoluer avec l'expérience de l'agent.
+
+      La communication à distance ne doit pas se limiter aux échanges écrits pour éviter de perdre la dimension relationnelle.
+
+      Le rôle du manager ne se limite pas à l'encadrement puisque chaque membre de l'équipe est acteur de la cohésion collective.
+
+EXEMPLES CITÉS.
+
+      L'utilisation de l'outil Pix permet aux agents d'évaluer et de certifier leurs compétences numériques.
+
+      Pour organiser des réunions efficaces, il est conseillé de prévoir cinq à dix minutes de battement entre les sessions.
+
+      Le décret n° deux mille seize-cent cinquante et un du onze février deux mille seize fixe les conditions et modalités de mise en œuvre du télétravail dans la fonction publique.
+
+      Un management visuel peut utiliser des stickers verts ou rouges pour signaler un succès ou une alerte.
+
+      La méthode SMART pour fixer des objectifs doit garantir qu'ils soient simples, mesurables, acceptables, réalistes et temporels.

@@ -1,0 +1,241 @@
+GUIDE PRATIQUE DES PROCÉDURES RELATIVES AUX ACCIDENTS DE SERVICE ET MALADIES PROFESSIONNELLES.
+
+LEXIQUE COMPLET.
+
+      Le sigle ASMP désigne le régime de réparation des accidents de service, des accidents de trajet et des maladies professionnelles.
+
+      Le terme agent désigne les fonctionnaires titulaires ou stagiaires de la fonction publique de l'État ainsi que les magistrats de l'ordre administratif et judiciaire.
+
+      Le sigle CITIS désigne le congé pour invalidité temporaire imputable au service.
+
+      La notion d'accident de service désigne un événement soudain survenu dans le temps et le lieu du service ou lors d'une activité constituant le prolongement normal des fonctions.
+
+      L'accident de trajet désigne un accident qui se produit sur le parcours habituel entre le lieu de travail et la résidence ou le lieu de restauration pendant la durée normale du trajet.
+
+      La maladie professionnelle désigne une affection résultant d'une exposition prolongée à un risque professionnel ou d'une intoxication lente sous l'effet de substances ou d'émanations.
+
+      Le médecin agréé désigne le médecin chargé des expertises médicales et des contre-visites.
+
+      La commission de réforme désigne l'instance médicale consultative sollicitée dans certaines situations pour émettre un avis sur l'imputabilité au service.
+
+      Le médecin de prévention désigne le médecin du service de médecine de prévention défini par les articles dix et onze du décret n° quatre-vingt-deux-quatre cent cinquante-trois du vingt-huit mai mille neuf cent quatre-vingt-deux.
+
+      Le taux d'incapacité permanente de vingt-cinq pour cent désigne le seuil fixé par l'article R. quatre cent soixante et un-huit du code de la sécurité sociale pour la reconnaissance d'une maladie hors tableaux.
+
+COURS DÉTAILLÉ.
+
+I. INTRODUCTION ET CADRE RÉGLEMENTAIRE.
+
+   A. Objet du guide et acteurs de la procédure.
+
+      Le présent guide a pour objet de présenter le régime de réparation des accidents de service, des accidents de trajet et des maladies professionnelles, désignés par le sigle ASMP.
+
+      Ce document s'adresse aux administrations ainsi qu'aux agents acteurs intervenant dans la chaîne de traitement des dossiers ASMP des fonctionnaires.
+
+      Il apporte des explicitations et des préconisations concernant la mise en œuvre du congé pour invalidité temporaire imputable au service et le remboursement des frais médicaux.
+
+      L'agent est défini comme un fonctionnaire titulaire ou stagiaire de la fonction publique de l'État ou un magistrat de l'ordre administratif et judiciaire.
+
+      Le service RH peut être un service de proximité ou un service de gestion des ASMP selon l'organisation du département ministériel.
+
+      Les autres acteurs incluent le médecin de prévention, le supérieur hiérarchique de premier niveau, le médecin agréé pour les expertises et la commission de réforme.
+
+   B. Textes de référence et champ d'application.
+
+      Le régime s'applique aux fonctionnaires titulaires ou stagiaires de l'État ainsi qu'aux magistrats de l'ordre judiciaire.
+
+      Le guide s'appuie sur la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois, notamment son article vingt et un bis, et sur le code des pensions civiles et militaires de retraite.
+
+      Plusieurs décrets encadrent la procédure, comme le décret n° quatre-vingt-six-quatre cent quarante-deux du quatorze mars mille neuf cent quatre-vingt-six relatif aux médecins agréés et au régime de congés de maladie.
+
+      Le décret n° deux mille dix-neuf cent quatre-vingt-dix-sept du vingt-six août deux mille dix précise le régime de maintien des primes et indemnités des agents publics et des magistrats.
+
+      Le guide ne traite pas de la politique de prévention des risques professionnels ni de l'indemnisation de l'incapacité permanente ou de l'invalidité définitive.
+
+      L'article soixante-huit de l'ordonnance n° cinquante-huit-mille deux cent soixante-dix du vingt-deux décembre mille neuf cent cinquante-huit précise que les dispositions du statut général s'appliquent aux magistrats en l'absence de dérogation.
+
+II. TYPOLOGIE DES ACCIDENTS ET DES MALADIES PROFESSIONNELLES.
+
+   A. Accidents de service et cas du télétravail.
+
+      Un accident se définit par l'apparition d'un événement soudain qui entraîne une atteinte à l'état de santé de la victime. Il doit présenter un fait déterminé et datable, un caractère soudain et une atteinte à la santé.
+
+      L'accident est présumé imputable au service s'il survient dans le temps et le lieu du service, dans l'exercice ou à l'occasion de l'exercice des fonctions. L'agent n'a alors pas à prouver le lien de causalité mais doit établir la matérialité des faits.
+
+      Le régime de présomption s'applique aussi aux activités constituant le prolongement normal des fonctions en dehors du temps ou du lieu de service. Cela inclut les missions, les formations, les réunions ou l'exercice d'un mandat syndical.
+
+      En situation de télétravail, les agents bénéficient des mêmes droits que sur leur lieu d'affectation selon l'article six du décret n° deux mille seize-cent cinquante et un du onze février deux mille seize. Les accidents relèvent de l'accident de service s'ils surviennent pendant les heures et dans le cadre des fonctions de télétravail.
+
+   B. Accidents de trajet et itinéraire protégé.
+
+      L'accident de trajet se produit sur le parcours habituel entre le lieu de service et la résidence ou le lieu de restauration. Contrairement à l'accident de service, il ne bénéficie pas de la présomption d'imputabilité et nécessite une preuve de l'agent.
+
+      L'itinéraire est considéré comme protégé dès que l'agent quitte son domicile pour rejoindre son travail. Les détours sont autorisés s'ils répondent à des nécessités de la vie courante comme le dépôt d'enfants en crèche ou le passage à la boulangerie.
+
+      Le point de départ peut être le domicile, la résidence secondaire ou la résidence habituelle de l'agent. Le point d'arrivée est le lieu de travail de l'agent le jour de l'accident.
+
+      Pour les agents en télétravail, l'accident de trajet est reconnu entre le domicile et le lieu de télétravail s'ils sont différents. Il est aussi reconnu lors d'un retour exceptionnel au service ou entre le lieu de télétravail et le lieu de restauration habituel.
+
+      L'imputabilité est exclue si un fait personnel de l'agent ou une circonstance étrangère aux nécessités de la vie courante détache l'accident du service. Les accidents survenant durant les périodes d'interruption du trajet, comme au sein d'une crèche, ne sont pas des accidents de trajet.
+
+   C. Maladies professionnelles des tableaux et hors tableaux.
+
+      Les maladies professionnelles résultent d'une exposition prolongée à un risque ou d'une intoxication lente par des substances habituelles. Elles se distinguent des accidents par l'absence d'événement soudain et datable.
+
+      Les maladies des tableaux sont celles inscrites au code de la sécurité sociale et bénéficient de la présomption d'imputabilité. L'agent doit cependant vérifier que les conditions de délai de prise en charge, de durée d'exposition et de liste de travaux sont remplies.
+
+      Si une condition des tableaux n'est pas respectée, la maladie peut être reconnue imputable si l'agent prouve qu'elle est directement causée par ses fonctions. L'agent doit alors apporter la preuve du lien avec son activité professionnelle.
+
+      Les maladies hors tableaux ne bénéficient pas de la présomption d'imputabilité. Elles peuvent être reconnues si elles sont essentiellement et directement causées par l'exercice des fonctions et entraînent une incapacité permanente d'un taux au moins égal à vingt-cinq pour cent.
+
+      Ce taux d'incapacité est déterminé par la commission de réforme selon le barème indicatif d'invalidité. Si le taux prévisible est inférieur à vingt-cinq pour cent, la maladie n'est pas reconnue imputable au service et l'agent n'est pas placé en CITIS.
+
+III. PREMIERS RÉFLEXES ET DÉMARCHES DE L'AGENT.
+
+   A. Prise en charge médicale et information du service RH.
+
+      Lorsqu'un accident survient sur le lieu du service, la priorité est de s'assurer que la victime reçoit les soins nécessaires en faisant appel si besoin au SAMU ou aux pompiers.
+
+      Il convient simultanément de faire cesser tout danger pouvant entraîner un autre accident, comme l'arrêt d'une machine ou la coupure de l'électricité.
+
+      La victime ou, si elle n'est pas en capacité de le faire, son supérieur hiérarchique direct ou un ayant-droit doit informer le service RH de la survenance de l'accident.
+
+      En cas de maladie professionnelle, l'agent malade ou son ayant-droit informe directement le service RH de sa situation.
+
+      Le service RH a pour mission d'informer l'agent de ses droits et des démarches pour demander un congé pour invalidité temporaire imputable au service, appelé CITIS.
+
+   B. Formalités de déclaration et pièces justificatives.
+
+      Pour formaliser sa demande de CITIS, l'agent doit adresser à son administration une déclaration d'accident de service, de trajet ou de maladie professionnelle accompagnée des pièces nécessaires.
+
+      La déclaration doit obligatoirement comporter un formulaire précisant les circonstances et un certificat médical décrivant la nature, le siège des lésions et la durée probable de l'incapacité.
+
+      Si l'agent utilise un certificat médical autre que le formulaire cerfa n° onze mille cent trente-huit, il doit y joindre un certificat complémentaire précisant la nature et le siège des lésions.
+
+      Des pièces complémentaires comme un plan du trajet, des témoignages, des photographies ou un rapport de police peuvent être jointes selon les circonstances de l'événement.
+
+      Pour les maladies professionnelles, les examens médicaux permettant de caractériser la maladie doivent être joints à la déclaration sous pli confidentiel avec la mention secret médical.
+
+   C. Délais de déclaration et de transmission de l'arrêt de travail.
+
+      La déclaration d'un accident de service ou de trajet doit être adressée à l'administration dans le délai de quinze jours à compter de la date de l'accident.
+
+      Si l'impact de l'accident n'est pas décelé immédiatement, l'agent dispose de deux ans pour déclarer l'événement, mais doit le faire dans les quinze jours suivant la constatation médicale.
+
+      La déclaration de maladie professionnelle doit parvenir à l'administration dans un délai de deux ans à compter de la première constatation médicale ou de l'information sur le lien avec le travail.
+
+      En cas d'arrêt de travail, l'agent doit transmettre son certificat médical à l'administration dans les quarante-huit heures suivant son établissement.
+
+      Le non-respect du délai de quarante-huit heures pour l'envoi de l'arrêt de travail peut entraîner une réduction de moitié de la rémunération pour la période de retard.
+
+IV. ACTIONS DE L'EMPLOYEUR POUR L'OCTROI DU CONGÉ.
+
+   A. Contrôle des délais et enquête administrative.
+
+      Le service RH effectue le décompte des délais selon les principes des articles six cent quarante et un et six cent quarante-deux du code de procédure civile. La date de référence est celle de l'envoi par courrier ou de la remise de la déclaration au service RH.
+
+      Si l'agent ne respecte pas les délais sans justifier d'un cas de force majeure, d'une impossibilité absolue ou de motifs légitimes, l'administration adresse une décision de rejet motivée. Cette décision doit préciser l'article quarante-sept-trois du décret n° quatre-vingt-six-quatre cent quarante-deux du quatorze mars mille neuf cent quatre-vingt-six et les dates retenues pour le calcul.
+
+      L'administration peut diligenter une enquête administrative pour établir la matérialité des faits et les circonstances de l'accident ou de la maladie. Cette enquête vise à vérifier le lieu, le temps, l'activité ou l'absence de faute personnelle.
+
+      Pour les accidents de trajet, l'enquête vérifie que l'événement est survenu sur le parcours habituel et pendant la durée normale du trajet. Elle doit également confirmer l'absence de fait personnel ou de circonstance étrangère aux nécessités de la vie courante.
+
+      Dans le cas des maladies professionnelles, l'enquête cherche à établir si l'affection est directement causée par l'exercice des fonctions. Pour les maladies hors tableaux, elle vérifie qu'elles entraînent une incapacité permanente d'un taux au moins égal à vingt-cinq pour cent.
+
+   B. Rôle du supérieur hiérarchique et du médecin de prévention.
+
+      Le supérieur hiérarchique n'intervient pas dans la transmission de la déclaration qui est adressée directement au service RH. Il est toutefois informé de la survenance de l'accident ou de la maladie concernant son périmètre.
+
+      Le supérieur hiérarchique peut être sollicité pour fournir un rapport d'activité décrivant les tâches habituelles ou pour apporter des précisions sur les circonstances. Il ne lui appartient pas de se prononcer sur l'imputabilité au service.
+
+      Le médecin de prévention reçoit copie de toutes les déclarations de maladie professionnelle et des déclarations d'accident imputables au service. Il établit si la maladie satisfait aux critères des tableaux du code de la sécurité sociale.
+
+      Si la maladie ne satisfait pas aux critères ou si les éléments sont insuffisants, le médecin de prévention rédige un rapport pour la commission de réforme. Il peut également recevoir l'agent pour obtenir des informations complémentaires.
+
+   C. Expertise médicale et saisine de la commission de réforme.
+
+      L'administration peut faire procéder à une expertise médicale par un médecin agréé lorsque des circonstances particulières pourraient détacher l'accident du service. Pour les accidents de trajet, elle peut l'utiliser pour vérifier le lien entre les lésions et l'accident.
+
+      En cas de maladie professionnelle non inscrite aux tableaux, l'expertise médicale est nécessaire pour déterminer si l'affection est essentiellement et directement causée par les fonctions. Elle sert aussi à évaluer si le taux d'incapacité est au moins de vingt-cinq pour cent.
+
+      La commission de réforme est consultée lorsque l'administration envisage de ne pas reconnaître l'imputabilité en raison d'une faute personnelle ou d'un fait personnel. Elle est également saisie pour les maladies professionnelles ne remplissant pas les conditions des tableaux.
+
+      La commission de réforme détermine le taux minimum d'incapacité permanente pour les maladies hors tableaux et émet un avis sur l'imputabilité. L'avis de la commission n'est pas contraignant pour l'administration, mais le secrétariat doit en informer le service si la décision diffère.
+
+   D. Délais d'instruction et placement provisoire en CITIS.
+
+      L'administration dispose d'un délai d'un mois pour les accidents de service ou de trajet et de deux mois pour les maladies professionnelles. Ce délai court à compter de la réception de la déclaration et du certificat médical.
+
+      Un délai supplémentaire de trois mois peut s'ajouter en cas d'enquête administrative, d'examen par un médecin agréé ou de saisine de la commission de réforme. Ce délai supplémentaire ne peut jamais excéder trois mois.
+
+      Si l'instruction n'est pas terminée au terme des délais, l'agent est placé en congé pour invalidité temporaire imputable au service à titre provisoire. Ce placement est notifié par arrêté et couvre la période indiquée sur le certificat médical.
+
+      Le placement en CITIS provisoire permet à l'agent de conserver l'intégralité de son traitement et le remboursement de ses frais médicaux. Toutefois, si l'imputabilité est finalement refusée, l'administration procède au reversement des sommes indûment versées.
+
+V. DÉCISION DE L'EMPLOYEUR ET CONSÉQUENCES POUR L'AGENT.
+
+   A. Procédure de refus et de reconnaissance d'imputabilité.
+
+      L'administration se prononce sur l'imputabilité au service au terme de l'instruction et notifie sa décision à l'agent en l'informant des voies et délais de recours.
+
+      En cas de refus, la décision doit être motivée par des considérations de droit et de fait conformément au Code des relations entre le public et l'administration.
+
+      Si l'agent a bénéficié d'un placement en CITIS provisoire, le refus entraîne le retrait de cette décision et la régularisation de sa situation en congé pour raisons de santé.
+
+      Le refus de reconnaissance impose alors à l'agent de reverser les sommes indûment perçues, l'administration pouvant toutefois proposer un étalement de la dette.
+
+      Lorsqu'elle reconnaît l'imputabilité, l'administration place l'agent en CITIS pour la durée de l'arrêt de travail et régularise ses congés à compter du premier jour du congé de maladie initial.
+
+      La décision de reconnaissance n'a pas à être motivée mais doit préciser la période de placement et les modalités de maintien de la rémunération.
+
+   B. Droits et maintien de la rémunération en CITIS.
+
+      L'agent bénéficie de l'intégralité de son traitement jusqu'à ce qu'il soit en état de reprendre son service ou jusqu'à sa mise à la retraite.
+
+      Le maintien de la rémunération inclut également l'indemnité de résidence, le supplément familial de traitement ainsi que les avantages familiaux.
+
+      Conformément au décret n° deux mille dix-neuf cent quatre-vingt-dix-sept du vingt-six août deux mille dix, les primes et indemnités sont maintenues dans les mêmes proportions que le traitement.
+
+      En cas de maladie hors tableaux, la reconnaissance de l'imputabilité est conditionnée à une incapacité permanente d'un taux au moins égal à vingt-cinq pour cent.
+
+      Le placement en CITIS à titre provisoire produit les mêmes effets en termes de rémunération que le placement définitif.
+
+   C. Prise en charge des frais médicaux et voies de recours.
+
+      L'agent a droit au remboursement des honoraires médicaux et des frais directement entraînés par l'accident ou la maladie reconnue imputable au service.
+
+      La prise en charge est effective dès la décision de placement et couvre les frais engagés même durant l'attente de la décision administrative.
+
+      Les soins pris en charge doivent être rattachés aux conséquences de l'accident ou de la maladie et être directement liés à leur traitement.
+
+      La prise en charge des frais se poursuit jusqu'à la guérison de l'agent, y compris après sa reprise de fonctions.
+
+      La décision de l'employeur peut faire l'objet d'un recours administratif gracieux ou hiérarchique.
+
+      Un recours contentieux peut également être exercé auprès d'un tribunal administratif.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre l'accident de service qui bénéficie d'une présomption d'imputabilité avec l'accident de trajet qui nécessite une preuve de l'agent.
+
+      La maladie professionnelle hors tableaux n'est pas présumée d'origine professionnelle et exige que l'agent prouve qu'elle est essentiellement et directement causée par ses fonctions.
+
+      Une distinction majeure existe entre le délai de déclaration de l'accident qui est de quinze jours et le délai de transmission de l'arrêt de travail qui est de quarante-huit heures.
+
+      Le non respect du délai de quarante-huit heures pour l'envoi de l'arrêt de travail peut entraîner une réduction de moitié de la rémunération pour la période de retard.
+
+      Pour les maladies hors tableaux, l'imputabilité n'est reconnue que si l'incapacité permanente est d'un taux au moins égal à vingt-cinq pour cent.
+
+      Le placement en CITIS à titre provisoire est une mesure exceptionnelle qui peut être retirée et donner lieu à un remboursement des sommes versées si l'imputabilité est finalement refusée.
+
+EXEMPLES CITÉS.
+
+      Un agent qui chute sans douleur immédiate peut déclarer son accident dans les quinze jours suivant la constatation médicale de son entorse, même si celle-ci survient trois semaines après la chute.
+
+      Le taux d'incapacité permanente pour une maladie non inscrite aux tableaux doit être au moins égal à vingt-cinq pour cent selon l'article R. quatre cent soixante et un-huit du code de la sécurité sociale.
+
+      L'administration dispose d'un délai d'instruction de un mois pour un accident de service et de deux mois pour une maladie professionnelle dès réception du dossier complet.
+
+      Un délai supplémentaire de trois mois peut s'ajouter au délai d'instruction initial en cas d'enquête administrative, d'expertise médicale ou de saisine de la commission de réforme.
+
+      Un agent atteint d'un cancer de la vessie exposé à des colorants pendant au moins cinq ans bénéficie de la présomption d'imputabilité sans avoir à fournir de preuve.
