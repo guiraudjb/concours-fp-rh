@@ -1,0 +1,3 @@
+# Tout le dossier du jeu est versionné (data/ et tts_assets/cache/ compris :
+# source unique du jeu Batocera ET de la page web). Seul le bytecode est exclu.
+__pycache__/
