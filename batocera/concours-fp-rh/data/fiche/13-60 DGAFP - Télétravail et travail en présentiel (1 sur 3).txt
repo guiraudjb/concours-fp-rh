@@ -1,0 +1,289 @@
+GUIDE COMPLET SUR L'ORGANISATION ET LA PRATIQUE DES MODES DE TRAVAIL MIXTES.
+
+LEXIQUE COMPLET.
+
+      Le télétravail désigne une modalité d'organisation du travail qui permet d'exercer ses missions à distance plutôt qu'en présentiel.
+
+      Le mode de travail mixte désigne une organisation qui alterne les activités en présentiel et les activités à distance.
+
+      Le sigle SMART désigne une méthode permettant d'améliorer les objectifs en les rendant simples, mesurables, acceptables, réalistes et temporels.
+
+      Le sigle DITP désigne l'organisme ayant réalisé ce guide en collaboration avec la DGAFP.
+
+      Le sigle DGAFP désigne l'organisme ayant participé à la réalisation de ce document sur les modes de travail.
+
+      Le sigle DINUM désigne la direction interministérielle du numérique qui recommande certains outils numériques.
+
+      Le sigle DNUM désigne la direction du numérique vers laquelle les agents peuvent se rapprocher pour connaître l'offre de service ministérielle.
+
+      L'outil Tchap désigne la messagerie instantanée de l'État utilisée pour échanger en privé ou en groupe.
+
+      L'outil Resana désigne la plateforme collaborative permettant de stocker, partager et coéditer des documents.
+
+      L'outil Pix désigne un service public en ligne permettant d'évaluer, développer et certifier les compétences numériques.
+
+      Le décret n° deux mille seize-cent cinquante et un du onze février deux mille seize désigne le texte relatif aux conditions et modalités de mise en œuvre du télétravail dans la fonction publique et la magistrature.
+
+      Les risques psychosociaux désignent des risques tels que l'isolement social ou professionnel et les difficultés liées à la gestion du temps.
+
+COURS DÉTAILLÉ.
+
+I. FONDAMENTAUX ET ENJEUX DU TRAVAIL HYBRIDE.
+
+   A. Transformation des modes de travail et rôles des acteurs.
+
+      Depuis le début de la crise sanitaire, l'organisation et les modes du travail se sont profondément transformés.
+
+      De plus en plus d'agents ont aujourd'hui régulièrement recours au télétravail et de nombreuses équipes travaillent désormais simultanément en présentiel et à distance.
+
+      Ces évolutions impactent tous les champs du travail, notamment les outils, les équipements, l'organisation et la manière de travailler ensemble.
+
+      Les managers et les agents ont tous un rôle à jouer pour rendre ces modes de travail efficaces, tant au niveau individuel que dans la vie du collectif.
+
+      Le manager agit en tant qu'animateur d'un collectif et dans sa relation interpersonnelle avec ses collaborateurs, tandis que chaque agent est acteur de ses propres pratiques de travail.
+
+   B. Déconstruction des idées reçues sur le télétravail.
+
+      Le télétravail n'est pas seulement une question d'outils digitaux car les modes de travail mixtes ont des impacts sur tous les modes de fonctionnement.
+
+      L'organisation des modes de travail mixtes ne concerne pas uniquement les managers puisque tous les agents ont un rôle à jouer.
+
+      Un manager peut télétravailler au même titre que son équipe à condition de clarifier les modes de fonctionnement avec ses collaborateurs et ses responsables.
+
+      Le télétravail est un sujet collectif qui nécessite aussi un dialogue social concerté avec les organisations syndicales.
+
+      Toutes les activités ne sont pas réalisables en télétravail car certaines missions de service public ne le permettent pas.
+
+      Le télétravail n'est pas un sujet technique qui se traite une fois pour toutes mais un levier de transformation qui s'ancre dans une démarche d'amélioration continue.
+
+   C. Cadre réglementaire et démarche d'amélioration continue.
+
+      Le télétravail s'exerce dans le cadre de la réglementation applicable, notamment le décret n° deux mille seize-cent cinquante et un du onze février deux mille seize relatif aux conditions et modalités de mise en œuvre du télétravail dans la fonction publique et la magistrature.
+
+      Le passage au mode mixte est une occasion de remettre sur la table les processus, les rituels de l'équipe et les modes de fonctionnement pour les améliorer.
+
+      Le télétravail nécessite de repenser l'organisation des activités et peut servir de levier pour améliorer les modes de fonctionnement.
+
+      La mise en œuvre du télétravail doit faire l'objet d'un bilan annuel destiné aux comités sociaux compétents pour les questions d'hygiène, de sécurité et de conditions de travail.
+
+II. ORGANISATION ET EFFICACITÉ DE L'ACTIVITÉ.
+
+   A. Management par objectifs et méthode SMART.
+
+      Le management par objectifs vise à dépasser la logique de contrôle pour instaurer une relation de confiance et favoriser l'autonomie ainsi que la prise d'initiative.
+
+      Cette approche nécessite de fixer des objectifs d'ensemble qui donnent du sens au travail et de les mettre en perspective avec les objectifs de l'équipe.
+
+      Pour être efficaces, les objectifs doivent respecter la règle SMART, signifiant qu'ils sont simples, mesurables, acceptables par rapport à la fonction occupée, réalistes et temporels avec une échéance.
+
+      Le manager doit fixer des objectifs à court-terme dès que cela est possible et accorder sa confiance a priori tout en accompagnant ses collaborateurs dans leur organisation.
+
+   B. Identification des activités éligibles au télétravail.
+
+      L'identification des activités éligibles au télétravail peut s'appuyer sur deux approches, soit une analyse par critères d'éligibilité des tâches, soit une liste précise de tâches éligibles ou non.
+
+      L'approche par critères consiste à partir du principe que toutes les activités sont a priori réalisables à distance pour ensuite définir les exceptions.
+
+      Les activités non réalisables incluent l'accueil physique du public, les missions avec des contraintes de matériels spécifiques, un faible niveau de dématérialisation ou la nécessité de déplacements.
+
+      Il est recommandé de collaborer avec les agents pour identifier les freins à la réalisation des missions à distance et chercher à les lever.
+
+   C. Simplification et adaptation des processus métier.
+
+      Le passage au mode de travail mixte est l'occasion de repenser les processus de décision ou les processus métier pour les rendre compatibles avec le télétravail.
+
+      La simplification consiste à supprimer les étapes redondantes et les visas non décisionnels tout en sécurisant les étapes clés comme les points de vérification ou de validation.
+
+      Le manager doit identifier les processus qui doivent évoluer, informer les collaborateurs des nouveaux usages et les accompagner dans leur montée en compétence.
+
+      L'adoption de nouveaux processus peut nécessiter l'utilisation de la signature électronique ou d'autres outils pour faciliter la coopération entre les équipes.
+
+   D. Suivi de l'activité et culture de la confiance.
+
+      Travailler à distance invite à dépasser le contrôle pour instaurer une dynamique de confiance et de responsabilisation mutuelle.
+
+      Le manager doit donner de la visibilité sur les activités en partageant les objectifs collectifs et en mettant en place des outils de suivi accessibles en ligne.
+
+      Des rituels d'équipe comme un point quotidien en audioconférence ou un tour de table hebdomadaire permettent de donner de la visibilité sur les avancées.
+
+      En tant qu'acteur, l'agent doit communiquer davantage qu'en présentiel sur l'avancée de son travail et rendre compte de ses réussites comme de ses difficultés.
+
+      Le manager doit également définir avec ses collaborateurs les modalités de suivi, telles que la fréquence et le mode de communication, pour éviter de les sur-solliciter.
+
+III. ANIMATION DU COLLECTIF ET COMMUNICATION.
+
+   A. Gestion de la cohésion et des temps informels.
+
+      Le manager joue un rôle clé pour recréer des temps collectifs essentiels à la cohésion de l'équipe. Ces interactions, souvent impromptues, renforcent la relation de travail et la créativité.
+
+      Les temps informels peuvent prendre la forme d'un simple appel téléphonique, d'une discussion sur la messagerie instantanée ou d'une pause-café en visioconférence. Il est important de les ritualiser ou de les laisser spontanés selon les besoins du groupe.
+
+      Pour maintenir le lien, le manager doit se rendre disponible pendant les heures de travail et partager son calendrier de télétravail. Il doit également organiser des temps d'échange en bilatéral pour prendre des nouvelles des collaborateurs sans parler uniquement de travail.
+
+      Les membres du collectif peuvent aussi prendre l'initiative de proposer des moments de convivialité. Participer activement aux temps informels proposés est une manière de maintenir le lien même lorsqu'on est à distance.
+
+   B. Règles de communication et choix des canaux.
+
+      Le manager définit avec son équipe les règles du jeu pour faciliter la circulation d'une information utile. Ces règles peuvent être formalisées sous la forme d'une charte pour préciser les sujets, la fréquence et les canaux adaptés.
+
+      Le choix du canal de communication doit être fait avec précaution en fonction de la nature et de l'urgence de la demande. Un échange rapide et court avec plusieurs personnes privilégie la messagerie instantanée, tandis qu'un sujet de fond nécessite un mail.
+
+      Pour les conseils délicats ou les sujets nécessitant de la convivialité, l'appel téléphonique est préférable. Si une rencontre en face à face est possible pour un retour sur le travail, elle doit être privilégiée.
+
+      Le manager doit veiller à transmettre le même niveau d'information minimum à tous les membres de l'équipe. Cela permet de prévenir le sentiment d'isolement et de préserver le sentiment d'appartenance, que les agents soient en présentiel ou en télétravail.
+
+   C. Organisation de réunions efficaces en mode mixte.
+
+      Les réunions efficaces en mode mixte ou à distance nécessitent une préparation rigoureuse avec un ordre du jour clair. L'organisateur doit identifier le meilleur outil, comme la Webconférence de l'État, et prévoir cinq à dix minutes de battement pour la connexion.
+
+      Il est crucial de donner la parole à tous les participants, y compris ceux qui sont à distance. En réunion mixte, l'animateur doit veiller à ce que les personnes en visioconférence ne soient pas oubliées par rapport à celles présentes physiquement.
+
+      Les réunions doivent être courtes et comporter des points de sortie décisionnels. Une fois la connexion coupée avec les personnes à distance, il ne faut pas continuer la réunion uniquement avec les présents.
+
+      Le suivi est une étape indispensable qui passe par l'envoi d'un compte-rendu synthétique ou la formalisation des principaux messages. L'utilisation d'un support à partager et la reformulation des décisions prises garantissent la réussite de l'échange.
+
+   D. Pratique du feedback et des retours constructifs.
+
+      Le feedback est un outil essentiel pour maintenir le lien et la confiance, surtout quand les membres se voient moins souvent. Il doit être intégré au quotidien pour valoriser les réussites ou comprendre les difficultés rencontrées.
+
+      Un retour constructif doit reposer sur des éléments factuels en distinguant les faits des interprétations ou des émotions. Il est conseillé de privilégier un échange de vive voix plutôt qu'un écrit pour éviter les malentendus.
+
+      Pour réussir cet exercice, il faut éviter les retours à chaud sous le coup de l'émotion, tout en ne laissant pas trop de temps passer. L'échange doit se dérouler dans un endroit neutre et viser une compréhension partagée de la situation.
+
+      La réciprocité est fondamentale car l'objectif est d'imaginer ensemble une solution satisfaisante. Les agents et les managers doivent être capables de solliciter des retours sur leurs propres pratiques pour progresser.
+
+IV. BIEN-ÊTRE ET GESTION DES RISQUES AU TRAVAIL.
+
+   A. Prévention de l'isolement et des risques psychosociaux.
+
+      Le manager exerce une vigilance particulière sur le risque de mise à l'écart et d'isolement des agents en télétravail.
+
+      Il doit réunir régulièrement l'ensemble de son équipe physiquement pour maintenir le lien collectif.
+
+      Les risques psychosociaux se manifestent par des symptômes émotionnels comme la nervosité, l'angoisse ou la tristesse.
+
+      Les symptômes intellectuels incluent des troubles de la concentration, de la mémoire ou des difficultés à prendre des décisions.
+
+      Des symptômes physiques tels que des douleurs musculaires, des troubles du sommeil ou des maux de tête peuvent également apparaître.
+
+      Si un agent reconnaît ces symptômes chez lui ou chez un collègue, il doit alerter son manager ou son responsable RH.
+
+   B. Équilibre entre vie professionnelle et vie personnelle.
+
+      La limite entre le temps de travail et le temps personnel a tendance à devenir floue lors du travail à distance.
+
+      Il est important de bien marquer cette séparation en utilisant des rituels comme le fait de ranger ses affaires à la fin de la journée.
+
+      Le manager doit veiller au respect des temps de repos et de congé de ses collaborateurs.
+
+      Il doit informer les agents que le fait d'être joignable ne signifie pas l'obligation de répondre immédiatement à toute sollicitation.
+
+      Le manager doit s'assurer que ses collaborateurs ne travaillent pas en dehors des heures prévues en étant vigilant sur l'heure d'envoi des messages.
+
+   C. Aménagement de l'espace et santé physique.
+
+      Il est nécessaire de créer un environnement propice au travail hors les murs en aménageant un espace dédié ou isolé.
+
+      La vigilance doit porter sur les troubles musculo-squelettiques en veillant à la posture adoptée.
+
+      Il convient de positionner son écran et son clavier à des distances appropriées.
+
+      Il est recommandé d'alterner les positions debout et assises et de faire des pauses pour délier les jambes.
+
+      Il est également conseillé d'éloigner régulièrement ses yeux de l'écran pour préserver sa santé.
+
+V. OUTILS NUMÉRIQUES ET MONTÉE EN COMPÉTENCES.
+
+   A. Sélection et usage des outils collaboratifs.
+
+      L'identification des outils doit viser à faciliter les interactions et les réunions efficaces sans pour autant multiplier les solutions inutilement.
+
+      Il est essentiel de choisir le canal de communication en fonction de la nature du sujet et du besoin de l'interlocuteur.
+
+      La messagerie instantanée comme Tchap est recommandée pour les échanges privés à deux ou en groupe ainsi que pour le partage de fichiers.
+
+      Le service de Webconférence de l'État permet d'organiser des réunions, des formations ou des webinaires avec un tchat intégré et de l'édition collaborative.
+
+      La plateforme Resana est destinée au stockage, au partage et à la coédition de documents ainsi qu'au pilotage de projets.
+
+      L'espace collaboratif Osmose permet de créer des communautés professionnelles pour partager des contenus et planifier des réunions.
+
+   B. Accompagnement à la dématérialisation.
+
+      La dématérialisation des documents est un levier pour faciliter le travail en mode mixte et le développement du télétravail.
+
+      Les agents doivent contribuer activement à ces démarches en faisant remonter leurs besoins spécifiques pour orienter les travaux.
+
+      Le recours systématique à un serveur commun pour stocker les fichiers est une démarche simple pour améliorer la collaboration.
+
+      En cas de nécessité de transporter des documents physiques, l'agent doit impérativement veiller à leur confidentialité et à leur sécurité.
+
+      Le manager a la responsabilité d'identifier les besoins de son équipe en équipements pour couvrir les nouveaux usages numériques.
+
+   C. Évaluation et développement des compétences numériques.
+
+      Le manager doit s'assurer que ses collaborateurs maîtrisent les outils à leur disposition et les orienter vers des formations ou des livrets de formation.
+
+      La nomination d'ambassadeurs au sein de l'équipe peut aider à répondre aux difficultés rencontrées par les collègues.
+
+      L'outil Pix est un service public en ligne qui permet d'évaluer, de développer et de certifier ses compétences numériques.
+
+      Les agents peuvent également se rapprocher de la direction du numérique pour connaître l'offre de service ministérielle.
+
+      L'agent est encouragé à signaler ses besoins en matériel ou en formations pour rester opérationnel à distance.
+
+VI. MÉTHODOLOGIE DE MISE EN ŒUVRE ET D'AMÉLIORATION.
+
+   A. Démarche de mise en place pour les managers et agents.
+
+      Le manager doit d'abord prendre connaissance du document-cadre de sa structure pour organiser le télétravail de son équipe. Il pilote la réflexion collective sur l'organisation du travail en identifiant avec ses collaborateurs les activités éligibles ou non au travail à distance.
+
+      L'agent est responsable des activités qui lui sont confiées et doit organiser son temps de travail pour réaliser les missions prévues. Il est encouragé à communiquer son calendrier de télétravail et à renseigner son agenda partagé pour informer ses collègues.
+
+      Le manager instaure un management par objectifs pour développer l'autonomie et la confiance de ses collaborateurs. Il utilise la règle SMART pour fixer des objectifs simples, mesurables, acceptables, réalistes et temporels.
+
+      L'agent doit se rendre disponible pendant les heures de travail et communiquer plus que lors du travail en présentiel sur l'avancée de ses missions. Il doit également solliciter les ressources et les outils de son administration comme s'il était sur place.
+
+      La mise en œuvre s'exerce dans le cadre de la réglementation applicable, notamment le décret n° deux mille seize-cent cinquante et un du onze février deux mille seize relatif aux conditions et modalités de mise en œuvre du télétravail dans la fonction publique et la magistrature.
+
+   B. Utilisation des animations d'équipe pour progresser.
+
+      Les animations sont conçues pour être réalisées en équipe lors de réunions d'une durée de 1h. Le processus prévoit quinze minutes pour choisir une question, trente minutes pour l'animation elle-même et quinze minutes pour compléter une feuille de route.
+
+      Le document propose douze fiches d'animations concrètes pour traiter différents enjeux comme les règles du jeu, les outils ou la communication. Ces fiches permettent d'identifier des marges de manœuvre et d'améliorer le fonctionnement collectif avec un investissement en temps limité.
+
+      Les équipes peuvent adopter une démarche systématique en traitant les questions de manière successive pour transformer leur culture de travail. Il est également possible de revenir régulièrement sur des thèmes déjà abordés pour évaluer l'évolution de la situation.
+
+      L'objectif final est de transformer les échanges en actions concrètes répertoriées dans un tableau incluant les actions, les échéances et les responsables. Cette démarche s'inscrit dans une dynamique d'amélioration continue des pratiques de travail mixte.
+
+   C. Intégration des nouveaux arrivants en mode hybride.
+
+      Les nouveaux arrivants, les stagiaires et les alternants nécessitent une attention particulière en raison de leur niveau d'autonomie plus faible. Le manager doit consacrer davantage de temps à échanger avec eux, surtout lorsqu'ils travaillent à distance.
+
+      Le manager a la responsabilité essentielle de maintenir le lien avec tous ses collaborateurs, qu'ils soient en présentiel ou à distance. Il doit organiser des temps d'échange réguliers pour prendre des nouvelles et ne pas se limiter uniquement aux sujets professionnels.
+
+      Un référent peut être nommé au sein de l'équipe pour accompagner spécifiquement les nouveaux arrivants dans leur intégration. Cela permet de faciliter leur appropriation des outils et des modes de fonctionnement de l'équipe.
+
+      L'intégration réussie repose sur la capacité du manager à être disponible et à proposer des moments de convivialité ou des échanges bilatéraux. Ces interactions sont cruciales pour prévenir le sentiment d'isolement dès l'arrivée dans le collectif.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre le télétravail avec une simple question d'outils digitaux car il impacte aussi l'organisation et le bien-être.
+
+      Le management par objectifs ne doit pas être confondu avec une logique de contrôle mais doit viser la confiance et l'autonomie.
+
+      Le rôle de l'organisation ne repose pas uniquement sur les managers puisque chaque agent est acteur de ses propres pratiques.
+
+      Il est crucial de distinguer les faits réels des interprétations ou des émotions lors de la réalisation de retours constructifs.
+
+      Le télétravail n'est pas une solution universelle car certaines missions de service public ne sont pas compatibles avec le travail à distance.
+
+EXEMPLES CITÉS.
+
+      La méthode SMART permet de définir des objectifs simples, mesurables, acceptables, réalistes et temporels.
+
+      L'outil Pix est un service public en ligne qui permet d'évaluer et de certifier ses compétences numériques.
+
+      Le décret n° deux mille seize-cent cinquante et un du onze février deux mille seize fixe les conditions et modalités de mise en œuvre du télétravail dans la fonction publique.
+
+      Les outils numériques interministériels recommandés incluent Tchap pour la messagerie, la Webconférence de l'État pour les réunions et Resana pour le partage de documents.
