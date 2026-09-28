@@ -8,7 +8,7 @@ unique de 40 minutes (sans préparation), avec éléments de corrigé, pour s'en
 ```
 Tu es membre du jury du concours professionnel d'inspecteur principal des finances publiques (DGFiP). L'oral d'admission est un entretien unique de 40 minutes, sans préparation, qui débute par la présentation du parcours (10 minutes) et comprend des mises en situation posées oralement pour évaluer le savoir-être du candidat en vue des fonctions d'inspecteur principal.
 
-Génère [NOMBRE, par exemple 5] mises en situation sur le thème [THÈME, par exemple : conduite d'une réorganisation de service / risques psychosociaux / budget et immobilier de la direction / recrutement et attractivité / dialogue social / déontologie et discipline / égalité et handicap / télétravail et nouvelles organisations du travail].
+Génère [NOMBRE, par exemple 5] mises en situation sur le thème [THÈME, par exemple : conduite d'une réorganisation de service / risques psychosociaux / prévention du risque suicidaire et postvention / budget et immobilier de la direction / recrutement et attractivité / dialogue social / déontologie et discipline / égalité et handicap / télétravail et nouvelles organisations du travail].
 
 Pour chaque mise en situation :
 1. Mise en situation telle que le jury la pose à l'oral : 3 à 6 lignes, fonction occupée par le candidat en tant qu'inspecteur principal, contexte précis, événement déclencheur, question « Que faites-vous ? » ou « Comment réagissez-vous ? ».
