@@ -1,0 +1,309 @@
+GUIDE PRATIQUE SUR LA COMPRÉHENSION, L'ALERTE ET L'ACCOMPAGNEMENT DES VIOLENCES CONJUGALES ET INTRAFAMILIALES EN MILIEU PROFESSIONNEL.
+
+LEXIQUE COMPLET.
+
+      Le sigle MIPROF désigne la Mission interministérielle pour la protection des femmes contre les violences et la lutte contre la traite des êtres humains.
+
+      Le terme violences conjugales désigne des agressions verbales, psychologiques, physiques, sexuelles, administratives ou économiques commises par le conjoint ou l'ex-conjoint.
+
+      Le terme violences intrafamiliales désigne des agressions survenant au sein de la famille de la part d'un ascendant, d'un descendant ou d'un autre membre du cercle familial proche.
+
+      Le sigle CIDFF désigne les Centres d'Information sur les Droits des Femmes et des Familles qui sont des interlocuteurs de proximité pour les victimes.
+
+      Le sigle CGFP désigne le Code général de la fonction publique qui impose aux employeurs publics de mettre en place des dispositifs de signalement.
+
+      Le sigle TGD désigne le Téléphone Grave Danger qui est attribué par le procureur de la République à une victime en situation de grave danger.
+
+      Le sigle BAR désigne le bracelet anti-rapprochement qui permet de géolocaliser le conjoint ou l'ex-conjoint violent pour déclencher une alerte.
+
+      Le sigle PNAV désigne la plateforme numérique de signalement des atteintes aux personnes et d'accompagnement des victimes disponible sur le site arretonslesviolences.gouv.fr.
+
+      Le sigle PFRH désigne la plateforme régionale d'appui aux ressources humaines qui constitue un relais d'information pour le logement ou la garde d'enfants.
+
+      Le sigle SRIAS désigne la section régionale interministérielle d'action sociale qui intervient pour conseiller les agents à la recherche d'une solution de garde d'urgence.
+
+      Le sigle FACE désigne la Fondation agir contre l'exclusion qui est une fondation reconnue d'utilité publique.
+
+COURS DÉTAILLÉ.
+
+I. DÉFINITIONS ET ENJEUX DES VIOLENCES.
+
+   A. Typologie des violences conjugales et intrafamiliales.
+
+      Les violences conjugales et intrafamiliales touchent principalement les femmes mais aussi les hommes par des agressions verbales, psychologiques, physiques, sexuelles, administratives ou économiques.
+
+      Ces violences se distinguent des simples disputes de couple ou des conflits familiaux car elles s'exercent dans un rapport de force et non d'égalité.
+
+      Les agressions peuvent également être commises via les techniques de communication comme le téléphone, les mails ou les réseaux sociaux.
+
+      Les violences intrafamiliales se déroulent au sein de la famille et peuvent être exercées par un ascendant, un descendant ou un autre membre du cercle familial proche.
+
+      Les violences conjugales sont le fait du conjoint ou de l'ex-conjoint et peuvent survenir dans toutes les configurations de couple, que les partenaires cohabitent ou non.
+
+   B. Le cycle de la violence et ses mécanismes.
+
+      Le cycle de la violence conjugale est un processus répétitif composé de quatre phases distinctes qui forment une boucle dont l'intensité augmente avec le temps.
+
+      La première phase est la tension qui se manifeste par de l'anxiété, des silences lourds ou des menaces, poussant la victime à marcher sur des œufs.
+
+      La phase d'agression suit la tension et comprend des violences verbales, psychologiques, physiques, sexuelles ou économiques.
+
+      La phase de réconciliation est marquée par l'espoir de la victime qui voit les efforts de l'autre, tandis que l'auteur cherche à se faire pardonner.
+
+      La phase de justification intervient lorsque l'auteur nie sa responsabilité ou minimise les faits, et que la victime accepte les excuses ou rejette la faute sur des éléments externes.
+
+   C. Données chiffrées et impact sur la santé.
+
+      Entre deux mille onze et deux mille dix-huit, les violences conjugales physiques ou sexuelles ont fait en moyenne deux cent quatre-vingt-quinze mille victimes par an en France métropolitaine, dont soixante-douze pour cent de femmes.
+
+      En deux mille vingt et un, cent quarante-trois morts violentes au sein du couple ont été recensées, incluant douze enfants victimes de violences conjugales.
+
+      Les violences sexuelles et physiques dans le couple ont entraîné des perturbations sur les études ou le travail pour cinquante-sept pour cent des victimes.
+
+      L'épuisement physique et émotionnel lié à ces violences entraîne une baisse de concentration et de productivité pour la moitié des répondants de l'enquête ONEINTHREEWOMEN.
+
+      Les violences conjugales impactent la santé et la sécurité des agents, provoquant des retards, des absences répétées et une diminution de l'efficacité au travail.
+
+II. L'IMPACT DES VIOLENCES SUR LE MONDE DU TRAVAIL.
+
+   A. Conséquences sur l'agent et sa productivité.
+
+      Les violences sexuelles et ou physiques dans le couple entraînent des perturbations sur les études ou le travail pour cinquante-sept pour cent des victimes.
+
+      Un quart des répondants ayant subi des violences conjugales déclarent avoir été en retard à cause de ces violences.
+
+      Le taux de personnes ayant pris des congés pour cette raison s'élève à vingt-quatre pour cent et les jours de travail perdus varient de cinq virgule cinq jours à trente-trois jours par an.
+
+      La moitié des répondants ayant subi des violences conjugales ont déclaré que leur productivité avait diminué en raison de la fatigue, de la distraction ou de la souffrance.
+
+      L'impossibilité de modifier les horaires ou de partir en déplacement ou en formation impacte la mobilité et la progression de carrière des victimes.
+
+   B. Répercussions sur les collègues et l'organisation.
+
+      Environ seize pour cent des personnes ayant subi des violences conjugales en ont été victimes jusque sur leur lieu de travail ou à proximité.
+
+      Plus de dix pour cent des répondants connaissent un collègue ayant subi des violences conjugales.
+
+      Environ vingt pour cent des personnes connaissant une victime ont estimé que leur propre travail était affecté par l'inquiétude ou les tensions liées à la situation du collègue.
+
+      Les relations entre collaborateurs peuvent être perturbées par les pressions exercées par l'auteur auprès des collègues proches pour exercer un contrôle sur la victime.
+
+   C. Risques liés au télétravail et à la porosité des sphères.
+
+      La généralisation du télétravail et la porosité croissante entre vie personnelle et vie professionnelle permettent à un agent d'être victime de violence à son domicile pendant son temps de travail.
+
+      Les employeurs publics conservent des obligations en matière de santé et de sécurité durant le temps de travail, que l'agent soit sur le lieu de travail ou à distance.
+
+      La violence peut se poursuivre sur le lieu de travail par des appels téléphoniques ou des messages relevant du harcèlement lorsque l'auteur se rend physiquement sur place.
+
+III. LE RÔLE ET LES OBLIGATIONS DE L'ADMINISTRATION.
+
+   A. Cadre juridique et obligations de l'employeur public.
+
+      L'article L. cent trente-cinq-six du Code général de la fonction publique impose aux employeurs publics de mettre en place des dispositifs de signalement pour recueillir les plaintes des agents victimes d'atteintes à leur intégrité physique, de violence, de discrimination, de harcèlement ou de menaces.
+
+      L'accord du trente novembre deux mille dix-huit relatif à l'égalité professionnelle entre les femmes et les hommes dans la fonction publique incite les employeurs à étendre ces dispositifs aux violences et au harcèlement d'origine extra-professionnelle détectés sur le lieu de travail.
+
+      Le cahier des charges du label égalité professionnelle intègre depuis sa rénovation en deux mille vingt-trois un volet portant sur la prise en compte des violences conjugales et intrafamiliales par les employeurs.
+
+      L'employeur public a une obligation de santé et de sécurité concernant la santé physique et mentale de ses agents, que ce soit sur le lieu de travail ou à distance en cas de télétravail ou de déplacements.
+
+      La lutte contre les violences faites aux femmes constitue le premier pilier du plan interministériel pour l'égalité entre les femmes et les hommes deux mille vingt-trois-deux mille vingt-sept présenté par la Première ministre le huit mars deux mille vingt-trois.
+
+   B. Mise en place d'un protocole d'accompagnement.
+
+      Chaque administration est invitée à se doter d'un protocole interne adapté à son organisation pour accompagner les agents victimes de violences conjugales ou intrafamiliales.
+
+      Ce protocole doit être élaboré de façon concertée avec des acteurs tels que les assistants sociaux, les médecins du travail, les services RH et les représentants du personnel.
+
+      L'employeur public est incité à soumettre ce protocole à l'instance compétente du dialogue social chargée de la prévention et du traitement des violences sexistes et sexuelles.
+
+      L'objectif est de créer un cadre de travail garantissant la stabilité de l'emploi des victimes, ce qui est un gage d'indépendance économique et de protection sociale.
+
+      L'administration peut proposer des solutions concrètes comme l'aménagement des horaires, l'octroi de congés ou la facilitation de la mobilité professionnelle pour protéger l'agent.
+
+   C. Outils de sensibilisation et de prévention.
+
+      L'administration doit communiquer en interne pour instaurer un climat de confiance et favoriser la libération de la parole grâce à des campagnes de communication ou des lettres d'information.
+
+      Des outils comme des flyers ou des affiches peuvent informer les agents sur leurs droits, sur le protocole interne et sur les dispositifs nationaux tels que le trois mille neuf cent dix-neuf.
+
+      L'employeur peut proposer des modules ou des ateliers de sensibilisation sur les mécanismes des violences au sein du couple en partenariat avec des associations spécialisées.
+
+      La désignation d'une personne référente, comme un référent égalité ou un responsable RH, permet d'identifier un interlocuteur formé pour orienter les victimes vers les acteurs pertinents.
+
+      Ces mesures de prévention doivent figurer dans le plan d'action en faveur de l'égalité entre les femmes et les hommes prévu par l'article L. cent trente-deux-un du CGFP.
+
+IV. DÉTECTION ET ACCUEIL DE LA PAROLE DE LA VICTIME.
+
+   A. Signaux d'alerte et repérage des victimes.
+
+      Le repérage des violences peut s'appuyer sur l'observation de blessures physiques visibles comme des bleus ou des contusions.
+
+      Les changements de comportement social et les troubles émotnels tels que l'irritabilité soudaine, les pleurs ou le retrait de la vie sociale sont des indicateurs importants.
+
+      Une modification de l'investissement ou de la performance au travail, incluant des erreurs, des problèmes d'attention ou une fatigue marquée, doit alerter les encadrants.
+
+      L'absentéisme important ou, à l'inverse, un surinvestissement au travail constituent également des signaux de vigilance.
+
+      Des comportements de calme ou de discrétion exceptionnels ainsi qu'une demande urgente de logement peuvent aussi révéler une situation de détresse.
+
+   B. Posture et conduite de l'entretien de recueil.
+
+      L'entretien doit se dérouler dans un cadre sécurisant, par exemple dans un bureau, afin de garantir la confidentialité des échanges.
+
+      La posture de l'interlocuteur ne doit pas être celle d'une enquête administrative, il ne faut donc pas chercher à caractériser les faits ou à enquêter.
+
+      Il est essentiel d'adopter une écoute active et bienveillante en montrant que l'on donne du crédit à la parole de la victime.
+
+      L'interlocuteur doit déculpabiliser la personne en rappelant que l'agresseur est le seul responsable et qu'aucune attitude de la victime ne justifie les violences.
+
+      Il convient d'utiliser des phrases rassurantes comme vous n'y êtes pour rien ou la loi interdit et punit les violences pour soutenir la personne.
+
+      Il faut éviter de remettre en cause le récit, de juger les choix de la victime ou de chercher à atténuer la responsabilité de l'auteur.
+
+   C. Actions de soutien et orientation vers les professionnels.
+
+      La première étape consiste à écouter la parole de manière rassurante et à informer la victime sur les dispositifs locaux et nationaux existants.
+
+      L'encadrant peut proposer un rendez-vous avec la médecine du travail ou le psychologue du travail et accorder des autorisations d'absence pour les démarches nécessaires.
+
+      Des facilités RH peuvent être accordées, comme l'aménagement des horaires, une mobilité ou un changement de poste pour garantir la sécurité de l'agent.
+
+      L'administration peut également proposer des mesures de sécurité sur le lieu de travail, notamment en interdisant l'accès de l'auteur aux locaux.
+
+      L'agent doit être orienté vers des professionnels dont le secret professionnel est un gage de confidentialité, comme les assistants de services sociaux ou les médecins du travail.
+
+      En cas de danger immédiat, il est impératif de rappeler à la victime qu'elle doit appeler le dix-sept.
+
+V. MESURES D'ACCOMPAGNEMENT ET DE PROTECTION.
+
+   A. Dispositifs sociaux de logement et de garde d'enfants.
+
+      L'État-employeur peut proposer des solutions de logement temporaire d'urgence ou pérenne via le service social du personnel pour les agents victimes de violences intrafamiliales.
+
+      L'attribution du logement temporaire d'urgence est déterminée par les services sociaux et peut être accompagnée par la plateforme régionale d'appui aux ressources humaines ou la section régionale interministérielle d'action sociale.
+
+      L'administration peut également proposer des places en crèche de manière prioritaire pour les agents en situation d'urgence sociale, bien que les frais de garde restent à la charge de la famille.
+
+      Le service RH doit orienter l'agent vers l'assistant ou l'assistante du service social pour effectuer un diagnostic et activer ces dispositifs de relogement ou de garde d'enfants.
+
+   B. Mesures de sécurité et aménagements professionnels.
+
+      L'employeur peut autoriser l'aménagement des horaires de travail ou l'octroi de jours de congés et d'autorisations d'absence pour permettre le suivi médical, psychologique ou social de l'agent.
+
+      Des conditions de travail sécurisées peuvent être mises en place, comme l'interdiction de l'accès de l'auteur sur le lieu de travail ou la modification de l'adresse électronique et du numéro de téléphone professionnel.
+
+      L'administration peut également proposer l'utilisation d'un coffre-fort numérique ou physique pour sécuriser les documents administratifs de la victime.
+
+      Pour faciliter la mobilité, l'agent peut bénéficier d'un accès prioritaire à un conseiller mobilité carrière ou à des formations permettant de compléter ses compétences.
+
+      L'employeur doit garantir l'absence de conséquences sur l'emploi en veillant à ce que la baisse de performance ne soit pas mentionnée dans le compte rendu d'entretien professionnel.
+
+   C. L'ordonnance de protection et les recours juridiques.
+
+      L'ordonnance de protection est une procédure d'urgence créée en deux mille dix qui permet d'obtenir des mesures d'éloignement du défendeur et des mesures relatives aux enfants ou au logement.
+
+      Le juge aux affaires familiales doit statuer dans un délai de six jours entre la saisine et l'audience pour protéger la victime et ses enfants.
+
+      La victime peut également déposer plainte auprès des forces de l'ordre ou du procureur de la République, ou utiliser la plateforme numérique de signalement PNAV pour être accompagnée.
+
+      Le dispositif du Téléphone Grave Danger peut être attribué par le procureur de la République à une victime en situation de grave danger pour permettre une alerte géolocalisée.
+
+      Le bracelet anti-rapprochement permet de géolocaliser l'auteur des violences et de déclencher une alerte s'il s'approche du périmètre défini par le juge.
+
+VI. RESPONSABILITÉ ET GESTION DES AUTEURS DE VIOLENCES.
+
+   A. Obligation de dignité et exemplarité de l'agent.
+
+      Les agents publics sont soumis à l'obligation de dignité en application de l'article L. cent vingt et un-un du code général de la fonction publique.
+
+      Cette obligation est proche des principes d'exemplarité et d'irréprochabilité qui sont dégagés par la jurisprudence du Conseil d'État du dix-huit juillet deux mille dix-huit.
+
+      L'agent public doit adopter en toutes circonstances un comportement qui ne soit pas indigne de sa fonction.
+
+      Ce comportement ne doit pas non plus entacher la réputation de l'administration.
+
+   B. Conditions de déclenchement de sanctions disciplinaires.
+
+      Le déclenchement de poursuites disciplinaires contre un agent auteur de violences est justifié par la réalité d'un trouble au fonctionnement du service.
+
+      Ce trouble ne doit pas être simplement hypothétique pour que l'opportunité de la sanction soit retenue.
+
+      La gravité des faits commis et le fait que la victime et l'auteur travaillent dans le même service sont des circonstances qui peuvent justifier ce trouble.
+
+      La médiatisation de l'affaire entraînant un retentissement sur la réputation du service peut également constituer un élément déterminant.
+
+      Le niveau hiérarchique et la nature des fonctions de l'auteur sont pris en compte, notamment pour les personnels de police, les militaires ou les douaniers.
+
+   C. Lien entre comportement privé et trouble du service.
+
+      Le comportement d'un agent en dehors du service peut constituer une faute disciplinaire s'il perturbe le bon déroulement du service ou jette le discrédit sur l'administration.
+
+      Le Conseil d'État a ainsi validé la radiation des cadres d'un gendarme en décembre deux mille vingt suite à une agression violente sur son épouse.
+
+      À l'inverse, la sanction peut être jugée non justifiée si les faits n'ont pas de lien avec le service et n'ont pas de retentissement sur l'administration.
+
+      La Cour administrative d'appel de Douai a ainsi estimé en deux mille huit qu'un terrassier-fossoyeur ne pouvait être révoqué pour des faits commis sans lien avec son emploi.
+
+      L'absence de contact avec des mineurs ou de retentissement dans la presse peut conduire à considérer que le maintien en fonction ne trouble pas le fonctionnement du service.
+
+      Toutefois, des dispositions spécifiques comme l'article L. neuf cent onze-cinq du code de l'éducation ou l'article L. cent trente-trois-six du code de l'action sociale et des familles prévoient une incapacité d'exercice pour certaines condamnations.
+
+VII. RESSOURCES ET DISPOSITIFS D'AIDE NATIONAUX.
+
+   A. Numéros d'urgence et plateformes de signalement.
+
+      Le numéro national d'écoute Femmes Violences Info est le trois mille neuf cent dix-neuf. Ce service est anonyme, gratuit et disponible vingt-quatre/vingt-quatre et sept/sept en métropole et dans les départements d'outre-mer pour orienter les victimes et leur entourage.
+
+      La plateforme numérique de signalement des atteintes aux personnes et d'accompagnement des victimes est accessible sur le site arretonslesviolences.gouv.fr. Elle permet de dialoguer en ligne avec des policiers ou gendarmes formés pour faciliter le dépôt de plainte ou l'orientation vers des structures spécialisées.
+
+      En cas de danger immédiat, il est impératif de contacter le dix-sept. La plateforme de signalement en ligne via le tchat sur le site service-public.fr permet également de communiquer avec des forces de l'ordre formés.
+
+      Le dispositif de Téléphone Grave Danger est attribué par le procureur de la République aux victimes en situation de grave danger. Il permet une géolocalisation et une intervention rapide des forces de l'ordre.
+
+      Le bracelet anti-rapprochement permet de géolocaliser l'auteur des violences et de déclencher une alerte s'il s'approche de la victime. Ce dispositif peut être décidé dans le cadre d'une procédure pénale ou d'une procédure civile via une ordonnance de protection.
+
+   B. Rôle des CIDFF et des structures d'accueil.
+
+      Les Centres d'Information sur les Droits des Femmes et des Familles disposent de référents qui sont les interlocuteurs uniques et de proximité dans chaque département. Ils assurent la coordination des partenaires locaux et l'accompagnement des victimes.
+
+      L'accueil de jour est une structure de proximité ouverte sans rendez-vous durant la journée. Ce dispositif permet d'informer, d'orienter et d'aider les femmes à préparer ou anticiper leur départ du domicile.
+
+      Les Lieux d'écoute, d'accueil et d'orientation assurent un suivi dans la durée pour aider les victimes à rompre le cycle des violences et à retrouver une autonomie sociale et professionnelle.
+
+      Action Logement propose un numéro national confidentiel au neuf cent soixante-dix huit cent mille huit cents pour mettre en relation les personnes avec un conseiller social.
+
+   C. Outils pédagogiques et guides de référence.
+
+      La MIPROF propose des kits pédagogiques accessibles sur le site arretonslesviolences.gouv.fr. Ces outils incluent notamment le kit composé du court-métrage ANNA et d'un livret d'accompagnement pour expliquer les mécanismes des violences.
+
+      Le violentomètre conçu par le Centre Hubertine Auclert est un outil de prévention présenté sous forme de règle. Il permet d'évaluer si une relation amoureuse est saine à travers une gradation colorée en trois segments.
+
+      Le marché interministériel de formation aux Valeurs de la République propose une formation spécifique intitulée Savoir comment réagir en cas de violences conjugales. Cette formation est destinée aux encadrants et aux experts.
+
+      Le guide pratique de l'ordonnance de protection est édité par le ministère de la Justice. Ce document précise les modalités de prise en charge et les mesures de protection judiciaire possibles.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre les violences conjugales avec de simples disputes de couple ou des conflits familiaux car ces derniers se déroulent dans un rapport d'égalité sans violence.
+
+      Une confusion courante est de croire que l'employeur ne doit pas intervenir car les faits se passent dans la sphère privée alors qu'il a une obligation de santé et de sécurité même en télétravail.
+
+      Il est crucial de nuancer la notion de responsabilité car si l'agresseur est le seul responsable des actes, la victime peut ressentir de la honte ou de la culpabilité qu'il faut savoir déconstruire.
+
+      La distinction entre les violences conjugales et les violences intrafamiliales est importante puisque les secondes peuvent être exercées par un ascendant ou un descendant au sein du cercle familial.
+
+      L'action disciplinaire contre un agent auteur de violences n'est pas automatique et dépend de l'existence d'un trouble réel au fonctionnement du service ou d'une atteinte à la dignité de la fonction.
+
+EXEMPLES CITÉS.
+
+      Selon l'enquête européenne ONEINTHREEWOMEN, cinquante-sept pour cent des victimes de violences sexuelles ou physiques dans le couple ont subi des perturbations sur leur travail ou leurs études.
+
+      L'article L. cent trente-cinq-six du Code général de la fonction publique impose aux employeurs publics de mettre en place des dispositifs de signalement pour les agents victimes d'atteintes à leur intégrité.
+
+      En deux mille vingt et un, les services de police et de gendarmerie ont enregistré soixante-quatre mille trois cents victimes de violences intrafamiliales non conjugales, ce qui représente une augmentation de seize pour cent par rapport à deux mille vingt.
+
+      Le dispositif de l'ordonnance de protection permet d'obtenir des mesures d'urgence comme l'attribution du logement familial en seulement six jours après la saisine du juge aux affaires familiales.
+
+      Une étude menée par la fondation FACE montre qu'un quart des répondants ayant subi des violences conjugales ont déclaré avoir été en retard à cause de ces situations.

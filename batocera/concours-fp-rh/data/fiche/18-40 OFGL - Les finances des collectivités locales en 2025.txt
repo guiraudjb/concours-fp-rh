@@ -1,0 +1,283 @@
+ANALYSE SYNTHÉTIQUE DES FINANCES DES COLLECTIVITÉS LOCALES POUR L'ÉDITION deux mille vingt-cinq.
+
+LEXIQUE COMPLET.
+
+      L'OFGL désigne l'Observatoire des finances et de la gestion publique locales, un organisme chargé de collecter, d'analyser et de partager les données sur les finances des collectivités.
+
+      La DGCL désigne la Direction générale des collectivités locales, qui comprend le Département des études et des statistiques locales.
+
+      La DGFiP désigne la Direction générale des finances publiques, qui fournit les données fiscales et les comptes de gestion nécessaires aux analyses.
+
+      L'INSEE désigne l'Institut national de la statistique et des études économiques, qui publie notamment les comptes nationaux.
+
+      L'APUL désigne l'ensemble des administrations publiques locales, dont le déficit s'est établi à seize virgule sept Md euros en deux mille vingt-quatre.
+
+      Le PIB désigne le produit intérieur brut, dont la croissance en volume a augmenté de + un virgule deux pour cent en deux mille vingt-quatre.
+
+      Les DMTO désignent les droits de mutation à titre onéreux, dont les recettes ont reculé de -douze virgule neuf pour cent en deux mille vingt-quatre.
+
+      La TFPB désigne la taxe foncière sur les propriétés bâties, dont le produit progresse de cinq virgule trois pour cent pour le bloc communal en deux mille vingt-quatre.
+
+      La CVAE désigne la contribution économique des valeurs ajoutées, dont la suppression a été compensée par de nouvelles fractions de TVA.
+
+      Le FCTVA désigne le fonds de compensation pour la taxe sur la valeur ajoutée, qui a contribué à la hausse des recettes d'investissement à hauteur de + neuf virgule trois pour cent en deux mille vingt-quatre.
+
+      Les GFP désignent les groupements à fiscalité propre, qui ont vu leurs recettes de fonctionnement augmenter de + quatre virgule trois pour cent en deux mille vingt-quatre.
+
+      Les CTU désignent les collectivités territoriales uniques, dont les recettes de fonctionnement ont progressé de + un virgule un pour cent en deux mille vingt-quatre.
+
+COURS DÉTAILLÉ.
+
+I. CONTEXTE MACROÉCONOMIQUE ET SITUATION DES ADMINISTRATIONS PUBLIQUES LOCALES.
+
+   A. Croissance du PIB et dynamique économique en deux mille vingt-quatre.
+
+      La croissance de l'économie française a continué de décélérer en deux mille vingt-quatre avec un PIB en volume qui a augmenté de + un virgule deux pour cent en euros constants, contre + un virgule quatre pour cent en deux mille vingt-trois.
+
+      La production a ralenti pour atteindre + un virgule deux pour cent après + deux virgule zéro pour cent en deux mille vingt-trois, tandis que les secteurs de l'agriculture et du bâtiment ont même connu un recul.
+
+      La dynamique économique est principalement portée par le commerce extérieur grâce à des exportations dynamiques et des importations en recul.
+
+      À l'inverse, l'investissement se replie et les variations de stocks contribuent négativement à la croissance du PIB à hauteur de - zéro virgule huit point.
+
+   B. Évolution du déficit public de l'État et des APUL.
+
+      Le déficit public au sens de Maastricht s'établit à cent soixante-huit virgule six Md euros en deux mille vingt-quatre, soit cinq virgule huit pour cent du PIB, marquant une augmentation de seize virgule neuf Md euros par rapport à deux mille vingt-trois.
+
+      Cette dégradation résulte d'un effet ciseau où les recettes des prélèvements obligatoires augmentent moins vite que l'activité en valeur, alors que les dépenses de prestations sociales accélèrent à cinq virgule cinq pour cent.
+
+      Le déficit de l'État s'élève à cent cinquante-deux virgule cinq Md euros en deux mille vingt-quatre, tandis que celui des organismes divers d'administration centrale reste stable à un virgule sept Md euros.
+
+      Le déficit des administrations publiques locales (APUL) se dégrade pour atteindre seize virgule sept Md euros contre neuf virgule cinq Md euros l'année précédente.
+
+      Ce déficit des APUL est porté par celui des collectivités locales qui s'établit à onze virgule quatre Md euros et par celui des organismes divers d'administration locale qui grimpe à cinq virgule trois Md euros.
+
+   C. Dynamique de la dette publique et contribution des sous-secteurs.
+
+      La dette publique s'élève à cent treize virgule deux pour cent du PIB à la fin de l'année deux mille vingt-quatre, après avoir atteint cent neuf virgule huit pour cent fin deux mille vingt-trois.
+
+      L'État est le principal contributeur à la dette de Maastricht avec un montant de + cent soixante-dix virgule cinq Md euros, s'endettant via des titres de court et de long termes à hauteur de + cent soixante et onze virgule neuf Md euros.
+
+      La contribution des APUL à la dette publique brute augmente de + treize virgule huit Md euros en deux mille vingt-quatre, une hausse plus forte qu'en deux mille vingt-trois où elle n'était que de + cinq virgule deux Md euros.
+
+      Parmi les collectivités locales, la contribution à la dette augmente pour les communes (+ trois virgule deux Md euros), les départements (+ deux virgule trois Md euros) et les régions (+ trois virgule quatre Md euros).
+
+II. ANALYSE DES DÉPENSES DE FONCTIONNEMENT DES COLLECTIVITÉS.
+
+   A. Évolution globale et disparités selon le niveau de collectivité.
+
+      En deux mille vingt-quatre, les dépenses de fonctionnement enregistrées dans les budgets principaux des collectivités locales progressent de + trois virgule neuf pour cent.
+
+      Après une augmentation soutenue de + cinq virgule neuf pour cent en deux mille vingt-trois, cette croissance affiche un ralentissement dans un contexte de décélération de l'inflation.
+
+      Si l'on intègre les budgets annexes et les syndicats, les dépenses consolidées de fonctionnement affichent une augmentation de + quatre virgule un pour cent en deux mille vingt-quatre.
+
+      L'évolution varie selon les échelons, avec une hausse de + quatre virgule deux pour cent pour les communes et de + quatre virgule deux pour cent pour les EPCI à fiscalité propre.
+
+      Les départements et les régions et CTU enregistrent des hausses respectives de + trois virgule neuf pour cent et de + un virgule un pour cent au cours de l'année deux mille vingt-quatre.
+
+      L'augmentation est plus marquée dans les communes de plus de cent mille habitants avec + cinq virgule trois pour cent et dans les petites communes de moins de cinq cents habitants avec + quatre virgule huit pour cent.
+
+   B. Répartition par nature : interventions, personnel et achats externes.
+
+      Les dépenses d'intervention représentent un peu moins de quarante pour cent des dépenses de fonctionnement et ont augmenté de + trois virgule huit pour cent en deux mille vingt-quatre.
+
+      Cette hausse est plus vive dans les départements avec + quatre virgule deux pour cent, car ils portent des dépenses sociales représentant presque soixante pour cent de leurs interventions.
+
+      Les frais de personnel constituent trente-sept pour cent des dépenses de fonctionnement et progressent de + quatre virgule quatre pour cent en deux mille vingt-quatre.
+
+      Cette progression s'explique par l'effet des points d'indice et par la croissance des dépenses liées aux apprentis qui augmentent de + neuf virgule trois pour cent.
+
+      Les dépenses liées aux personnels non titulaires connaissent une tendance très dynamique avec une hausse de + sept virgule sept pour cent en deux mille vingt-quatre.
+
+      Les achats et charges externes progressent de + trois virgule six pour cent en deux mille vingt-quatre, bien que leur rythme de croissance ralentisse par rapport aux années deux mille vingt-deux et deux mille vingt-trois.
+
+   C. Impact des charges financières et de l'inflation.
+
+      Dans un contexte de hausse des taux d'intérêt, les charges financières continuent de progresser nettement avec + treize virgule neuf pour cent en deux mille vingt-quatre.
+
+      Les régions et CTU subissent l'augmentation la plus forte de ce poste de dépenses avec une hausse de + vingt-sept virgule deux pour cent.
+
+      L'inflation ralentit en deux mille vingt-quatre, avec un indice des prix à la consommation pour les produits alimentaires qui est stable par rapport à décembre deux mille vingt-trois.
+
+      Les prix de l'énergie progressent de + un virgule deux pour cent en deux mille vingt-quatre, ce qui marque une forte baisse par rapport aux + cinq virgule sept pour cent enregistrés l'année précédente.
+
+      Certains postes de dépenses comme les combustibles reculent de - six virgule six pour cent après les hausses marquées de deux mille vingt-deux et deux mille vingt-trois.
+
+      Les primes d'assurance payées par l'ensemble des collectivités locales s'élèvent à un Md euros et affichent un net regain de croissance de + vingt virgule sept pour cent en deux mille vingt-quatre.
+
+III. DYNAMIQUE DES RECETTES DE FONCTIONNEMENT.
+
+   A. Évolution des recettes et structure de la fiscalité locale.
+
+      En deux mille vingt-quatre, les recettes de fonctionnement de l'ensemble des collectivités locales ont augmenté de deux virgule deux pour cent, un rythme en recul par rapport aux années précédentes comme deux mille vingt-trois qui affichait trois virgule quatre pour cent.
+
+      L'augmentation est plus marquée pour le bloc communal avec une hausse de quatre virgule trois pour cent pour les GFP et de trois virgule zéro pour cent pour les communes, tandis qu'elle est plus modérée pour les régions et les CTU avec un virgule un pour cent.
+
+      Les départements connaissent une situation particulièrement difficile avec une progression de seulement zéro virgule deux pour cent après un repli de un virgule deux pour cent en deux mille vingt-trois.
+
+      Depuis deux mille vingt et un, la structure des impôts et taxes a été bouleversée par les modifications liées à la taxe d'habitation sur les résidences principales et la suppression de la CVAE.
+
+      Les impôts et taxes augmentent globalement de un virgule sept pour cent en deux mille vingt-quatre, alors que le produit du foncier bâti progresse de cinq virgule trois pour cent pour le bloc communal.
+
+      Les recettes de DMTO continuent de fléchir avec une baisse de treize virgule six pour cent en deux mille vingt-quatre, ce qui fragilise de nombreux départements.
+
+   B. Rôle des transferts de TVA et des concours de l'État.
+
+      La fraction de TVA est devenue la ressource la plus importante avec cinquante-deux virgule cinq Md euros, bien qu'elle n'évolue que modérément à hauteur de un pour cent en deux mille vingt-quatre.
+
+      Cette part de la TVA compense les pertes liées à la suppression de la taxe d'habitation et de la CVAE pour les différents niveaux de collectivités.
+
+      L'enveloppe des concours financiers de l'État a progressé de zéro virgule sept pour cent en deux mille vingt-quatre pour atteindre trente-huit virgule un Md euros, après une hausse de un virgule neuf pour cent en deux mille vingt-trois.
+
+      Cette hausse est principalement portée par le bloc communal avec une augmentation de trois virgule trois pour cent pour les communes et de deux virgule quatre pour cent pour les GFP.
+
+      Les concours financiers de l'État restent stables pour les départements avec une évolution de zéro virgule un pour cent, tandis qu'ils sont devenus marginaux pour les régions et les CTU.
+
+   C. Recettes de ventes de biens et services et subventions.
+
+      Les recettes provenant des ventes de biens et services, incluant les redevances et les recettes tarifaires, augmentent de six virgule trois pour cent en deux mille vingt-quatre.
+
+      Ces recettes atteignent près de treize milliards d'euros, dépassant le niveau d'avant la crise sanitaire de presque un quart par rapport aux dix virgule trois Md euros de deux mille dix-neuf.
+
+      Malgré ce dynamisme, ces ventes ne représentent qu'une part modérée de cinq virgule quatre pour cent des recettes de fonctionnement des collectivités locales.
+
+      Les subventions reçues affichent une évolution favorable de deux virgule sept pour cent en deux mille vingt-quatre, mais elles ne possèdent plus le dynamisme des quatre dernières années.
+
+IV. ÉPARGNE ET CAPACITÉ D'AUTOFINANCEMENT.
+
+   A. Recul de l'épargne brute et de l'épargne nette.
+
+      L'épargne brute des collectivités locales a enregistré un recul de - sept virgule trois pour cent en deux mille vingt-quatre pour atteindre trente-deux virgule cinq Md euros.
+
+      Cette diminution fait suite à une année deux mille vingt-trois déjà marquée par une baisse de - neuf virgule un pour cent.
+
+      L'épargne brute se situe désormais à un niveau inférieur de deux virgule un Md euros par rapport à la période précédant la crise sanitaire.
+
+      Ce décalage s'explique par une progression des dépenses de fonctionnement de + trente et un virgule sept Md euros entre deux mille dix-neuf et deux mille vingt-quatre, alors que les recettes n'ont progressé que de + vingt-neuf virgule six Md euros sur la même période.
+
+      L'épargne nette s'élève à dix-sept virgule cinq Md euros en deux mille vingt-quatre, ce qui représente une baisse de - treize virgule six pour cent par rapport à l'année précédente.
+
+      Ce recul de l'épargne nette résulte de la baisse de l'épargne brute et d'une légère hausse des remboursements de dette de + un virgule deux pour cent.
+
+   B. Analyse des taux d'épargne par type de collectivité.
+
+      Les taux d'épargne brute sont en retrait pour l'ensemble des niveaux de collectivités en deux mille vingt-quatre.
+
+      Le taux d'épargne brute des régions est resté stable à dix-neuf virgule deux pour cent, bien qu'il soit en retrait par rapport à la décennie précédente.
+
+      Pour le secteur communal, le taux d'épargne brute recule de presque un point de pourcentage pour s'établir à quatorze virgule six pour cent.
+
+      Les GFP connaissent une baisse de - zéro virgule quatre point de pourcentage, suivant une tendance similaire à celle observée en deux mille vingt-trois.
+
+      La situation est particulièrement critique pour les départements dont le taux d'épargne brute est passé de seize virgule sept pour cent à six virgule neuf pour cent en deux ans.
+
+   C. Impact de la dégradation de l'épargne sur les départements.
+
+      L'épargne brute des départements subit la plus forte contraction avec une diminution de - deux virgule trois Md euros en deux mille vingt-quatre.
+
+      En l'espace de deux ans, l'épargne brute de l'ensemble des départements a chuté de près de - soixante pour cent.
+
+      L'épargne nette des départements a également plongé de - cinquante-cinq pour cent pour atteindre un virgule sept Md euros en deux mille vingt-quatre.
+
+      Cette chute de l'épargne nette est comparable à celle enregistrée l'an dernier qui était de - cinquante-quatre pour cent.
+
+      Si le montant de l'épargne nette devait encore reculer de - deux Md euros, elle deviendrait négative en deux mille vingt-cinq.
+
+      Cette dégradation financière contraint les départements à réduire leurs investissements, qui affichent une baisse de - deux virgule neuf pour cent.
+
+V. INVESTISSEMENT ET BESOINS DE FINANCEMENT.
+
+   A. Dynamique des dépenses d'équipement et ventilation fonctionnelle.
+
+      Les dépenses d'investissement ont maintenu un certain dynamisme en deux mille vingt-quatre avec une hausse de sept pour cent pour atteindre soixante-dix virgule quatre Md euros. Cette progression s'inscrit dans la lignée des années précédentes, notamment avec une croissance de six virgule sept pour cent en deux mille vingt-trois et de six virgule huit pour cent en deux mille vingt-deux.
+
+      Les dépenses d'équipement présentent la plus forte hausse avec une augmentation de trois Md euros, particulièrement marquée pour les communes qui affichent une croissance de dix pour cent pour la troisième année consécutive. À l'inverse, les départements voient leurs investissements reculer de deux virgule neuf pour cent en raison des contraintes d'autofinancement.
+
+      L'investissement du bloc communal est très dynamique avec une croissance de dix virgule quatre pour cent en deux mille vingt-quatre, ce qui est comparable aux deux exercices précédents. Les régions participent également à cette dynamique avec une hausse de six virgule un pour cent.
+
+      La ventilation fonctionnelle montre que les investissements liés à l'aménagement des territoires, à l'habitat, à la sécurité et à la salubrité publiques ont régulièrement augmenté. En revanche, les investissements destinés aux transports et à la voirie ont régulièrement perdu de l'importance.
+
+      Le secteur de la santé et de l'action sociale représente plus d'un quart des dépenses de fonctionnement, mais ne pèse que deux pour cent dans les dépenses d'investissement. Les investissements en équipements culturels ou sportifs représentaient huit pour cent des dépenses en deux mille vingt-quatre.
+
+   B. Évolution des recettes d'investissement.
+
+      Les recettes d'investissement ont progressé moins vite que les dépenses en deux mille vingt-quatre, avec une hausse de quatre virgule trois pour cent. Cette évolution est moins marquée que celle des dépenses qui ont augmenté de sept pour cent.
+
+      La croissance des recettes a été principalement portée par le FCTVA qui enregistre une hausse de neuf virgule trois pour cent, soit un montant de zéro virgule cinq Md euros. Les dotations et subventions d'investissement ont également contribué à cette hausse avec une progression de quatre virgule cinq pour cent, soit zéro virgule sept Md euros, notamment pour les groupements de communes.
+
+   C. Analyse du besoin de financement et recours à l'endettement.
+
+      Les collectivités locales ont enregistré un besoin de financement de - dix Md euros en deux mille vingt-quatre, ce montant s'élevant à - onze virgule trois Md euros en consolidant avec les syndicats et les budgets annexes. Ce résultat est en nette progression par rapport à l'année précédente où le besoin n'était que de - quatre Md euros.
+
+      Le besoin de financement est particulièrement élevé pour les départements qui affichent - quatre virgule un Md euros en deux mille vingt-quatre, contre - deux virgule un Md euros en deux mille vingt-trois. Le bloc communal présente également un besoin de financement de - trois virgule sept Md euros, dont un/trois est porté par les GFP.
+
+      Sur le besoin de financement de dix Md euros, un tiers, soit trente-cinq pour cent, est financé par une ponction sur le fonds de roulement, entraînant une diminution du niveau de trésorerie de fin d'année de dix pour cent. Le solde est financé par le recours à l'endettement.
+
+      Le volume des emprunts contractés a fortement progressé de trente-trois virgule cinq pour cent en deux mille vingt-quatre pour atteindre vingt et un virgule cinq Md euros. Ce montant est cinquante-huit pour cent plus élevé qu'en deux mille dix-neuf.
+
+      Le stock de dette a augmenté pour la cinquième année consécutive avec une hausse de quatre virgule deux pour cent, se situant douze pour cent plus haut qu'avant la crise sanitaire. En conséquence, le délai de désendettement des collectivités locales augmente de zéro virgule six an, atteignant six virgule sept ans pour les départements.
+
+VI. GESTION DE LA DETTE ET DE LA TRÉSORERIE.
+
+   A. Évolution du stock de dette et du délai de désendettement.
+
+      Le volume des emprunts contractés par les collectivités locales a fortement progressé de +trente-trois virgule cinq pour cent en deux mille vingt-quatre pour atteindre vingt et un virgule cinq Md euros.
+
+      Le stock de dette a augmenté pour la cinquième année consécutive avec une hausse de +quatre virgule deux pour cent, se situant douze pour cent plus haut qu'avant la crise sanitaire.
+
+      Le flux net de dette est fortement positif à +six virgule six Md euros, atteignant un niveau jamais observé depuis deux mille douze.
+
+      L'augmentation du stock de dette et la baisse de l'épargne brute entraînent une hausse du délai de désendettement de +zéro virgule six an.
+
+      La dégradation est particulièrement sensible pour les départements qui atteignent un délai de six virgule sept ans, un niveau jamais atteint depuis deux mille douze.
+
+      Le secteur communal réussit toutefois à contenir la détérioration de son délai de désendettement avec une hausse de seulement +zéro virgule deux an.
+
+   B. État de la trésorerie nette des collectivités.
+
+      Au trente et un/douze/deux mille vingt-quatre, la trésorerie nette des collectivités territoriales et des EPCI à fiscalité propre s'élève à quarante-quatre virgule cinq Md euros.
+
+      Ce montant est en recul de -six virgule trois Md euros par rapport à la fin de l'année deux mille vingt-deux, après une baisse de -quatre virgule sept Md euros en deux mille vingt-trois.
+
+      La trésorerie nette en fin deux mille vingt-quatre représente soixante-dix-huit jours de dépenses de fonctionnement, contre quatre-vingt-treize jours en deux mille vingt-trois et cent sept jours en deux mille vingt-deux.
+
+      Les communes affichent le plus grand stock de trésorerie nette avec vingt-sept Md euros déposés au trésor au trente et un/douze/deux mille vingt-quatre.
+
+      Les départements et les régions et CTU voient leurs trésoreries cumulées baisser fortement pour s'établir respectivement à six virgule quatre Md euros et zéro virgule trois Md euros.
+
+   C. Analyse de la trésorerie selon la taille des communes.
+
+      Les communes de moins de cinq cents habitants présentent la trésorerie nette la plus élevée avec quatre virgule sept Md euros, soit l'équivalent de un virgule quarante-sept fois leurs dépenses de fonctionnement.
+
+      Pour les communes de cinq cents à trois mille cinq cents habitants, la trésorerie nette de dix Md euros représente soixante-douze pour cent des dépenses de fonctionnement de l'année deux mille vingt-trois.
+
+      La trésorerie des communes de plus de cent mille habitants est très faible avec zéro virgule neuf Md euros, ce qui ne représente que trois pour cent de leurs dépenses de fonctionnement.
+
+      L'évolution de la trésorerie nette varie fortement selon la taille avec un recul de -quarante-trois virgule six pour cent pour les communes de cent mille habitants et plus.
+
+      À l'inverse, la trésorerie résiste pour les plus petites communes avec une baisse limitée à -zéro virgule trois pour cent pour celles de moins de cinq cents habitants.
+
+POINTS D'ATTENTION.
+
+      Il faut distinguer les résultats des budgets principaux de ceux des comptes consolidés qui incluent les budgets annexes et les syndicats.
+
+      La distinction entre l'épargne brute et l'épargne nette est cruciale car l'épargne nette intègre les remboursements de la dette.
+
+      Les données de l'exercice deux mille vingt-quatre sont présentées comme des premiers résultats et ne sont donc pas définitives.
+
+      Il ne faut pas confondre l'augmentation des dépenses de fonctionnement avec l'augmentation de l'inflation qui a ralenti en deux mille vingt-quatre.
+
+      La situation financière des départements est nettement plus dégradée que celle des autres collectivités, notamment concernant l'épargne brute.
+
+EXEMPLES CITÉS.
+
+      Le déficit des administrations publiques locales s'établit à seize virgule sept Md euros en deux mille vingt-quatre contre neuf virgule cinq Md euros en deux mille vingt-trois.
+
+      L'épargne brute des départements a chuté de près de - soixante pour cent en deux ans.
+
+      Les dépenses de fonctionnement des communes de cent mille habitants et plus ont progressé de + cinq virgule trois pour cent.
+
+      La trésorerie nette des régions et CTU s'élève à zéro virgule trois Md euros au trente et un/douze/deux mille vingt-quatre, ce qui représente seulement quatre jours de dépenses de fonctionnement.
+
+      Le stock de dette des collectivités locales a augmenté de + quatre virgule deux pour cent en deux mille vingt-quatre pour atteindre douze pour cent de plus qu'avant la crise sanitaire.

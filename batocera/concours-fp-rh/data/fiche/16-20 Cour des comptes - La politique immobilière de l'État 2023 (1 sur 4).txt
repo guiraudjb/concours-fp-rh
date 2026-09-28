@@ -1,0 +1,233 @@
+ANALYSE DE LA POLITIQUE IMMOBILIÈRE DE L'ÉTAT ET DES ENJEUX DE SA RÉFORME.
+
+LEXIQUE COMPLET.
+
+      La DIE désigne la direction de l'immobilier de l'État, une structure placée au sein de la direction générale des finances publiques qui représente l'État propriétaire.
+
+      Le sigle SUB désigne la surface utile brute, une unité de mesure utilisée pour quantifier l'étendue du parc immobilier de l'État.
+
+      La CNIP désigne la conférence nationale de l'immobilier public, une instance unique qui unifie la gouvernance interministérielle de la politique immobilière.
+
+      Le sigle MRPIE désigne les missions régionales de la politique immobilière de l'État, qui constituent un réseau territorial chargé de l'animation de la stratégie régionale.
+
+      Le sigle SIIE désigne le système d'information de l'immobilier de l'État, un ensemble d'applications permettant l'inventaire et le suivi du parc.
+
+      Le sigle RT désigne le référentiel technique, un outil qui recense les données techniques et d'exploitation des bâtiments occupés par les services de l'État.
+
+      Le sigle Agile désigne l'Agence de gestion de l'immobilier de l'État, une expérimentation portant sur trois domaines d'intervention.
+
+      Le sigle SUN désigne la surface utile nette, une unité de mesure utilisée pour définir la norme d'occupation des bureaux.
+
+      Le sigle DTA désigne le dossier technique amiante, un document nécessaire au recensement et au diagnostic des bâtiments amiantés.
+
+      Le sigle LFI deux mille vingt-trois désigne la loi de finances initiale pour l'année deux mille vingt-trois, qui prévoyait neuf virgule six Md euros de crédits immobiliers.
+
+COURS DÉTAILLÉ.
+
+I. CARACTÉRISTIQUES ET COMPOSITION DU PARC IMMOBILIER.
+
+   A. Un parc vaste, diversifié et hétérogène.
+
+      Le parc immobilier de l'État est d'une ampleur considérable avec cent quatre-vingt-douze mille cinq cent cinquante bâtiments représentant une surface utile brute de quatre-vingt-quatorze millions quatre cent trente-trois mille cent quatre-vingt-dix-sept m² au trente et un décembre deux mille vingt-deux.
+
+      Cette taille est exceptionnelle comparée à d'autres pays européens comme l'Allemagne qui compte soixante millions de m² ou les Pays-Bas avec onze virgule sept millions de m².
+
+      Le parc se caractérise par une hétérogénéité extrême puisque vingt-neuf bâtiments dépassent chacun cinquante mille m² tandis que trente-huit mille neuf cent cinquante-sept bâtiments font moins de cent m².
+
+      La diversité des fonctions est marquée avec des bureaux qui représentent vingt-quatre pour cent des surfaces et un parc de logements qui constitue dix-neuf pour cent de la surface totale.
+
+      Le reste du parc est composé à cinquante-huit pour cent de biens spécifiques tels que les bâtiments d'enseignement ou de sport, les bâtiments techniques, sanitaires et culturels.
+
+   B. Répartition par ministères et fonctions.
+
+      L'enseignement supérieur et les ministères régaliens gèrent la majeure partie du parc avec soixante-douze pour cent des surfaces totales.
+
+      L'enseignement supérieur représente vingt-six pour cent des bâtiments tandis que les armées, l'intérieur et la justice occupent ensemble quarante-trois virgule neuf millions de m².
+
+      Au sein de ce groupe, les armées sont prépondérantes avec vingt-quatre virgule trois millions de m², suivies par le ministère de l'intérieur avec quinze virgule un millions de m².
+
+      Le parc de bureaux de vingt-deux virgule huit millions de m² est réparti de manière relativement homogène entre les ministères de l'intérieur, des armées, de l'économie et de l'enseignement supérieur.
+
+      Le parc de logements de dix-huit virgule un millions de m² est très inégalement réparti puisque l'intérieur et les armées concentrent quatre-vingts pour cent des surfaces et du nombre de bâtiments.
+
+   C. Complexité des statuts d'occupation et de propriété.
+
+      La gestion ne se limite pas à la distinction entre propriété et location car l'État utilise des modalités juridiques variées pour ses bâtiments.
+
+      L'État possède et occupe quarante-trois virgule six millions de m² de bâtiments, ce qui représente quarante-six virgule un pour cent du parc total.
+
+      Il possède également vingt-quatre virgule un millions de m², soit vingt-cinq virgule cinq pour cent des surfaces, qu'il met à la disposition d'opérateurs ou de tiers.
+
+      Parmi les biens que l'État occupe sans en être propriétaire, quarante-huit pour cent sont des propriétés de collectivités territoriales ou de leurs satellites.
+
+      L'État loue cinq virgule cinq millions de m² de bâtiments auprès de personnes privées, ce qui correspond à quarante-trois pour cent de la surface qu'il occupe sans en être propriétaire.
+
+II. ÉTAT DES CONNAISSANCES ET GESTION DE L'INFORMATION.
+
+   A. Limites du système d'information et de la connaissance du parc.
+
+      Le système d'information de l'immobilier de l'État, ou SIIE, s'appuie sur le module RE-FX du progiciel Chorus pour l'inventaire physique des biens.
+
+      Bien que la DIE développe diverses applications comme OSC, CDUWeb ou PABWeb, le système souffre d'un manque d'interfaces avec les applications ministérielles métiers telles que G2D, Patrimmo ou Géaude.
+
+      La connaissance de l'état de santé des bâtiments est très lacunaire puisque l'information n'est complète que pour quarante-trois pour cent de l'échantillon de soixante et un virgule deux millions de m².
+
+      L'absence de données consolidées sur le risque amiante et l'inexistence d'indicateurs sur la satisfaction des usagers ou des agents constituent des obstacles majeurs à la conduite de la politique immobilière.
+
+      Le manque de suivi des schémas directeurs régionaux et ministériels dans le système d'information empêche la DIE d'avoir une vision consolidée des plans d'action pour les actifs à enjeux.
+
+   B. Enjeux de la qualité et de la fiabilité des données.
+
+      La qualité des données est entravée par une dichotomie entre les administrations qui saisissent les informations et la DIE qui les utilise pour la gestion stratégique.
+
+      L'indice de complétude est jugé insuffisant avec seulement cent quatre-vingt-un/deux cent quarante pour le périmètre de l'État hors opérateurs sur les biens bâtis hors logements.
+
+      La fiabilité des données techniques et réglementaires est régulièrement remise en question, notamment parce que le Référentiel technique n'est pas directement utile aux gestionnaires de sites.
+
+      La Cour des comptes préconise le développement d'un plan de contrôle interne robuste pour garantir la fiabilité des données et la création d'un indicateur de fiabilité.
+
+   C. Valorisation comptable et méthodes d'évaluation.
+
+      La valeur nette comptable du patrimoine immobilier contrôlé par l'État s'élevait à soixante-treize virgule trois Md euros au trente et un décembre deux mille vingt-deux, tandis que celui des opérateurs atteignait quatre-vingt-huit Md euros.
+
+      Les méthodes d'évaluation sont hétérogènes car les bureaux et logements sont évalués à la valeur vénale, alors que les autres bâtiments sont évalués au coût historique amorti.
+
+      La Cour a émis des réserves sur la valorisation comptable en raison de l'insuffisance d'éléments probants, comme des superficies non documentées ou l'absence de visites sur place dans vingt et un pour cent des cas testés.
+
+      Au premier janvier deux mille vingt-quatre, la méthode de la valeur vénale pour les bureaux et logements sera abandonnée au profit de la méthode du coût historique amorti pour plus de cohérence.
+
+      Ce changement de norme devra s'accompagner du maintien de visites régulières sur place pour identifier les dégradations et permettre d'enregistrer d'éventuelles dépréciations de la valeur comptable.
+
+III. DÉFIS DE LA MISE AUX NORMES ET DE LA STRATÉGIE.
+
+   A. Retards dans la transition énergétique et climatique.
+
+      L'immobilier de l'État doit répondre aux engagements climatiques comme l'Accord de Paris de décembre deux mille quinze et la stratégie nationale bas-carbone.
+
+      Les objectifs de réduction de la consommation énergétique ont subi plusieurs reports, notamment l'objectif du Grenelle de l'environnement de deux mille sept qui visait une baisse de quarante pour cent par rapport à deux mille dix.
+
+      Le décret du vingt-trois juillet deux mille dix-neuf, dit décret tertiaire, a repoussé cette cible de deux mille vingt à deux mille trente tout en maintenant un objectif de réduction de soixante pour cent pour deux mille cinquante.
+
+      Une impulsion récente est apparue grâce au plan de relance de fin deux mille vingt et au plan exceptionnel de sobriété de deux mille vingt-deux qui a atteint en deux mille vingt-trois une réduction des consommations de dix pour cent.
+
+      Le coût des travaux nécessaires pour la planification écologique est estimé entre cent quarante et cent cinquante Md euros à l'horizon deux mille cinquante.
+
+      Ce montant nécessiterait une augmentation annuelle des crédits immobiliers de l'ordre de vingt à vingt-cinq pour cent par rapport aux niveaux actuels.
+
+   B. Application des réglementations de sécurité et d'accessibilité.
+
+      La mise en œuvre des agendas d'accessibilité accuse un retard important puisque la fin des travaux n'est prévue qu'en deux mille vingt-sept.
+
+      Les réglementations concernant l'amiante présentent également des carences avec un recensement et un diagnostic des bâtiments qui sont encore en cours.
+
+      L'état sanitaire des bâtiments ne montre aucune amélioration substantielle depuis quinze ans et reste mal renseigné par les services.
+
+      Les données de suivi ne sont disponibles que pour les deux tiers du parc et ne sont complètes que pour une minorité de bâtiments.
+
+   C. Absence de stratégie formalisée et de doctrine claire.
+
+      La stratégie immobilière de l'État souffre d'une formalisation très insuffisante et de résultats décevants concernant la rationalisation du parc.
+
+      Le ratio d'occupation des bureaux n'a pas progressé depuis deux mille quatorze-deux mille quinze et se situe à quatorze virgule quinze mètres carrés de surface nette par agent fin deux mille vingt et un.
+
+      Les orientations nationales reposent sur trois circulaires successives toujours en vigueur au lieu d'un document de stratégie unique.
+
+      La politique actuelle manque de visibilité car les objectifs, les échéances et les moyens ne sont pas rassemblés dans un document d'ensemble.
+
+      La mutualisation interministérielle des bâtiments reste faible avec seulement quatre pour cent des bâtiments représentant douze pour cent des surfaces.
+
+IV. ORGANISATION ET GOUVERNANCE DE LA FONCTION IMMOBILIÈRE.
+
+   A. Limites du pilotage central et déconcentré.
+
+      Le pilotage de la politique immobilière repose sur un cadre de gouvernance mis en place à partir de deux mille seize avec la création de la DIE et la réorganisation des services locaux.
+
+      La gouvernance interministérielle a été unifiée autour de la conférence nationale de l'immobilier public, mais la DIE dispose de peu d'autorité réelle vis-à-vis des ministères occupants.
+
+      Au niveau central, le positionnement de la DIE et des instances de gouvernance nécessite une clarification souhaitable pour mieux incarner l'État propriétaire.
+
+      Au niveau déconcentré, la réorganisation autour de dix-huit missions régionales de la politique immobilière de l'État reste à consolider pour assurer un accompagnement efficace.
+
+      Les schémas directeurs immobiliers, qu'ils soient ministériels ou régionaux, sont des outils opérationnels qui demeurent perfectibles pour le suivi des actifs.
+
+   B. Disparités des compétences et des organisations ministérielles.
+
+      L'organisation de la fonction immobilière est très hétérogène car elle varie considérablement d'un ministère à l'autre.
+
+      Certains ministères comme les armées, la justice, la culture ou l'enseignement supérieur disposent d'établissements spécialisés de maîtrise d'ouvrage.
+
+      Cependant, les compétences sont globalement insuffisantes et se trouvent concentrées sur les opérations lourdes au sein des services dits forts.
+
+      Le manque de professionnalisation est accentué par un double enjeu de recrutement et de formation des agents sur l'ensemble du territoire.
+
+      L'Agence de gestion de l'immobilier de l'État, nommée Agile, constitue une expérimentation limitée à trois domaines d'intervention pour tenter de pallier ces manques.
+
+   C. Gestion budgétaire et besoins de financement futurs.
+
+      La gestion des crédits budgétaires est essentiellement confiée aux ministères, ce qui entraîne une dispersion des ressources sur quarante-cinq programmes budgétaires différents.
+
+      Les outils budgétaires mutualisés sont d'une ampleur modeste et ne représentent que treize pour cent du total des financements partiellement mutualisés.
+
+      Les décisions budgétaires prennent insuffisamment en compte les intérêts de l'État propriétaire, ce qui favorise un sous-entretien chronique des bâtiments.
+
+      L'État fait face à un mur d'investissement avec un programme de rénovation important dont le coût est estimé entre cent quarante et cent cinquante Md euros à l'horizon deux mille cinquante.
+
+      Pour répondre à ces enjeux, une augmentation annuelle des crédits immobiliers de l'ordre de vingt à vingt-cinq pour cent par rapport aux niveaux actuels sera nécessaire.
+
+      Les ressources issues des cessions de biens présentent un potentiel limité et la réduction des surfaces est une source de financement conditionnée aux réorganisations.
+
+V. PERSPECTIVES DE RÉFORME ET SCÉNARIOS D'ÉVOLUTION.
+
+   A. Scénarios de renforcement ou de centralisation de la gestion.
+
+      Le premier scénario proposé par la Cour consiste en un renforcement de la DIE en tant que représentante de l'État propriétaire. Cette option impliquerait une association accrue à la procédure budgétaire et une extension des programmes interministériels mutualisés sous sa responsabilité.
+
+      Dans ce cadre, la gestion des crédits resterait la responsabilité des ministères, mais l'obtention de la labellisation des projets par la conférence nationale de l'immobilier public deviendrait obligatoire. Ce modèle est jugé relativement simple à mettre en œuvre mais ne modifie pas le principe central du propriétaire-occupant.
+
+      Le deuxième scénario envisage une séparation des responsabilités opérationnelles entre le propriétaire et l'occupant. La gestion du propriétaire pourrait être confiée à une ou plusieurs structures spécifiques, comme des services à compétence nationale ou des établissements publics placés sous l'autorité de la DIE.
+
+      Cette organisation s'inspirerait de l'expérimentation de l'Agence de gestion de l'immobilier de l'État, nommée Agile. Elle viserait à garantir le bon niveau d'exécution des dépenses d'entretien et des travaux de mise aux normes en regroupant les compétences spécialisées.
+
+   B. Modèle de la foncière d'État pour la séparation propriétaire-occupant.
+
+      Le troisième scénario propose de transférer la propriété des biens à une entité externe à l'administration, détenue par l'État et soumise à son contrôle. Cette foncière pourrait prendre la forme d'une société anonyme afin de disposer d'un bilan et d'une capacité d'autofinancement.
+
+      Dans ce modèle, les services occupants verseraient des loyers réels à la foncière qui prendrait en charge les dépenses du propriétaire. Ce système est déjà adopté par plusieurs pays européens comme les Pays-Bas, le Danemark ou la Finlande.
+
+      La mise en œuvre pourrait être progressive en l'appliquant d'abord au parc de bureaux, puis aux logements. Les ministères resteraient responsables de l'expression de leurs besoins et de leurs choix d'implantation, tout en pilotant leurs relations avec la structure mutualisée.
+
+      Ce changement majeur suppose d'organiser le transfert de propriété et de bâtir un modèle économique soutenable basé sur les loyers. Le ministre délégué aux comptes publics a d'ailleurs évoqué la création d'une foncière pour la gestion des bureaux le vingt-deux novembre deux mille vingt-trois.
+
+   C. Recommandations prioritaires de la Cour des comptes.
+
+      La Cour formule quatre recommandations au ministre de l'économie, des finances et de la souveraineté industrielle et numérique pour préparer la réforme. La première consiste à développer un plan de contrôle interne pour assurer la fiabilité des données du système d'information.
+
+      Il est également demandé de construire un indicateur de fiabilité des données pour améliorer la connaissance du parc. Cette mesure vise à corriger les lacunes constatées dans le suivi de l'état de santé des bâtiments.
+
+      La deuxième recommandation porte sur la formalisation d'une stratégie immobilière de l'État dans un document de référence. Ce document doit inclure un tableau de bord de pilotage et une actualisation de la feuille de route pour la transition énergétique.
+
+      La troisième recommandation préconise de rattacher directement la DIE au ministre chargé du domaine et de détacher ses fonctions d'évaluation. Enfin, la Cour recommande la mise en place d'un plan de montée en compétences pour l'ensemble des services de gestion immobilière.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre la propriété des biens et le contrôle comptable car l'État peut contrôler des bâtiments dont il n'est pas propriétaire.
+
+      La distinction entre l'État propriétaire et les ministères occupants est une nuance clé puisque la DIE représente le propriétaire mais les ministères conservent la maîtrise des crédits.
+
+      La rationalisation du parc ne signifie pas une baisse automatique de la surface totale car si la taille globale a diminué de sept pour cent en dix ans, le ratio d'occupation des bureaux n'a pas progressé.
+
+      Il est important de noter que la stratégie immobilière actuelle est caractérisée par une absence de formalisation et des objectifs qui se sont ajoutés les uns aux autres sans vision pluriannuelle claire.
+
+      La valorisation comptable des bureaux et logements change de méthode au un janvier deux mille vingt-quatre en passant de la valeur vénale au coût historique amorti.
+
+EXEMPLES CITÉS.
+
+      Le parc immobilier de l'État est immense avec cent quatre-vingt-douze mille cinq cent cinquante bâtiments représentant quatre-vingt-quatorze virgule quatre millions de mètres carrés de surface utile brute au trente et un décembre deux mille vingt-deux.
+
+      L'enseignement supérieur et les ministères régaliens comme les armées, l'intérieur et la justice occupent à eux seuls soixante-douze pour cent des surfaces totales.
+
+      Le coût des travaux de rénovation pour la planification écologique est estimé entre cent quarante et cent cinquante Md euros à l'horizon deux mille cinquante.
+
+      Le ratio d'occupation des bureaux fin deux mille vingt et un était de quatorze virgule quinze mètres carrés de surface nette par agent alors que la cible de deux mille vingt-trois vise seize mètres carrés de surface brute par résident.
+
+      L'État loue cinq virgule cinq millions de mètres carrés de bâtiments auprès de personnes privées ce qui représente quarante-trois pour cent de la surface qu'il occupe sans en être propriétaire.

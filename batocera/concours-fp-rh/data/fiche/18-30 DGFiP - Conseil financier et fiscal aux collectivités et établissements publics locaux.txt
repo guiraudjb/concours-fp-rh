@@ -1,0 +1,277 @@
+GUIDE COMPLET DES MISSIONS ET SERVICES DE LA DGFIP AUPRÈS DES COLLECTIVITÉS ET ÉTABLISSEMENTS PUBLICS LOCAUX.
+
+LEXIQUE COMPLET.
+
+      La DGFiP désigne la direction générale des Finances publiques qui est placée sous l'autorité du ministre de l'Économie et des Finances.
+
+      L'ordonnateur désigne l'acteur qui initie les opérations de dépenses et de recettes et qui est séparé du comptable public.
+
+      Le comptable public désigne l'interlocuteur chargé du recouvrement des créances et du paiement des dépenses après avoir procédé aux contrôles prévus par les lois et règlements.
+
+      L'article quarante-sept-deux de la Constitution du quatre octobre mille neuf cent cinquante-huit désigne la règle précisant que les comptes des administrations publiques sont réguliers et sincères.
+
+      Le sigle TIPI désigne le Titre de recette payable par Internet qui permet l'encaissement des produits locaux par carte bancaire de manière automatisée.
+
+      Le sigle SEPA désigne l'Espace unique de paiement en euros qui permet le prélèvement comme mode de recouvrement adapté aux créances nombreuses.
+
+      Le sigle TIP désigne le Titre Interbancaire de Paiement qui est un mode de recouvrement adapté aux recettes répétitives comme les loyers.
+
+      Le sigle EPCI désigne un établissement public de coopération intercommunale qui peut être à fiscalité professionnelle unique.
+
+      Le sigle PES désigne le Protocole d'Échanges Standard qui unifie les données échangées et devient obligatoire pour les collectivités au premier janvier deux mille quinze.
+
+      Hélios désigne l'application informatique unique de gestion comptable et financière du secteur public local dont le déploiement s'est achevé en fin d'année deux mille dix.
+
+      Le sigle DGCL désigne la direction générale des Collectivités locales qui gère conjointement avec la DGFiP le site Internet www.collectivites-locales.gouv.fr.
+
+      Le sigle SFDL désigne les services de fiscalité directe locale qui sont implantés dans chaque département pour accompagner les collectivités.
+
+COURS DÉTAILLÉ.
+
+I. LE RÔLE ET LES MISSIONS DU COMPTABLE PUBLIC.
+
+   A. Missions de gestion financière et comptable.
+
+      Le comptable public est seul chargé du maniement des fonds et des mouvements des comptes de disponibilités des collectivités et établissements publics locaux.
+
+      Il assure la tenue quotidienne de la comptabilité qui aboutit à l'élaboration du compte de gestion retraçant l'ensemble des opérations conduites par les ordonnateurs locaux.
+
+      Cette mission permet de présenter la situation patrimoniale de la collectivité locale et garantit la régularité et la sincérité des comptes conformément à l'article quarante-sept-deux de la Constitution.
+
+      Le comptable public exerce ses fonctions après avoir procédé aux contrôles prévus par les lois et règlements, engageant sa responsabilité personnelle et pécuniaire.
+
+   B. Recouvrement des recettes et paiement des dépenses.
+
+      Le comptable public est l'unique personne habilitée à manier les fonds des organismes publics locaux et il est seul chargé du recouvrement des créances.
+
+      Il assure le paiement des dépenses publiques et s'attache à la maîtrise des délais de paiement pour favoriser le règlement des fournisseurs dans les meilleurs délais.
+
+      Ses missions incluent l'exécution des opérations de trésorerie et la gestion des mouvements des comptes de disponibilités des collectivités.
+
+      Il peut également accompagner les organismes publics locaux dans la mise en œuvre de politiques de recouvrement efficientes en utilisant des moyens de paiement dématérialisés.
+
+   C. Expertise, conseil et aide à la décision.
+
+      Le comptable public apporte un soutien technique aux collectivités dans la préparation des documents budgétaires et le suivi de la gestion de la trésorerie.
+
+      Il offre une expertise étendue sur la fiscalité directe locale, la commande publique, la gestion du patrimoine immobilier et l'analyse de la structure de la dette.
+
+      Grâce à l'application Hélios, il peut réaliser des analyses financières et des simulations pour éclairer les choix de gestion et les décisions budgétaires des élus.
+
+      Il joue un rôle de partenaire en proposant des analyses de risques et en aidant les décideurs à mieux appréhender leur situation financière globale.
+
+II. L'ACCOMPAGNEMENT À LA FIABILITÉ DES COMPTES ET DE LA GESTION.
+
+   A. Maîtrise de la qualité de l'information comptable.
+
+      La DGFiP s'engage auprès des collectivités pour produire une information de qualité qui donne une image fidèle de la situation patrimoniale. Elle participe activement à l'élaboration des normes comptables applicables au secteur public local en lien avec les services du ministère de l'Intérieur.
+
+      L'évolution des cadres comptables vise à rendre les documents budgétaires plus lisibles pour les élus et les citoyens. Ces réformes cherchent à favoriser la transparence et la cohérence entre les règles applicables aux différents niveaux de collectivités.
+
+      Les instructions comptables des collectivités locales font l'objet d'une actualisation régulière. Les avis du Conseil de normalisation des comptes publics concernant les actifs immobilisés sont progressivement transposés dans ces instructions.
+
+      La fiabilité des comptes est renforcée par la réalisation d'audits communs et la signature d'accords entre la DGFiP et les décideurs locaux. Ces travaux portent notamment sur les opérations de haut de bilan, les modalités d'arrêté des comptes et les chaînes d'opérations de dépenses et de recettes.
+
+      Le comptable public peut accompagner les collectivités qui s'engagent dans une démarche de contrôle interne pour renforcer la fiabilité. Cette démarche est possible dans le cadre des conventions de services comptables et financiers ou des engagements partenariaux.
+
+   B. Analyse financière et diagnostic des équilibres.
+
+      L'analyse financière est une prestation individualisée et objective dont le rapport écrit est destiné à l'ordonnateur. Elle permet de relier la situation budgétaire du compte administratif à la situation patrimoniale décrite au compte de gestion.
+
+      L'analyse rétrospective repose sur trois étapes incluant la formation de l'autofinancement, le financement des investissements et l'équilibre financier global. Elle permet de calculer la capacité d'autofinancement et de déterminer le solde disponible pour les investissements.
+
+      Une fiche d'analyse des équilibres financiers fondamentaux, appelée fiche AEFF, est disponible pour les communes, les départements et les régions. Ce document présente la structure des dépenses de fonctionnement, le niveau de l'endettement et l'importance de l'autofinancement.
+
+      L'analyse prospective est une démarche conjointe entre l'ordonnateur et son comptable basée sur des hypothèses d'évolution. Le comptable réalise des simulations de scénarios de financement en respectant les règles et les contraintes d'endettement.
+
+      Le dispositif permet également l'agrégation des données pour les EPCI à fiscalité propre et les communes membres. Cette méthode améliore l'information financière en croisant les données des communes et de la structure intercommunale.
+
+   C. Dispositifs de détection des difficultés financières et analyse des risques.
+
+      Le réseau d'alerte sur les finances locales permet de déceler préventivement les difficultés financières dès le printemps suivant la clôture de l'exercice. Ce dispositif repose sur des critères définis avec la direction générale des Collectivités locales.
+
+      Les directeurs départementaux ou régionaux des Finances publiques et les préfets peuvent appeler rapidement l'attention des élus sur les risques identifiés. Cette action permet de prendre les dispositions nécessaires le plus en amont possible.
+
+      L'analyse des risques est une prestation innovante destinée notamment aux collectivités les plus importantes. Elle consiste à identifier et analyser les risques pouvant avoir des répercussions sur la situation financière ou les marges de manœuvre.
+
+      Ces risques peuvent émaner des principaux partenaires de la collectivité ou résulter de ses engagements tels que les cautions et les garanties d'emprunt. L'évaluation de leur impact est réalisée selon un guide méthodologique élaboré avec la DGFiP.
+
+III. L'EXPERTISE DOMANIALE ET LA GESTION DU PATRIMOINE.
+
+   A. Évaluation des biens et politique immobilière.
+
+      France Domaine dispose dans tous les départements d'un service spécifiquement dédié à l'accomplissement des missions domaniales.
+
+      Ce service agit comme un véritable partenaire des collectivités en proposant une expertise en matière immobilière.
+
+      Il réalise l'analyse économique et financière des projets immobiliers pour lesquels les collectivités sollicitent son avis.
+
+      Les services du Domaine permettent également de disposer d'un avis sur la valeur locative ou vénale des biens lors de l'élaboration d'une politique immobilière.
+
+      Cette mission d'évaluation concerne les immeubles que les collectivités territoriales ou leurs groupements souhaitent acheter, prendre à bail ou vendre.
+
+      Pour la période deux mille huit-deux mille treize, les services du Domaine ont réalisé en moyenne cent dix mille évaluations chaque année pour le compte des collectivités et de leurs groupements.
+
+   B. Urbanisme et droit de préemption.
+
+      La commune est responsable de sa politique foncière et urbaine afin de protéger les espaces naturels et d'adapter l'offre foncière aux besoins d'urbanisation.
+
+      L'État peut réfléchir avec les collectivités à la valorisation de certaines zones lors de l'élaboration ou de la révision des documents d'urbanisme.
+
+      La loi a réformé le droit de priorité et le droit de préemption des collectivités territoriales.
+
+      Dans le cadre du droit de priorité, France Domaine doit notifier son intention de vendre un bien domanial avant toute cession.
+
+      Cette procédure est accompagnée de la valeur vénale du bien et permet aux collectivités publiques d'acquérir des biens domaniaux par priorité.
+
+      La mise en œuvre de ce droit de priorité facilite la conduite d'opérations de logements sur des terrains domaniaux pouvant être vendus avec décote.
+
+   C. Gestion des biens vacants et expropriation.
+
+      Les biens sans maître appartiennent désormais aux communes et, en cas de renonciation de leur part, ils reviennent à l'État.
+
+      Il incombe aux collectivités de s'assurer du statut juridique des biens pour les qualifier de biens sans maître avant toute procédure d'appréhension.
+
+      Des recoupements d'information sont possibles auprès du centre des Finances publiques chargé du recouvrement des taxes foncières et des services de publicité foncière.
+
+      Dans le cadre de projets d'intérêt général, les collectivités territoriales doivent parfois procéder à des expropriations.
+
+      Un agent de France Domaine exerce les fonctions de commissaire du Gouvernement pour éclairer objectivement la fixation des indemnités devant le juge judiciaire.
+
+      Ce représentant de la juridiction de l'expropriation est chargé de l'évaluation du bien et de la détermination des indemnités pour réparer les préjudices subis.
+
+IV. LA SIMPLIFICATION DES PROCÉDURES DE RECETTES ET DE DÉPENSES.
+
+   A. Modernisation de l'encaissement des recettes.
+
+      Le réseau de la DGFiP utilise des outils industriels de recouvrement de masse performants pour assurer l'encaissement des recettes publiques les plus diverses.
+
+      L'adhésion des collectivités locales au système de paiement par carte bancaire s'effectue par l'intermédiaire du comptable public.
+
+      Le dispositif TIPI permet l'encaissement des produits locaux par carte bancaire via Internet de manière entièrement automatisée.
+
+      Ce service TIPI est accessible 24h/vingt-quatre et 7j/sept pour l'encaissement de créances courantes comme les cantines, les transports ou l'eau et l'assainissement.
+
+      Le prélèvement SEPA constitue un premier moyen de recouvrement automatisé adapté aux créances nombreuses et répétitives telles que les redevances d'eau.
+
+      Le Titre Interbancaire de Paiement est un mode de recouvrement particulièrement adapté aux recettes répétitives comme le paiement des loyers.
+
+   B. Gestion des impayés et recouvrement.
+
+      La charte nationale des bonnes pratiques de gestion des recettes propose des préconisations pour bénéficier de la chaîne de la recette.
+
+      En cas de recouvrement compromis, les échanges avec le comptable permettent d'identifier les créances à provisionner ou à passer en charge.
+
+      L'ordonnateur doit signaler au comptable les éventuelles réclamations en cours et mettre en œuvre des actions d'accompagnement de l'usager.
+
+      La mise en place d'une régie prolongée permet au régisseur d'adresser des demandes de paiement en l'absence de règlement au comptant.
+
+      Les collectivités bénéficient de procédures contentieuses simplifiées comme l'opposition à tiers détenteur grâce au droit de communication des comptables publics.
+
+   C. Solutions de paiement pour les dépenses locales.
+
+      Le prélèvement est une solution possible pour le règlement de certaines dépenses telles que les péages, les factures de téléphone ou de gaz.
+
+      Le paiement des dépenses par carte bancaire est possible pour le régisseur d'un organisme public local via une carte nationale ou internationale VISA.
+
+      La carte d'achat permet de simplifier la chaîne de dépense en permettant aux porteurs de carte de passer des commandes de petit montant.
+
+      Ce dispositif de carte d'achat intègre un système informatique bancaire qui contrôle l'habilitation du porteur et ses droits d'utilisation.
+
+      L'opérateur bancaire restitue périodiquement à l'ordonnateur des relevés précis de commandes qui sont transmis au comptable pour paiement.
+
+V. LE PARTENARIAT ET LA GOUVERNANCE FINANCIÈRE.
+
+   A. Conventions de services et engagements partenariaux.
+
+      La DGFiP propose des conventions de services comptable et financier pour les grandes collectivités comme les régions, les départements ou les communes de plus de cent mille habitants. Ces conventions visent à mettre en œuvre des prestations innovantes et à rapprocher les services gestionnaires et comptables.
+
+      Ces accords permettent notamment de reconfigurer les chaînes administratives de la dépense et du recouvrement par la dématérialisation. Ils incluent également le développement de la monétique et des moyens automatisés de paiement.
+
+      Pour les structures de taille plus limitée, la DGFiP a mis en place depuis deux mille dix l'engagement partenarial. Ce dispositif est adapté aux besoins des villes moyennes, des communes rurales, des établissements publics de santé et des offices publics de l'habitat.
+
+      L'engagement partenarial repose sur un diagnostic partagé et l'identification préalable des priorités. Un bilan annuel est réalisé conjointement pour assurer la progression des actions mises en œuvre.
+
+      L'objectif de cette démarche est d'améliorer l'efficacité des procédures et la lisibilité des comptes. Elle permet aussi de développer l'expertise comptable, fiscale, financière et domaniale au service des responsables locaux.
+
+   B. Le tableau de bord de l'élu.
+
+      Le tableau de bord de l'élu est un support dématérialisé d'information sur la performance de la gestion financière de la collectivité. Il est accessible aux ordonnateurs via le Portail de la gestion publique après une habilitation par le comptable.
+
+      Cet outil permet une restitution directe, automatisée et mensuelle d'indicateurs de gestion essentiels. Il aide ainsi les décideurs à piloter les procédures de dépenses et de recettes.
+
+      Parmi les indicateurs disponibles figurent le délai global de paiement des dépenses et le taux de recouvrement. Le tableau de bord présente aussi le montant moyen des actes de poursuites.
+
+      Il permet également de suivre les opérations provisoires de dépenses et de recettes. Enfin, il assure le suivi du taux de consommation des crédits pour une meilleure information sur les impératifs de gestion.
+
+   C. Accès à l'information et veille juridique.
+
+      Le site Internet www.collectivites-locales.gouv.fr constitue un point d'accès unique à l'information produite par la DGFiP et la DGCL. Il est ouvert depuis le onze avril deux mille treize dans un effort de modernisation des sites de l'État.
+
+      L'équipe éditoriale du site assure une veille juridique et documentaire quotidienne sur les réformes législatives et les évolutions réglementaires. Elle publie également des rapports, des études statistiques et des questions parlementaires.
+
+      Les internautes peuvent s'abonner gratuitement à la lettre d'information électronique pour suivre l'actualité. Cette lettre est diffusée de manière bimensuelle et signale les nouveautés mises en ligne sur le portail.
+
+      Pour les acheteurs publics, une cellule d'information juridique dédiée répond aux questions sur la passation des marchés publics. Ce service s'engage à apporter une réponse dans un délai maximum de quarante-huit heures.
+
+      Les acheteurs peuvent contacter cette cellule par téléphone, par télécopie ou directement en ligne sur l'espace Commande publique du site. Les thèmes abordés incluent les procédures de passation, les documents de marchés et les commissions d'appel d'offres.
+
+VI. LA TRANSFORMATION NUMÉRIQUE ET LES OUTILS INFORMATIQUES.
+
+   A. La stratégie de dématérialisation de la chaîne comptable.
+
+      La DGFiP a engagé dès la mi-deux mille quatre une démarche partenariale pour favoriser la dématérialisation dans le secteur public local. Cette initiative a été consolidée par la signature de la Charte nationale partenariale de dématérialisation en décembre deux mille quatre.
+
+      L'objectif est d'organiser une dématérialisation cohérente des grands flux de documents papier entre les ordonnateurs, les comptables publics et les chambres régionales des comptes. Cette démarche vise à réduire les volumes considérables de papier, qui s'élèvent à plus d'un milliard de feuilles par an.
+
+      Le dispositif s'appuie sur une organisation dédiée comprenant une Mission de déploiement de la dématérialisation au niveau central et un réseau de correspondants dématérialisation dans chaque département. Neuf pilotes d'accompagnement du changement interviennent également au niveau inter-régional.
+
+      La convention cadre nationale du dix-huit janvier deux mille dix détermine les modalités de dématérialisation des documents pour l'exécution budgétaire et comptable. Elle répartit les échanges à parts égales entre les pièces justificatives et les données de prise en charge.
+
+      La dématérialisation des pièces justificatives privilégie le format XML, exploitable avec l'outil gratuit XéMéLios. Les solutions couvrent les états de paye, les délibérations, les contrats de marchés publics ainsi que les factures de dépense et de recette.
+
+   B. Le système d'information Hélios et le portail de gestion.
+
+      L'application Hélios, dont le déploiement s'est achevé fin deux mille dix, constitue l'outil informatique unique de gestion comptable et financière pour le secteur public local. Elle remplace une vingtaine d'applications préexistantes pour moderniser la tenue des comptes.
+
+      Hélios permet d'assurer les opérations de gestion courante comme le traitement des mandats, le suivi des délais de paiement et la gestion de la trésorerie. Elle propose également des services innovants tels que l'adaptation aux nouveaux moyens de paiement européens.
+
+      Le Portail de la gestion publique offre aux ordonnateurs un accès sécurisé en temps réel aux informations budgétaires et financières via un simple navigateur. Il permet notamment la consultation du tableau de bord de l'élu et l'échange de fichiers.
+
+      Pour faciliter le travail des services, le portail propose six profils spécialisés comme les profils dépenses, recettes ou recouvrement. Les établissements publics de santé disposent de profils spécifiques pour l'activité libérale et les dossiers d'hébergés.
+
+      La DGFiP facilite la dématérialisation de la signature électronique en mettant gratuitement à disposition un certificat électronique et un outil de signature. Cela permet de valider en ligne les bordereaux récapitulatifs de recettes et de dépenses.
+
+   C. Les nouveaux protocoles d'échanges de fichiers.
+
+      Le Protocole d'Échanges Standard ou PES unifie les données échangées au moyen d'un format unique pour toutes les collectivités. Ce protocole a vocation à se substituer progressivement aux anciens protocoles comme INDIGO, OCRE ou HTITRE.
+
+      L'adoption du PES est devenue obligatoire pour les collectivités dans leurs échanges avec la DGFiP à compter du premier janvier deux mille quinze. Ce passage permet de bénéficier de l'ensemble des nouveaux services d'Hélios offerts aux ordonnateurs.
+
+      Le protocole PES est le fruit d'une négociation avec les partenaires de la DGFiP, notamment les associations de représentants de collectivités, la Cour des comptes et les Chambres régionales des comptes.
+
+      L'utilisation de ce format standardisé permet d'assurer une dématérialisation efficiente et concertée de l'ensemble des documents échangés entre les acteurs de la chaîne comptable.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre le rôle de l'ordonnateur et celui du comptable public car si le premier initie les opérations le second est le seul habilité à manier les fonds.
+
+      La distinction est importante entre les conventions de services comptables et financiers destinées aux grandes collectivités et l'engagement partenarial qui est adapté aux structures de taille plus limitée.
+
+      Une nuance essentielle réside dans la responsabilité du comptable qui est personnelle et pécuniaire tandis que l'ordonnateur est le responsable de la constitution du fichier des prélevés.
+
+      Il faut distinguer l'analyse financière rétrospective qui étudie la structure passée des comptes de l'analyse prospective qui repose sur des simulations et des hypothèses d'évolution.
+
+      La dématérialisation ne concerne pas uniquement les données mais inclut également les pièces justificatives qui sont traitées via des protocoles spécifiques comme le PES.
+
+EXEMPLES CITÉS.
+
+      Le réseau de la DGFiP est présent au quotidien dans la vie financière de près de cent dix mille collectivités territoriales et établissements publics locaux.
+
+      Le site internet www.collectivites-locales.gouv.fr a enregistré un virgule huit million de visites entre avril et décembre deux mille treize.
+
+      La Cellule d'information juridique aux acheteurs publics s'engage à répondre aux questions concernant la commande publique dans un délai maximum de quarante-huit heures.
+
+      Le service France Domaine réalise en moyenne cent dix mille évaluations par an pour les collectivités territoriales et leurs groupements.
+
+      La production de papier par les collectivités représente cinq mille tonnes par an ce qui équivaut à deux cent quatre-vingts hectares de forêt.

@@ -1,0 +1,257 @@
+GUIDE COMPLET SUR LES SOLDES INTERMÉDIAIRES DE GESTION ET L'ANALYSE DE LA SOLVABILITÉ.
+
+LEXIQUE COMPLET.
+
+      Les SIG désignent les Soldes Intermédiaires de Gestion qui permettent de comprendre la formation du résultat de l'entreprise en le décomposant en plusieurs indicateurs.
+
+      Le Chiffre d'Affaires désigne un indicateur de base qui indique le niveau d'activité d'une entreprise sur une période donnée.
+
+      La Marge commerciale ou marge brute désigne un indicateur de pilotage qui permet de mesurer la capacité de l'entreprise à dégager des profits sur la revente de la marchandise.
+
+      La Valeur Ajoutée désigne la richesse créée par l'entreprise grâce à son activité.
+
+      L'Excédent Brut d'Exploitation désigne la capacité d'une entreprise à générer des ressources de trésorerie du seul fait de son exploitation.
+
+      Le Résultat d'Exploitation désigne la capacité de l'entreprise à générer des ressources avec son activité principale sans prendre en compte les éléments financiers ni exceptionnels.
+
+      Le Résultat Net désigne l'enrichissement ou l'appauvrissement de l'entreprise au cours d'une période considérée.
+
+      La Capacité d'Autofinancement désigne le montant de la trésorerie potentielle qui est générée par l'entreprise dans le cadre de son activité.
+
+      La Solvabilité désigne la capacité d'une entreprise à rembourser ses dettes en revendant ses actifs.
+
+      La Banque de France désigne l'organisme qui est le propriétaire exclusif du document et l'opérateur national EDUCFI.
+
+      Le Code de la propriété intellectuelle désigne le texte législatif dont les articles L trois cent trente-cinq-deux et suivants sanctionnent le délit de contrefaçon.
+
+COURS DÉTAILLÉ.
+
+I. LES SOLDES INTERMÉDIAIRES DE GESTION (SIG).
+
+   A. Définition et objectifs de l'outil.
+
+      Les SIG ou soldes intermédiaires de gestion permettent de comprendre la formation du résultat de l'entreprise en le décomposant en plusieurs indicateurs.
+
+      Cet outil est présenté comme un tableau pratique et facile à utiliser que l'expert comptable fournit avec le compte de résultat.
+
+      L'objectif est de décomposer le résultat final pour analyser la performance économique et la santé financière de la structure.
+
+      Les banquiers et les investisseurs observent ces indicateurs avec une attention très particulière lors de l'analyse financière.
+
+   B. Utilité pour le pilotage et la comparaison.
+
+      Le tableau des SIG sert à comparer les données financières de l'entreprise par rapport à celles de son secteur d'activité.
+
+      Il permet également d'analyser les variations des indicateurs par rapport aux exercices précédents.
+
+      L'outil est indispensable pour calculer des ratios financiers qui servent de base au diagnostic financier.
+
+      Le chef d'entreprise utilise notamment la marge commerciale pour mesurer sa capacité à dégager des profits sur la revente de marchandise.
+
+      La valeur ajoutée sert à mesurer la richesse créée par l'entreprise grâce à son activité.
+
+      L'EBE exprime la capacité de l'entreprise à générer des ressources de trésorerie par son seul fait d'exploitation.
+
+   C. Méthodologie de calcul à partir du compte de résultat.
+
+      Le calcul des SIG s'effectue à partir des mêmes éléments que ceux figurant dans le compte de résultat, à savoir les charges et les produits.
+
+      Le calcul doit être effectué par étapes successives en suivant un ordre logique allant du chiffre d'affaires jusqu'au résultat net.
+
+      Le chiffre d'affaires se calcule en additionnant les ventes de marchandises et les ventes de biens et de services.
+
+      La marge brute commerciale est obtenue en soustrayant les consommables du chiffre d'affaires.
+
+      La valeur ajoutée correspond à la marge brute moins les frais généraux.
+
+      L'EBE se détermine en prenant la valeur ajoutée et en y soustrayant les salaires ainsi que les impôts et taxes.
+
+II. L'ESCALIER DES INDICATEURS DE PERFORMANCE.
+
+   A. De la marge commerciale à la valeur ajoutée.
+
+      Le chiffre d'affaires constitue l'indicateur de base qui indique le niveau d'activité d'une entreprise sur une période donnée. Il se calcule par l'addition des ventes de marchandises et des ventes de biens et de services.
+
+      La marge brute ou marge commerciale est un indicateur de pilotage primordial pour le chef d'entreprise. Elle permet de mesurer la capacité de l'entreprise à dégager des profits sur la revente de la marchandise en soustrayant les consommables du chiffre d'affaires.
+
+      La valeur ajoutée mesure la richesse créée par l'entreprise grâce à son activité. Elle s'obtient en déduisant les frais généraux de la marge brute.
+
+   B. L'excédent brut d'exploitation et le résultat d'exploitation.
+
+      L'excédent brut d'exploitation ou EBE est un indicateur clé de la performance qui exprime la capacité d'une entreprise à générer des ressources de trésorerie du seul fait de son exploitation. Son calcul nécessite de soustraire les salaires ainsi que les impôts et taxes de la valeur ajoutée.
+
+      L'EBE est calculé sans tenir compte de la politique d'amortissement ni des éléments financiers ou exceptionnels. Il représente le cash-flow tiré de l'exploitation et sert de base pour maintenir et développer l'outil de production.
+
+      Le résultat d'exploitation ou REX mesure la capacité de l'entreprise à générer des ressources avec son activité principale. Il met en avant la performance économique en ne prenant pas en compte les éléments financiers ni exceptionnels.
+
+      Le calcul du REX s'effectue en ajoutant les produits divers à l'EBE, puis en déduisant les charges diverses, les dotations aux amortissements et les dotations aux provisions.
+
+   C. Du résultat net à la capacité d'autofinancement.
+
+      Le résultat net caractérise l'enrichissement ou l'appauvrissement de l'entreprise au cours d'une période considérée. Il s'obtient en faisant la différence entre le total des produits et le total des charges.
+
+      Pour calculer le résultat net, on additionne le REX, le résultat financier et le résultat exceptionnel, puis on en soustrait les impôts.
+
+      La capacité d'autofinancement ou CAF permet de déterminer le montant de la trésorerie potentielle qui est générée par l'entreprise dans le cadre de son activité.
+
+      Le calcul de la CAF s'appuie sur le résultat net auquel on ajoute les dotations aux amortissements et provisions, puis on soustrait les reprises sur amortissements et provisions, les produits de cession d'éléments d'actifs cédés et la valeur comptable des éléments d'actifs cédés.
+
+III. LES ENJEUX DU DIAGNOSTIC FINANCIER.
+
+   A. Analyse de la santé financière et de la performance.
+
+      Le diagnostic financier s'appuie sur les SIG pour réaliser une étude de la santé financière et de la performance économique des entreprises.
+
+      Les SIG permettent de comprendre la formation du résultat de l'entreprise en le décomposant en plusieurs indicateurs précis.
+
+      Ces indicateurs servent à comparer les données financières par rapport aux exercices précédents ou à celles du secteur d'activité.
+
+      L'analyse permet également de calculer des ratios financiers pour évaluer la capacité de l'entreprise à générer des ressources.
+
+   B. Rôle des indicateurs pour les banquiers et investisseurs.
+
+      Les SIG sont observés avec une attention très particulière par les banquiers et les investisseurs.
+
+      Ces acteurs utilisent les indicateurs pour évaluer la structure financière et la capacité de l'entreprise à rembourser ses dettes.
+
+      La solvabilité est un enjeu majeur car elle permet d'apprécier la capacité de l'entreprise à honorer ses dettes en revendant ses actifs.
+
+      Les banquiers se basent sur les ratios calculés à partir des dettes déjà contractées ainsi que sur ceux relatifs aux futurs emprunts.
+
+      Une bonne solvabilité permet de rassurer le banquier lors d'une demande de financement.
+
+   C. Interprétation des résultats par les différents acteurs.
+
+      Le résultat net intéresse plusieurs acteurs qui recherchent des informations globales différentes selon leurs objectifs.
+
+      Les actionnaires s'intéressent principalement aux dividendes que l'entreprise peut leur verser.
+
+      Le chef d'entreprise utilise les indicateurs pour mesurer la performance globale de son activité.
+
+      L'État recherche l'information concernant l'impôt sur les bénéfices.
+
+      La banque utilise les données pour servir de base de calcul de ratios afin d'évaluer le risque.
+
+IV. LES FONDAMENTAUX DE LA SOLVABILITÉ.
+
+   A. Définition et notion de balance actifs-dettes.
+
+      La solvabilité correspond à la capacité d'une entreprise à rembourser ses dettes en revendant ses actifs si elle se trouvait en mauvaise posture à un instant T.
+
+      Une entreprise est considérée comme solvable lorsque ses actifs sont supérieurs à ses dettes.
+
+      La balance de solvabilité doit impérativement pencher du côté des actifs pour assurer la pérennité de la structure.
+
+      Les capitaux propres représentent la différence entre les actifs et les dettes et constituent des garanties pour les divers créanciers.
+
+   B. Importance de la solvabilité pour le financement.
+
+      L'étude de la solvabilité permet aux acteurs externes d'évaluer le poids de l'endettement d'une entreprise.
+
+      Cette analyse est particulièrement utile lors d'une demande de financement pour rassurer ses partenaires.
+
+      Le banquier se base sur les ratios calculés à partir des dettes déjà contractées ainsi que sur ceux relatifs aux futurs emprunts.
+
+      Une bonne solvabilité permet de rassurer son banquier et d'augmenter les chances d'obtenir un financement.
+
+      Les investisseurs potentiels utilisent également cette notion pour évaluer la structure financière.
+
+   C. Conséquences d'une solvabilité insuffisante.
+
+      Une solvabilité insuffisante constitue une cause majeure de défaillance des entreprises en France.
+
+      Si une entreprise possède plus d'emprunts que de capitaux propres, le banquier pourra conseiller de renforcer les fonds propres ou de trouver de nouveaux associés.
+
+      Le dirigeant peut remédier à cette situation en arrêtant la distribution de dividendes ou en incorporant les réserves au capital.
+
+      Une mauvaise maîtrise de la solvabilité peut conduire l'entreprise vers le dépôt de bilan.
+
+V. LES RATIOS DE SOLVABILITÉ ET LEUR INTERPRÉTATION.
+
+   A. Le taux d'endettement financier.
+
+      Le taux d'endettement financier est un indicateur qui mesure le recours à l'emprunt par l'entreprise.
+
+      Il se calcule en divisant l'endettement financier par les capitaux propres nets.
+
+      Pour l'exemple d'Alain, le calcul utilise un montant de soixante mille euros de dettes financières et six mille euros de dettes fournisseurs pour un total de soixante-six mille euros.
+
+      Le résultat obtenu pour Alain est de cinquante-sept virgule quatre-vingt-neuf pour cent alors que le seuil d'alerte est fixé à un rapport supérieur à cent pour cent.
+
+      Si l'on prend en compte le crédit-bail dans le calcul de l'endettement, le ratio peut se dégrader.
+
+   B. Le ratio de couverture du risque global.
+
+      Ce ratio est un indicateur quantitatif qui sert à mesurer la résistance de l'entreprise face à des pertes éventuelles.
+
+      La formule de calcul consiste à diviser les capitaux propres nets par le total du bilan.
+
+      Dans le cas d'Alain, le ratio est de soixante-trois virgule trente-trois pour cent ce qui est supérieur au seuil d'alerte de vingt pour cent.
+
+      Pour la SARL DUPAIN, le ratio de couverture est de vingt-deux pour cent avant le retraitement du crédit-bail et tombe à vingt pour cent après.
+
+      Une analyse de la solvabilité permet d'apprécier la capacité de l'entreprise à rembourser ses dettes en revendant ses actifs.
+
+   C. Le ratio légal et les seuils d'alerte.
+
+      Le ratio légal compare les capitaux propres au capital social de la société.
+
+      Le seuil d'alerte pour ce ratio est atteint lorsque la valeur est inférieure à zéro virgule cinq.
+
+      Pour Alain, le ratio légal s'élève à vingt-deux virgule huit ce qui est bien au-dessus du seuil critique.
+
+      Les banquiers et investisseurs observent ces indicateurs pour évaluer le poids de l'endettement et la structure financière.
+
+      Une bonne solvabilité permet de rassurer les partenaires financiers lors d'une demande de financement.
+
+VI. STRATÉGIES ET ANALYSE DE CAS PRATIQUES.
+
+   A. Méthodes pour renforcer la solvabilité.
+
+      Le dirigeant peut renforcer la solvabilité de son entreprise en décidant d'incorporer les réserves au capital social.
+
+      Une autre méthode consiste à stopper la distribution de dividendes afin de conserver les ressources au sein de la structure.
+
+      Le dirigeant peut également procéder à des cessions d'actifs qui permettent de dégager des plus-values.
+
+   B. Impact du retraitement du crédit-bail.
+
+      Le retraitement du bilan en tenant compte des engagements de crédit-bail immobilier entraîne une dégradation du ratio dettes financières sur fonds propres.
+
+      Dans l'analyse de cas de la SARL DUPAIN, l'endettement financier passe de deux cent trente-trois pour cent à deux cent soixante-quinze pour cent après l'intégration des cinquante mille euros de crédit-bail.
+
+      Le taux de couverture du risque global diminue également, passant de vingt-deux pour cent à vingt pour cent suite à ce retraitement.
+
+   C. Utilisation des ratios pour l'aide à la décision.
+
+      Les ratios de solvabilité servent à rassurer les partenaires financiers comme les banquiers lors d'une demande de financement.
+
+      Le taux d'endettement financier permet d'évaluer le recours à l'emprunt et doit idéalement être inférieur à cent pour cent.
+
+      Le ratio de couverture du risque global mesure la résistance aux pertes éventuelles et doit rester supérieur à vingt pour cent.
+
+      Le ratio légal compare les capitaux propres au capital social et doit être supérieur ou égal à zéro virgule cinq.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre le chiffre d'affaires avec la performance globale car il n'est pas un indicateur suffisant à lui seul.
+
+      Le calcul des SIG doit impérativement être effectué par étapes successives et non tous en même temps.
+
+      L'EBE mesure la capacité à générer de la trésorerie par l'exploitation sans inclure les politiques d'amortissement ou les éléments financiers.
+
+      Le REX est différent de l'EBE car il intègre les éléments financiers et exceptionnels mais ne tient pas compte des flux de trésorerie.
+
+      La solvabilité ne se résume pas à un seul ratio car le calcul d'un ratio seul ne suffit pas à connaître la santé financière.
+
+      Le retraitement du crédit-bail immobilier dégrade le ratio d'endettement financier et diminue le taux de couverture du risque global.
+
+EXEMPLES CITÉS.
+
+      Pour la boulangerie d'Alain, le taux d'endettement financier est de cinquante-sept virgule quatre-vingt-neuf pour cent alors que le seuil d'alerte est supérieur à cent pour cent.
+
+      Le ratio de couverture du risque global d'Alain s'élève à soixante-trois virgule trente-trois pour cent ce qui est bien au-dessus du seuil d'alerte de vingt pour cent.
+
+      Dans le cas de la SARL DUPAIN, le taux d'endettement financier passe de deux cent trente-trois pour cent à deux cent soixante-quinze pour cent après le retraitement du crédit-bail de cinquante mille euros.
+
+      Le taux de couverture du risque global de la SARL DUPAIN passe de vingt-deux pour cent à vingt pour cent suite au retraitement des engagements de crédit-bail.

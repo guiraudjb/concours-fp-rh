@@ -1,0 +1,247 @@
+LE CONTENTIEUX DE LA FONCTION PUBLIQUE ET SES MODALITÉS PROCÉDURALES.
+
+LEXIQUE COMPLET.
+
+      Le contentieux de l'excès de pouvoir désigne un recours qui permet de demander l'annulation d'une décision administrative illégale sans que le juge puisse la modifier ou la remplacer.
+
+      Le plein contentieux désigne une catégorie de litiges où le juge dispose de pouvoirs étendus pour condamner l'administration à verser une somme d'argent ou à remplir une obligation de faire.
+
+      Le recours administratif préalable obligatoire ou RAPO désigne une formalité qui doit être accomplie avant de saisir le juge pour certains types de litiges.
+
+      Le sigle CE désigne le Conseil d'État qui est la juridiction administrative suprême.
+
+      Le sigle CJA désigne le code de justice administrative qui régit les règles de procédure devant les juridictions administratives.
+
+      Le sigle CRPA désigne le code des relations entre le public et l'administration.
+
+      La mesure d'ordre intérieur désigne un acte administratif individuel qui ne fait pas grief au motif qu'il n'emporte pas d'effets significatifs sur la situation de la personne.
+
+      L'annulation rétroactive désigne un effet de la décision du juge par lequel l'acte annulé est réputé n'avoir jamais existé.
+
+      La jurisprudence Danthony désigne la règle selon laquelle un vice de procédure n'entraîne l'annulation de l'acte que s'il a exercé une influence sur le sens de la décision ou privé les intéressés d'une garantie.
+
+      La commission consultative paritaire ou CAP désigne un organisme consultatif qui peut être saisi dans le cadre d'une procédure disciplinaire.
+
+      Le délai de recours contentieux désigne le délai de deux mois qui doit être respecté pour attaquer une décision administrative.
+
+      La reconstitution de carrière désigne l'obligation pour l'administration de rétablir la situation d'un agent comme si la décision illégale n'était jamais intervenue.
+
+COURS DÉTAILLÉ.
+
+I. L'INTÉRÊT POUR AGIR ET LES ACTIONS COLLECTIVES.
+
+   A. L'intérêt des groupements et syndicats.
+
+      Les groupements de fonctionnaires ont pour vocation de préserver les intérêts collectifs de leurs membres et non leurs intérêts individuels. Leur action contentieuse vise le plus souvent des mesures réglementaires.
+
+      Les syndicats peuvent toutefois agir contre certaines décisions individuelles si celles-ci lèsent de façon suffisamment directe et certaine les intérêts collectifs d'un corps ou d'un cadre d'emplois. Le CE, dix-huit janvier deux mille treize, Syndicat de la magistratrie, n° trois cent cinquante-quatre mille deux cent dix-huit, Rec. illustre cette possibilité.
+
+      Il existe deux tempéraments permettant à un syndicat ou une association professionnelle de contester une décision individuelle négative. Le groupement peut soit se prévaloir d'un mandat spécial de l'agent concerné, soit agir si ses conclusions constituent une intervention à l'appui d'une contestation individuelle.
+
+      Un syndicat a également intérêt à demander l'annulation d'un acte individuel qui promeut un fonctionnaire en créant un emploi sur lequel il est nommé. Le CE, deux juin deux mille dix, Commune de Loos, n° trois cent neuf mille quatre cent quarante-six, Rec., confirme ce principe.
+
+      Enfin, les fonctionnaires peuvent contester les nominations illégales au sein de leur administration si elles retardent leur avancement ou favorisent des concurrents ne satisfaisant pas aux conditions légales. Le CE, vingt-six décembre mille neuf cent vingt-cinq, Sieur A…, n° quatre-vingt-huit mille trois cent soixante-neuf, Rec. pose ce principe.
+
+   B. La distinction entre mesures individuelles positives et négatives.
+
+      Le juge administratif distingue les mesures individuelles selon qu'elles sont favorables ou défavorables à leur destinataire. Les mesures positives créent des droits au profit de l'agent tandis que les mesures négatives n'affectent que ses intérêts individuels.
+
+      S'agissant des mesures individuelles positives, le juge admet l'intérêt des groupements à en demander l'annulation. Cela concerne par exemple une nomination ou une affectation.
+
+      En revanche, les groupements sont en principe irrecevables pour demander l'annulation de mesures individuelles négatives en vertu du principe nul ne plaide par procureur. Le CE, vingt et un novembre mille neuf cent vingt-trois, Association des fonctionnaires de l'administration centrale des postes et télégraphes, Rec. a consacré ce principe.
+
+      Seul le fonctionnaire concerné détient un intérêt pour attaquer une décision qui lui refuse une nomination ou une sanction disciplinaire. Un autre agent est considéré comme un tiers dans ces situations.
+
+      Toutefois, un syndicat peut agir contre une décision négative s'il intervient en appui de la contestation de l'agent. Le CE, vingt et un mai mille neuf cent cinquante-trois, Chambre syndicale nationale des fabricants de spécialités chimiques destinées à l'horticulture, Rec. est une référence sur ce point.
+
+   C. Les actions de groupe et la reconnaissance de droits.
+
+      La loi n° deux mille seize-mille cinq cent quarante-sept du dix-huit novembre deux mille seize a créé deux actions permettant à un syndicat ou une association de défendre des intérêts individuels d'agents publics. Ces actions visent à obtenir la cessation d'un manquement et éventuellement la réparation des préjudices.
+
+      L'action de groupe relative à une discrimination imputable à un employeur est ouverte aux syndicats représentatifs de magistrats ou aux associations intervenant depuis au moins cinq ans en matière de handicap ou de discrimination. Elle permet de traiter des discriminations directes ou indirectes fondées sur un même motif.
+
+      L'action en reconnaissance de droits permet à un syndicat de déposer une requête pour faire reconnaître des droits individuels résultant de l'application de la loi ou du règlement. Cette action s'adresse à un groupe indéterminé de personnes ayant le même intérêt.
+
+      Si l'action en reconnaissance de droits permet d'obtenir le paiement d'une somme d'argent légalement due, elle ne peut pas tendre à la reconnaissance d'un préjudice. Elle peut toutefois permettre la décharge d'une somme d'argent illégalement réclamée.
+
+      Lorsque le juge fait droit à ces actions, il définit les critères d'adhésion ou les conditions de droit et de fait pour invoquer le bénéfice du jugement. Les agents peuvent s'en prévaloir directement contre l'administration une fois le jugement devenu définitif.
+
+II. LES DÉLAIS ET LES MODALITÉS DU RECOURS CONTENTIEUX.
+
+   A. Le principe du délai de deux mois et l'opposabilité.
+
+      Tout recours contre une décision administrative en matière de fonction publique doit être exercé dans un délai franc de deux mois. Ce délai court à compter de la publication de l'acte réglementaire ou de la notification de la décision individuelle.
+
+      Pour les décisions individuelles, la notification doit obligatoirement comporter la mention du délai de deux mois et l'indication des voies de recours. À défaut de ces mentions, le délai de deux mois n'est pas opposable au fonctionnaire.
+
+      Le point de départ du délai dépend de la forme de publicité de la décision. Pour un acte réglementaire, le délai court dès la publication suffisante, tandis que pour un acte individuel, il court dès la date de la notification.
+
+      La notification est réputée effective à la date à laquelle le document est effectivement parvenu au destinataire. En cas de refus de l'agent de retirer un pli ou de recevoir un document remis en main propre, le délai court dès la première présentation par le facteur.
+
+      Le délai de recours contentieux est un délai franc. Cela signifie que ni le premier jour de l'échéance ni le dernier jour ne sont pris en compte dans le décompte.
+
+      Si le dernier jour du délai tombe un samedi, un dimanche ou un jour férié, le délai de recours est repoussé jusqu'au premier jour ouvrable suivant à minuit.
+
+   B. Le délai raisonnable et la sécurité juridique.
+
+      Le principe de sécurité juridique empêche qu'une décision administrative individuelle puisse être contestée indéfiniment. Même si le délai de deux mois n'est pas opposable, aucun recours ne peut être exercé au-delà d'un délai raisonnable.
+
+      Le Conseil d'État a précisé dans l'arrêt M. Czabaj du treize juillet deux mille seize qu'un délai raisonnable ne saurait excéder un an à compter de la date où il est établi que le requérant a eu connaissance de la décision.
+
+      Ce délai d'un an sert de point de repère pour l'exercice du recours juridictionnel. Au-delà de cette période, l'exercice du recours devient en principe déraisonnable et le juge le déclare d'office irrecevable.
+
+      Le juge peut toutefois, au cas par cas, admettre la recevabilité d'un recours formé après un an en fonction des circonstances particulières de l'espèce.
+
+      L'exigence de sécurité juridique s'applique également aux recours administratifs préalables obligatoires lorsque l'administration a omis d'indiquer cette formalité. L'agent doit alors agir dans un délai raisonnable inférieur à un an.
+
+   C. L'interruption et la prorogation du délai par le recours administratif.
+
+      L'exercice d'un recours administratif, qu'il soit gracieux ou hiérarchique, effectué dans le délai de deux mois, interrompt le délai de recours contentieux. Ce recours administratif a pour effet de proroger le délai de recours initial.
+
+      À l'issue du recours administratif, le délai de deux mois recommence à courir à compter de la date de la décision de rejet. Ce rejet peut être une décision expresse notifiée ou une décision implicite née du silence de l'administration pendant deux mois.
+
+      L'exercice d'un second recours administratif n'a pas pour effet de proroger le délai de recours contentieux une nouvelle fois. Cependant, si un recours gracieux et un recours hiérarchique sont exercés consécutivement dans le délai initial, le délai est prorogé.
+
+      Le délai de recours est également prorogé lorsque l'intéressé demande la communication des motifs d'une décision implicite de rejet. Le délai de deux mois recommence alors à courir à partir du jour où les motifs lui ont été communiqués.
+
+      Il existe des cas où le recours administratif est un préalable obligatoire, comme pour les décisions relatives à la situation personnelle des militaires. Dans ces situations, l'omission de ce préalable entraîne l'irrecevabilité du recours contentieux.
+
+      L'exercice d'un recours contentieux prématuré, avant même l'exercice du recours administratif obligatoire, est systématiquement rejeté comme irrecevable par le juge.
+
+III. LA NATURE DU CONTENTIEUX ET LES POUVOIRS DU JUGE.
+
+   A. La distinction entre excès de pouvoir et plein contentieux.
+
+      Le contentieux administratif se divise en deux catégories principales que sont le contentieux de l'excès de pouvoir et le plein contentieux. Le recours pour excès de pouvoir est dispensé d'avocat et permet au juge de simplement annuler une décision entachée d'illégalité.
+
+      À l'inverse, le plein contentieux requiert en principe la présence d'un avocat et offre au juge des pouvoirs plus étendus. Dans ce cadre, le magistrat peut réformer la décision, condamner l'administration à verser une somme d'argent ou lui imposer une obligation de faire.
+
+      Le contentieux de la fonction publique relève presque entièrement de l'excès de pouvoir. Cela concerne notamment les recours contre les actes de promotion, de classement, d'affectation ou encore les sanctions disciplinaires.
+
+      Le plein contentieux est toutefois utilisé pour des litiges spécifiques comme la révision de pension ou lorsque le requérant réclame le paiement d'une créance. Il s'applique aussi quand la responsabilité de l'administration est engagée pour réparer un préjudice.
+
+      Il existe une distinction importante concernant les agents contractuels de droit public. Si le recours contre un refus de conclure un contrat relève de l'excès de pouvoir, l'exécution d'un contrat déjà signé relève du contentieux contractuel, qui est une forme de plein contentieux.
+
+   B. L'office du juge et le pouvoir d'injonction.
+
+      L'office du juge administratif dépend de la nature du litige soumis à son examen. Pour assurer l'effectivité de ses décisions, le juge de l'excès de pouvoir dispose désormais d'un pouvoir d'injonction depuis la loi n° quatre-vingt-quinze-cent vingt-cinq du huit février mille neuf cent quatre-vingt-quinze.
+
+      Le juge peut ordonner à l'administration de réexaminer une situation ou de prendre une nouvelle décision dans un délai qu'il fixe en vertu de l'article L. neuf cent onze-deux du CJA. Ces injonctions peuvent être assorties d'une astreinte selon l'article L. neuf cent onze-trois du CJA.
+
+      Depuis la loi n° deux mille dix-neuf-deux cent vingt-deux du vingt-trois mars deux mille dix-neuf, le juge peut employer ces prérogatives d'office sans que le requérant n'ait besoin de présenter de conclusions en ce sens. Cela permet de garantir que les conséquences de l'annulation soient réellement appliquées.
+
+      Le juge possède également la faculté de moduler les effets de ses décisions dans le temps. Il peut décider qu'une annulation rétroactive ne produira ses effets que plusieurs mois après la décision pour éviter des conséquences manifestement excessives.
+
+      En matière de plein contentieux, le juge peut directement condamner l'administration à verser une somme d'argent. Par exemple, dans l'arrêt CE, Sect., neuf décembre deux mille onze, M. A...B..., le juge a enjoint l'administration de verser une prime suite à l'annulation d'une décision.
+
+   C. La jurisprudence Sieur Lafage et l'articulation des demandes.
+
+      Le requérant n'a pas le choix entre les deux types de recours car la nature de son action dépend du contenu de ses conclusions. Si un agent demande le versement d'une somme ou une indemnité, il doit introduire une demande de plein contentieux.
+
+      Cette demande de plein contentieux nécessite l'assistance d'un avocat, ce qui peut représenter des frais supérieurs aux sommes en jeu. Cette règle est la conséquence de la distinction entre l'annulation et la condamnation pécuniaire.
+
+      Toutefois, la jurisprudence Sieur Lafage de mille neuf cent douze a admis une exception notable. Le Conseil d'État a permis d'introduire un recours en excès de pouvoir contre une décision refusant une somme d'argent, même si le juge ne peut pas condamner l'administration au paiement.
+
+      Dans ce cas particulier, le juge peut annuler la décision sans pour autant ordonner le versement des sommes réclamées. Cependant, si les motifs de l'annulation impliquent nécessairement que la somme est due, le juge de l'excès de pouvoir peut alors ordonner le versement.
+
+      Cette jurisprudence permet de transformer un excès de pouvoir en plein contentieux par l'effet de l'annulation. À l'inverse, une décision purement pécuniaire doit impérativement être attaquée par la voie du recours pour excès de pouvoir pour respecter les délais de prescription.
+
+IV. LES MESURES D'ORDRE INTÉRIEUR ET LES VICES DE PROCÉDURE.
+
+   A. Le régime des mesures d'ordre intérieur.
+
+      Les mesures d'ordre intérieur désignent une catégorie d'actes administratifs individuels qui ne font pas grief au motif qu'ils emportent des effets insuffisamment significatifs sur la situation de la personne. Ces actes sont par conséquent insusceptibles de faire l'objet d'un recours pour excès de pouvoir devant le juge administratif.
+
+      Le périmètre de ces mesures concerne essentiellement les décisions de changement d'affectation qui relèvent du pouvoir d'organisation du service. Elles ne sont toutefois pas attaquables que si elles ne portent pas atteinte aux droits et prérogatives que l'intéressé tire de son statut ou à ses droits et libertés fondamentaux.
+
+      La jurisprudence précise que les mesures n'emportant pas de perte de responsabilités ou de rémunération, ou ne traduisant pas une discrimination, sont considérées comme de simples mesures d'ordre intérieur. Par exemple, une note de service précisant les obligations de service des concierges d'un établissement de formation est insusceptible de recours.
+
+      Certaines décisions de changement d'affectation peuvent néanmoins être contestées si elles entraînent une atteinte significative. C'est le cas des décisions qui provoquent une diminution importante du niveau de responsabilités ou qui entraînent une perte de rémunération, comme la privation d'une prime de nuit.
+
+      Le juge a également établi que les mesures qui constituent en réalité une sanction disciplinaire déguisée ou une décision de mutation ne sont pas des mesures d'ordre intérieur. De même, une décision de changement d'affectation qui porte atteinte aux garanties statutaires de l'agent peut être attaquée.
+
+   B. La jurisprudence Danthony sur les vices de procédure.
+
+      La jurisprudence Danthony, issue de l'arrêt du CE, Ass., vingt-trois décembre deux mille onze, n° trois cent trente-cinq mille trente-trois, modifie l'office du juge de l'excès de pouvoir pour éviter l'annulation systématique des actes pour de simples irrégularités. Désormais, une irrégularité procédurale n'entache l'illégalité d'un acte que si elle a exercé une influence suffisante sur le sens de la décision prise ou si elle a privé les intéressés d'une garantie.
+
+      Le juge administratif doit apprécier concrètement, au cas par cas, la portée et les effets du vice constaté en fonction de l'objet de la procédure et de la nature de la décision. Cette approche in concreto évite une application abstraite et automatique de la règle de l'annulation.
+
+      Cette règle ne s'applique pas aux vices d'incompétence ou aux irrégularités formelles comme l'absence de signature ou de motivation. Elle concerne spécifiquement les irrégularités de procédure qui pourraient modifier le résultat de la décision ou l'exercice d'un droit.
+
+      L'omission d'une procédure de consultation obligatoire, comme celle des comités techniques, peut être sanctionnée si elle a privé les représentants du personnel d'une garantie. Toutefois, si les membres ont pu exprimer utilement leur opinion malgré un retard dans l'envoi des pièces, le vice peut ne pas entraîner l'annulation.
+
+      Il est important de noter que le vice de procédure ne peut plus être invoqué contre un acte réglementaire devenu définitif après l'expiration du délai de recours de deux mois. Dans ce cas, seuls les moyens tirés de l'incompétence, du détournement de pouvoir ou de la légalité intrinsèque restent invocables.
+
+   C. L'impact des irrégularités sur les garanties des agents.
+
+      La violation des droits de la défense constitue une garantie procédurale dont la méconnaissance entraîne l'annulation de l'acte individuel. Le juge vérifie si l'irrégularité a concrètement privé l'agent public de cette garantie essentielle.
+
+      Dans le cadre des procédures de consultation des organismes, l'omission de la consultation préalable des comités techniques est une irrégularité grave. Elle prive les représentants du personnel d'une garantie découlant du principe de participation des travailleurs à la détermination des conditions de travail.
+
+      Certaines procédures individuelles protègent l'agent par des garanties spécifiques, comme la consultation du dossier administratif avant une décision. De même, l'entretien préalable à la fin d'un détachement sur un emploi territorial fonctionnel est une garantie dont la privation entache l'illégalité de la décision.
+
+      En matière disciplinaire, le respect des règles de composition des instances collégiales est crucial. Par exemple, l'absence de convocation en nombre égal des représentants de l'administration et du personnel lors d'une instance paritaire est une irrégularité susceptible de priver l'agent d'une garantie.
+
+      Toutefois, le juge distingue la consultation de l'information. Le droit des membres d'un comité technique d'être informés des suites données à leurs propositions n'est pas une garantie de même nature que la consultation préalable et n'influence pas nécessairement la décision finale.
+
+V. L'ANNULATION DE L'ACTE ET SES CONSÉQUENCES JURIDIQUES.
+
+   A. Le principe de l'annulation rétroactive.
+
+      Lorsque le juge administratif prononce l'annulation d'une décision, celle-ci revêt un effet rétroactif car elle est réputée ne jamais avoir existé.
+
+      Ces effets sont exclusivement réservés aux cas d'annulations contentieuses, contrairement à la théorie du fonctionnaire de fait où une nomination irrégulière peut être regardée comme légale.
+
+      L'annulation d'une décision de nomination ou de radiation des cadres impose à l'administration de réintégrer l'agent et de reconstituer sa carrière comme si l'acte annulé n'était jamais intervenu.
+
+      Le juge peut toutefois moduler les effets de l'annulation dans le temps s'il estime que l'application rétroactive entraînerait des conséquences manifestement excessives.
+
+   B. Les obligations de réintégration de l'agent.
+
+      Quel que soit le motif de l'annulation, comme une radiation des cadres, l'administration doit réintégrer l'agent dans son corps ou son cadre d'emplois.
+
+      Cette réintégration ne nécessite pas forcément l'affectation dans l'emploi occupé avant la décision annulée, mais seulement dans un emploi équivalent.
+
+      L'administration est tenue de réintégrer l'agent dans son emploi initial si celui-ci bénéficiait de la garantie d'inamovibilité ou s'il occupait un emploi sans équivalent.
+
+      Si l'emploi est supprimé ou substantiellement modifié, ou si l'intéressé a renoncé à ses droits, l'agent doit être réintégré dans l'emploi qu'il occupait, parfois après le retrait de la nomination du remplaçant.
+
+      L'admission à la retraite de l'agent évincé fait obstacle à la réintégration, mais il peut demander la réparation du préjudice si la mise à la retraite résulte d'un licenciement illégal.
+
+   C. La reconstitution de la carrière et la modulation des effets.
+
+      L'obligation la plus délicate pour l'administration est de reconstituer la carrière de l'agent pour la période comprise entre l'éviction illégale et la date de l'annulation contentieuse.
+
+      Cette reconstitution doit permettre de maintenir la continuité de la carrière et le développement normal des chances d'avancement de l'agent.
+
+      L'administration doit procéder à un examen d'ensemble de la situation du personnel touché pour prononcer les reclassements utiles conformément à la jurisprudence Sieur A de mille neuf cent vingt-cinq.
+
+      Pour l'avancement au choix, l'administration doit procurer des avancements compatibles avec la chose jugée par le Conseil d'État et les autres droits individuels.
+
+      Le juge peut utiliser son pouvoir d'injonction pour ordonner à l'administration de prendre une mesure dans un délai fixé ou pour verser les sommes dues avec les intérêts au taux légal.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre le contentieux de l'excès de pouvoir qui permet l'annulation d'un acte et le plein contentieux où le juge peut condamner l'administration à verser une somme d'argent.
+
+      Attention à la distinction entre les mesures individuelles positives qui créent des droits et les mesures négatives car les syndicats sont en principe irrecevables pour contester une décision défavorable.
+
+      Le délai de recours est de deux mois mais il devient inopposable si la notification ne mentionne pas les voies et délais de recours, ce qui peut être limité par un délai raisonnable d'un an.
+
+      Une erreur classique consiste à croire qu'un vice de procédure entraîne systématiquement l'annulation, alors que la jurisprudence Danthony exige que le vice ait influencé le sens de la décision ou privé d'une garantie.
+
+      Les mesures d'ordre intérieur sont insusceptibles de recours sauf si elles portent atteinte aux droits statutaires, aux libertés fondamentales, à la rémunération ou si elles constituent une discrimination.
+
+      L'annulation d'une décision est rétroactive mais le juge peut moduler ses effets dans le temps si une application immédiate entraînerait des conséquences manifestement excessives.
+
+EXEMPLES CITÉS.
+
+      Le Conseil d'État a précisé dans l'arrêt M. Czabaj du treize juillet deux mille seize qu'un recours ne peut plus être exercé au-delà d'un délai raisonnable qui est en principe d'une année.
+
+      L'action de groupe prévue par la loi n° deux mille seize-mille cinq cent quarante-sept du dix-huit novembre deux mille seize permet à un syndicat de défendre des agents en cas de discrimination fondée sur un même motif.
+
+      Dans l'arrêt Sieur A du vingt-six décembre mille neuf cent vingt-cinq, le juge a établi que l'administration doit reconstituer la carrière de l'agent comme si la décision annulée n'était jamais intervenue.
+
+      Un changement d'affectation qui prive un fonctionnaire d'une prime de nuit ou d'une bonification indiciaire n'est pas une mesure d'ordre intérieur mais un acte susceptible de recours.
+
+      L'article L. soixante-dix-sept-onze-un du CJA définit les modalités de l'action de groupe relative à une discrimination imputable à un employeur.

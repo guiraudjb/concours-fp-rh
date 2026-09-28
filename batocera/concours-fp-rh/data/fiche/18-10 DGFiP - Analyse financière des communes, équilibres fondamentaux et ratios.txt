@@ -1,0 +1,255 @@
+GUIDE MÉTHODOLOGIQUE DE L'ANALYSE DES FINANCES ET DES COMPTES DES COMMUNES.
+
+LEXIQUE COMPLET.
+
+      La DGFiP désigne la Direction générale des finances publiques qui a centralisé les données comptables des communes.
+
+      L'EPCI désigne un établissement public de coopération intercommunale à fiscalité propre comme une communauté de communes ou une métropole.
+
+      La DGFIP désigne la Direction générale des finances publiques qui fournit des seuils de solvabilité pour le taux d'épargne brute.
+
+      La CAF désigne la capacité d'autofinancement qui est l'excédent de ressources dégagé par la commune au niveau de sa section de fonctionnement.
+
+      La TH désigne la taxe d'habitation dont la suppression progressive sur les résidences principales est organisée par l'article seize de la loi de finances pour deux mille vingt.
+
+      La TFB désigne la taxe foncière sur les propriétés bâties qui sert de base de compensation pour les communes à partir de deux mille vingt et un.
+
+      La CFE désigne la cotisation foncière des entreprises qui fait partie des recettes tirées des impôts directs locaux.
+
+      La CVAE désigne la cotisation sur la valeur ajoutée des entreprises dont la réforme par l'article cinquante-cinq de la loi de finances pour deux mille vingt-trois instaure une suppression progressive.
+
+      La TVA désigne la taxe sur la valeur ajoutée nationale dont une fraction est versée à la Ville de Paris en compensation de la suppression de la TH.
+
+      Le DOB désigne le débat d'orientation budgétaire qui est obligatoire pour les communes de plus de trois mille cinq cents habitants.
+
+      La loi NOTRé désigne la loi du sept août deux mille quinze qui a entraîné la suppression des syndicats d'agglomération nouvelle au premier janvier deux mille dix-sept.
+
+COURS DÉTAILLÉ.
+
+I. PRÉSENTATION ET ORGANISATION DES DONNÉES COMPTABLES.
+
+   A. Méthodologie de regroupement des communes.
+
+      Les communes françaises sont recensées au premier janvier de l'année et sont réparties au sein de trente et un groupes de référence.
+
+      Ces groupes de communes sont définis selon la taille démographique de la commune et son appartenance ou non à un établissement public de coopération intercommunale à fiscalité propre.
+
+      La méthodologie prend également en compte le régime fiscal de l'établissement public de coopération intercommunale de rattachement, comme les taxes additionnelles aux quatre impôts locaux ou la fiscalité professionnelle unique.
+
+      Les établissements publics de coopération intercommunale concernés incluent les communautés de communes, les communautés d'agglomération, les communautés urbaines, les métropoles et les syndicats d'agglomération nouvelle.
+
+      Les valeurs moyennes présentées pour chaque groupe de référence sont calculées au niveau national pour permettre des comparaisons par strate.
+
+   B. Structure du budget communal.
+
+      Les données présentées concernent le seul budget principal de la commune et ne prennent pas en compte les budgets annexes.
+
+      Le budget des collectivités locales est scindé en deux sections distinctes qui permettent d'analyser les opérations de fonctionnement et les opérations d'investissement.
+
+      L'absence de prise en compte des budgets annexes signifie que les informations fournies ne permettent pas d'obtenir une approche consolidée des comptes des communes.
+
+      La population utilisée pour les fiches est la population légale publiée au Journal officiel au premier janvier de l'exercice.
+
+   C. Organisation des sections de fonctionnement et d'investissement.
+
+      La section de fonctionnement regroupe en recettes le produit des impôts locaux, les dotations versées par l'État comme la Dotation Globale de Fonctionnement et les produits d'exploitation des services communaux.
+
+      Ces recettes de fonctionnement servent à couvrir les dépenses telles que les charges de personnel, les participations obligatoires aux organismes comme les contingents incendie, les intérêts de la dette ou les subventions aux associations.
+
+      La section d'investissement retrace les dépenses liées aux équipements scolaires, à l'aménagement urbain ou à la voirie, ainsi que le remboursement en capital des emprunts.
+
+      Pour financer l'investissement, la commune utilise des recettes d'investissement composées principalement d'emprunts nouveaux ou de subventions, ainsi que l'autofinancement dégagé par la section de fonctionnement.
+
+      La capacité d'autofinancement ou CAF est l'excédent de ressources de la section de fonctionnement qui peut servir à rembourser les emprunts ou à financer de nouveaux investissements.
+
+II. INTERPRÉTATION DES INDICATEURS DE GESTION.
+
+   A. Analyse de la section de fonctionnement.
+
+      Les données de la section de fonctionnement sont exprimées en milliers d'euros ainsi qu'en euros par habitant pour permettre des comparaisons avec les moyennes de la même strate.
+
+      Les recettes de fonctionnement comprennent le produit des impôts locaux net des restitutions, les dotations versées par l'État comme la DGF et les produits d'exploitation des services communaux.
+
+      Les dépenses de fonctionnement couvrent principalement les charges de personnel, les participations obligatoires comme les contingents incendie, les intérêts de la dette et les subventions aux associations.
+
+      Le résultat comptable de cette section traduit la capacité de la commune à couvrir ses dépenses de fonctionnement par ses recettes de fonctionnement.
+
+      Le taux d'incompressibilité des dépenses évalue la capacité d'une commune à s'adapter à une contrainte financière sans couper dans les dépenses difficiles à réduire comme le personnel ou la dette.
+
+   B. Analyse de la section d'investissement.
+
+      La section d'investissement retrace les dépenses liées aux équipements scolaires, à l'aménagement urbain ou à la voirie ainsi que le remboursement en capital des emprunts.
+
+      Le financement de ces dépenses d'investissement repose sur les recettes d'investissement, principalement les emprunts nouveaux et les subventions, ainsi que sur l'autofinancement de la section de fonctionnement.
+
+      Les emprunts souscrits en cours d'année pour financer de nouveaux équipements sont comptabilisés dans les recettes d'investissement.
+
+      Les remboursements en capital des emprunts contractés antérieurement sont enregistrés dans les dépenses d'investissement.
+
+      L'effort d'équipement par habitant permet d'appréhender le montant des dépenses brutes d'équipements par rapport à la population.
+
+   C. Évaluation de l'autofinancement et de la capacité de désendettement.
+
+      La capacité d'autofinancement ou CAF est l'excédent de ressources de la section de fonctionnement qui sert à rembourser les emprunts ou à financer de nouveaux investissements.
+
+      La CAF brute doit par principe permettre de couvrir les remboursements en capital des emprunts souscrits antérieurement afin que la CAF nette soit positive.
+
+      Le taux d'épargne brute indique la part des recettes de fonctionnement qui peut être consacrée à l'investissement ou au remboursement de la dette.
+
+      La capacité de désendettement estime le nombre d'exercices budgétaires nécessaires pour rembourser la totalité du capital de la dette en utilisant l'intégralité de l'épargne brute.
+
+      La marge d'autofinancement courant permet de mesurer la capacité d'une collectivité à financer ses investissements une fois ses dépenses de fonctionnement et sa dette payées.
+
+   D. Indicateurs relatifs à la dette et à l'annuité.
+
+      L'encours total au trente et un décembre représente le capital restant dû de l'ensemble des emprunts et des dettes souscrits par la collectivité.
+
+      L'annuité de la dette est la somme des intérêts des emprunts, qui sont des charges de fonctionnement, et du montant du remboursement du capital, qui est une dépense d'investissement.
+
+      Le taux d'endettement apprécie la charge de la dette par rapport aux recettes réelles de fonctionnement.
+
+      L'encours des dettes bancaires et assimilées correspond à la somme en capital des dettes que la commune doit rembourser au trente et un décembre.
+
+      L'encours net de l'aide du fonds de soutien pour la sortie des emprunts toxiques est calculé en déduisant le solde de l'aide du montant des dettes bancaires et assimilées.
+
+III. COMPRÉHENSION DE LA FISCALITÉ LOCALE ET DES RÉFORMES.
+
+   A. Mécanismes des impôts directs locaux.
+
+      Les recettes fiscales des communes reposent sur deux piliers principaux qui incluent les impôts directs locaux et les impôts de répartition.
+
+      Le produit des impôts directs locaux est constitué de la taxe d'habitation, des taxes foncières et de la Cotisation Foncière des Entreprises.
+
+      Ces recettes sont calculées par l'application d'un taux voté par le conseil municipal sur la base notifiée à la commune.
+
+      Les communes ont la faculté d'accorder des exonérations ou des abattements à certains redevables, ce qui entraîne des pertes de produits fiscaux non compensées par l'État.
+
+      Les bases nettes de la taxe d'habitation incluent également celles de la taxe d'habitation sur les logements vacants si la commune a décidé de la percevoir.
+
+   B. Impact des réformes de la taxe d'habitation et de la CVAE.
+
+      L'article seize de la loi de finances pour deux mille vingt organise la suppression progressive de la taxe d'habitation sur les résidences principales.
+
+      À compter de deux mille vingt et un, les produits de la taxe d'habitation sur les résidences principales sont compensés par la part départementale de taxe foncière sur les propriétés bâties au niveau communal.
+
+      Un coefficient correcteur est appliqué sur le produit total de la taxe foncière sur les propriétés bâties pour neutraliser les éventuelles sur ou sous-compensations.
+
+      La réforme des impôts de production réduit de cinquante pour cent la valeur locative des établissements industriels, ce qui impacte les produits de la taxe foncière et de la CFE.
+
+      En contrepartie de cette perte, les communes perçoivent des allocations compensatrices dédiées en taxe foncière sur les propriétés bâties et en CFE.
+
+      Concernant la CVAE, l'article cinquante-cinq de la loi de finances pour deux mille vingt-trois instaure une diminution de moitié de son taux en deux mille vingt-trois suivie d'une suppression progressive.
+
+   C. Fonctionnement des impôts de répartition et de la TVA.
+
+      Les impôts de répartition comprennent la Cotisation sur la Valeur Ajoutée des Entreprises, les Impositions Forfaitaires sur les Entreprises de Réseaux et la Taxe sur les Surfaces Commerciales.
+
+      Ces impôts sont dits de répartition car leurs produits sont partagés entre les différents niveaux de collectivités comme les communes et les départements.
+
+      Dès deux mille vingt-trois, les collectivités locales ne perçoivent plus la CVAE car les cotisations des contribuables sont affectées au budget de l'État.
+
+      En compensation, seules les communes anciennement bénéficiaires de la CVAE et faisant partie d'un EPCI à fiscalité additionnelle reçoivent une fraction de la TVA nationale.
+
+      La Ville de Paris est une collectivité à statut particulier qui perçoit une fraction de la TVA nationale en compensation de la suppression de la taxe d'habitation à compter de deux mille vingt et un.
+
+IV. MÉTHODES ET OUTILS DE L'ANALYSE FINANCIÈRE.
+
+   A. Définition et utilité des ratios financiers.
+
+      Un ratio financier est un rapport significatif entre deux données caractéristiques de l'activité ou de la situation financière d'une collectivité. Il s'exprime sous la forme d'un quotient ou d'un pourcentage.
+
+      Ces ratios fonctionnent comme des signaux d'alerte pour détecter rapidement des difficultés ou des potentialités financières. Ils permettent de conduire un diagnostic des finances locales selon des grilles d'analyses quantitatives et qualitatives.
+
+      L'utilisation des ratios doit être faite avec précaution car ils ne sont pas suffisants à eux seuls. Il convient de ne pas les manier isolément et de privilégier les comparaisons avec les moyennes par strates de population similaires.
+
+      L'analyse doit être complétée par un examen approfondi des documents comptables et la prise en considération du contexte territorial. Les ratios servent à évaluer la solvabilité budgétaire, la situation d'endettement et les marges de manœuvre.
+
+   B. Les ratios de solvabilité budgétaire.
+
+      Le taux d'épargne brute indique la part des recettes de fonctionnement qui peut être consacrée à l'investissement ou au remboursement de la dette. Il se calcule par le quotient de l'épargne brute sur les recettes de fonctionnement.
+
+      Selon les seuils de la DGFiP, une situation est jugée bonne si le ratio est supérieur à quinze pour cent. Une situation est considérée comme convenable si le ratio se situe entre neuf et quatorze pour cent.
+
+      Une situation est jugée faible si le ratio est inférieur à huit pour cent. Ce ratio permet d'appréhender la performance financière et la solvabilité budgétaire à court et moyen terme.
+
+      Le coefficient de mobilisation du potentiel fiscal est un indicateur de pression fiscale qui détermine les marges de manœuvre pour abonder le budget. Il correspond au rapport entre les recettes fiscales locales et le potentiel fiscal.
+
+      Le potentiel fiscal représente le montant d'impôts qu'encaisserait la commune si elle appliquait ses bases nettes d'imposition aux taux moyens nationaux de sa strate.
+
+      L'indice d'autonomie financière évalue le degré d'autonomie d'une commune en comparant ses recettes propres aux recettes de fonctionnement totales. Les recettes propres incluent les impôts locaux, les redevances pour services publics, les dons et les legs.
+
+   C. Les ratios de situation d'endettement.
+
+      Le taux d'endettement apprécie la charge de la dette par rapport aux recettes réelles de fonctionnement. Il se calcule en divisant l'encours de la dette au trente et un décembre par les recettes de fonctionnement.
+
+      La capacité de désendettement estime le nombre d'exercices budgétaires nécessaires pour rembourser la totalité du capital de la dette en utilisant l'intégralité de l'épargne brute annuelle.
+
+      Une situation est jugée saine si les deux ratios de dette locale sont en dessous de la moyenne de la strate nationale et du seuil d'alerte. La situation est correcte si un seul des deux ratios est en dessous de ces moyennes ou du seuil.
+
+      La situation est dégradée si les deux ratios de dette locale sont au-dessus des moyennes de la strate nationale ou du seuil d'alerte. Le ratio de pondération d'équipement doit également être pris en compte dans cette analyse.
+
+   D. Les ratios de marges de manœuvre.
+
+      Le coefficient de mobilisation du potentiel fiscal courant des charges permet d'évaluer les capacités de la commune à jouer sur les taux des taxes. Il se calcule par le rapport entre les recettes fiscales locales et la somme des dépenses de fonctionnement et de la dette.
+
+      La marge d'autofinancement révèle la capacité d'une collectivité à financer ses investissements après avoir payé ses dépenses de fonctionnement et sa dette. Elle se calcule en divisant la dette par les recettes de fonctionnement.
+
+      Les marges de manœuvre sont jugées amples si aucun ou si un seul des trois ratios est au-dessus de zéro virgule sept. Elles sont modérées si deux des trois ratios sont au-dessus de zéro virgule sept.
+
+      La situation est considérée comme ayant des marges restreintes si les trois ratios de marge de manœuvre sont au-dessus de zéro virgule sept. Le taux d'incompressibilité des dépenses évalue aussi la capacité à s'adapter aux contraintes financières sans coupes difficiles.
+
+V. APPROCHE MULTIDIMENSIONNELLE DE L'ANALYSE COMMUNALE.
+
+   A. L'analyse fiscalo-financière par les ratios.
+
+      L'analyse repose sur le traitement statistique de ratios qui servent de signaux d'alerte pour détecter les difficultés ou les potentialités financières. Ces indicateurs permettent de réaliser un diagnostic de la solvabilité budgétaire, de la situation d'endettement et des marges de manœuvre.
+
+      La solvabilité budgétaire s'évalue notamment par le taux d'épargne brute qui doit idéalement être supérieur à quinze pour cent selon les seuils de la DGFiP. Un taux compris entre neuf et quatorze pour cent est considéré comme convenable tandis qu'un taux inférieur à huit pour cent est jugé faible.
+
+      La situation d'endettement est mesurée par le taux d'endettement et la capacité de désendettement. Une situation est qualifiée de saine si les deux ratios de dette locale sont en dessous de la moyenne de la strate nationale et du seuil d'alerte.
+
+      Les marges de manœuvre sont appréhendées par le coefficient de mobilisation du potentiel fiscal, la marge d'autofinancement courant et le taux d'incompressibilité des dépenses. Des marges sont considérées comme amples si aucun des trois ratios n'est en dessous de zéro virgule sept.
+
+   B. L'examen des documents comptables et budgétaires.
+
+      L'analyse doit impérativement être complétée par un examen approfondi des documents comptables pour ne pas se limiter aux seuls résultats des ratios. Cette étape permet d'affiner les conclusions et de comprendre les réalités financières de la collectivité.
+
+      Les budgets annexes doivent être surveillés car ils concernent des organismes produisant des biens et services pour le compte de la commune. Ils ne sont pas soumis au principe d'équilibre et leur étude permet de prévenir certains risques financiers.
+
+      Le bilan comptable réalisé annuellement en fin d'exercice fournit des informations sur le patrimoine et permet d'estimer le fonds de roulement. Sa fiabilité peut toutefois être remise en question par des biais interprétatifs d'une année à l'autre.
+
+      Le Débat d'Orientation Budgétaire est obligatoire pour les communes de plus de trois mille cinq cents habitants. Ce document présente le contexte financier national et local ainsi que les stratégies politico-budgétaires et les projets à venir.
+
+   C. L'intégration du contexte territorial et des motivations politiques.
+
+      L'analyse ne doit pas lisser les singularités territoriales et doit prendre en compte le contexte géographique, culturel, socio-économique et démographique. L'étude des documents d'urbanisme et de la presse locale est essentielle pour comprendre la situation.
+
+      Les données démographiques comme l'évolution de la population et l'âge sont des indicateurs clés du contexte. Les données socio-économiques telles que le revenu, l'emploi ou le chômage permettent également d'éclairer le diagnostic financier.
+
+      Les facteurs urbanistiques comme la présence de résidences secondaires, de logements vacants ou les problématiques de déplacement domicile-travail sont indispensables. Ces éléments aident à interpréter les flux budgétaires et les besoins de la commune.
+
+      L'examen des motivations politiques permet de comprendre les objectifs budgétaires et les stratégies mises en œuvre par les élus. Il est nécessaire de lier les chiffres aux choix politiques pour une analyse véritablement multidimensionnelle.
+
+POINTS D'ATTENTION.
+
+      Il faut éviter de considérer les ratios financiers comme une analyse suffisante car ils ne sont que des signaux d'alerte. Une analyse complète nécessite d'examiner les documents comptables et le contexte territorial spécifique de la commune.
+
+      Les valeurs moyennes des groupes de référence doivent toujours être relativisées par le lecteur. Ces moyennes couvrent des situations de gestion très diverses et ne constituent pas une vérité absolue pour chaque cas.
+
+      Il ne faut pas confondre le budget principal de la commune avec une approche consolidée. Les données présentées ne prennent pas en compte les budgets annexes qui sont pourtant nécessaires pour une vision globale.
+
+      L'interprétation des ratios de dette doit être prudente car une même valeur peut recouvrir des caractéristiques financières divergentes. Il est recommandé de ne pas utiliser de batteries de ratios trop étendues ou des ratios pris isolément.
+
+      La comparaison entre communes doit impérativement se faire avec des moyennes par strates de population similaires. Les contextes géographiques, culturels ou socio-économiques sont essentiels pour comprendre les écarts significatifs.
+
+EXEMPLES CITÉS.
+
+      La capacité d'autofinancement ou CAF brute doit par principe permettre de couvrir les remboursements en capital des emprunts souscrits antérieurement. La CAF nette doit donc rester positive.
+
+      Le taux d'épargne brute est utilisé pour évaluer la solvabilité budgétaire avec des seuils de la DGFIP. Un ratio supérieur à quinze pour cent est considéré comme bon, entre neuf et quatorze pour cent comme convenable et inférieur à huit pour cent comme faible.
+
+      La réforme de la loi de finances pour deux mille vingt organise la suppression progressive de la taxe d'habitation sur les résidences principales. À partir de deux mille vingt et un, cela est compensé par la part départementale de taxe foncière sur les propriétés bâties.
+
+      La réforme des impôts de production de la loi de finances deux mille vingt et un entraîne une réduction de cinquante pour cent de la valeur locative des établissements industriels. Cette perte est compensée par des allocations dédiées en TFB et en CFE.
+
+      L'article cinquante-cinq de la loi de finances pour deux mille vingt-trois instaure une nouvelle réforme de la CVAE avec une suppression progressive. Dès deux mille vingt-trois, les communes anciennement bénéficiaires reçoivent une compensation par une fraction de la TVA nationale.

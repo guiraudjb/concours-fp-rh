@@ -1,0 +1,257 @@
+SYNTHÈSE COMPLÈTE DU PROCESSUS DE GESTION PRÉVISIONNELLE DES RESSOURCES HUMAINES DANS LES SERVICES DE L'ÉTAT.
+
+LEXIQUE COMPLET.
+
+      La GPRH désigne la gestion prévisionnelle des ressources humaines qui est une approche pluriannuelle visant à réduire les écarts entre les besoins et les ressources futures.
+
+      Le SSRH désigne le schéma stratégique des ressources humaines qui formalise les politiques RH des ministères.
+
+      La DGAFP désigne la direction générale de l'administration et de la fonction publique qui examine les schémas stratégiques des ressources humaines lors de conférences annuelles.
+
+      La GPEEC désigne la gestion prévisionnelle des emplois et des compétences.
+
+      La PFRH désigne la plateforme régionale d'appui interministériel à la GRH qui accompagne les services et les agents dans la mise en œuvre de la réorganisation territoriale.
+
+      Le projet DROPE désigne la démarche régionale d'optimisation et de prévisions des emplois mise en place par la DRJSCS des Pays-de-la-Loire entre juin deux mille treize et décembre deux mille quatorze.
+
+      Le sigle PDCA désigne la méthode de la roue de Deming qui comprend les étapes Plan, Do, Check et Act pour l'amélioration continue.
+
+      Le sigle RIME désigne le répertoire interministériel des métiers de l'État.
+
+      Le CHAI désigne le comité d'harmonisation de l'audit interne qui est chargé d'élaborer le cadre de référence de l'audit interne dans l'administration de l'État.
+
+      Le CRAIE désigne le cadre de référence de l'audit interne dans l'administration de l'État.
+
+      Le décret n° deux mille quinze-cinq cent dix du sept mai deux mille quinze est le texte portant charte de la déconcentration qui renforce l'exigence d'une GPRH interministérielle locale.
+
+COURS DÉTAILLÉ.
+
+I. LES NIVEAUX D'EXERCICE ET LES ACTEURS DE LA GPRH.
+
+   A. Les trois niveaux de pilotage : ministériel, opérationnel et interministériel local.
+
+      La GPRH ministérielle est pilotée par les secrétaires généraux ou les directeurs des ressources humaines centraux qui définissent les politiques RH et leur incidence sur les opérateurs. Ces politiques sont formalisées dans les schémas stratégiques des ressources humaines qui sont examinés en conférences annuelles de gestion prévisionnelle des RH à la DGAFP.
+
+      L'administration centrale assure le pilotage global en fixant les orientations politiques, en produisant les outils et en faisant le lien avec les politiques publiques. Elle est également chargée de déterminer les grandes tendances d'évolution naturelle de l'emploi et de faire évoluer le cadre statutaire.
+
+      Le niveau de pilotage opérationnel comprend les directions d'administration centrale, les services déconcentrés et les opérateurs. Ce niveau est chargé d'élaborer le plan GPRH de sa structure et de contribuer au recensement des besoins en emplois et en compétences par le dialogue de gestion.
+
+      La GPRH interministérielle locale est réalisée par les plates-formes régionales d'appui interministériel à la GRH, appelées PFRH. Ces structures sont placées auprès des secrétaires généraux pour les affaires régionales et travaillent à développer une GPEEC au niveau régional.
+
+      Les PFRH ont pour mission de faciliter la mobilité fonctionnelle, d'animer un réseau de conseillers mobilité carrière et de dynamiser le marché régional de l'emploi public. Elles élaborent également un plan régional interministériel de GPEEC sur une période de trois ans qui est approuvé par le préfet de région.
+
+   B. La diversité des acteurs et la chaîne de responsabilités RH.
+
+      La responsabilité RH ne repose pas uniquement sur les directeurs des ressources humaines mais implique une chaîne d'acteurs majeurs. Le responsable des affaires financières garantit la soutenabilité budgétaire des décisions en respectant la masse salariale, le plafond et le schéma d'emplois.
+
+      Le responsable de programme et les responsables des budgets opérationnels de programme ou d'unité opérationnelle agissent comme des prescripteurs de compétences. Ils arbitrent les décisions relatives aux enveloppes de crédits de personnel en tant qu'employeurs.
+
+      Le responsable de service déconcentré ou le responsable d'opérateur dispose de leviers d'action sur la structure et le coût des emplois. Il peut agir sur la valorisation des compétences via la formation, la modulation des régimes indemnitaires et la gestion de la carrière des agents.
+
+      La DRH ministérielle assure le pilotage d'un système complexe, la prestation de services RH et la régulation du respect des règles de droit. Elle doit également animer le dialogue social pour préserver un climat d'ouverture lors des réformes.
+
+      Le manager est le premier échelon d'appréciation des différentiels de compétences et traduit les nouveaux besoins auprès des instances dirigeantes. Il est aussi un acteur privilégié pour faire émerger les talents de ses collaborateurs et accompagner leur évolution professionnelle.
+
+      L'agent doit être acteur de son propre parcours en envisageant les étapes futures de sa carrière avec son manager et le service RH. D'autres acteurs métiers comme le conseiller mobilité-carrière ou le préventeur apportent une expertise complémentaire au processus.
+
+   C. Le dialogue de gestion entre les différents échelons.
+
+      Le dialogue de gestion est un échange annuel obligatoire entre les acteurs de la GPRH pour examiner la déclinaison du plan ministériel. Il permet de confronter les orientations stratégiques de l'administration centrale avec les réalités des services déconcentrés et des opérateurs.
+
+      Le ministère chargé du travail et de l'emploi organise entre mi-octobre et fin novembre un dialogue de gestion entre la DRH centrale et les DIRECCTE. Ce processus s'appuie sur une fiche de cadrage traitant du dialogue social interne, de l'état des lieux et des cibles à deux ou trois ans.
+
+      Le ministère de l'intérieur organise également des dialogues de gestion sur les effectifs, les emplois et la masse salariale. Les responsables de budget opérationnel de programme se déplacent en administration centrale pour ces échanges après avoir transmis un questionnaire préalable.
+
+      L'exercice du dialogue de gestion permet d'identifier les écarts entre la situation actuelle et la cible visée à court et moyen terme. Il sert à définir les besoins précis en recrutement par corps et métiers pour l'année suivante ainsi que les besoins en formation.
+
+      Les échanges incluent l'analyse des forces et faiblesses comme le turn-over, le taux de vacances de postes ou l'attractivité des métiers. Ils permettent aussi de préparer les plans d'actions RH concernant l'organisation, la mobilité, la formation et les conditions de travail.
+
+II. LA CONDUITE DE LA DÉMARCHE EN MODE PROJET.
+
+   A. Les principes fondamentaux du pilotage par projet.
+
+      La gestion prévisionnelle des ressources humaines doit être conduite comme un projet en s'appuyant sur un cahier des charges précis.
+
+      Le responsable du pilotage doit clarifier les objectifs stratégiques et opérationnels avant de s'engager dans la démarche.
+
+      Il est essentiel de respecter les critères d'implicite pour que tous les acteurs comprennent les enjeux et les critères d'opérationnalité pour que les analyses débouchent sur des actions concrètes.
+
+   B. Le rôle du maître d'ouvrage et du chef de projet.
+
+      Le DRH agit en tant que maître d'ouvrage du projet en définissant ses responsabilités dans sa fiche de poste et sa lettre de mission.
+
+      Le chef de projet est un chef de service qui entretient une relation de confiance avec le maître d'ouvrage et qui est reconnu par les gestionnaires RH et les organisations syndicales.
+
+      Ce chef de projet assure le rôle d'assemblier des productions de services différents et pilote les analyses ainsi que les synthèses.
+
+      Le métier de responsable de la gestion prévisionnelle des ressources humaines figure parmi les huit emplois identifiés par le RIME du domaine fonctionnel RH.
+
+   C. L'importance de la communication et du travail en réseau.
+
+      Le fonctionnement en réseau garantit la réussite du projet en impliquant tous les contributeurs, notamment les organisations syndicales.
+
+      Cette organisation offre la souplesse et l'expertise nécessaires pour faire collaborer des services ayant des lignes hiérarchiques différentes.
+
+      La communication interne doit être utilisée pour donner du sens au travail et elle est cruciale lors du bilan annuel ou de la diffusion du plan pluriannuel d'actions.
+
+      La communication s'adresse à l'encadrement, aux agents et aux organisations syndicales via des vecteurs comme l'intranet ou les séminaires de cadres.
+
+   D. L'application de la méthode d'amélioration continue PDCA.
+
+      La méthode PDCA ou roue de Deming permet d'améliorer la qualité de la démarche en suivant un cercle vertueux de quatre étapes.
+
+      L'étape Plan consiste à définir le sujet et à finaliser un plan d'actions qui correspond au plan de GPRH du service.
+
+      L'étape Do correspond à la mise en œuvre des actions et à la réalisation des exercices de suivi et de bilan.
+
+      L'étape Check permet de vérifier l'efficacité des actions par des mesures ou des indicateurs avant de réaliser des ajustements.
+
+      L'étape Act assure la pérennité des résultats et permet d'ajuster le plan de GPRH pour l'année n+un.
+
+III. LE DIALOGUE SOCIAL COMME LEVIER DE LA GPRH.
+
+   A. L'implication des partenaires sociaux dans la démarche.
+
+      La qualité du dialogue social est un élément essentiel pour que la GRH devienne un moteur du changement au sein de l'organisation. Elle permet d'expliquer, de concerter et de négocier afin d'enrichir la prise de décision et de garantir l'acceptation des mesures.
+
+      L'implication des représentants des personnels doit se faire le plus en amont possible pour favoriser l'appropriation de la démarche en interne. Il ne s'agit pas seulement de présenter le plan d'actions, mais d'associer les partenaires sociaux dès la phase de préparation.
+
+      La transparence est requise pour les choix intermédiaires effectués durant le processus de GPRH. La question de la mise en relation entre les métiers et les grades lors de la détermination des besoins futurs doit être traitée de manière ouverte.
+
+   B. Le rôle et les compétences des comités techniques.
+
+      La loi du cinq juillet deux mille dix relative à la rénovation du dialogue social dans la fonction publique a modernisé le rôle des comités techniques. Le décret n° deux mille onze-cent quatre-vingt-quatre du quinze février deux mille onze précise également leurs compétences dans les administrations et les établissements publics de l'Etat.
+
+      Les comités sont désormais compétents pour traiter de l'organisation et du fonctionnement des services, ainsi que de la gestion prévisionnelle des effectifs, des emplois et des compétences. Ils interviennent aussi sur les règles statutaires et l'échelonnement indiciaire.
+
+      Leurs domaines d'action incluent les évolutions technologiques, les méthodes de travail et leur incidence sur les personnels. Ils traitent également des grandes orientations de la politique indemnitaire, de l'égalité professionnelle et de la lutte contre les discriminations.
+
+      Enfin, ils sont compétents en matière de formation, de développement des compétences, d'insertion professionnelle et d'hygiène, de sécurité et de conditions de travail.
+
+   C. L'exemple de la co-construction des référentiels métiers.
+
+      Le ministère chargé des affaires sociales illustre cette démarche en associant les services déconcentrés et les organisations syndicales à la mise à jour du répertoire des métiers de la mission travail-emploi. Ce travail collaboratif a notamment impliqué des groupes de travail thématiques entre décembre deux mille treize et mars deux mille quatorze.
+
+      Les fiches élaborées ont été présentées aux organisations syndicales en comités techniques ministériels au deuxième trimestre deux mille quatorze. Bien que les débats aient été intenses, les remarques des partenaires ont été intégrées dans les fiches définitives.
+
+      Pour la suite de la démarche au premier semestre deux mille quinze, la méthodologie a été revue pour être plus technique. Un groupe de travail a associé des représentants des services déconcentrés, puis un autre a réuni des représentants des organisations syndicales.
+
+      Cette méthode, qui présente les statistiques démographiques et les fiches métiers martyres, a été unanimement saluée par les organisations syndicales. Elle est désormais étendue à la mise à jour des fiches emplois-types du répertoire des administrations sanitaire, sociale, des sports, de la jeunesse et de la vie associative.
+
+IV. LA CARTOGRAPHIE DÉTAILLÉE DES CINQ ÉTAPES DU PROCESSUS.
+
+   A. Recensement des ressources disponibles et projection des flux.
+
+      L'étape un consiste à effectuer une photographie des ressources humaines disponibles à l'instant T, tant sur le plan quantitatif que qualitatif et géographique. Elle permet de mesurer l'adéquation entre les ressources disponibles et les emplois autorisés par l'établissement de la cartographie des effectifs.
+
+      Le responsable de la GPRH pilote cette phase en s'appuyant sur des outils tels que le SIRH, le référentiel métiers et les enquêtes de catégorie statutaire. Les livrables incluent la répartition des effectifs et des compétences par sexe, âge, corps, grade et lieu d'exercice.
+
+      L'étape deux vise à réaliser des exercices de simulation à court terme sur un an et à moyen terme sur deux ou trois ans. Cette phase technique mobilise les services statistiques pour projeter les départs par tous motifs comme la retraite ou la démission, ainsi que les flux entrants.
+
+      La qualité de ces projections est déterminante pour éviter des risques majeurs tels que le dépassement du plafond d'emplois ou les vacances de postes. Les prévisions établies par la DRH doivent impérativement être conformes à celles retenues dans les documents de prévision budgétaire.
+
+   B. Détermination de la cible stratégique et diagnostic des écarts.
+
+      La troisième étape consiste à traduire les orientations politiques et organisationnelles en besoins en emplois, effectifs et compétences. Il s'agit de définir un schéma en emplois, effectifs et compétences avec une répartition géographique et par service à échéance donnée.
+
+      Le pilote de cette phase stratégique est le responsable RH qui doit mesurer la soutenabilité budgétaire des différents scénarios identifiés. Cette étape est indépendante des deux premières mais permet de préparer le diagnostic des écarts par le différentiel entre la cible et les ressources projetées.
+
+      L'étape quatre est une phase charnière qui établit une étude d'impact quantitative et qualitative de la balance entre les besoins futurs et les ressources disponibles. Elle permet de dégager des tendances fortes comme un sur ou sous-effectif pour certains métiers ou des mutations d'emplois.
+
+      Ce diagnostic doit être présenté aux organisations syndicales et précise le nombre d'agents concernés par une mobilité géographique ou fonctionnelle. Il sert de base indispensable avant la mise en œuvre concrète du plan d'actions RH.
+
+   C. Élaboration, suivi et évaluation du plan d'actions RH.
+
+      L'étape cinq consiste à définir les éléments du plan d'actions RH afin que les ressources projetées et les besoins de la cible s'ajustent au mieux. Ce plan est élaboré en concertation avec les partenaires sociaux et peut inclure des volets sur la formation, la mobilité ou le recrutement.
+
+      Le plan d'actions RH est mis en œuvre par les services-métiers et fait l'objet d'un suivi rigoureux via des tableaux de bord. Il doit être ajusté annuellement pour tenir compte de l'évolution des priorités stratégiques et des hypothèses prévisionnelles.
+
+      La démarche s'inscrit dans une logique d'amélioration continue inspirée de la méthode PDCA ou roue de Deming. Cette méthode comprend les phases Plan, Do, Check et Act pour assurer la pérennité des résultats et la qualité du processus.
+
+      Le bilan annuel des actions réalisées permet de réaliser une synthèse pour ajuster le plan de GPRH de l'année n+un. Cette phase d'évaluation est essentielle pour décider de l'abandon d'actions non pertinentes ou de la consolidation de nouvelles mesures.
+
+V. L'AMÉLIORATION CONTINUE ET LA PROFESSIONNALISATION.
+
+   A. La veille professionnelle et l'analyse de l'environnement.
+
+      La veille professionnelle constitue une fonction fondamentale du pilotage d'un projet ou d'un processus au sein de l'organisation. Elle permet de suivre les évolutions politiques, économiques, sociétales et culturelles qui impactent le domaine de la gestion des ressources humaines.
+
+      Cette démarche aide à évaluer l'environnement professionnel en analysant les métiers et les travaux de recherche. Elle permet également de localiser les communautés d'expertise, les décideurs et les prescripteurs pour développer les connaissances et les compétences.
+
+      Pour être efficace, la veille doit cibler les informations pertinentes en identifiant les sources formelles et informelles comme les réseaux-métiers ou les sites ministériels. L'analyse de ces informations doit toujours mobiliser une réflexion personnelle et critique.
+
+      L'organisation de la veille repose sur la structuration du stockage des informations par sujet ou par source. Elle sert d'outil d'aide à la décision pour anticiper les évolutions et stimuler la réflexion stratégique.
+
+   B. Le partage des bonnes pratiques et les réseaux d'échange.
+
+      La DGAFP organise depuis deux mille sept des conférences annuelles de gestion prévisionnelle des ressources humaines pour favoriser une approche globale et partagée des politiques RH. Ces rencontres facilitent la mise en réseau entre les ministères et permettent de diffuser les meilleures pratiques identifiées dans les schémas stratégiques des ressources humaines.
+
+      Les bonnes pratiques de GRH font l'objet d'une publication annuelle par la DGAFP sous forme de guide. Des exemples incluent l'utilisation de l'outil PPA par le ministère de l'Intérieur en deux mille sept ou la gestion des emplois sensibles par le ministère de l'Agriculture en deux mille huit.
+
+      Des ateliers public-privé sont proposés chaque trimestre par la DGAFP en partenariat avec l'association Entreprise et Personnel. Ces réunions permettent aux praticiens de la fonction publique et du secteur privé d'échanger sur des thèmes comme la qualité de vie au travail ou l'innovation managériale.
+
+      Au niveau ministériel, des réseaux comme celui des chargés de missions GPEEC du MEDDE et du MLETR permettent de traiter les questions de méthodologie et de capitaliser les expériences. Ces réseaux assurent également une veille sur les actualités réglementaires.
+
+      Des échanges inter-fonctions publiques sont également organisés, comme le séminaire Regards croisés de la PFRH des Pays-de-la-Loire avec le CNFPT. Ces dispositifs visent à identifier des passerelles entre la fonction publique d'Etat et la fonction publique territoriale.
+
+   C. Les dispositifs de formation et d'accompagnement des acteurs.
+
+      L'École du management et des ressources humaines, créée en deux mille sept, accompagne les personnels encadrants dans un contexte de réformes organisationnelles et territoriales. Elle s'attache à diffuser les règles et les bonnes pratiques pour soutenir les cadres dans leurs missions de management.
+
+      Le réseau des chargés de mission GPEEC du ministère de l'Écologie et du Logement a mis en place un parcours de professionnalisation en deux mille quinze. Ce parcours se compose de trois modules couvrant les fondamentaux de la GPRH, le pilotage de l'analyse prévisionnelle et l'élaboration du plan d'actions.
+
+      Les journées interministérielles de la GPEEC organisées par la DGAFP depuis deux mille treize visent à sensibiliser les responsables RH et les managers. Ces rencontres contribuent à la professionnalisation de l'ensemble des acteurs impliqués dans le processus de gestion prévisionnelle.
+
+      La PFRH de Lorraine a développé un partenariat avec un centre médico-psychologique pour renforcer la prévention des risques psychosociaux. Ce dispositif d'écoute et d'accompagnement individuel permet de proposer des plans d'actions pour réduire les risques identifiés de manière anonyme.
+
+      Enfin, l'audit de la GPRH, encadré par le décret n° deux mille onze-sept cent soixante-quinze du vingt-huit juin deux mille onze, permet d'identifier les besoins en formation ou en sensibilisation. L'auditeur peut préconiser des actions correctives pour assurer la maîtrise des risques liés à la gestion des politiques publiques.
+
+VI. L'AUDIT ET LE CONTRÔLE DE LA GESTION PRÉVISIONNELLE.
+
+   A. Le cadre réglementaire de l'audit interne.
+
+      Le décret n° deux mille onze-sept cent soixante-quinze du vingt-huit juin deux mille onze relatif à l'audit interne dans l'administration prévoit la mise en œuvre d'un dispositif de contrôle et d'audit internes au sein de chaque ministère.
+
+      Ce dispositif doit être adapté aux missions et à la structure des services afin d'assurer la maîtrise des risques liés à la gestion des politiques publiques.
+
+      Le même décret crée auprès du ministre chargé de la réforme de l'Etat un comité d'harmonisation de l'audit interne qui réunit les responsables de l'audit interne de chaque ministère.
+
+      Le comité d'harmonisation de l'audit interne est chargé d'élaborer le cadre de référence de l'audit interne dans l'administration de l'Etat appelé CRAIE.
+
+      Ce comité assure l'application du cadre de référence et harmonise la méthodologie de travail des ministères tout en diffusant les bonnes pratiques.
+
+      Les premiers travaux de ce cadre concernent l'audit des achats, l'audit comptable et financier ainsi que l'audit de la GRH.
+
+   B. Les objectifs et les enjeux de l'audit de la GPRH.
+
+      L'auditeur doit identifier les bonnes pratiques déjà en place et alerter sur les pratiques risquant de produire des effets indésirables sur l'organisation.
+
+      L'audit peut préconiser des actions correctives telles que la mise en place d'outils RH, la formation ou des actions de sensibilisation des acteurs.
+
+      L'un des objectifs est de se prononcer sur la qualité du système de gestion prévisionnelle, sur les risques qu'il encourt et sur ses potentialités.
+
+      L'audit vise également à donner une garantie d'efficacité et de fiabilité des systèmes observés et à assurer l'augmentation de la crédibilité de toute information.
+
+      Il est devenu incontournable de gérer les ressources humaines et financières en anticipant les risques par l'analyse des procédures et des pratiques de gestion prévisionnelle.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre la GPRH ministérielle qui définit les politiques avec la GPRH opérationnelle qui élabore les plans de structure.
+
+      La GPRH n'est pas la seule responsabilité des DRH car elle implique aussi les responsables financiers, les responsables de programme et les managers.
+
+      Le dialogue de gestion est un échange annuel obligatoire et non une simple réunion d'information ponctuelle.
+
+      La méthode PDCA ou roue de Deming impose de ne jamais revenir en arrière pour assurer une amélioration continue de la démarche.
+
+      L'audit de la GPRH doit être intégré dans le dispositif de contrôle interne prévu par le décret n° deux mille onze-sept cent soixante-quinze du vingt-huit juin deux mille onze.
+
+EXEMPLES CITÉS.
+
+      Le projet DROPE de la DRJSCS des Pays-de-la-Loire a été mis en place entre juin deux mille treize et décembre deux mille quatorze.
+
+      Le ministère chargé du travail et de l'emploi organise son dialogue de gestion entre mi-octobre et fin novembre.
+
+      La DGAFP organise chaque année en décembre une journée interministérielle sur la GPEEC pour sensibiliser les responsables RH.
+
+      Le projet DROPE s'appuie sur quatre phases incluant le recensement des ressources, la définition des cibles, le diagnostic et le plan d'action.

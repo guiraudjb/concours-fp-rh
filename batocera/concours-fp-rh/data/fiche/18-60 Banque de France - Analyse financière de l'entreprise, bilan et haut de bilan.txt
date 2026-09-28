@@ -1,0 +1,251 @@
+COMPRENDRE LE BILAN COMPTABLE ET LES MÉCANISMES DU HAUT DE BILAN.
+
+LEXIQUE COMPLET.
+
+      Le bilan désigne un document comptable qui dresse l'inventaire de ce que l'entreprise possède et doit à un moment défini.
+
+      L'actif désigne la partie du bilan représentant l'inventaire de ce que l'entreprise possède, incluant les emplois.
+
+      Le passif désigne la partie du bilan représentant l'inventaire de ce que l'entreprise doit, incluant les ressources.
+
+      Les immobilisations désignent les biens appartenant à l'entreprise et servant de façon durable à son activité.
+
+      L'amortissement désigne la constatation de la perte de valeur d'un élément de l'actif immobilisé du fait de son usage ou de son obsolescence.
+
+      La dépréciation désigne la constatation de la perte de valeur potentielle d'un élément de l'actif comme les stocks ou les créances.
+
+      Les capitaux propres désignent les ressources propres de l'entreprise composées du capital social et des résultats non distribués.
+
+      Le haut de bilan désigne l'ensemble des éléments de long terme du bilan, incluant les capitaux propres, les dettes financières de long terme et les immobilisations.
+
+      Les obligations désignent des titres de créance permettant de lever des fonds avec une rémunération sous forme de coupon.
+
+      Les créances désignent des sommes d'argent dues par des parties prenantes à l'entreprise et qu'elle est en droit de réclamer.
+
+      La trésorerie active désigne l'ensemble des liquidités dont dispose l'entreprise dans sa caisse ou sur son compte bancaire.
+
+      La trésorerie passive désigne les soldes créditeurs auprès des banques comme les découverts bancaires ou les concours bancaires courants.
+
+COURS DÉTAILLÉ.
+
+I. FONDAMENTAUX ET STRUCTURE DU BILAN.
+
+   A. Définition et rôle de photographie financière.
+
+      Le bilan est un document comptable qui dresse l'inventaire de ce que l'entreprise possède et ce qu'elle doit à un moment défini.
+
+      Il est considéré comme une photographie de l'entreprise à un instant T.
+
+      Ce document représente la situation financière de l'entreprise en détaillant d'un côté l'inventaire de ses possessions et de l'autre celui de ses dettes.
+
+   B. L'équilibre entre l'actif et le passif.
+
+      Le bilan est obligatoirement décomposé en deux parties équilibrées où l'actif est égal au passif.
+
+      Chaque élément inscrit à l'actif correspond systématiquement à un élément du passif.
+
+      Cette structure garantit que la situation financière est présentée de manière cohérente et équilibrée.
+
+   C. La logique d'emploi et de ressource.
+
+      Le bilan repose sur une logique d'équilibre entre les emplois et les ressources.
+
+      L'actif représente les emplois tandis que le passif représente les ressources.
+
+      Le principe fondamental est que les emplois sont financés par les ressources.
+
+II. ANALYSE DÉTAILLÉE DE L'ACTIF.
+
+   A. L'actif immobilisé et le mécanisme de l'amortissement.
+
+      L'actif immobilisé regroupe les biens appartenant à l'entreprise qui servent de façon durable à son activité. Ces éléments sont classés en immobilisations corporelles, incorporelles ou financières.
+
+      Les immobilisations corporelles incluent des éléments physiques comme un pétrin, des fours à pain ou un véhicule de livraison. Les immobilisations incorporelles concernent des éléments comme le fonds de commerce d'Alain ou un logiciel informatique.
+
+      Les immobilisations financières comprennent notamment le dépôt de garantie pour la location d'un local. L'enregistrement de toute immobilisation s'effectue à son prix d'achat.
+
+      L'amortissement constate la perte de valeur d'une immobilisation due à son usage ou à son obsolescence. Il consiste à répartir périodiquement le coût d'achat sur la durée estimée d'utilisation.
+
+      À titre d'exemple, un four à pain acheté trente mille euros HT avec une durée de vie de six ans génère une dotation annuelle de cinq mille euros. Après la première année, sa valeur comptable nette est de vingt-cinq mille euros.
+
+   B. L'actif circulant : stocks, en-cours et créances.
+
+      L'actif circulant comprend les éléments destinés à être vendus ou consommés dans le cadre de l'activité courante. On y trouve les stocks, les en-cours et les créances.
+
+      Les stocks sont les biens destinés à la vente ou à la consommation, comme la farine et le sel. Les en-cours représentent des produits en cours de préparation, tels que des pâtisseries ou des crèmes.
+
+      Les créances correspondent aux sommes d'argent dues par des parties prenantes que l'entreprise est en droit de réclamer. Elles se divisent en créances clients et créances diverses.
+
+      La dépréciation est utilisée pour se prémunir contre un risque de perte de valeur sur les stocks ou les créances. Elle est appliquée lorsque la valeur actuelle est inférieure à la valeur nette comptable.
+
+      Si un client risque de ne pas payer l'intégralité d'une facture de trois mille six cents euros TTC, une dépréciation peut être enregistrée. Avec une TVA de vingt pour cent, la dépréciation pour une perception estimée à seulement trente pour cent est de deux mille cent euros.
+
+   C. La trésorerie active et les liquidités.
+
+      La trésorerie active représente l'ensemble des liquidités ou des sommes dont dispose l'entreprise. Elle est composée de la caisse, du compte bancaire et des valeurs mobilières de placement.
+
+      La caisse correspond à l'argent disponible physiquement, comme celui présent dans le tiroir caisse de la boulangerie. Le compte bancaire est le compte courant utilisé pour les opérations de l'entreprise.
+
+      Les valeurs mobilières de placement incluent des actifs comme les bons du Trésor, les actions ou les OPCVM. Ces éléments permettent de gérer les surplus de liquidités.
+
+III. ANALYSE DÉTAILLÉE DU PASSIF.
+
+   A. Les capitaux propres et les ressources propres.
+
+      Les capitaux propres correspondent aux ressources propres de l'entreprise.
+
+      Ils sont constitués de la somme du capital social apporté par les associés et des résultats générés par l'entreprise qui ne sont pas distribués.
+
+      Ces résultats non distribués comprennent les réserves légales, le report à nouveau ainsi que le résultat ou la perte.
+
+      Plus les capitaux propres sont élevés, plus la valeur de l'entreprise est considérée comme importante.
+
+   B. Les provisions pour risques et charges.
+
+      Les provisions pour risques et charges sont des sommes d'argent comptabilisées pour prévenir le risque de subir une perte d'argent.
+
+      Les provisions pour risques concernent par exemple les garanties données aux clients ou les provisions pour se prémunir face à un litige.
+
+      Les provisions pour charges peuvent porter sur des éléments tels que des litiges prud'homaux.
+
+   C. Les dettes à court et long terme et la trésorerie passive.
+
+      Les dettes de long terme correspondent aux sommes empruntées auprès d'établissements de crédits que l'entreprise devra rembourser avec une échéance supérieure à l'exercice comptable de un an.
+
+      Les dettes d'exploitation de court terme sont liées à l'activité courante et incluent les dettes fournisseurs, les dettes sur immobilisations ainsi que les dettes fiscales et sociales comme la TVA ou les salaires.
+
+      La trésorerie passive, aussi appelée crédit de trésorerie, comprend les soldes créditeurs auprès des banques.
+
+      Elle se compose notamment des découverts bancaires, des facilités de caisse et des crédits à court terme auprès de la banque.
+
+IV. NOTIONS DE DÉPRÉCIATION ET DE VALEUR NETTE.
+
+   A. La dépréciation des stocks et des créances.
+
+      La dépréciation est la constatation potentielle d'une perte de valeur sur un élément de l'actif comme les stocks, les en-cours ou les créances clients.
+
+      Cette procédure est utilisée par l'entreprise pour se prémunir face au risque de perdre de la valeur sur l'un de ses éléments d'actif.
+
+      La condition nécessaire pour appliquer une dépréciation est que la valeur actuelle soit inférieure à la valeur nette comptable.
+
+      À titre d'exemple, une dépréciation peut être appliquée si un client ne peut pas payer l'intégralité de sa dette ou si une partie du stock de farine est périmée.
+
+      Dans le cas d'un client professionnel qui risque la faillite, Alain estime que son entreprise ne percevra que trente pour cent de la créance client initiale de trois mille six cents euros TTC.
+
+      Pour ce client, la dépréciation à enregistrer s'élève à mille cinq cents euros après avoir calculé la part de la créance hors taxes.
+
+   B. Le calcul de la valeur comptable nette.
+
+      La valeur comptable nette représente la valeur résiduelle d'un élément de l'actif après avoir pris en compte les dépréciations ou les amortissements.
+
+      Pour les créances clients, la valeur comptable nette est obtenue en soustrayant la dépréciation de la valeur comptable initiale.
+
+      Dans l'exemple du restaurant EDUCFI, la valeur comptable nette est de mille cinq cents euros car on soustrait la dépréciation de deux mille cent euros de la valeur comptable de trois mille six cents euros TTC.
+
+      Concernant les immobilisations, la valeur actuelle est calculée en déduisant le cumul des amortissements de la valeur d'achat initiale.
+
+      Pour le pétrin acheté neuf mille euros HT avec une durée de vie de cinq ans, le cumul des amortissements à la fin de la troisième année est de cinq mille quatre cents euros.
+
+      La valeur actuelle de ce pétrin à la fin du troisième exercice comptable est donc de trois mille six cents euros.
+
+V. LE CONCEPT DE HAUT DE BILAN.
+
+   A. Définition et distinction court terme versus long terme.
+
+      Le haut de bilan concerne les éléments du bilan classés selon leur horizon temporel. Il se compose des éléments de long terme de l'actif et du passif.
+
+      À l'actif, le long terme est représenté par les immobilisations qui sont corporelles, incorporelles ou financières. Ces biens servent de façon durable à l'activité de l'entreprise.
+
+      Au passif, le long terme comprend les capitaux propres ainsi que les dettes financières de long terme. Ces ressources sont utilisées pour financer les besoins durables.
+
+      Le court terme s'oppose au haut de bilan et regroupe l'actif circulant et le passif circulant. L'actif circulant inclut les stocks, les créances et la trésorerie disponible.
+
+      Le passif à court terme est constitué des dettes financières de court terme comme les découverts ou l'escompte, ainsi que des dettes d'exploitation comme les dettes fournisseurs.
+
+   B. Le rôle du fonds de roulement.
+
+      Le fonds de roulement est un indicateur de structure financière qui se calcule par la différence entre le passif long terme et l'actif long terme.
+
+      Il permet de vérifier si les ressources stables de l'entreprise sont suffisantes pour couvrir ses besoins durables. Cette logique d'équilibre est essentielle pour la santé financière.
+
+      Un haut de bilan solide assure que les investissements de long terme sont financés par des ressources de long terme. Cela évite de dépendre uniquement du court terme.
+
+   C. L'impact des investissements majeurs sur la structure.
+
+      Un projet de grande envergure comme celui d'Alain nécessite un investissement de six cent mille euros. Un tel montant ne peut pas être financé uniquement par une dette bancaire classique.
+
+      L'achat de nouveaux équipements comme des fours ou la construction d'un bâtiment augmente fortement les immobilisations à l'actif. Cela modifie l'équilibre global du bilan.
+
+      Pour compenser cet impact, l'entreprise doit consolider son haut de bilan. Cela peut passer par une augmentation du capital social ou par l'apport de nouveaux actionnaires.
+
+      D'autres solutions existent pour renforcer le passif long terme sans diluer le capital. On peut utiliser des dettes financières de long terme ou des quasi fonds propres.
+
+      Les quasi fonds propres incluent des solutions hybrides comme les comptes courants d'associés, les avances remboursables ou encore les obligations convertibles en actions.
+
+VI. STRATÉGIES DE RENFORCEMENT DU HAUT DE BILAN.
+
+   A. L'augmentation des capitaux propres et l'entrée d'investisseurs.
+
+      L'augmentation du capital social est une méthode pour renforcer la structure financière de l'entreprise.
+
+      Cette option peut se réaliser en demandant aux actionnaires ou associés actuels d'apporter de nouveaux fonds.
+
+      Il est également possible de faire entrer de nouveaux actionnaires ou associés au capital de la société.
+
+      Les nouveaux investisseurs peuvent être des fonds d'investissement publics, des fonds d'investissement privés ou des business angels.
+
+      Le recours au crowdequity constitue une autre possibilité pour intégrer de nouveaux actionnaires.
+
+      L'investisseur-actionnaire apporte une trésorerie renforcée sans impact sur le compte de résultat car il n'y a pas de charges d'intérêts.
+
+      Cependant, cette stratégie entraîne une moins grande autonomie de gestion et un effet dilutif sur les bénéfices futurs pour le fondateur.
+
+   B. Le recours aux dettes financières de long terme.
+
+      Le renforcement peut passer par l'augmentation des ressources financières de long terme via des emprunts.
+
+      L'entreprise peut solliciter un emprunt bancaire long terme auprès des banques commerciales.
+
+      Il est possible d'activer Bpifrance en complément des banquiers commerciaux pour accompagner le financement.
+
+      Le financement participatif ou crowdfunding est une autre solution pour augmenter les ressources de long terme.
+
+      Le financeur apporte les fonds en échange d'une rémunération sous forme de taux d'intérêt.
+
+      L'avantage principal est l'absence d'effet dilutif pour l'actionnaire, mais la charge d'intérêt diminue mécaniquement le résultat net.
+
+   C. Les solutions hybrides et les quasi fonds propres.
+
+      Les solutions hybrides permettent de consolider la structure financière sans ouvrir le capital à de nouveaux investisseurs.
+
+      Les comptes courants d'associés et les avances remboursables sont des exemples de ces solutions dites quasi fonds propres.
+
+      Le prêt participatif de l'État, les obligations ou les obligations convertibles en actions font également partie de cette catégorie.
+
+      Les obligations classiques prévoient le remboursement du capital et le paiement d'un coupon sur une durée déterminée.
+
+      Par exemple, une obligation sur sept ans avec un coupon de trois pour cent génère des flux de paiement annuels pour l'entreprise.
+
+      Les obligations convertibles offrent la possibilité de transformer la dette en un nombre X d'actions.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre l'actif et le passif car l'actif représente les emplois et le passif représente les ressources.
+
+      Le bilan doit toujours être équilibré puisque chaque élément de l'actif correspond à un élément du passif.
+
+      Une confusion courante est de confondre l'amortissement qui constate une perte de valeur et la dépréciation qui anticipe un risque de perte de valeur.
+
+      Le haut de bilan ne concerne pas uniquement les capitaux propres mais inclut aussi les dettes de long terme.
+
+      Il est important de distinguer les dettes d'exploitation qui sont à court terme des dettes financières qui peuvent être à long terme.
+
+EXEMPLES CITÉS.
+
+      Alain a acheté un four à pain pour trente mille euros HT avec une durée de vie de six ans ce qui génère une dotation annuelle de cinq mille euros.
+
+      Pour un client qui risque la faillite Alain peut enregistrer une dépréciation de deux mille cent euros sur une créance initiale de trois mille six cents euros TTC.
+
+      Le projet d'atelier d'Alain nécessite un investissement de six cent mille euros ce qui impose de renforcer son haut de bilan.
+
+      Une solution hybride pour Alain consiste à utiliser des obligations convertibles en actions ou des avances remboursables.

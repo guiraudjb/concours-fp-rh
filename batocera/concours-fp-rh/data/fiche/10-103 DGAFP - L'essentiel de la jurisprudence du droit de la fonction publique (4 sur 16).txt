@@ -1,0 +1,281 @@
+LES DROITS ET OBLIGATIONS DES AGENTS PUBLICS ET LA GESTION DE LEURS DONNÉES PERSONNELLES.
+
+LEXIQUE COMPLET.
+
+      Le CRPA désigne le code des relations entre le public et l'administration qui prévoit que les autorités administratives sont tenues de communiquer les documents administratifs qu'elles détiennent aux personnes qui en font la demande.
+
+      Le sigle NIR désigne le numéro d'inscription au Répertoire national d'identification des personnes physiques, communément appelé numéro de sécurité sociale.
+
+      La loi CNIL désigne la loi n° soixante-dix-huit-dix-sept du sept janvier mille neuf cent soixante-dix-huit relative à l'informatique, aux fichiers et aux libertés qui permet à une autorité publique de collecter et traiter des données à caractère personnel après avoir procédé aux formalités préalables.
+
+      Le CGCT désigne le code général des collectivités territoriales qui prévoit notamment un accès pour toute personne physique aux arrêtés municipaux.
+
+      La règle du service fait désigne le principe selon lequel un fonctionnaire ne peut être payé qu'une fois son service effectué, conformément à l'article vingt de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois.
+
+      La protection fonctionnelle désigne l'obligation pour les administrations et les employeurs publics d'assurer la protection de leurs agents victimes d'agressions, de condamnations civiles ou pénales ou de menaces dans le cadre de leurs fonctions.
+
+      L'obligation de réserve désigne l'obligation pour les agents publics de faire preuve de modération et de retenue dans l'expression de leurs opinions, qu'il s'agisse de sujets politiques, religieux ou philosophiques.
+
+      L'obligation de discrétion professionnelle désigne l'obligation pour les fonctionnaires de ne pas divulguer les faits, informations ou documents dont ils ont connaissance dans l'exercice de leurs fonctions.
+
+      L'obligation de secret professionnel désigne l'obligation plus particulière pour les agents de ne pas révéler des informations protégées par un secret en vertu de la loi.
+
+      Le Conseil d'État désigne la juridiction administrative qui précise les contours de la jurisprudence en matière de rémunération, de protection fonctionnelle ou d'obligation de réserve.
+
+COURS DÉTAILLÉ.
+
+I. LA PROTECTION DES DONNÉES PERSONNELLES ET DE LA VIE PRIVÉE.
+
+   A. Conditions de collecte et de traitement des données.
+
+      L'administration peut mettre en place des fichiers informatiques utilisant des données personnelles de ses agents à condition que l'atteinte à la vie privée soit proportionnée.
+
+      La loi n° soixante-dix-huit-dix-sept du sept janvier mille neuf cent soixante-dix-huit relative à l'informatique, aux fichiers et aux libertés permet la collecte et le traitement d'informations nominatives sous deux conditions cumulatives.
+
+      Les finalités poursuivies par l'administration doivent être légitimes, comme c'est le cas pour la gestion administrative, financière et le pilotage par des indicateurs statistiques.
+
+      Le choix, la collecte et le traitement des données doivent être effectués de manière adaptée, nécessaire et proportionnée au regard des finalités visées.
+
+      Cette collecte peut concerner les candidats à des concours donnant accès à la fonction publique conformément au décret n° deux mille dix-huit-cent quatorze du seize février deux mille dix-huit.
+
+   B. Limites liées à la situation familiale et syndicale.
+
+      L'administration peut collecter des informations sur la situation familiale comme le nom, le prénom, la date et le lieu de naissance ainsi que le NIR des membres de la famille.
+
+      Ces données sont nécessaires pour permettre aux agents de bénéficier d'avantages tels que le supplément familial de traitement.
+
+      Il est illégal de disposer d'informations relatives au sexe et à la nationalité des conjoints ou partenaires des agents car cela n'est pas utile à la gestion administrative.
+
+      La loi n° soixante-dix-huit-dix-sept du sept janvier mille neuf cent soixante-dix-huit interdit par principe le traitement des données relatives à la mention de l'appartenance syndicale.
+
+      Des exceptions existent pour l'exercice de fonctions de représentation syndicale, notamment pour l'organisation des élections professionnelles ou la gestion des autorisations spéciales d'absence.
+
+   C. Communicabilité des actes et protection de la vie privée.
+
+      En vertu de l'article L. trois cent onze-un du CRPA, les autorités administratives sont tenues de communiquer les documents qu'elles détiennent aux personnes qui en font la demande.
+
+      Les documents portant une appréciation ou un jugement de valeur sur une personne physique ne sont communicables qu'aux personnes intéressées ou après occultation des mentions sensibles.
+
+      Un acte relatif à la situation individuelle d'un fonctionnaire est un document administratif communicable sous réserve de la protection de la vie privée.
+
+      L'adresse publique ou la situation de famille de l'agent doivent être occultées avant toute communication à des tiers.
+
+      Concernant la rémunération, les éléments relevant du traitement indiciaire sont communicables tandis que les primes variables traduisant une appréciation sur le comportement de l'agent ne le sont pas.
+
+II. LE RÉGIME DE LA RÉMUNÉRATION ET LA RÈGLE DU SERVICE FAIT.
+
+   A. Le principe du service fait et ses exceptions.
+
+      Le principe du service fait est un pilier de la rémunération des agents publics selon l'article vingt de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois.
+
+      Ce principe dispose qu'un fonctionnaire ne peut être payé qu'une fois son service effectivement effectué.
+
+      L'administration possède une compétence liée pour suspendre les traitements et indemnités en cas d'absence de service fait, dès lors que la décision n'est pas manifestement illégale.
+
+      Le fonctionnaire conserve toutefois le droit de percevoir son traitement sans service fait dans des cas précis comme les congés annuels ou les congés pour motif médical.
+
+      D'autres exceptions existent notamment pour les décharges d'activité liées à un mandat syndical, les autorisations spéciales d'absence ou encore le droit de retrait.
+
+      Si l'agent effectue son service mais ne perçoit pas sa rémunération, il peut en obtenir le versement ainsi que la réparation des préjudices subis.
+
+   B. La caractérisation de l'absence de service fait.
+
+      L'absence de service fait est une notion dont l'appréciation peut être délicate, notamment lorsque le service a été mal ou partiellement accompli.
+
+      Pour la fonction publique d'État, il n'y a pas service fait lorsque l'agent n'exécute pas tout ou partie des obligations de service liées à sa fonction, même s'il effectue ses heures.
+
+      Le Conseil d'État a jugé qu'un agent refusant de se conformer à de nouveaux horaires de travail commet une inexécution partielle assimilable à une absence de service fait.
+
+      L'administration ne peut pas invoquer l'absence de service fait pour sanctionner un agent qu'elle aurait placardisé.
+
+      Dans les fonctions publiques territoriale et hospitalière, le service imparfaitement fait peut donner lieu à une sanction disciplinaire mais ne peut entraîner de retenue sur traitement.
+
+   C. Les modalités de calcul des retenues sur traitement.
+
+      Le Conseil d'État a fixé une règle de calcul claire pour les absences constantes de service fait durant plusieurs jours consécutifs.
+
+      Le décompte des retenues s'élève en principe à autant de trentièmes qu'il y a de journées comprises du premier jour inclus au dernier jour inclus où l'absence a été constatée.
+
+      Cette règle du trentième indivisible s'applique en matière de grève pour la fonction publique d'État, où une grève d'une fraction de journée entraîne une retenue d'un trentième du traitement mensuel.
+
+      Pour les autres fonctions publiques, la retenue est proportionnelle à la durée de la cessation du travail avec des fractions spécifiques comme un/cent soixantième pour les grèves de moins d'une heure.
+
+      Le calcul peut être plus complexe pour des corps de base avec des sujétions spécifiques, comme pour les sapeurs-pompiers professionnels dont la retenue doit être proportionnée aux obligations de service.
+
+III. LE DROIT À LA PROTECTION FONCTIONNELLE.
+
+   A. Champ d'application et bénéficiaires.
+
+      L'article onze de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois prévoit que les administrations et les employeurs publics sont tenus d'assurer la protection de leurs agents victimes d'agressions dans le cadre de leurs fonctions, de leurs mandats ou lors de condamnations civiles ou pénales.
+
+      Le Conseil d'État a précisé dans sa décision X de deux mille onze que cette protection s'applique à tous les agents publics, quel que soit leur mode d'accès à leurs fonctions, incluant les titulaires, les stagiaires et les contractuels.
+
+      Le champ d'application s'étend également aux collaborateurs bénévoles et occasionnels du service public, ainsi qu'aux praticiens hospitaliers et aux magistrats judiciaires.
+
+      La protection peut être accordée, à la demande de l'agent, à son conjoint, à son concubin ou au partenaire lié par un PACS en cas d'atteintes volontaires à la vie du fonctionnaire, ainsi qu'à ses enfants ou ascendants directs.
+
+      Certains agents recrutés à l'étranger bénéficient de cette protection même si leur contrat est soumis au droit local, tandis que les militaires ne sont pas couverts par ces dispositions spécifiques.
+
+   B. Les composantes de la protection.
+
+      La protection fonctionnelle comporte trois composantes essentielles qui incluent la protection matérielle, notamment avec l'aide des services de police pour prévenir les attaques et les menaces.
+
+      Elle comprend également la réparation des préjudices subis par l'agent lors d'attaques survenues dans l'exercice de ses fonctions.
+
+      Enfin, elle assure l'assistance juridique ainsi que la défense de l'agent lorsqu'il est mis en cause par un tiers à raison de ses fonctions.
+
+   C. Les conditions de refus et de fin de protection.
+
+      L'administration peut refuser la protection lors de poursuites civiles ou pénales si l'agent a commis une faute personnelle détachable du service.
+
+      Dans le cas de menaces, de violences, de voies de fait, d'injures, de diffamations ou d'outrages, l'administration ne peut opposer un refus que pour un motif d'intérêt général.
+
+      Le Conseil d'État a jugé que les agissements répétés de harcèlement moral peuvent permettre à un agent d'obtenir la protection fonctionnelle si l'administration refuse de l'accorder.
+
+      Une fois la protection accordée, l'autorité administrative peut décider d'y mettre fin si de nouveaux éléments révèlent l'existence d'une faute personnelle ou si les faits allégués ne sont pas établis.
+
+      Il est précisé que si un agent est poursuivi pour une faute de service et que le conflit d'attribution n'est pas élevé, la collectivité doit le couvrir des condamnations civiles prononcées.
+
+IV. LA PROTECTION CONTRE LE HARCÈLEMENT ET LES AGISSEMENTS SEXISTES.
+
+   A. Le harcèlement sexuel et les agissements sexistes.
+
+      La loi n° deux mille un-trois cent quatre-vingt-dix-sept du neuf mai deux mille un relative à l'égalité professionnelle entre les femmes et les hommes a introduit l'article six ter du statut général pour protéger les fonctionnaires et les agents publics contractuels.
+
+      Le harcèlement sexuel est constitué par des propos ou comportements à connotation sexuelle répétés qui portent atteinte à la dignité de la personne ou créent une situation intimidante, hostile ou offensante.
+
+      Des faits assimilés au harcèlement sexuel consistent en toute forme de pression grave, même non répétée, exercée dans le but d'obtenir un acte de nature sexuelle, que celui-ci soit recherché par l'auteur ou pour le profit d'un tiers.
+
+      L'article six bis de la loi n° deux mille dix-sept-quatre-vingt-six du vingt-sept janvier deux mille dix-sept intègre désormais la protection contre les agissements sexistes, définis comme tout agissement lié au sexe d'une personne ayant pour objet ou effet de porter atteinte à sa dignité.
+
+      La loi n° deux mille dix-neuf-huit cent vingt-huit du six août deux mille dix-neuf a renforcé les obligations des employeurs en matière de prévention et de traitement des violences, des discriminations, du harcèlement moral ou sexuel et des agissements sexistes.
+
+      Cette loi a également ajouté la grossesse parmi les discriminations prohibées par l'article six du statut général de la fonction publique.
+
+   B. Le harcèlement moral et le régime de la preuve.
+
+      Le harcèlement moral est défini par la loi n° deux mille deux-soixante-treize du dix-sept janvier deux mille deux comme des agissements répétés ayant pour objet ou pour effet une dégradation des conditions de travail susceptible d'altérer la santé physique ou mentale ou de compromettre l'avenir professionnel.
+
+      L'auteur de tels agissements est passible d'une sanction disciplinaire, une protection qui s'étend aussi aux agents des chambres consulaires selon la jurisprudence du Conseil d'État du vingt et un novembre deux mille quatorze.
+
+      Le droit de ne pas être soumis à un harcèlement moral est reconnu comme une liberté fondamentale par le juge des référés, conformément à l'article L. cinq cent vingt et un-deux du CJA.
+
+      Concernant la charge de la preuve, l'agent public doit soumettre au juge des éléments de fait susceptibles de faire présumer l'existence du harcèlement.
+
+      Il incombe ensuite à l'administration de produire une argumentation démontrant que les agissements sont justifiés par des considérations étrangères à tout harcèlement.
+
+      Une fois le harcèlement moral établi, le préjudice doit être intégralement réparé et l'agent a droit à l'indemnisation de son préjudice moral comme de son préjudice matériel.
+
+   C. Les dispositifs de prévention et de signalement.
+
+      L'article six quarter A de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois prévoit la mise en place d'un dispositif de signalement pour recueillir les signalements des agents victimes ou des témoins.
+
+      Ce dispositif a pour mission d'orienter les victimes vers les autorités compétentes en matière d'accompagnement, de soutien et de protection.
+
+      L'article six septies impose aux administrations, collectivités et établissements publics de mettre en œuvre un plan d'action pluriannuel pour prévenir et traiter les discriminations et les formes de harcèlement.
+
+      Ce plan d'action doit comporter au moins des mesures visant à prévenir les agissements sexistes et doit être élaboré en consultant les instances de dialogue social.
+
+      L'absence d'élaboration ou le non-renouvellement de ce plan d'action peut être sanctionné par une pénalité n'excédant pas un pour cent de la rémunération brute annuelle globale de l'ensemble des personnels.
+
+V. LE DROIT D'ACCÈS AU DOSSIER INDIVIDUEL.
+
+   A. Fondements et contours du droit d'accès.
+
+      Le droit d'accès au dossier individuel est prévu par l'article dix-huit de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois.
+
+      Ce droit est également consacré par la loi n° soixante-dix-huit-sept cent cinquante-trois du dix-sept juillet mille neuf cent soixante-dix-huit, désormais codifiée au sein du CRPA.
+
+      L'agent public peut obtenir la communication de tous les documents produits par l'administration à son sujet.
+
+      La jurisprudence a instauré ce droit dès qu'intervient une mesure prise en considération de la personne, comme dans l'arrêt Sieur Jarry et autre du vingt janvier mille neuf cent soixante-sept.
+
+      Toutefois, ce droit s'efface si une procédure disciplinaire est engagée, les règles de l'article soixante-cinq de la loi du vingt-deux avril mille neuf cent cinq s'appliquant alors.
+
+      L'administration peut reporter la communication si le document est inachevé ou préparatoire, selon l'article L. trois cent onze-deux du CRPA.
+
+   B. Les modalités de communication et de copie.
+
+      L'administration doit communiquer le dossier dans un délai suffisant, sous peine de voir l'agent demander une indemnité pour préjudice.
+
+      Un délai de deux jours a été jugé suffisant par le Conseil d'État pour permettre la connaissance du dossier avant une convocation.
+
+      L'agent a le droit de prendre copie de son dossier, sauf si sa demande présente un caractère abusif.
+
+      L'administration n'a pas l'obligation d'informer l'agent de son droit de prendre copie des pièces.
+
+      Le contenu du dossier comprend les documents de gestion de carrière et les pièces que l'administration juge utiles de conserver.
+
+      En cas de procédure disciplinaire, le dossier doit contenir les pièces fondant les griefs reprochés à l'agent.
+
+   C. La gestion du dossier sur support électronique.
+
+      L'article dix-huit de la loi du treize juillet mille neuf cent quatre-vingt-trois prévoit que le dossier peut être géré sur support électronique sous réserve des garanties de la CNIL.
+
+      La consultation du dossier numérique s'effectue par affichage sur écran de documents conformes à l'original selon l'article quatorze du décret du quinze juin deux mille onze.
+
+      L'agent peut obtenir une copie de tout ou partie des éléments par transmission à son adresse électronique professionnelle nominative.
+
+      La remise d'un support physique est également possible pour la communication des documents gérés sur support électronique.
+
+      L'arrêté du vingt et un décembre deux mille douze fixe la nomenclature précise des pièces pouvant être versées au dossier électronique.
+
+VI. LES OBLIGATIONS DE RÉSERVE, DE SECRET ET DE DISCRÉTION.
+
+   A. L'obligation de réserve et la liberté d'expression.
+
+      Bien que la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois reconnaisse la liberté d'opinion des fonctionnaires, la jurisprudence a dégagé une obligation de réserve qui impose de manifester ses opinions avec retenue et modération.
+
+      Cette obligation est un corollaire des principes de neutralité de l'administration et de loyauté des agents, s'appliquant aussi bien dans l'exercice des fonctions que lors d'activités personnelles ou de candidatures à une fonction publique.
+
+      Le champ d'application est très large et concerne tous les supports d'expression comme les réseaux sociaux, la presse, la radio ou les manifestations, sans que l'usage d'un pseudonyme n'exonère l'agent de sa responsabilité.
+
+      La gravité du manquement s'apprécie selon la diffusion des propos et le statut de l'agent, les postes à haute responsabilité comme les ambassadeurs ou les préfets étant soumis à une exigence de réserve renforcée.
+
+      À l'inverse, certains agents comme les enseignants du supérieur ou les dirigeants syndicaux bénéficient d'une liberté d'expression plus large, bien que les dirigeants syndicaux ne soient pas déliés de leur obligation de réserve.
+
+      Le Conseil d'État a sanctionné le manquement d'un chef d'escadron de la gendarmerie nationale, M. Jean-Hugues A..., dont les critiques médiatiques sur l'organisation de la sécurité publique excédaient les limites de la réserve.
+
+   B. L'obligation de discrétion professionnelle.
+
+      L'obligation de discrétion professionnelle s'applique à tous les faits, informations ou documents dont un fonctionnaire a connaissance dans l'exercice ou à l'occasion de l'exercice de ses fonctions.
+
+      Elle vise à protéger le fonctionnement de l'administration et la vie privée des usagers en imposant une retenue sur la communication d'informations internes ou de documents de service.
+
+      Le non-respect de cette obligation peut entraîner des sanctions disciplinaires, comme l'illustre le cas d'un fonctionnaire de police ayant remis une fiche contenant des informations nominatives confidentielles à un tiers en deux mille quatre.
+
+   C. L'obligation de secret professionnel.
+
+      L'obligation de secret professionnel est plus spécifique et concerne toutes les informations qui sont protégées par un secret en vertu de la loi.
+
+      Elle impose une interdiction stricte de divulguer des données sensibles, comme l'a rappelé le Conseil d'État concernant un infirmier du Centre hospitalier spécialisé Le Valmont en mille neuf cent quatre-vingt-quatorze.
+
+      Dans cette affaire, l'infirmier a manqué à son obligation en révélant l'existence et le nom d'une malade à une équipe de tournage, permettant ainsi à des tiers de s'adresser à elle.
+
+      Le non-respect de ce secret peut être sanctionné lourdement, notamment pour les agents de police occupant des emplois de responsabilité qui divulguent des informations au risque de troubler des investigations judiciaires.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre la rémunération indiciaire qui est communicable avec les primes variables qui ne le sont pas car elles traduisent une appréciation du comportement de l'agent.
+
+      La règle du service fait impose qu'un fonctionnaire ne soit payé qu'une fois son service effectué mais elle comporte des exceptions comme les congés rémunérés ou les décharges d'activité syndicale.
+
+      L'obligation de réserve n'interdit pas la liberté d'opinion mais impose une modération et elle est plus forte pour les agents occupant des postes importants comme les ambassadeurs ou les préfets.
+
+      La protection fonctionnelle s'applique à tous les agents publics quel que soit leur mode d'accès à la fonction mais elle est exclue si l'agent a commis une faute personnelle détachable du service.
+
+      Le droit d'accès au dossier est un droit de toute personne intéressée mais il peut être suspendu en cas de procédure disciplinaire ou pour les pièces de nature médicale protégées par le code de la santé publique.
+
+      L'obligation de discrétion professionnelle concerne tous les faits connus dans l'exercice des fonctions tandis que le secret professionnel s'applique spécifiquement aux informations protégées par la loi.
+
+EXEMPLES CITÉS.
+
+      En cas de grève dans la fonction publique d'État, la retenue sur le traitement mensuel est égale à un/trentième de la rémunération pour une absence de service fait.
+
+      Le Conseil d'État a jugé en deux mille onze que la radiation des cadres d'un chef d'escadron de la gendarmerie nationale pour des propos médiatiques était une sanction proportionnée à son manquement à l'obligation de réserve.
+
+      L'article six septies prévoit que les collectivités territoriales de plus de vingt mille habitants doivent mettre en œuvre un plan d'action pluriannuel pour prévenir les discriminations et le harcèlement.
+
+      Un infirmier a été sanctionné en mille neuf cent quatre-vingt-quatorze pour avoir manqué à son obligation de secret professionnel en permettant à une équipe de tournage d'entrer en contact avec une malade du centre hospitalier spécialisé Le Valmont.
+
+      L'administration peut imposer une retenue sur traitement pour une grève inférieure à un heure dans la fonction publique d'État selon un calcul de un/cent soixantième du traitement mensuel.

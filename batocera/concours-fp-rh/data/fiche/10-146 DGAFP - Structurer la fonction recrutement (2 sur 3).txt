@@ -1,0 +1,315 @@
+GUIDE COMPLET DE LA PROFESSIONNALISATION ET DE L'OPTIMISATION DE LA FONCTION RECRUTEMENT.
+
+LEXIQUE COMPLET.
+
+      La PEP désigne la Place de l'emploi public qui est le site de publication des offres d'emploi pour l'ensemble des employeurs publics.
+
+      Le sigle DGAFP désigne la Direction générale de l'administration et de la fonction publique.
+
+      Le terme sourcing désigne une étape du processus de recrutement qui consiste à rechercher et à approcher les profils les plus adaptés aux besoins des recruteurs.
+
+      Le sigle RIFSEEP désigne le régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel.
+
+      La gamification désigne le fait d'intégrer des mécanismes de jeu dans un processus qui n'a pas pour vocation première d'être ludique.
+
+      Le sigle CBCM désigne le contrôle budgétaire et comptable ministériel.
+
+      Le terme onboarding désigne un processus d'intégration qui s'organise dès que le candidat accepte l'offre d'embauche et se poursuit sur plusieurs mois.
+
+      Le sigle API désigne une interface de programmation applicative permettant à des applications de communiquer entre elles.
+
+      Le sigle SIRH désigne un système d'information de ressources humaines.
+
+      Le terme hackathon désigne un événement au cours duquel des spécialistes se réunissent pendant plusieurs jours autour d'un projet collaboratif de programmation informatique ou de création numérique.
+
+      Le sigle TEPP-CNRS désigne l'unité de recherche dirigée par le Professeur L'HORTY à l'Université Gustave Eiffel.
+
+      Le sigle MTE désigne le ministère de la Transition écologique.
+
+COURS DÉTAILLÉ.
+
+I. CADRE JURIDIQUE ET FORMALISATION DU PROCESSUS DE RECRUTEMENT.
+
+   A. Lutte contre les discriminations et sanctions pénales.
+
+      Le refus d'embaucher une personne pour un motif de discrimination est strictement interdit par la loi.
+
+      Cette interdiction est encadrée par les articles six et six bis de la loi du treize juillet mille neuf cent quatre-vingt-trois ainsi que par l'article deux cent vingt-cinq-un du Code pénal.
+
+      La discrimination à l'embauche constitue un délit qui peut entraîner des sanctions sévères selon l'article deux cent vingt-cinq-deux du Code pénal.
+
+      Les peines encourues peuvent atteindre trois ans d'emprisonnement et quarante-cinq mille euros d'amende.
+
+   B. Formalisation de l'évaluation et traçabilité des décisions.
+
+      L'évaluation des candidats doit être formalisée au sein d'un ou plusieurs documents officiels.
+
+      Ces documents précisent les appréciations portées sur chaque candidat présélectionné selon ses compétences, ses aptitudes, ses qualifications et ses expériences professionnelles.
+
+      Il est nécessaire de tracer de façon claire les fondements de la décision de recrutement en tenant compte du potentiel et de la capacité à exercer les missions de l'emploi permanent.
+
+      Différentes administrations utilisent des outils spécifiques comme les grilles de restitution d'entretien du ministère de la Transition écologique ou les grilles d'évaluation individuelle du Ministère de l'Agriculture.
+
+      Le guide du recrutement des Services du Premier ministre propose également des grilles de formalisation du choix.
+
+   C. Gestion des candidatures et archivage des dossiers.
+
+      Les documents d'évaluation peuvent identifier les candidatures intéressantes pour être conservées dans une CV-thèque ou un vivier.
+
+      Il est recommandé de proposer un retour aux candidats non retenus sur les raisons du rejet de leur candidature.
+
+      Les candidats non retenus doivent être informés de la décision de rejet et de la possibilité de conserver leur CV.
+
+      Le module de gestion des candidatures de la PEP permet de conserver les coordonnées des candidats non retenus.
+
+      Les dossiers doivent être archivés à compter de la fin de la procédure de recrutement.
+
+      La durée de conservation est de six ans pour couvrir le délai de recours devant les juridictions pénales pour discrimination.
+
+II. ÉVALUATION DES RISQUES ET OUTILS DE PRÉPARATION.
+
+   A. Résultats des campagnes de testing sur la discrimination.
+
+      Le Professeur L’HORTY a conduit des opérations de testing sur cinq critères pour évaluer les risques de discrimination dans les trois fonctions publiques. Ces critères concernent le sexe, l’origine signalée par le patronyme, le lieu de résidence et le handicap.
+
+      Les campagnes de testing ont été menées sur plusieurs périodes, notamment en deux mille quinze-deux mille seize sur l’origine et l’adresse, puis entre deux mille dix-sept et deux mille dix-huit sur l’origine, l’adresse, l’orientation sexuelle et le sexe. La période deux mille dix-neuf-deux mille vingt a porté sur l’origine, l’adresse, le sexe et le handicap.
+
+      Les résultats montrent que les différences d’accès à l’emploi selon l’origine et le handicap sont fortes et généralisées. Les travailleurs en situation de handicap ont des taux de succès différents de ceux qui ne bénéficient pas de la reconnaissance administrative.
+
+      La reconnaissance du handicap n’annule pas les discriminations mais peut au contraire les amplifier. En revanche, les différences d’accès à l’emploi ont quasiment disparu sur le critère de l’adresse et n’existent pas sur le critère du sexe.
+
+   B. Utilisation du simulateur d'entretien de la DGAFP.
+
+      La DGAFP propose un simulateur d’entretien sous forme de jeu sérieux pour faciliter la préparation des candidats à la mobilité ou à l'entrée dans la fonction publique. Cet outil permet d'évoluer dans un univers immersif qui recrée les conditions réelles d'un entretien de recrutement.
+
+      Un coach virtuel accompagne le joueur et établit un bilan de la session après avoir traité toutes les phases de l'entretien. Cela inclut la consultation de l'offre, la sélection des éléments du CV et de la lettre de motivation, ainsi que le plan de présentation du parcours.
+
+      Le simulateur propose quatre scénarios, dont deux pour un poste de collaborateur et deux pour un poste d’encadrant. Le bilan final est personnalisé et peut être sauvegardé, tandis qu'aucune donnée individuelle n'est collectée.
+
+      La simulation dure approximativement quarante-cinq minutes et les quatre scénarios peuvent être rejoués sans limite.
+
+   C. Méthodologies de préqualification et guides d'entretien.
+
+      La cellule sourcing du ministère des Armées utilise des entretiens de préqualification téléphonique d'une durée de quinze min environ pour sélectionner les candidats devant être reçus en entretien physique.
+
+      L'évaluation des candidats doit être formalisée dans un ou plusieurs documents précisant les appréciations au regard des compétences, aptitudes, qualifications, expériences, potentiel et capacité à exercer les missions. Cette démarche permet de tracer les fondements de la décision de recrutement conformément au décret deux mille dix-neuf-mille quatre cent quatorze du dix-neuf décembre deux mille dix-neuf.
+
+      Différents ministères utilisent des outils spécifiques comme les grilles de restitution d'entretien du ministère de la Transition écologique ou les grilles d'évaluation individuelle du ministère de l'Agriculture. Le guide du recrutement des Services du Premier ministre propose également des grilles de formalisation du choix.
+
+      Le guide d'entretien du ministère de la Transition écologique propose des questions structurées par thématiques, allant de la présentation du candidat à la gestion du management. Il inclut également des exemples de mises en situation pour tester la résistance au stress ou la prise de décision.
+
+      Pour éviter les discriminations, le ministère de l'Agriculture définit des critères de questions interdites concernant la situation familiale, l'âge, l'apparence physique, le handicap, les opinions, les activités syndicales, l'état de santé, l'origine, le lieu de résidence, la conviction religieuse, les mœurs ou encore la consommation d'alcool.
+
+III. TRANSPARENCE DE LA RÉMUNÉRATION ET GESTION DES CONTRACTUELS.
+
+   A. Principes de transparence et nature des informations à communiquer.
+
+      La rémunération doit être fixée de façon équitable, lisible et très claire pour servir de facteur d'attractivité et de motivation. La transparence est un vecteur de confiance qui doit accompagner les processus de recrutement, de mobilité ou d'évolution professionnelle.
+
+      Une information insuffisante sur les éléments de rémunération empêche une comparaison optimale des postes et peut favoriser des biais discriminatoires, notamment concernant l'égalité professionnelle entre les femmes et les hommes.
+
+      Pour les fonctionnaires, les informations incluent l'accès aux grilles indiciaires avec la correspondance indice brut et indice majoré, ainsi que le traitement exprimé en euros bruts. Il faut également préciser les règles de reclassement, les accessoires de traitement comme l'indemnité de résidence ou le supplément familial de traitement, ainsi que les primes statutaires et fonctionnelles.
+
+      Concernant les agents contractuels, les éléments à communiquer sont les cadres de gestion ou référentiels de rémunération et les éventuels compléments propres à l'emploi. Il convient d'indiquer les taux de cotisations et de contributions sociales.
+
+      Les dénominations administratives doivent être explicitées par des définitions ou un glossaire pour être accessibles aux candidats ne maîtrisant pas la terminologie RH. Les fourchettes de rémunération doivent être précises et cohérentes avec l'expérience souhaitée.
+
+   B. Modalités de fixation et perspectives d'évolution salariale.
+
+      Depuis l'entrée en vigueur du décret du trente et un décembre deux mille dix-neuf, l'offre d'emploi pour les emplois de direction de l'État doit mentionner les montants planchers et plafonds de la part fixe en montants bruts annuels. Cette part fixe tient compte de l'expérience, des fonctions, des sujétions et de l'expertise de l'emploi.
+
+      L'offre doit également préciser le montant maximum de la part variable pour les postes concernés. Pour les agents contractuels, il est nécessaire d'indiquer les modalités de fixation de la rémunération en distinguant la part fixe de la part variable éventuelle.
+
+      Il est possible de préciser les modalités de prise en compte de l'expérience professionnelle ou du niveau de diplôme. Une visibilité sur les parcours professionnels possibles peut également être offerte aux candidats.
+
+      Pour les corps ayant adhéré au RIFSEEP, les perspectives peuvent préciser les possibilités de changement de groupe de fonctions ou l'usage des tickets mobilité. Les orientations relatives à l'attribution des compléments indemnitaires liés au mérite et à la manière de servir doivent être précisées.
+
+      Pour les contractuels, des précisions peuvent être apportées sur les perspectives de revalorisation, comme l'examen de la rémunération au moins une fois tous les trois ans sur un même poste.
+
+   C. Utilisation des référentiels de rémunération et fiches financières.
+
+      Il est préconisé d'établir une simulation financière de la rémunération pour chaque candidat sélectionné, quel que soit son statut, avant tout recrutement définitif. Cette fiche financière permet au candidat de faire un choix éclairé.
+
+      Pour les contractuels, la construction de référentiels métiers est recommandée afin de clarifier et de fluidifier les recrutements. Cela permet notamment d'alléger les validations du contrôle budgétaire et comptable ministériel.
+
+      Le référentiel de rémunération des ministères sociaux encadre les propositions pour les agents contractuels sur des emplois permanents ou temporaires. Il vise à optimiser la compétitivité externe et à garantir un système de rémunération équilibré en interne.
+
+      Ce dispositif cherche à assurer que la rémunération est juste, évolutive et motivante tout en respectant l'équilibre budgétaire. Il permet de réduire les délais de recrutement par l'allègement des contrôles au cas par cas.
+
+      Pour les fonctionnaires des corps ayant adhéré au RIFSEEP, l'information doit porter sur la cotation du poste et le montant indemnitaire servi. Il faut aussi préciser les modalités d'attribution du CIA.
+
+IV. RÉUSSITE DE L'INTÉGRATION ET DE L'ONBOARDING.
+
+   A. Enjeux de la pré-intégration et rôle du manager.
+
+      L'onboarding est un processus qui doit s'organiser bien en amont de l'arrivée de l'agent et démarrer dès l'acceptation de l'offre d'embauche.
+
+      La phase de pré-intégration permet de s'assurer que le nouvel agent disposera d'un poste de travail et d'équipements informatiques et techniques opérationnels dès son arrivée.
+
+      Il est nécessaire de formaliser la situation administrative en lien avec les référents RH et la paie pour éviter toute rupture de rémunération.
+
+      Le manager est le premier responsable du respect de la promesse employeur, qui regroupe les arguments RH ayant motivé le candidat à rejoindre la structure.
+
+      Une communication interne sur l'arrivée de l'agent et un contact informel quelques jours avant la prise de poste permettent de rassurer le collaborateur.
+
+   B. Accompagnement et suivi du parcours sur le long terme.
+
+      Le parcours d'intégration doit être envisagé sur la durée et ne peut se limiter aux seuls premiers mois suivant la prise de poste.
+
+      Entre trois et six mois, un premier bilan intermédiaire doit être réalisé pour identifier les besoins en formation et permettre la montée en compétences.
+
+      Au-delà de six mois, des points réguliers permettent de vérifier l'adaptation de l'agent à son poste et d'apporter des solutions aux éventuelles difficultés.
+
+      Le premier entretien professionnel annuel constitue également une étape pour évaluer l'intégration de l'agent et ses besoins d'accompagnement.
+
+      Cette période de plusieurs mois vise à poser les bases d'une relation de confiance fondée sur le respect, la considération, l'équité et l'ouverture à l'autre.
+
+   C. Dispositifs et outils pour un accueil personnalisé.
+
+      Un dispositif d'accueil standardisé peut inclure la remise de documentation, un kit du nouvel arrivant ou l'organisation d'une journée d'accueil.
+
+      L'accompagnement peut être individualisé par l'organisation de rendez-vous avec des interlocuteurs, des séminaires ou la mise en place de fonctions de référent.
+
+      Des outils comme le trombinoscope, le plan des locaux ou une note de synthèse sur les missions facilitent l'accueil et l'intégration.
+
+      La boîte à outils de l'onboarding propose dix fiches actions pour structurer l'accueil, de la préparation matérielle à la résolution des difficultés d'intégration.
+
+      Des capsules vidéo sont également mises à disposition des managers pour les aider à identifier et résoudre les difficultés d'intégration d'un nouvel agent.
+
+V. OPTIMISATION DE LA VISIBILITÉ ET DES OUTILS NUMÉRIQUES.
+
+   A. Fonctionnalités et usages de la Place de l'Emploi Public.
+
+      La PEP est le site de publication obligatoire des offres d'emploi pour les employeurs publics selon le décret n° deux mille dix-huit-mille trois cent cinquante et un du vingt-huit décembre deux mille dix-huit.
+
+      Cette plateforme permet de publier des offres sur le site commun et sur plusieurs supports internet ou réseaux sociaux, tout en proposant une application mobile avec géolocalisation.
+
+      Les recruteurs peuvent rédiger leurs offres directement ou injecter des données en masse depuis un SIRH, comme cela est déjà le cas pour le ministère de la transition écologique.
+
+      L'outil offre des fonctionnalités de gestion de processus de recrutement, de gestion de viviers de candidats en mode multi-employeur et de pilotage via des tableaux de bord statistiques.
+
+      L'espace candidat permet de suivre les candidatures, tandis que des travaux sont menés pour garantir l'accessibilité du site aux personnes en situation de handicap.
+
+   B. Développement de la compétence des acteurs RH et managers.
+
+      La professionnalisation repose sur l'analyse des situations de travail pour proposer des formations axées sur la conduite des entretiens et la compréhension des enjeux juridiques.
+
+      Les services RH doivent maîtriser le cadre juridique, le recrutement des agents contractuels et les fondamentaux du développement des compétences ou de la gestion de carrière.
+
+      Les manager-recruteurs sont formés pour développer leur posture, challenger les compétences des candidats et apprendre à recruter sans commettre de discrimination.
+
+      L'objectif est de développer un savoir-agir en situation par l'élaboration d'outils et de kits pédagogiques destinés à faciliter la coopération entre les acteurs.
+
+   C. Stratégies de formation et marché interministériel.
+
+      Le marché interministériel de formation est porté par le ministère de la Justice avec la DGAFP et la direction des achats de l'État pour répondre aux besoins des ministères.
+
+      Ce marché propose une offre de qualité hybride destinée aux acteurs RH, aux manager-recruteurs et aux agents en recherche de mobilité professionnelle.
+
+      Depuis le printemps deux mille vingt et un, la plateforme Mentor permet aux agents de plusieurs ministères d'accéder à des modules de formation en ligne mutualisés.
+
+      Des thématiques comme l'onboarding, la gestion de la mobilité ou la conception de politiques de recrutement non discriminantes sont déjà disponibles.
+
+      Le déploiement de ces formations en ligne s'étendra progressivement vers le ministère de l'Europe et des affaires étrangères, le ministère de la Justice et le ministère de la Transition écologique.
+
+VI. DÉVELOPPEMENT DU SOURCING ET MÉTHODES INNOVANTES.
+
+   A. Stratégies de recherche proactive et diversification des sources.
+
+      Le sourcing consiste à rechercher et approcher les profils les plus adaptés aux besoins des recruteurs pour déclencher des candidatures pertinentes.
+
+      Cette démarche proactive nécessite d'élargir les sources au-delà des simples candidatures spontanées et doit être coordonnée par la direction des ressources humaines.
+
+      Les recruteurs peuvent créer des partenariats avec des écoles, des universités ou des fondations comme Mozaïk RH pour toucher les jeunes diplômés issus de quartiers moins favorisés.
+
+      L'utilisation de réseaux sociaux professionnels comme LinkedIn permet d'utiliser des fonctions de chasse de candidats ou des outils comme les Job slots pour recommander des postes.
+
+      Certains ministères comme la direction du budget utilisent également le Job teaser pour proposer des informations et des évènements aux étudiants et jeunes professionnels.
+
+      La mise en place d'une cellule de sourcing dédiée, comme celle du ministère des Armées créée en deux mille dix-huit, permet d'agir comme un véritable cabinet de recrutement interne.
+
+   B. Expérimentations pour limiter les biais et les discriminations.
+
+      Les stéréotypes liés à l'âge, l'origine, le genre ou l'adresse peuvent entraver les processus de recrutement et nécessitent des méthodes innovantes pour être dépassés.
+
+      Le recours au CV sans adresse permet de réduire l'impact des a priori fondés sur la domiciliation des candidats lors des échanges électroniques.
+
+      La méthode de recrutement par simulation repose sur des exercices pratiques conçus sur mesure pour évaluer les compétences sans examen préalable du dossier.
+
+      Le speed dating mutuellement anonyme permet aux parties prenantes de se rencontrer sans préjugés afin de débusquer les soft skills.
+
+      Le questionnaire de compétences en ligne permet une sélection basée uniquement sur les réponses des candidats, faisant abstraction de leurs parcours et qualifications.
+
+   C. Utilisation de la gamification et des méthodes de mise en situation.
+
+      La gamification ou ludification intègre des mécanismes de jeu pour simuler des conditions de travail réelles et vérifier des compétences comme l'autonomie ou l'esprit d'équipe.
+
+      L'outil de préqualification de la ville de Paris utilise les technologies de Goshaba pour évaluer les capacités cognitives et les motivations par des tests interactifs.
+
+      Le hackathon de recrutement utilisé par l'agence gouvernementale italienne pour le numérique permet de soumettre des défis de transformation numérique aux participants.
+
+      La SNCF expérimente l'escape game Mission à Grande Vitesse dans un TGV en marche pour évaluer les compétences techniques et les soft skills à distance.
+
+      Ces méthodes de mise en situation, comme le Dassault UAV Challenge, favorisent l'émulation collective et sont particulièrement adaptées aux métiers techniques.
+
+VII. CADRE RÉGLEMENTAIRE DU RECOURS AUX AGENTS CONTRACTUELS.
+
+   A. Recrutement sur les emplois permanents et dérogations.
+
+      La loi du six août deux mille dix-neuf de transformation de la fonction publique a élargi les possibilités de recours au contrat pour occuper la majorité des emplois permanents de l'État. Bien que le principe soit l'occupation des emplois par des fonctionnaires, des dérogations permettent le recrutement d'agents contractuels sur des emplois permanents.
+
+      Le premier cas de dérogation concerne les emplois au sein des établissements publics de l'État, à l'exception des personnels de la recherche. Cette ouverture s'appuie sur le principe d'autonomie qui caractérise ces établissements.
+
+      Le recours aux contractuels est également possible lorsqu'il n'existe pas de corps de fonctionnaires susceptibles d'assurer les fonctions correspondantes. Ces recrutements doivent rester exceptionnels et viser des emplois de catégories A, B ou C ne correspondant pas à des fonctions classiques.
+
+      Une autre possibilité de recrutement permanent existe lorsque la nature des fonctions ou les besoins des services le justifient. Cela inclut les missions nécessitant des compétences techniques spécialisées ou nouvelles, ou quand l'autorité ne peut pourvoir l'emploi par un fonctionnaire expert à l'issue des délais prévus.
+
+      Enfin, l'employeur peut recruter des contractuels si l'emploi ne nécessite pas une formation statutaire donnant lieu à une titularisation dans un corps de fonctionnaires. Cette mesure facilite l'accès aux métiers pour lesquels les écoles de services publics ne proposent pas de formations.
+
+   B. Recrutement pour répondre à des besoins temporaires.
+
+      Le recrutement d'agents contractuels peut répondre à des besoins temporaires selon des modalités spécifiques prévues par la loi. Ces recrutements visent à gérer des situations de fluctuation de l'activité ou des projets précis.
+
+      Il est possible de recruter pour faire face à un accroissement temporaire ou saisonnier de l'activité en application de l'article six sexies. Cette disposition est restée inchangée par la loi de transformation de la fonction publique.
+
+      Le recours aux agents contractuels est également autorisé pour mener à bien un projet ou une opération identifiée. L'article sept bis prévoit la création du contrat de projet pour répondre à ces besoins spécifiques.
+
+      Les agents peuvent aussi être recrutés pour répondre à un besoin permanent impliquant un service à temps incomplet. La durée de ce service ne doit pas excéder soixante-dix pour cent d'un service à temps complet selon l'article six.
+
+      Le remplacement momentané d'un fonctionnaire ou d'un agent contractuel absent est une autre forme de recours temporaire. Cette situation est encadrée par l'article six quater de la loi.
+
+   C. Modalités de mise en œuvre et cas de recours spécifiques.
+
+      La procédure de recrutement varie selon que l'on recrute pour un emploi permanent ou temporaire. Pour certains cas de recours, l'employeur n'a pas à constater le caractère infructueux du recrutement de fonctionnaires avant de débuter la procédure.
+
+      C'est le cas notamment pour les emplois des établissements publics de l'État ou ceux ne nécessitant pas de formation statutaire. Pour ces catégories, la procédure commence dès la publication de l'avis de vacance de l'emploi.
+
+      En revanche, lorsque le recours est fondé sur la nature des fonctions ou les besoins des services, un constat de caractère infructueux est nécessaire. Les candidatures des contractuels sont déposées dans le même délai que celles des fonctionnaires, mais leur examen ne peut se faire qu'après ce constat.
+
+      Le remplacement d'un agent absent ou la gestion d'une vacance temporaire d'emploi dans l'attente d'un fonctionnaire sont des cas de recours encadrés. L'article six quinquies permet de pourvoir ces vacances dans la limite d'une durée d'un an.
+
+      Les modalités de durée pour les contrats de catégorie A, B ou C varient selon le motif. Un contrat court peut durer de six à douze mois ou jusqu'à un an à dix-huit mois selon les articles quatre-un°, quatre-deux° a) et quatre-deux° b).
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre la reconnaissance administrative du handicap avec une protection contre les discriminations car elle peut au contraire les amplifier.
+
+      La distinction entre les questions autorisées et interdites est cruciale pour éviter les sanctions pénales prévues par l'article deux cent vingt-cinq-deux du Code pénal.
+
+      Le recrutement d'un contractuel sur un emploi permanent nécessite de distinguer si le recours est fondé sur l'absence de corps de fonctionnaires ou sur la nature technique des fonctions.
+
+      La transparence de la rémunération doit être totale pour éviter les biais discriminatoires et permettre une comparaison optimale des postes.
+
+      L'intégration ne s'arrête pas aux premiers jours mais doit être pensée comme un parcours de plusieurs mois incluant des bilans intermédiaires.
+
+EXEMPLES CITÉS.
+
+      La discrimination à l'embauche est un délit puni de trois ans d'emprisonnement et de quarante-cinq mille euros d'amende selon l'article deux cent vingt-cinq-un du Code pénal.
+
+      Le professeur L'HORTY a mené des opérations de testing sur cinq critères dont le sexe, l'origine, le lieu de résidence et le handicap.
+
+      Le simulateur d'entretien de la DGAFP propose quatre scénarios pour préparer les candidats à des postes de collaborateur ou d'encadrant.
+
+      Le ministère des Armées a créé une cellule de sourcing dédiée qui propose des prestations comme le contrôle de référence ou le push de CV.
+
+      Pour les agents contractuels, la revalorisation de la rémunération peut être examinée au moins une fois tous les trois ans sur un même poste.

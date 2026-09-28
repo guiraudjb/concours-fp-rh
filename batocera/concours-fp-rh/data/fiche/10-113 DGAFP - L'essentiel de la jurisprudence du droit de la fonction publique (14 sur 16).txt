@@ -1,0 +1,305 @@
+SYNTHÈSE DE LA JURISPRUDENCE RELATIVE AUX AGENTS CONTRACTUELS ET AU CONTENTIEUX DE LA FONCTION PUBLIQUE.
+
+LEXIQUE COMPLET.
+
+      Le CE désigne le Conseil d'État, qui est la juridiction administrative de dernier recours.
+
+      Le principe général du droit désigne un ensemble de règles dégagées par le juge administratif qui s'appliquent à tous les agents contractuels, comme l'interdiction de licencier une femme enceinte.
+
+      L'agent contractuel désigne une personne recrutée par l'administration en vertu d'un contrat, qu'il soit à durée déterminée ou à durée indéterminée.
+
+      Le licenciement pour motif impersonnel désigne une rupture de contrat liée à l'emploi occupé, comme la suppression d'un poste ou l'affectation d'un fonctionnaire sur cet emploi.
+
+      Le reclassement désigne l'obligation pour l'administration, en vertu d'un principe général du droit, de chercher à placer un agent contractuel en CDI sur un autre emploi de niveau équivalent avant de pouvoir le licencier.
+
+      L'inaptitude physique désigne une situation où un agent ne peut plus exercer ses fonctions, ce qui peut justifier son licenciement après une recherche de reclassement.
+
+      La rémunération des agents contractuels désigne le montant fixé par l'autorité administrative qui doit tenir compte des fonctions, de la qualification et de l'expérience, sans être inférieure au SMIC.
+
+      Le régime indemnitaire désigne l'ensemble des avantages pécuniaires et indemnités auxquels les agents contractuels peuvent bénéficier, parfois de manière identique aux agents titulaires.
+
+      La réévaluation désigne l'obligation de réexaminer la rémunération des agents contractuels au moins tous les trois ans, notamment au vu des résultats des entretiens professionnels.
+
+      La démission désigne l'acte par lequel l'agent prend l'initiative de la rupture de son contrat sans avoir à justifier de motif.
+
+      Le contentieux de la fonction publique désigne l'ensemble des litiges relatifs aux agents publics qui ressortissent, en principe, à la juridiction administrative.
+
+      L'intérêt pour agir désigne la condition de recevabilité d'une requête, exigeant que le requérant démontre que l'acte attaqué affecte directement ses droits, ses prérogatives statutaires ou ses conditions d'emploi et de travail.
+
+COURS DÉTAILLÉ.
+
+I. LE STATUT ET LES GARANTIES DES AGENTS CONTRACTUELS.
+
+   A. Les principes généraux du droit applicables aux contractuels.
+
+      Le juge administratif a dégagé des principes généraux du droit applicables à l'ensemble des agents contractuels de droit public, s'inspirant tant du code du travail que des règles statutaires des fonctionnaires.
+
+      Il est interdit de rémunérer un agent contractuel en deçà du salaire minimum, comme l'a consacré le CE, Sect., vingt-trois avril mille neuf cent quatre-vingt-deux, Ville des agents contractuels de Toulouse c/ Mme X, n° trente-six mille huit cent cinquante et un, Rec.
+
+      La jurisprudence interdit également de rémunérer un agent en dessous du SMIC en vertu d'un principe général du droit applicable à tout salarié, selon le CE, Sect., vingt-trois avril mille neuf cent quatre-vingt-deux, Ville de Toulouse c/ Mme X, n° trente-six mille huit cent cinquante et un, Rec.
+
+      Il est interdit d'infliger à ses employés des sanctions pécuniaires, conformément à la décision CE, Ass., premier juillet mille neuf cent quatre-vingt-huit, MM. X et Y c/ SNCF, n° soixante-six mille quatre cent cinq, Rec.
+
+      Le juge a établi qu'un accord de travail ne peut qu'être plus favorable aux salariés que les prescriptions qui découlent des lois et règlements, selon le CE, Ass., huit juillet mille neuf cent quatre-vingt-quatorze, CGT, n° cent cinq mille quatre cent soixante et onze, Rec.
+
+      Enfin, il est interdit de faire subir des discriminations liées au sexe ou à la situation de famille, comme l'a précisé le CE, vingt-sept mars deux mille, Mme Françoise Z, n° cent cinquante-cinq mille huit cent trente et un, Rec.
+
+   B. La protection contre les licenciements arbitraires.
+
+      L'administration peut légalement écarter un agent contractuel de son emploi pour affecter un fonctionnaire, mais elle doit d'abord chercher à reclasser l'intéressé s'il bénéficie d'un contrat à durée indéterminée.
+
+      Ce principe de reclassement est un principe général du droit dont s'inspirent le code du travail et les règles du statut général de la fonction publique, selon le CE, Sect., Avis, vingt-cinq septembre deux mille treize, Mme B...A..., n° trois cent soixante-cinq mille cent trente-neuf, Rec.
+
+      Pour un agent en contrat à durée indéterminée, le licenciement pour affectation d'un fonctionnaire est subordonné au fait pour l'administration de chercher à reclasser l'agent sur un emploi de niveau équivalent ou, si l'intéressé le demande, sur tout autre emploi.
+
+      Le licenciement pour motif impersonnel, comme la suppression d'un emploi suite à une réorganisation, ne peut être prononcé qu'après que l'administration a cherché à reclasser l'agent ou que celui-ci a refusé les offres.
+
+      En cas d'inaptitude physique, l'employeur doit proposer un emploi compatible avec l'état de santé et aussi équivalent que possible avec l'emploi précédent, selon le CE, deux octobre deux mille deux, Chambre de commerce et d'industrie de Meurthe-et-Moselle, n° deux cent vingt-sept mille huit cent soixante-huit, Rec.
+
+      L'administration doit également chercher à reclasser un agent irrégulièrement recruté et dont le contrat ne peut être régularisé, conformément au CE, Sect., trente et un décembre deux mille huit, M. Jean-Pierre A... n° deux cent quatre-vingt-trois mille deux cent cinquante-six, Rec.
+
+   C. Les droits et garanties similaires aux fonctionnaires.
+
+      Le juge administratif a assuré aux agents contractuels un niveau de garanties équivalent sur certains points à celui des salariés de droit privé, tout en respectant l'intérêt du service public.
+
+      Ces agents bénéficient du droit à la communication de leur dossier avant toute mesure prise en considération de leur personne, selon le CE, Sect., quatorze mai mille neuf cent trente-sept, Sieur X, Rec.
+
+      Ils disposent également du droit à la protection fonctionnelle, comme l'a reconnu la jurisprudence, notamment le CE, Sect., vingt-six avril mille neuf cent soixante-trois, Centre hospitalier de Besançon, n° trois cent douze mille sept cents, T.
+
+      En cas de suspension de rémunération non suivie d'une sanction, les agents contractuels bénéficient d'un droit à la rémunération, selon le CE, Ass., vingt-neuf avril mille neuf cent quatre-vingt-quatorze, M. Alain X, n° cent cinq mille quatre cent dix, Rec.
+
+      Le juge a précisé que la demande de reclassement pour un agent devenu inapte n'a pas à mentionner la nature des emplois sollicités, ce qui rapproche leur situation de celle des salariés du secteur privé.
+
+      Enfin, l'obligation de réévaluation de la rémunération au moins tous les trois ans est une disposition qui s'applique tant aux agents recrutés pour une durée indéterminée qu'à ceux en contrat à durée déterminée.
+
+II. LE RÉGIME DE LA RÉMUNÉRATION DES AGENTS CONTRACTUELS.
+
+   A. Le pouvoir d'appréciation de l'administration.
+
+      L'autorité administrative dispose d'une marge d'appréciation importante pour fixer la rémunération des agents contractuels.
+
+      Aucun texte ni aucun principe n'impose d'aligner le niveau de rémunération des contractuels sur celui des fonctionnaires.
+
+      Le juge administratif exerce un contrôle restreint sur le montant de la rémunération, tout en vérifiant l'absence d'erreur manifeste d'appréciation.
+
+      L'administration peut ainsi fixer une rémunération inférieure à celle d'un agent titulaire occupant les mêmes fonctions.
+
+      Le niveau de rémunération peut être déterminé soit de manière globale et forfaitaire, soit par référence à la rémunération indiciaire des fonctionnaires.
+
+   B. Le niveau et les critères de fixation du salaire.
+
+      La rémunération ne peut en aucun cas être inférieure au SMIC en vertu d'un principe général du droit.
+
+      L'autorité compétente doit tenir compte des fonctions exercées, de la qualification requise et de l'expérience de l'agent.
+
+      L'article vingt de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois précise que la rémunération peut aussi dépendre des résultats professionnels ou collectifs.
+
+      En l'absence de dispositions contraires, la rémunération d'un agent recruté pour remplacer un titulaire doit principalement prendre en compte le salaire de ce dernier.
+
+      Le juge vérifie que l'administration tient compte des fonctions confiées et de la qualification requise pour les exercer.
+
+   C. Le régime indemnitaire et l'évolution de la rémunération.
+
+      Les ministres peuvent instituer tout avantage pécuniaire en faveur des agents contractuels dans le cadre de leur pouvoir d'organisation.
+
+      Les agents contractuels peuvent bénéficier du même régime indemnitaire que les agents titulaires.
+
+      Les modalités de rémunération, incluant le montant et les composantes, doivent impérativement figurer dans le contrat conclu avec l'agent.
+
+      La rémunération doit faire l'objet d'une réévaluation au moins tous les trois ans, qu'il s'agisse d'un contrat à durée déterminée ou indéterminée.
+
+      Cette réévaluation peut être liée à l'évolution des fonctions ou des tâches, mais elle n'implique pas systématiquement une augmentation de salaire.
+
+      Pour les agents de l'État, cette obligation est prévue par l'article un-trois du décret n° quatre-vingt-six-quatre-vingt-trois du dix-sept janvier mille neuf cent quatre-vingt-six.
+
+III. LA CESSATION DES FONCTIONS DES AGENTS CONTRACTUELS.
+
+   A. Les causes de rupture du contrat.
+
+      La cessation des fonctions d'un agent contractuel peut résulter de l'initiative de l'agent par le biais de la démission ou de l'employeur par le non renouvellement du contrat ou le licenciement.
+
+      L'agent peut démissionner sans avoir à justifier de motif particulier.
+
+      Pour les contrats à durée déterminée, l'agent n'a aucun droit au renouvellement de son contrat à l'arrivée de son terme.
+
+      La loi n° deux mille dix-neuf-huit cent vingt-huit du six août deux mille dix-neuf prévoit désormais que la cessation du contrat à durée indéterminée peut intervenir par la rupture conventionnelle d'un commun accord des parties.
+
+      En dehors de ces cas, la rupture est le fait de l'administration et se divise en motifs personnels ou en motifs impersonnels.
+
+   B. Les motifs personnels de licenciement.
+
+      Les principaux motifs personnels de licenciement incluent l'inaptitude physique, l'insuffisance professionnelle, la faute disciplinaire, l'impossibilité de réemploi après un congé ou la mise à la retraite à taux plein.
+
+      Le licenciement pour inaptitude physique est strictement encadré par l'obligation pour l'employeur de chercher à reclasser l'agent sur un autre emploi compatible avec sa santé.
+
+      L'insuffisance professionnelle peut justifier la rupture, et le juge vérifie que l'administration ne déguise pas un licenciement disciplinaire en licenciement pour inaptitude professionnelle.
+
+      Le licenciement pour faute doit reposer sur une faute suffisamment grave et peut priver l'agent de son droit au préavis et à l'indemnité de licenciement.
+
+      La procédure de licenciement disciplinaire est régie par les articles quarante-trois-deux du décret du dix-sept janvier mille neuf cent quatre-vingt-six, trente-six-un du décret du quinze février mille neuf cent quatre-vingt-huit et trente-neuf du décret n° quatre-vingt-onze-cent cinquante-cinq du six février mille neuf cent quatre-vingt-onze.
+
+   C. Les motifs impersonnels et l'obligation de reclassement.
+
+      Les motifs impersonnels de licenciement concernent l'emploi occupé, comme la suppression d'un emploi suite à une réorganisation ou l'affectation d'un fonctionnaire sur le poste du contractuel.
+
+      L'affectation d'un fonctionnaire sur l'emploi d'un contractuel est un motif valable de licenciement, mais le licenciement d'un agent en contrat à durée indéterminée est subordonné à une recherche de reclassement.
+
+      Selon un principe général du droit confirmé par le CE, Sect., Avis, vingt-cinq septembre deux mille treize, Mme B...A..., l'administration doit chercher à reclasser l'agent sur un emploi de niveau équivalent ou, à défaut, sur tout autre emploi si l'intéressé le demande.
+
+      Le licenciement pour motif impersonnel ne peut être prononcé que si le reclassement s'avère impossible ou si l'agent refuse la proposition qui lui est faite.
+
+      Cette obligation de reclassement s'applique également lorsqu'un agent est irrégulièrement recruté et que son contrat ne peut être régularisé.
+
+   D. Les garanties procédurales et les indemnités.
+
+      Les agents bénéficiant d'une certaine ancienneté, soit plus de trois années, disposent de garanties procédurales incluant un entretien préalable et la consultation de la commission consultative paritaire.
+
+      L'agent licencié a droit à un préavis dont la durée dépend de son ancienneté et à une indemnité de licenciement calculée selon cette même ancienneté.
+
+      L'indemnité de licenciement n'est pas due en cas de démission, de refus de renouvellement de contrat ou si l'agent peut bénéficier d'une retraite à taux plein.
+
+      Le non-respect du préavis par l'employeur n'entraîne pas l'annulation de la décision de non renouvellement mais ouvre droit à une indemnité.
+
+      L'agent licencié conserve le droit à une indemnité compensatrice de congés annuels si le contrat prend fin sans qu'il ait pu les prendre.
+
+IV. LE CONTENTIEUX DE LA RUPTURE DU CONTRAT.
+
+   A. La qualification du contrat et la requalification.
+
+      Le contentieux de la rupture du contrat est fréquemment l'occasion d'un débat sur la qualification du contrat.
+
+      Le juge estime que le maintien en fonction d'un agent à l'issue du contrat initial a pour effet de donner naissance à un nouveau contrat.
+
+      Une succession de contrats à durée déterminée peut également entraîner la requalification de la relation d'emploi en contrat à durée indéterminée, dans le respect des conditions prévues par la loi.
+
+      Une fois cette requalification effectuée, le juge peut être amené à constater que la rupture du contrat est intervenue au cours de l'exécution d'un contrat.
+
+      Le juge requalifie alors cette rupture en mesure de licenciement, ce qui implique le respect d'une certaine procédure, d'un préavis et le versement d'une indemnité.
+
+   B. Les conséquences de l'annulation du licenciement.
+
+      L'annulation de la mesure de licenciement a pour effet de remettre en vigueur le contrat qui avait été rompu.
+
+      Cela implique que, dans toute la mesure du possible, l'employeur a l'obligation de réintégrer l'intéressé sur un emploi équivalent, aux conditions du contrat remis en vigueur.
+
+      Pour la période écoulée entre le licenciement illégal et la réintégration, l'agent n'a pas droit au rappel de ses traitements puisqu'il n'a pas effectué de service.
+
+      L'agent a seulement droit à une indemnité compensant cette privation illégale de son emploi.
+
+      Lorsque l'illégalité ne tient qu'au non-respect du préavis, le juge ne peut ordonner la réintégration que si elle est demandée en référé pour la durée restante du préavis.
+
+   C. Le contrôle du juge sur l'indemnisation.
+
+      Le juge de l'indemnité applique un raisonnement issu de la jurisprudence Mme X, CE, Sect., dix-neuf juin mille neuf cent quatre-vingt-onze, n° vingt mille six cent dix-neuf, Rec.
+
+      Lorsque l'illégalité du licenciement tient seulement à un vice de procédure et qu'il ressort clairement du dossier que le comportement de l'agent justifiait le licenciement qu'il aurait été prononcé si la procédure avait été correctement conduite, le juge estime que le préjudice est causé par le comportement de l'agent.
+
+      Dans ce cas, le juge refuse d'accorder une indemnité, comme l'illustre l'arrêt CE, dix-huit juin mille neuf cent quatre-vingt-six, Mme Marguerite X, n° quarante-neuf mille huit cent treize, Rec.
+
+V. LA COMPÉTENCE JURIDICTIONNELLE EN MATIÈRE DE FONCTION PUBLIQUE.
+
+   A. L'organisation des ordres de juridiction.
+
+      Les juridictions françaises sont organisées en deux ordres de juridiction, à savoir la juridiction judiciaire qui dépend de la Cour de cassation et la juridiction administrative qui dépend du Conseil d'État.
+
+      Le contentieux de la fonction publique et des agents publics ressortit en principe à la juridiction administrative, c'est-à-dire au tribunal administratif.
+
+      Pour un agent contractuel, il convient de déterminer si son contrat est de droit public ou de droit privé pour savoir s'il est soumis ou non au code du travail.
+
+      Les agents d'un établissement public à caractère industriel et commercial sont en principe des agents de droit privé, sauf pour le directeur et le comptable s'il a la qualité de comptable public.
+
+      Lorsqu'une personne privée est chargée d'un service public, ses agents sont en principe soumis au code du travail, que ce service public soit administratif ou industriel et commercial.
+
+   B. La compétence spécifique du Conseil d'État.
+
+      Le Conseil d'État est compétent en premier et dernier ressort pour les litiges concernant le recrutement et la discipline des agents publics nommés par décret du Président de la République en vertu de l'article treize de la Constitution et des articles premier et deux de l'ordonnance n° cinquante-huit-mille cent trente-six du vingt-huit novembre mille neuf cent cinquante-huit.
+
+      Cette compétence en matière de recrutement est interprétée de façon extensive et inclut les actes de procédure antérieurs, comme les refus empêchant un recrutement.
+
+      Le chef de compétence concernant la discipline inclut les sanctions disciplinaires ainsi que les mesures de suspension prises à titre conservatoire dans l'attente du prononcé d'une sanction.
+
+      En revanche, les actes ayant trait à l'exécution d'une sanction disciplinaire, comme un reclassement consécutif à une rétrogradation, relèvent du tribunal administratif.
+
+      Concernant le contentieux indemnitaire, le Conseil d'État est compétent si la faute invoquée a trait à une procédure de recrutement ou de sanction par l'administration.
+
+   C. Le contentieux de la responsabilité et des accidents.
+
+      Le contentieux de la responsabilité d'un agent public dépend de la nature de la faute, car la responsabilité de l'agent ne peut être engagée par un tiers que pour une faute personnelle.
+
+      S'il s'agit d'une faute de service, l'employeur est responsable et le requérant doit attaquer la personne publique devant les juridictions administratives.
+
+      La loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois précise que la responsabilité civile du fonctionnaire ne peut être engagée par un tiers pour une faute commise dans l'exercice de ses fonctions, sauf faute personnelle détachable.
+
+      La loi n° cinquante-sept-mille quatre cent vingt-quatre du trente et un décembre mille neuf cent cinquante-sept dispose que toute action en responsabilité pour la réparation de dommages causés par un véhicule relève des tribunaux judiciaires.
+
+      Toutefois, lorsqu'un agent public recherche la responsabilité de son employeur, les juridictions administratives sont seules compétentes, y compris pour un accident de service causé par un véhicule.
+
+      La victime peut néanmoins choisir de rechercher la responsabilité pour faute de l'auteur lui-même devant les tribunaux judiciaires puisque l'accident a été causé par un véhicule.
+
+VI. LES CONDITIONS DE RECEVABILITÉ DU RECOURS.
+
+   A. L'intérêt pour agir des agents et des groupements.
+
+      L'accès au prétoire du juge administratif n'est pas absolu et nécessite que le requérant justifie d'un intérêt pour agir.
+
+      Les agents publics et leurs groupements ne peuvent contester les actes réglementaires concernant l'organisation ou l'exécution du service que si ces dispositions portent atteinte à leurs droits et prérogatives ou affectent leurs conditions d'emploi et de travail.
+
+      L'intérêt pour agir d'un requérant s'apprécie au regard de ses intérêts personnels et doit être suffisamment direct et certain.
+
+      La spécificité du droit de la fonction publique repose sur le principe hiérarchique, ce qui signifie que les agents et leurs groupements n'ont pas intérêt à contester les mesures relatives au fonctionnement du service.
+
+      Le juge administratif doit identifier si une mesure d'organisation cache une atteinte aux avantages statutaires ou aux conditions d'emploi pour reconnaître l'intérêt à agir.
+
+      Certains tiers, comme les élus membres d'un organe délibérant d'une collectivité territoriale, possèdent un intérêt pour agir pour contester les contrats de recrutement d'agents contractuels par l'autorité territoriale.
+
+   B. L'intérêt pour agir des personnes morales et syndicats.
+
+      Pour les personnes morales, l'intérêt pour agir est lié à la lésion de leur intérêt moral ou de leur objet social.
+
+      Le juge administratif vérifie la régularité de l'habilitation du représentant d'une personne morale à ester en justice au regard de ses statuts.
+
+      L'intérêt pour agir d'un syndicat défendant des intérêts collectifs est admis lorsque l'acte attaqué possède une portée générale et impersonnelle.
+
+      Un syndicat peut demander l'annulation d'un arrêté ministériel fixant les conditions d'un concours s'il a fait acte de candidature.
+
+      Lorsqu'un décret est divisible, un syndicat n'est recevable à le contester que pour la catégorie d'agents qu'il représente.
+
+      Si l'acte est indivisible, l'intérêt pour agir contre une partie de l'acte emporte l'intérêt à le contester dans son entier.
+
+   C. La distinction entre organisation du service et conditions de travail.
+
+      Les mesures strictement organisationnelles, comme la fixation des horaires, des absences ou des tâches, ne donnent pas de prise à une contestation car elles ne lèsent aucune prérogative.
+
+      Les actes qui créent un service, le réorganisent ou suppriment un service sans modifier les missions sont considérés comme relevant de l'organisation du service.
+
+      En revanche, une mesure qui modifie les conditions d'emploi et de travail est susceptible d'être contestée devant le juge de l'excès de pouvoir.
+
+      Par exemple, si une réorganisation conduit à exercer de nouvelles missions avec des partenaires privés, cela modifie les conditions d'emploi et de travail.
+
+      Les recours contre des décisions qui organisent le travail des membres d'un corps ou cadre d'emplois sont considérés comme irrecevables.
+
+      Les décisions qui fixent l'organisation et les attributions des services ne sont pas susceptibles de recours par les agents si elles ne touchent pas à leurs conditions d'emploi.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre le licenciement pour motif impersonnel et le licenciement pour motif personnel car le premier impose une obligation de reclassement préalable.
+
+      La rémunération des agents contractuels est fixée librement par l'administration mais elle ne peut jamais être inférieure au SMIC en vertu d'un principe général du droit.
+
+      Le juge administratif exerce un contrôle restreint sur le montant de la rémunération et vérifie seulement qu'il n'y a pas d'erreur manifeste d'appréciation.
+
+      Les syndicats ne peuvent pas contester les mesures d'organisation du service sauf si celles-ci affectent directement leurs droits statutaires ou leurs conditions de travail.
+
+      L'intérêt pour agir d'une personne morale s'apprécie à la date de l'introduction du recours et ne peut pas être modifié par des changements ultérieurs de son objet social.
+
+EXEMPLES CITÉS.
+
+      Le Conseil d'État a précisé par un avis du vingt-cinq septembre deux mille treize que l'administration doit chercher à reclasser un agent en CDD avant de pouvoir affecter un fonctionnaire sur son emploi.
+
+      L'article vingt de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois prévoit que la rémunération doit tenir compte des fonctions, de la qualification et de l'expérience de l'agent.
+
+      Dans une décision du trente décembre deux mille treize, le juge a rappelé que l'autorité compétente doit tenir compte des fonctions confiées et de la qualification requise pour fixer le salaire.
+
+      Le Conseil d'État a annulé une délibération du conseil municipal de la commune de la Martinique qui tentait de créer une carrière indiciaire pour les agents non titulaires.
+
+      Le recours d'un syndicat contre un décret est recevable si l'acte est indivisible et que les intérêts du groupement sont affectés dans leur ensemble.

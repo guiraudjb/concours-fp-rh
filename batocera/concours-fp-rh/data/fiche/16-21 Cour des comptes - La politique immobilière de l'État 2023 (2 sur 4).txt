@@ -1,0 +1,291 @@
+ANALYSE DE LA POLITIQUE ET DE LA GESTION DE L'IMMOBILIER DE L'ÉTAT PAR LA COUR DES COMPTES.
+
+LEXIQUE COMPLET.
+
+      La DIE désigne la direction de l'immobilier de l'État, créée par décret le dix-neuf septembre deux mille seize pour définir et assurer la mise en œuvre de la politique immobilière de l'État et de ses opérateurs.
+
+      Le CIE désigne le Conseil de l'immobilier de l'État, une instance consultative placée auprès du ministre chargé du domaine qui suit l'évolution du parc immobilier et formule des recommandations stratégiques.
+
+      Le DEET désigne le dispositif éco-énergie tertiaire, instauré par le décret du vingt-trois juillet deux mille dix-neuf, qui oblige les propriétaires et occupants de bâtiments tertiaires de plus de mille m² à réduire leur consommation énergétique.
+
+      L'OPÉRAT désigne la plateforme numérique mise en place par l'ADEME pour déclarer les caractéristiques des bâtiments soumis au décret tertiaire et leurs consommations annuelles d'énergie.
+
+      Le DPE désigne le diagnostic de performance énergétique, un document réalisé par un professionnel certifié pour tout propriétaire souhaitant vendre ou louer son logement depuis deux mille six.
+
+      La RE deux mille vingt désigne la réglementation environnementale deux mille vingt, qui poursuit des objectifs de sobriété énergétique, de décarbonation de l'énergie et de diminution de l'impact carbone de la construction.
+
+      La SUN désigne la surface utile nette, une unité de mesure qui ne comprend que les surfaces consacrées au travail comme les bureaux et les salles de réunion.
+
+      La SUB désigne la surface utile brute, qui correspond à la surface horizontale disponible et dégagée de toute emprise située à l'intérieur des locaux.
+
+      La CNIP désigne la conférence nationale de l'immobilier public, une instance unique qui réunit les secrétaires généraux des ministères pour fixer le cadre interministériel et les orientations de la politique immobilière.
+
+      Le RRPIE désigne le responsable régional de la politique immobilière de l'État, qui agit comme le relais de la DIE au niveau déconcentré.
+
+      Le SGCD désigne le secrétariat général commun départemental, qui regroupe les fonctions support des préfectures de département et des directions départementales interministérielles.
+
+COURS DÉTAILLÉ.
+
+I. LES ENJEUX DE LA TRANSITION ÉNERGÉTIQUE ET ENVIRONNEMENTALE.
+
+   A. L'échec du Grenelle de l'environnement dans les bâtiments publics.
+
+      La loi du trois août deux mille neuf de programmation relative à la mise en œuvre du Grenelle de l'environnement visait à réduire d'au moins quarante pour cent les consommations d'énergie et d'au moins cinquante pour cent les émissions de gaz à effet de serre des bâtiments de l'État dans un délai de huit ans.
+
+      Cette loi Grenelle I prévoyait également de soumettre tous les bâtiments de l'État et de ses établissements publics à un audit avant deux mille dix et d'engager des travaux de rénovation avant deux mille douze.
+
+      La loi Grenelle II a étendu l'obligation de travaux d'amélioration de la performance énergétique à l'ensemble des bâtiments du secteur tertiaire dans un délai de huit ans à compter du premier janvier deux mille douze, mais le décret d'application n'a jamais été pris.
+
+      Le coût total de ce programme de rénovation avait été estimé à vingt-quatre Md euros pour les bâtiments de l'État et de ses principaux établissements publics, estimés à cinquante millions de m² et soixante-dix millions de m².
+
+      Le Conseil de l'immobilier de l'État a regretté l'absence de calendrier, l'absence de décret d'application pour le parc tertiaire et l'absence de structure de pilotage au sein des services de l'État.
+
+      Les ambitions sont restées virtuelles et l'objectif de réduction de quarante pour cent par rapport à deux mille dix a été repoussé à deux mille trente au lieu de deux mille vingt, tout en maintenant une cible de - soixante pour cent pour deux mille cinquante.
+
+   B. Les difficultés d'application du décret tertiaire.
+
+      Le décret du vingt-trois juillet deux mille dix-neuf relatif au dispositif éco-énergie tertiaire oblige les propriétaires et occupants de bâtiments de plus de mille m² à réduire la consommation énergétique de quarante pour cent d'ici deux mille trente, cinquante pour cent d'ici deux mille quarante et soixante pour cent d'ici deux mille cinquante.
+
+      L'identification des immeubles assujettis pose problème, notamment pour le ministère des armées dont les bâtiments sur sites militaires ont été dispensés de déclaration individuelle pour des raisons de sécurité.
+
+      À l'été deux mille vingt-trois, les déclarations sur la plateforme numérique OPÉRAT ne couvraient que vingt pour cent à trente pour cent des surfaces concernées, l'État se concentrant principalement sur la phase déclarative.
+
+      Les opérateurs de l'État gèrent eux-mêmes leurs déclarations en tant qu'établissements à personnalité juridique autonome, ce qui empêche les ministères de tutelle de vérifier les consommations.
+
+      L'État doit désormais construire une trajectoire pour respecter les obligations intermédiaires et clarifier l'usage de la possibilité de modulation des objectifs selon le retour sur investissement.
+
+   C. La réglementation sur la gestion technique et les logements énergivores.
+
+      Le décret du vingt juillet deux mille vingt dit BACS impose un système d'automatisation et de contrôle des dispositifs énergivores comme la gestion technique des bâtiments dans certains bâtiments tertiaires.
+
+      Une exemption est possible si l'installation du système de régulation n'est pas réalisable avec un retour sur investissement inférieur à dix ans.
+
+      Concernant les logements, les biens dépassant quatre cent cinquante kWh/m² de consommation d'énergie finale, soit la classe G du DPE, sont interdits à la location depuis le premier janvier deux mille vingt-trois.
+
+      Cette interdiction sera étendue aux classes F au premier janvier deux mille vingt-cinq, aux classes E au premier janvier deux mille vingt-huit et aux classes D au premier janvier deux mille trente-quatre.
+
+      Pour le ministère des armées, trente-deux pour cent du parc de logements domaniaux utile est classé en F ou G, et quarante-huit pour cent en classes F ou G pour les émissions de gaz à effet de serre.
+
+   D. La réglementation environnementale pour le neuf et les directives européennes.
+
+      La réglementation environnementale RE deux mille vingt vise la sobriété énergétique, la décarbonation et la garantie de la fraîcheur, avec une application progressive depuis deux mille vingt-deux pour le résidentiel et deux mille vingt-trois pour le tertiaire spécifique.
+
+      Le gouvernement a fixé une trajectoire de rehaussement des exigences avec trois jalons prévus en deux mille vingt-quatre, deux mille vingt-sept et deux mille trente, ce qui représente un renchérissement des coûts de construction évalué à environ vingt pour cent par le SID pour les armées.
+
+      La nouvelle révision de la directive efficacité énergétique adoptée par le Conseil européen le vingt-cinq juillet deux mille vingt-trois impose au secteur public une réduction annuelle de sa consommation d'énergie de un virgule neuf pour cent.
+
+      Les États membres devront également rénover chaque année au moins trois pour cent de la surface totale au sol des bâtiments appartenant à des organismes publics.
+
+      La directive sur la performance énergétique des bâtiments fait l'objet d'une nouvelle révision engagée en deux mille vingt et un qui est actuellement au stade du trilogue.
+
+II. LES LEVIERS DE SOBRIÉTÉ ET LES AUTRES CONTRAINTES RÉGLEMENTAIRES.
+
+   A. La politique de sobriété énergétique par la température.
+
+      Face à la crise énergétique, le gouvernement a lancé en deux mille vingt-deux un plan de sobriété énergétique décliné pour les bâtiments publics.
+
+      La mesure la plus efficace a consisté à limiter la température de chauffage à dix-neuf° et celle du refroidissement à vingt-six° par la circulaire du Premier ministre du treize avril deux mille vingt-deux.
+
+      Ces obligations n'étaient pas nouvelles puisque la limitation du chauffage à dix-neuf° datait de mille neuf cent soixante-dix-neuf et celle de la climatisation à vingt-six° de deux mille sept.
+
+      Le levier de la température de chauffage est très puissant car une baisse d'un degré entraîne une réduction de consommation énergétique de l'ordre de sept à huit pour cent.
+
+      Les résultats au sein du parc immobilier de l'État ont montré une réduction de la consommation d'énergie de l'ordre de dix pour cent.
+
+      D'autres mesures complétaient ce plan, comme un appel à projet pour réduire la consommation de gaz doté d'une enveloppe de cinquante M euros.
+
+   B. Les enjeux de l'accessibilité et de la gestion de l'amiante.
+
+      Concernant l'accessibilité, les objectifs de la loi du onze février deux mille cinq n'étaient pas atteints pour le parc de l'État au premier janvier deux mille quinze.
+
+      La loi du cinq août deux mille quinze a instauré des agendas d'accessibilité programmés pour les établissements recevant du public et les installations ouvertes au public.
+
+      En deux mille vingt-quatre, l'état de l'accessibilité pour les établissements recevant du public de l'État montre que quarante-huit pour cent des biens ne sont toujours pas aux normes réglementaires.
+
+      La sixième conférence nationale du handicap a fixé l'objectif de finaliser l'accessibilité des bâtiments de l'État et des opérateurs d'ici deux mille vingt-sept.
+
+      Pour l'amiante, l'enjeu majeur réside dans le recensement et le suivi des dossiers techniques amiante qui ne sont pas disponibles de manière exhaustive.
+
+      La Cour des comptes formule des réserves sur les provisions constituées pour le désamiantage, les jugeant insuffisantes au regard des coûts très importants.
+
+   C. L'impact des réorganisations territoriales sur les besoins immobiliers.
+
+      La réorganisation de l'État s'est appuyée sur la réforme de l'administration territoriale de la République engagée en deux mille sept et celle de deux mille dix-huit.
+
+      Au niveau départemental, les services ont été réorganisés par décret du trois décembre deux mille neuf autour de directions départementales interministérielles.
+
+      Au niveau régional, le nombre de directions a été fortement réduit, passant de vingt-trois à huit directions.
+
+      La circulaire du Premier ministre du douze juin deux mille dix-neuf sur la réforme de l'organisation territoriale de l'État abordait la mutualisation immobilière avec trente projets significatifs.
+
+      Cependant, l'impact de ces réorganisations territoriales sur le parc immobilier de l'État et leur incidence financière n'ont jamais été évalués.
+
+      Les adaptations immobilières rendues nécessaires par ces changements relèvent désormais des schémas directeurs régionaux.
+
+III. L'INFLUENCE DES AUTRES POLITIQUES PUBLIQUES SUR LE FONCIER.
+
+   A. La mobilisation du foncier public pour le logement social.
+
+      Depuis deux mille cinq, le préfet peut décider de céder un terrain de l'État ou de ses opérateurs à un prix inférieur à sa valeur vénale pour la réalisation de programmes majoritairement destinés au logement social. Cette décote pouvait atteindre vingt-cinq pour cent et jusqu'à trente-cinq pour cent en zone tendue selon les dispositions de l'article L trois mille deux cent onze-sept du code général de la propriété des personnes publiques.
+
+      La loi du dix-huit janvier deux mille treize a réformé ce dispositif en permettant désormais une cession gratuite pour la construction de logements sociaux. La mise en œuvre de cette politique est portée par le ministère chargé du logement avec l'appui de la DIE et des préfets de région.
+
+      Au trente et un décembre deux mille vingt et un, le bilan faisait état de cent trente-six fonciers domaniaux cédés, dont dix opérations en deux mille vingt et un, permettant la réalisation de treize mille logements dont plus de neuf mille six cents sociaux. Sur la période deux mille treize-deux mille vingt et un, l'effort financier de l'État s'élève à deux cent quarante-cinq M euros de décotes pour un produit de cession de plus de cent cinquante-six M euros.
+
+      Le taux moyen de décote sur la période deux mille treize-deux mille vingt et un est de soixante et un virgule un pour cent, ce qui représente un effort financier de plus de vingt-cinq mille euros par logement social. Il est possible, de manière exceptionnelle, qu'une opération avec des logements PLAI en zone tendue donne lieu à une décote de cent pour cent.
+
+      La Cour des comptes a souligné dans un référé du vingt-six octobre deux mille dix-sept que ce dispositif restait relativement peu utilisé et pouvait parfois bénéficier d'aides disproportionnées. Elle préconise un contrôle financier renforcé pour protéger les intérêts patrimoniaux de l'État.
+
+   B. L'accompagnement territorial lié à la restructuration des armées.
+
+      Dans le cadre du plan de restructuration des armées lancé en deux mille huit, un dispositif d'accompagnement territorial est entré en vigueur dès deux mille neuf. Ce mécanisme permet aux collectivités locales pénalisées par la fermeture de sites de racheter les actifs immobiliers inutiles aux armées pour l'euro symbolique.
+
+      Ce dispositif a permis de réaliser des cessions de biens équivalant à une valeur de trois cent huit M euros pour l'État depuis sa création. Les contrats de redynamisation de site de défense (CRSD) et les plans locaux de redynamisation (PLR) visent à compenser l'impact négatif de ces restructurations.
+
+      Le dispositif est aujourd'hui en voie d'extinction car les plans locaux de redynamisation se terminent en deux mille vingt-trois. Toutefois, certaines collectivités conservent encore la possibilité d'exercer un droit d'option.
+
+      Un enjeu de suivi important existe car, en cas de revente d'un bien durant les quinze ans suivant la cession initiale à l'euro symbolique, la collectivité doit verser un complément de prix. Ce montant est égal à la moitié de la différence entre le produit de la revente et les coûts supportés par la collectivité.
+
+   C. Le droit de priorité et le rééquilibrage territorial.
+
+      Les collectivités territoriales bénéficient d'un droit de priorité lorsque l'État ou ses sociétés majoritaires mettent en vente des biens immobiliers. Ce droit, encadré par la loi de mille neuf cent quatre-vingt-onze et modifiée en deux mille six, est devenu un droit de préemption exclusif.
+
+      La procédure impose à la collectivité un délai de deux mois pour répondre à la déclaration d'intention d'aliéner et de six mois pour régler le prix. En pratique, la souplesse accordée permet de retarder les opérations de plusieurs années avec des révisions successives du prix.
+
+      L'objectif de rééquilibrage territorial, énoncé par la circulaire du Premier ministre du cinq juin deux mille dix-neuf, vise à délocaliser des fonctions ou missions vers les régions. Cette politique cherche à redistribuer l'activité et les emplois sur le territoire national tout en offrant de meilleures conditions de vie aux agents volontaires.
+
+      La direction interministérielle de la transformation publique (DITP) recensait fin deux mille vingt et un un total de cinquante-sept opérations de relocalisation des services d'administration centrale. Ces opérations concernent sept mille cinq cents agents d'ici deux mille vingt-sept, dont trois mille neuf cents étaient prévus avant la fin de l'année deux mille vingt-deux.
+
+      Le ministère des finances et la DGFiP sont les plus gros contributeurs avec un plan de relocalisation de deux mille cinq cents emplois jusqu'en deux mille vingt-six dans soixante-six villes. Le ministère de l'Intérieur suit avec mille cinq cents emplois prévus dans ce cadre.
+
+IV. LES LIMITES DE LA STRATÉGIE IMMOBILIÈRE DE L'ÉTAT.
+
+   A. Une doctrine d'occupation et des ratios de surface non respectés.
+
+      La circulaire du seize janvier deux mille neuf avait introduit une norme de douze mètres carrés de surface utile nette par poste de travail.
+
+      Malgré cette cible, le ratio a connu une détérioration entre deux mille quatorze et deux mille vingt et un, s'élevant à quatorze virgule quinze mètres carrés en deux mille vingt et un.
+
+      En deux mille vingt-deux, le suivi de la surface utile brute a été substitué à celui de la surface utile nette, affichant un ratio de vingt-quatre virgule soixante-seize mètres carrés par poste de travail.
+
+      La nouvelle circulaire du huit février deux mille vingt-trois fixe une cible pivot de seize mètres carrés de surface utile brute par résident avec un plafond de dix-huit mètres carrés.
+
+      Cette nouvelle notion de résident est jugée complexe et difficile à contrôler par le CIE, qui craint des risques de contournement de la norme.
+
+      Aucune disposition coercitive n'est prévue pour garantir le respect de ce nouveau ratio d'optimisation immobilière.
+
+   B. Une formalisation insuffisante et des orientations dispersées.
+
+      La stratégie immobilière de l'État n'est formalisée dans aucun document synthétique officiel qui regrouperait les objectifs et les moyens.
+
+      Les orientations nationales sont dispersées dans de nombreux documents tels que les documents de politique transversale ou les rapports d'activité de la DIE.
+
+      La feuille de route pour la transition énergétique de deux mille dix-huit est devenue obsolète car elle ne prend pas en compte les évolutions normatives récentes.
+
+      Les priorités stratégiques manquent d'homogénéité, avec des objectifs variant selon que l'on consulte le DPT-PIE ou le rapport d'activité de la DIE.
+
+      Il n'existe aucun tableau de bord de pilotage de la politique immobilière de l'État, contrairement à ce que préconise le CIE.
+
+      L'absence d'indicateurs de résultats pour les grands enjeux empêche une véritable évaluation de la stratégie globale.
+
+   C. Les arbitrages stratégiques encore non tranchés.
+
+      L'État ne dispose d'aucune orientation générale concernant l'arbitrage entre la propriété occupante et le recours à la location pour les immeubles de bureaux.
+
+      Les critères de choix entre la domanialité, la réservation de logements dans le parc social ou la prise à bail dans le privé restent à définir.
+
+      La question de savoir s'il faut privilégier la construction neuve ou la réhabilitation n'est pas formulée de manière expressive dans la doctrine.
+
+      Les modalités de la commande publique, notamment entre la maîtrise d'ouvrage publique et les marchés globaux, ne font l'objet d'aucun arbitrage clair.
+
+      Enfin, les critères de valorisation des biens, qu'il s'agisse de la cession directe ou d'une valorisation préalable, doivent encore être stabilisés.
+
+V. UNE ORGANISATION DE LA FONCTION IMMOBILIÈRE EN MUTATION.
+
+   A. Le positionnement et les missions de la direction de l'immobilier de l'État.
+
+      La DIE est une direction à vocation interministérielle située au sein de la DGFiP et rattachée au ministre chargé du domaine. Elle définit et s'assure de la mise en œuvre de la politique immobilière de l'État et de ses opérateurs.
+
+      Ses missions incluent l'élaboration de la législation et de la réglementation domaniales ainsi que la veille sur la gestion et l'évaluation domaniales. Elle exerce ses compétences dans le respect du décret du vingt-neuf avril deux mille quatre modifié.
+
+      L'effectif de la DIE et de son réseau compte près de mille cinq cents agents sur un total d'environ treize mille cinq cents agents de la filière immobilière. Seul un cinquième de cet effectif est affecté aux missions de stratégie et de gestion.
+
+      Le rattachement de la DIE à la DGFiP pose question pour son rôle interministériel par rapport à des directions comme la DAE ou la DINUM. Une érection en direction autonome au sein du ministère des finances et des comptes publics est suggérée.
+
+      La DNID est rattachée à la DIE et anime un réseau de plus de quatre cents évaluateurs répartis dans cinquante-neuf pôles d'évaluation domaniale. L'indépendance du service évaluateur est jugée imparfaitement garantie lorsque les évaluations concernent l'État.
+
+   B. Le rôle des instances de gouvernance et de consultation.
+
+      La CNIP est l'instance unique qui remplace cinq instances préexistantes pour fixer le cadre interministériel et les orientations de la politique immobilière. Elle est pilotée par la DIE et peut se réunir en formation stratégique ou opérationnelle.
+
+      Les conférences immobilières annuelles par ministère favorisent la cohérence des choix avec les orientations de la politique de l'État. Elles permettent d'examiner la stratégie, l'entretien du parc et la transition énergétique sur une projection de cinq ans.
+
+      Le CIE est une instance consultative placée auprès du ministre chargé du domaine, composée de parlementaires et de personnalités qualifiées. Il suit l'avancement de la modernisation et formule des recommandations stratégiques sur les textes.
+
+      L'articulation entre la CNIP et le CIE pourrait être précisée pour éviter l'alourdissement des procédures. Le conseil pourrait se concentrer sur les orientations générales tandis que la conférence nationale traiterait des opérations particulières.
+
+      La labellisation des projets immobiliers permet de vérifier la performance technique et énergétique avant le lancement des opérations. Les projets de plus de huit M euros en Île-de-France et de cinq M euros ailleurs sont examinés par la CNIP.
+
+   C. La gestion de l'immobilier au niveau déconcentré et territorial.
+
+      Les préfets sont responsables de la politique immobilière de l'État au niveau territorial selon le décret du vingt-neuf avril deux mille quatre modifié. Le préfet de région définit les modalités d'application des instructions du ministre chargé du domaine.
+
+      Le préfet de département met en œuvre la stratégie régionale et élabore un schéma pluriannuel de stratégie immobilière pour cinq ans. Il décide des opérations immobilières intéressant un ou plusieurs services des administrations civiles.
+
+      Les RRPIE sont les relais de la DIE au niveau déconcentré et sont présents dans les dix-huit directions régionales des finances publiques. Ils animent la stratégie régionale et co-pilotent la CRIP avec les services de la préfecture.
+
+      La CRIP anime et coordonne les réseaux d'acteurs locaux et examine la programmation immobilière sur cinq ans. Elle assure également la labellisation des projets immobiliers des services déconcentrés dont les montants sont inférieurs aux seuils de la CNIP.
+
+      La mise en place des SGCD a entraîné des pertes de compétences en gestion immobilière suite au refus de certains agents de suivre les missions transférées. Ces secrétariats regroupent les fonctions support comme le budget, les achats et les affaires immobilières.
+
+      La coexistence du RRPIE et du SGAR soulève la question d'un doublon car les deux ont une fonction similaire pour la gestion stratégique. Une clarification de leurs missions respectives est souhaitable pour améliorer la coopération régionale.
+
+VI. SYNTHÈSE DES RECOMMANDATIONS ET CONCLUSIONS.
+
+   A. La nécessité de formaliser une stratégie globale.
+
+      La stratégie immobilière de l'État souffre d'un manque de formalisation car elle ne repose sur aucun document synthétique officiel regroupant les orientations et les objectifs. Les priorités actuelles sont dispersées dans de nombreux documents budgétaires peu articulés et les objectifs varient selon les présentations des directions.
+
+      Il est devenu indispensable de démêler l'écheveau des normes et des règles qui s'accumulent depuis vingt ans pour définir une véritable doctrine d'intervention. Cette formalisation doit distinguer les finalités du service public, comme l'égalité ou l'accessibilité, des moyens pour y parvenir.
+
+      La stratégie doit intégrer une dimension patrimoniale et de performance économique pour répondre aux enjeux financiers et aux obligations de mise aux normes. Elle doit notamment clarifier les critères d'arbitrage entre la propriété et la location ou entre la construction neuve et la réhabilitation.
+
+      L'absence de calendrier crédible et d'objectifs précis pour la réduction des surfaces de bureaux est un point de vigilance majeur. Les hypothèses de réduction de vingt pour cent ou vingt-cinq pour cent du parc n'ont été validées qu'au cours de communications ministérielles récentes.
+
+      La nouvelle stratégie doit impérativement actualiser la feuille de route de deux mille dix-huit sur la transition énergétique pour les bâtiments de l'État. Elle doit tirer les leçons des retards constatés lors de la mise en œuvre de la loi Grenelle I.
+
+   B. La mise en place d'un tableau de bord de pilotage.
+
+      La Cour des comptes recommande la création d'un document de référence assorti d'un tableau de bord de pilotage pour l'ensemble de la politique immobilière. Ce dispositif doit permettre de suivre l'avancement pluriannuel des composantes de la stratégie.
+
+      Le tableau de bord doit inclure des objectifs précis pour la rénovation énergétique, la mise aux normes et la rationalisation des surfaces. Il est nécessaire de fournir un chiffrage plus précis des économies attendues en recettes, en investissements et en dépenses de fonctionnement.
+
+      L'actualisation de la feuille de route pour la transition énergétique doit être une composante centrale de cet outil de pilotage. Cela permettra de mieux coordonner les actions face au mur des investissements prévu à l'horizon deux mille cinquante.
+
+      Le pilotage doit également intégrer de nouveaux indicateurs de performance pour pallier le manque de fiabilité des données actuelles. Il est suggéré d'ajouter des indicateurs sur la fiabilité des données et sur le niveau de satisfaction des agents.
+
+      Enfin, ce tableau de bord doit permettre de sortir de la gestion par objectifs fluctuants pour entrer dans une programmation structurée. Il doit être piloté par le ministre de l'économie, des finances et de la souveraineté industrielle et numérique.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre la surface utile nette (SUN) avec la surface utile brute (SUB). La SUN ne comprend que les surfaces de travail alors que la SUB inclut les circulations et les services généraux.
+
+      La notion de résident est différente de celle de poste de travail. Le résident prend en compte le nomadisme et le temps de présence réelle pour s'adapter aux nouveaux modes de travail.
+
+      Le rôle de la DIE est interministériel mais son rattachement à la DGFiP peut limiter sa vocation. Elle n'est pas une direction autonome comme la DAE ou la DINUM.
+
+      L'accessibilité des bâtiments de l'État ne doit pas être confondue avec la performance énergétique. Les deux sont des obligations réglementaires distinctes avec des calendriers et des enjeux différents.
+
+      Les avis de la CNIP et des CRIP sont uniquement consultatifs. Le pouvoir de décision final appartient toujours au ministre chargé du domaine ou au préfet.
+
+EXEMPLES CITÉS.
+
+      L'objectif de réduction de la consommation énergétique de quarante pour cent prévu par la loi Grenelle I a été repoussé de deux mille vingt à deux mille trente.
+
+      Le ministère des armées dispose de dix mille sept cents logements domaniaux fin deux mille vingt dont trente-deux pour cent sont en classes F et G.
+
+      Le ratio d'occupation des bureaux par la norme SUN de douze m² par poste de travail n'a jamais été respecté par aucun ministère en deux mille vingt et un.
+
+      Le dispositif de décote pour le logement social a permis de réaliser treize mille logements entre deux mille treize et deux mille vingt et un.
+
+      La limitation de la température de chauffage à dix-neuf° a permis une réduction de la consommation d'énergie de l'ordre de dix pour cent dans le parc de l'État.

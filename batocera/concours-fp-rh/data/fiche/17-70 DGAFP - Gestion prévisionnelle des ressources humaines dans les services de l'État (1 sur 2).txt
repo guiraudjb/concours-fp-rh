@@ -1,0 +1,259 @@
+GUIDE DE LA GESTION PRÉVISIONNELLE DES RESSOURCES HUMAINES DANS LES SERVICES DE L'ÉTAT.
+
+LEXIQUE COMPLET.
+
+      La GPRH désigne la gestion prévisionnelle des ressources humaines qui est une approche pluriannuelle visant à réduire les écarts entre les besoins futurs et les ressources disponibles.
+
+      La GPEEC désigne la gestion prévisionnelle des effectifs, des emplois et des compétences qui consiste à caractériser les ressources actuelles et à projeter les besoins à court et moyen terme.
+
+      La DGAFP désigne la Direction générale de l'administration et de la fonction publique qui est mobilisée pour accompagner les employeurs de l'Etat dans cette démarche.
+
+      Le RIME désigne le Répertoire interministériel des métiers de l'Etat qui décrit deux cent soixante et un emplois-référence et vingt-six domaines fonctionnels.
+
+      Le DICo désigne le Dictionnaire interministériel des compétences des métiers de l'Etat qui propose un vocabulaire commun comprenant cent deux savoir-faire, vingt et un savoir-être et quarante rubriques de connaissances.
+
+      Le SIRH désigne le Système d'information des ressources humaines qui est un ensemble structuré d'informations assurant l'unicité, la cohérence et la sécurité des données.
+
+      L'ETPT désigne l'équivalent temps plein travaillé qui mesure le volume de travail réellement disponible sur l'année en corrigeant l'effet de la période d'activité.
+
+      Le GVT désigne le glissement vieillesse technicité qui concerne l'évolution de la rémunération des agents présents.
+
+      Le CISRIH désigne le Centre interministériel de services informatiques en matière de ressources humaines qui contribue à la convergence des systèmes d'information.
+
+      La PFRH désigne la plateforme régionale d'appui à la gestion des ressources humaines qui aide à la mise en œuvre des démarches sur les territoires.
+
+COURS DÉTAILLÉ.
+
+I. FONDAMENTAUX ET DÉFINITIONS DE LA GPRH.
+
+   A. Concepts de GPEEC et de GPRH.
+
+      La GPEEC désigne la gestion prévisionnelle des effectifs, des emplois et des compétences par un exercice pluriannuel. Elle consiste à caractériser les ressources actuelles et à opérer des projections à court terme de un an et à moyen terme de trois ans.
+
+      Cette démarche permet d'explorer les besoins futurs et d'identifier une cible stratégique pour l'organisation. Elle analyse ensuite les écarts entre les ressources projetées et les besoins futurs.
+
+      La GPRH est une approche pluriannuelle de la GRH qui s'appuie sur les orientations stratégiques de la politique RH. Elle prend en compte les évolutions prévisibles des services et l'analyse des données de la GPEEC.
+
+      Elle conduit à l'élaboration de plans d'actions couvrant l'ensemble des actes de la GRH comme l'affectation, la formation, le recrutement, la promotion ou la rémunération. Chaque étape nécessite des ajustements annuels selon les priorités stratégiques.
+
+   B. Distinction entre gestion administrative et gestion prévisionnelle.
+
+      La gestion administrative courante des personnels est appelée en pratique GRH. Elle consiste à mettre en œuvre les procédures statutaires, les doctrines et les pratiques de gestion définies par les ministères.
+
+      Cette gestion administrative se fonde sur le plan d'actions de la GPRH pour assurer le fonctionnement quotidien. Elle traite des aspects tels que la rémunération, la gestion de la paye et la gestion budgétaire.
+
+      La GPRH se distingue par son rôle de pilotage et de prévention des risques. Elle n'est pas un simple recueil d'informations ou une étude statistique, mais une démarche pour agir.
+
+      Contrairement à la gestion administrative, la GPRH mobilise des outils quantitatifs et qualitatifs pour réaliser un plan d'action. Elle constitue le socle du dialogue social et ne doit pas être confondue avec un simple bilan social.
+
+   C. Finalités, enjeux et passage d'une vision statique à dynamique.
+
+      La finalité de la GPRH de l'Etat est de permettre la mise en œuvre des politiques publiques dans un cadre organisationnel remodelé. Elle doit assurer aux agents des parcours professionnels valorisants sur le long terme.
+
+      La modernisation de la GRH vise à répondre au défi de l'adéquation des ressources aux besoins de l'administration. Elle doit aussi instaurer une dynamique d'amélioration continue des processus RH face aux changements juridiques ou technologiques.
+
+      Le passage d'une vision statique à une approche dynamique transforme la posture de l'organisation. L'administration ne doit plus subir l'environnement mais l'anticiper en adoptant une vision globale plutôt qu'individuelle.
+
+      Cette dynamique permet de passer d'une logique d'adoption de l'environnement à une logique de conception. L'organisation cherche ainsi à concevoir ses propres évolutions plutôt qu'à simplement les subir.
+
+      L'enjeu majeur est de faire face aux risques d'inadaptation des ressources humaines. Cela inclut les risques de sous-effectifs ou de déqualification pour les services, ainsi que les risques de démotivation ou de stress pour les agents.
+
+II. LA DÉMARCHE DE PRÉVENTION DES RISQUES.
+
+   A. Définition et évaluation du risque.
+
+      Le risque est défini comme tout événement dont la survenance porte atteinte à la capacité d'une structure à remplir ses missions et à atteindre ses objectifs. Cette définition est issue du Comité d'harmonisation des audits internes de deux mille quatorze.
+
+      L'évaluation d'un risque identifié repose sur la combinaison de deux facteurs fondamentaux qu'ils sont la probabilité de survenance et l'impact en cas de réalisation.
+
+      Pour chaque facteur, il est possible d'évaluer un niveau selon une échelle de trois valeurs qui sont faible, moyen ou fort. La capacité de la structure à mesurer la probabilité peut varier selon que le domaine est quantitatif ou qualitatif.
+
+      Certains domaines opérationnels permettent une mesure facile comme le pourcentage d'erreurs sur les prévisions de flux. À l'inverse, des domaines plus qualitatifs comme le niveau de démobilisation des agents introduisent une part de subjectivité dans l'évaluation.
+
+   B. Méthode de construction de la cartographie des risques.
+
+      La construction de la cartographie des risques s'articule autour de trois étapes successives et structurées.
+
+      La première étape consiste en l'identification des risques qui doit être conduite par processus d'activité, et plus précisément par le processus de GPRH.
+
+      La deuxième étape est l'évaluation du risque en utilisant les deux facteurs de probabilité et d'impact mentionnés précédemment.
+
+      La troisième étape est la représentation visuelle des risques au sein d'une cartographie pour faciliter leur analyse et leur gestion.
+
+   C. Niveaux de gestion des risques et impacts.
+
+      La gestion des risques se décline en trois niveaux de prise en charge distincts selon la responsabilité des acteurs.
+
+      Le niveau direction concerne la validation stratégique comme le recrutement en effectifs, en compétences ou la rénovation du SIRH.
+
+      Le niveau encadrement opérationnel se concentre sur l'expression des besoins de formation et l'organisation du travail ou la définition des fiches de postes.
+
+      Le niveau agents porte sur la qualité de la saisie des données ainsi que la maîtrise des outils et des méthodes.
+
+      Les impacts des risques peuvent être de natures diverses comme les risques budgétaires, juridiques, opérationnels, politiques ou managériaux.
+
+      Une mauvaise gestion peut entraîner des conséquences graves telles que le non respect des plafonds d'emplois ou la dégradation de la qualité de vie au travail.
+
+III. MÉTHODOLOGIE ET ÉTAPES DE LA DÉMARCHE.
+
+   A. L'autodiagnostic préalable de la fonction RH.
+
+      Avant de lancer la démarche de GPRH, il est préconisé d'établir un autodiagnostic pour connaître les spécificités du contexte organisationnel et élaborer un plan d'action réaliste. Cet état des lieux permet de repérer les leviers d'action qui nécessitent des préalables avant d'être mis en œuvre.
+
+      La première séquence de la grille d'autodiagnostic consiste à mesurer la fiabilité des informations quantitatives et qualitatives disponibles. On évalue notamment la connaissance des effectifs physiques, des données démographiques, des flux de personnels et des données budgétaires comme l'évolution de la masse salariale à trois ans.
+
+      La seconde séquence porte sur les déterminants liés au contexte organisationnel et managérial. Elle permet de diagnostiquer le degré d'autonomie du manager en matière de GRH et de comprendre comment s'organise le dialogue de gestion RH entre les décideurs.
+
+      Le questionnaire d'autodiagnostic peut être rempli par plusieurs acteurs comme le DRH, le directeur opérationnel ou le contrôleur de gestion afin de confronter les résultats. Les scores sont évalués sur une échelle de zéro à un pour les données quantitatives et de zéro à cinq pour les données qualitatives.
+
+   B. Les cinq étapes du processus de GPRH.
+
+      La démarche de GPRH s'articule autour de cinq étapes dont les quatre premières correspondent à l'exercice de la GPEEC. La première étape consiste à recenser les ressources disponibles en effectifs physiques et en ETPT, tout en caractérisant les emplois autorisés.
+
+      La deuxième étape est la projection des ressources à court terme de un an et à moyen terme de deux ou trois ans. Cette phase technique mobilise les services statistiques pour simuler les départs tous motifs et les flux entrants imposés comme les retours de détachement.
+
+      La troisième étape est la détermination de la cible stratégique qui traduit les orientations politiques en besoins en emplois et compétences. Le DRH doit identifier les besoins en langage statutaire et mesurer la soutenabilité budgétaire des scénarios envisagés.
+
+      La quatrième étape est le diagnostic et l'analyse des écarts entre les ressources projetées et la cible stratégique. Cette analyse quantitative et qualitative permet de dégager des tendances fortes comme les sous-effectifs ou les métiers en tension.
+
+   C. L'élaboration et l'évaluation du plan d'actions RH.
+
+      La cinquième étape consiste à élaborer le plan d'actions RH en combinant divers leviers tels que la mobilité, la formation, le recrutement ou encore les conditions de travail. Ce plan doit être concerté avec les partenaires sociaux pour garantir la qualité du dialogue social.
+
+      Le responsable RH met en œuvre les actions et chaque service-métier assure un suivi quantitatif et qualitatif de sa réalisation. Ce processus nécessite un travail en mode projet et l'implication de compétences spécifiques comme des statisticiens ou des conseillers mobilité-carrière.
+
+      La revue de direction est une réunion planifiée qui intervient au moins une fois par an pour faire le bilan global du plan de GPRH. Elle permet d'analyser si les résultats correspondent à l'ambition initiale et d'arbitrer les actions à poursuivre ou à nouvelles.
+
+      Pour optimiser cette revue, il est recommandé d'appliquer la méthode ASA qui comprend l'analyse globale, le fait de statuer sur les objectifs de l'année N+un et l'action de formaliser le nouveau plan. Ce cycle permet l'ajustement annuel nécessaire face aux évolutions des priorités stratégiques.
+
+IV. LES OUTILS DE RECUEIL ET DE TRAITEMENT DES DONNÉES.
+
+   A. Le rôle stratégique du SIRH et du SID.
+
+      Le SIRH est un ensemble structuré d'informations qui assure l'unicité, la cohérence, la sécurité et la confidentialité des données relatives aux ressources humaines.
+
+      L'informatisation de la fonction personnel permet d'enregistrer les informations à la source, de les stocker et de les restituer au moment opportun pour faciliter le pilotage.
+
+      Le SIRH doit être corrélé à un système d'information décisionnel, le SID, pour améliorer le pilotage des emplois, de la masse salariale et le suivi des effectifs de l'Etat.
+
+      La DISIC et le CISRIH travaillent à la convergence des systèmes d'information ministériels autour d'un noyau commun de référentiels et de nomenclatures partagés.
+
+      Un SIRH performant libère le personnel RH des tâches fastidieuses pour lui permettre de se concentrer sur des activités d'analyse, de synthèse et de conception.
+
+   B. Les modules essentiels du système d'information.
+
+      Le dossier individuel de l'agent se situe au cœur du processus de gestion en regroupant son identité, son parcours, ses évaluations et sa situation.
+
+      Les modules de gestion administrative et de paie assurent le suivi du statut, de l'âge, du sexe, du lieu d'affectation et la préparation des bulletins de paie.
+
+      Le système intègre la gestion du temps de travail, des congés, des absences et des déplacements pour une maîtrise globale des activités.
+
+      Les fonctions de recrutement et de mobilité permettent de gérer les bourses d'emplois, les CVthèques et le suivi de la mobilité des agents.
+
+      Le volet santé et action sociale couvre la médecine de prévention, l'hygiène, la sécurité et le suivi des prestations sociales.
+
+      Les modules de gestion prévisionnelle et de gestion des postes assurent le suivi budgétaire, l'organigramme et la description des postes à pourvoir.
+
+   C. Les méthodes de prévision des flux et des départs en retraite.
+
+      La fiabilité des prévisions de départs en retraite est une clé de pertinence majeure pour l'exercice de la GPEEC.
+
+      La méthode un consiste à appliquer un taux de départ annuel moyen, constaté sur les trois dernières années, à l'ensemble des effectifs en fonction.
+
+      La méthode deux applique ce même taux moyen des trois dernières années au vivier des agents atteignant l'âge de liquidation des droits à pension avant la fin de l'année.
+
+      La méthode trois est la plus précise car elle recense les agents atteignant l'âge de liquidation et comptabilise les trimestres de cotisation nécessaires avant la fin de l'année, puis applique le taux moyen au reste du vivier.
+
+      Ces taux de prévision doivent tenir compte des fluctuations liées aux réformes, à la sociologie des catégories statutaires et à la pénibilité des métiers.
+
+V. LES OUTILS MÉTIERS ET LA GESTION DES COMPÉTENCES.
+
+   A. Le Répertoire interministériel des métiers de l'État (RIME).
+
+      Le RIME est un outil indispensable pour la gestion des mobilités car il constitue le langage commun partagé par tous les employeurs publics.
+
+      Ce répertoire décrit deux cent soixante et un emplois-référence et vingt-six domaines fonctionnels qui couvrent des missions d'ordre stratégique, opérationnel ou de support.
+
+      L'emploi-référence est l'unité de base du répertoire et regroupe des emplois proches en termes de mission globale et d'activités.
+
+      La démarche s'organise autour de trois niveaux qui sont l'emploi-référence interministériel, l'emploi-type ministériel et la fiche de poste.
+
+      Les ministères déclinent le RIME en emplois-types pour contextualiser les missions et les responsabilités selon leurs propres spécificités.
+
+   B. Le Dictionnaire interministériel des compétences (DICo).
+
+      Le DICo complète le RIME en mettant à disposition un vocabulaire commun pour caractériser les compétences afférentes aux métiers de l'État.
+
+      Il contient cent deux savoir-faire, vingt et un savoir-être et quarante rubriques de connaissances pour définir les compétences cœur de métier.
+
+      Cet outil est particulièrement utile pour caractériser les compétences attendues dans une fiche de poste ou identifier des compétences dans un CV.
+
+      Une base de données du DICo permet d'identifier les macro-compétences et de repérer des proximités entre des emplois-référence issus du RIME.
+
+   C. L'identification des compétences critiques et des métiers en tension.
+
+      Une compétence critique est définie comme une compétence indispensable, longue à acquérir ou difficile à transmettre et rare.
+
+      Les métiers en tension se caractérisent par une situation de sous-effectifs liée à des difficultés de recrutement conjoncturelles ou géographiques.
+
+      L'analyse des compétences critiques s'appuie sur les outils interministériels comme le RIME et le DICo ainsi que sur les spécificités locales.
+
+      Pour répondre aux métiers fragilisés, quatre leviers d'action sont possibles : la mobilisation à distance, la mutualisation, la formation ou le recrutement.
+
+      Le ministère chargé de l'écologie et du logement a mené une enquête nationale en deux mille treize et deux mille quatorze pour cartographier ces risques.
+
+VI. LA DIMENSION BUDGÉTAIRE ET LE PILOTAGE.
+
+   A. L'intégration des contraintes de masse salariale et de plafond d'emplois.
+
+      La dimension budgétaire est une activité à part entière de la gestion des ressources humaines au sein des administrations. Elle nécessite la gestion du Titre II, du plafond et du schéma d'emplois ainsi que du plafond de masse salariale.
+
+      La relation entre la gestion budgétaire et la GPRH est réciproque car la dimension budgétaire permet d'établir un plan d'action RH réaliste selon les moyens disponibles. Les ressources en emplois et en masse salariale constituent des éléments de la stratégie RH.
+
+      L'analyse de ces ressources éclaire le gestionnaire sur la faisabilité des mesures envisagées et lui permet de hiérarchiser ses priorités. Il est indispensable de disposer de données RH justes à l'horizon trois ans pour les arbitrages budgétaires.
+
+      Le ministère de l'Intérieur a développé un outil budgétaire de suivi de la consommation du plafond d'emplois et de masse salariale. Cet outil comporte un volet prévisionnel alimenté par les éléments de la GPRH.
+
+   B. L'impact des décisions de gestion sur le budget.
+
+      Les décisions de gestion des carrières comme l'avancement d'échelon ou de grade entraînent un glissement vieillesse technicité positif. Cet effet de carrière impacte directement le budget de l'organisation.
+
+      Les processus de mobilité et les recrutements effectués génèrent un glissement vieillesse technicité négatif ou un effet de noria. Ces mouvements de personnel incluent les mutations et les entrées par promotion interne.
+
+      La politique indemnitaire et les dispositifs de modulation de la rémunération influencent les dépenses de personnel. De même, la politique de formation et l'acquisition de nouvelles compétences ont une incidence financière.
+
+      Les décisions de gestion individuelle comme le temps de travail impactent le budget et le plafond d'emplois. Cela concerne notamment les agents en temps partiel ou en CPA.
+
+   C. La revue de direction et l'amélioration continue.
+
+      La revue de direction est une réunion planifiée qui permet de faire le point sur le système de management. Elle est une exigence de nombreuses normes de management telles que l'ISO neuf mille un.
+
+      Ce processus permet une analyse factuelle du passé afin de redéfinir un plan d'action et de libérer des moyens pour le prochain cycle. La revue de direction doit avoir lieu au moins une fois par an.
+
+      Elle sert à réaliser le bilan global du plan de GPRH de l'année passée pour vérifier si les résultats correspondent à l'ambition initiale. Elle permet aussi d'arbitrer les actions à poursuivre ou à mener.
+
+      Il est recommandé d'appliquer la méthode ASA qui consiste en une analyse globale, une étape pour statuer sur les objectifs de l'année n+un et une étape pour agir en formalisant le plan.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre la GPEEC qui est un exercice technique de projection des effectifs et des compétences avec la GPRH qui est une approche stratégique globale.
+
+      La GPRH n'est pas une simple étude statistique ou un recueil d'informations mais une démarche volontariste visant à réaliser un plan d'actions concret.
+
+      Il est crucial de distinguer la gestion administrative courante des personnels qui applique les procédures statutaires de la GPRH qui anticipe les besoins futurs.
+
+      La démarche ne doit pas être vue comme une science exacte car elle doit intégrer une marge d'erreur et les impondérables d'un contexte évolutif.
+
+      L'analyse des écarts doit être réalisée en langage statutaire pour permettre une véritable adéquation entre les besoins de l'organisation et les ressources disponibles.
+
+EXEMPLES CITÉS.
+
+      Le RIME est un répertoire qui décrit deux cent soixante et un emplois-référence et vingt-six domaines fonctionnels pour servir de langage commun entre les ministères.
+
+      Le système SESAME utilisé par le ministère chargé du travail permet de croiser les données relatives aux âges et aux métiers pour prévoir les départs en retraite sur dix ans.
+
+      Le décret n°deux mille quatorze-huit cent trente-quatre du vingt-quatre juillet deux mille quatorze précise les responsabilités des secrétaires généraux des ministères concernant la tutelle des organismes publics.
+
+      La PFRH du Nord-Pas-de-Calais a enrichi son outil de cartographie pour identifier les compétences critiques selon leur nature ou leur difficulté d'attractivité.
+
+      Le ministère chargé de l'écologie et du logement utilise le RME qui comporte deux cent soixante-neuf fiches d'emploi-type pour accompagner les réorganisations de ses services.

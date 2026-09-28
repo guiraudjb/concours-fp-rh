@@ -1,0 +1,331 @@
+SYNTHÈSE DE LA JURISPRUDENCE RELATIVE AUX MODALITÉS D'EMPLOI ET AUX DROITS SOCIAUX DES AGENTS PUBLICS.
+
+LEXIQUE COMPLET.
+
+      Le CRPA désigne le code des relations entre le public et l'administration qui régit notamment les règles de retrait des décisions pécuniaires.
+
+      La GIPA désigne la garantie individuelle du pouvoir d'achat qui est un complément de rémunération destiné à compenser la perte de pouvoir d'achat des fonctionnaires.
+
+      Le SFT désigne le supplément familial de traitement qui est un élément de la rémunération statutaire destiné à contribuer à la prise en charge financière des enfants.
+
+      La NBI désigne la nouvelle bonification indiciaire qui est une indemnité particulière attribuée pour certains emplois comportant une responsabilité ou une technicité particulières.
+
+      Le CET désigne le compte épargne-temps qui permet aux agents titulaires et contractuels d'épargner des jours de congés annuels, une réduction du temps de travail ou un repos compensateur.
+
+      Les RTT désignent les jours de réduction du temps de travail qui visent à éviter que les agents dont le temps de travail est supérieur à la durée légale dépassent mille six cent sept heures de travail annuel.
+
+      L'ARTT désigne l'aménagement et la réduction du temps de travail qui constitue une modalité de décompte des heures de travail pour les agents.
+
+      Le RAFP désigne le régime d'épargne qui permet la monétisation de certains jours de repos épargnés sur le CET pour les agents de la fonction publique territoriale.
+
+      Le Conseil d'État est la juridiction qui précise la nature de la GIPA comme étant un complément de traitement et non un élément du régime indemnitaire.
+
+      La CJUE désigne la Cour de justice de l'Union européenne qui a jugé qu'une période de report de quinze mois pour les congés annuels est compatible avec la directive deux mille trois/quatre-vingt-huit/CE.
+
+COURS DÉTAILLÉ.
+
+I. RÉGIME DE LA RÉPÉTITION DE L'INDU ET DES DÉCISIONS PÉCUNIAIRES.
+
+   A. Distinction entre décision créatrice de droit et erreur de liquidation.
+
+      Une décision pécuniaire est dite créatrice de droit lorsqu'elle est explicite, respecte les règles de forme du CRPA comme la signature par l'autorité compétente et attribue un avantage financier à un agent. Cette qualification demeure valable même si l'administration s'est trompée et était tenue de refuser l'avantage en cause selon la jurisprudence du CE, Sect., six juin deux mille deux, décision Mme X, n° deux cent vingt-trois mille quarante et un.
+
+      Il arrive que des décisions ne soient pas formalisées et que les services procèdent directement aux versements des sommes qu'ils estiment dues aux agents. Dans ces cas rares, le juge peut reconnaître une décision implicite, non formalisée, de l'administration comme lors d'un reclassement indiciaire sans décision explicite selon le CE, quatre décembre deux mille neuf, M. Jacques A, n° trois cent cinq mille huit cent quatre-vingt-cinq.
+
+      À l'inverse, les mesures qui se bornent uniquement à procéder à la liquidation d'une créance née antérieurement ne sont pas des décisions créatrices de droit. Ainsi, les justificatifs, les mandats ou les bordereaux par lesquels le versement est demandé au comptable ne constituent pas en eux-mêmes des décisions créatrices de droit.
+
+      L'erreur de liquidation ne crée pas de droit, qu'elle résulte d'une simple négligence de l'administration ou d'une erreur de saisie informatique. Le maintien indu d'un avantage financier dû à une erreur de liquidation est considéré comme une erreur non créatrice de droit, comme l'illustre le CE, neuf mai deux mille onze, Ministre de la défense, n° trois cent trente-neuf mille neuf cent un.
+
+      La jurisprudence adopte une approche restrictive en considérant que si le versement ne résulte que d'actes de liquidation sans décision d'accorder l'avantage, l'agent n'a aucun droit. Dans cette situation, l'administration peut réclamer la somme à l'intéressé tant que la créance n'est pas éteinte par le délai de prescription de cinq ans.
+
+   B. Règles de retrait et de prescription des décisions pécuniaires.
+
+      Lorsqu'une décision pécuniaire est conditionnée au maintien d'une condition, comme l'attribution d'une prime mensuelle, l'administration peut l'abroger si l'intéressé ne remplit plus cette condition selon l'art. L. deux cent quarante-deux-deux du CRPA. Le retrait d'une décision créatrice de droit ne peut toutefois intervenir que dans un délai très bref de quatre mois.
+
+      L'articulation entre le retrait et la prescription est complexe car le respect de la décision créatrice de droit doit l'emporter pour maintenir la cohérence entre la décision et les sommes versées. En pratique, si le délai de quatre mois est expiré, l'argent ne peut plus être réclamé à l'agent, même si l'administration ne peut plus retirer la décision.
+
+      Il existe une distinction importante entre les décisions purement pécuniaires et les décisions mixtes ayant une portée statutaire, comme une nomination dans un grade. Si une décision est annulée rétroactivement, l'administration ne peut pas forcément récupérer les sommes versées si le délai de quatre mois est passé, sauf si la jurisprudence de la répétition de l'indu s'applique.
+
+      Le délai pour décider d'une répétition d'un indu est de quatre mois à compter de la prise de décision, ce qui est bien inférieur au délai de prescription de droit commun. En droit privé, le délai de prescription est de cinq ans en principe et de trois ans pour les créances liées au paiement des salaires des contrats de travail selon l'art. L. trois mille deux cent quarante-cinq-un du code du travail.
+
+   C. Régime spécifique de la répétition de l'indu en matière de rémunération.
+
+      La loi n° deux mille onze-mille neuf cent soixante-dix-huit du vingt-huit décembre deux mille onze a introduit l'article trente-sept-un de la loi n° deux mille-trois cent vingt et un qui institue un régime spécifique de répétition de l'indu pour les agents publics. Les créances résultant de paiements indus en matière de rémunération peuvent être répétées dans un délai de deux ans à compter du premier jour du mois suivant la mise en paiement.
+
+      Ce régime de deux ans s'applique même lorsque les créances ont pour origine une décision créatrice de droits irrégulière devenue définitive. En l'absence de cette disposition spécifique, les causes d'interruption et de suspension de la prescription biennale sont régies par les principes du code civil.
+
+      Le régime de l'article trente-sept-un prévoit deux exceptions majeures où le délai de prescription n'est pas de deux ans mais celui du droit commun de cinq ans. Il s'agit du cas où le paiement résulte d'un défaut d'information de l'administration par l'agent ou d'erreurs dans les informations fournies, selon le CE, Avis, vingt-huit mai deux mille quatorze, n° trois cent soixante-seize mille cinq cent un.
+
+      Une autre exception concerne les sommes versées sans présenter les caractères d'une rémunération, comme les indemnités de réparation après une éviction illégale. Pour ces cas, le délai de prescription reste celui du droit commun, conformément au CE, vingt-huit mai deux mille quatorze, M. A...D... et Communal, n° trois cent soixante-seize mille cinq cent un.
+
+      Enfin, la jurisprudence traditionnelle continue de s'appliquer pour empêcher la répétition de l'indu si un délai de quatre mois s'est écoulé depuis la décision créatrice de droits. Le législateur a ainsi voulu éviter que l'administration puisse récupérer une prime qu'elle ne peut plus retirer juridiquement.
+
+II. LA GARANTIE INDIVIDUELLE DU POUVOIR D'ACHAT.
+
+   A. Mécanisme de compensation de l'inflation.
+
+      La GIPA est un mécanisme destiné à garantir aux fonctionnaires le maintien de leur pouvoir d'achat.
+
+      Ce dispositif vise à compenser les pertes de pouvoir d'achat subies par les fonctionnaires lorsque l'augmentation de la valeur du point de la fonction publique ne suffit pas à égaler l'inflation.
+
+      Le montant de la GIPA est déterminé en comparant l'évolution du traitement indiciaire brut détenu par l'agent avec celle de l'indice des prix à la consommation sur une période de référence de quatre ans.
+
+      Si le traitement indiciaire brut effectivement perçu par l'agent au terme de cette période a évolué moins vite que l'inflation, un montant brut équivalent à la perte de pouvoir d'achat constatée lui est versé.
+
+      Ce montant est pris en compte dans le dispositif de retraite additionnelle.
+
+   B. Champ d'application et bénéficiaires.
+
+      Tous les fonctionnaires ont vocation à bénéficier de la GIPA à condition qu'ils détiennent un grade dont l'indice sommet est inférieur ou égal à celui de la catégorie A.
+
+      Le Conseil d'État a précisé que cette condition n'est pas remplie si le grade comporte un échelon affecté de l'indice hors-échelle B, même si cet échelon n'est accessible qu'au choix.
+
+      Les agents publics non-titulaires des trois fonctions publiques entrent également dans le champ du dispositif sous certaines conditions.
+
+      Les fonctionnaires de France Télécom appartenant à un corps de niveau trois sont spécifiquement exclus de son bénéfice.
+
+   C. Nature juridique de la GIPA comme complément de traitement.
+
+      La GIPA présente le caractère d'un complément de traitement et non d'un régime indemnitaire.
+
+      Le Conseil d'État a tranché cette question dans une décision du deux mars deux mille dix, la Région Rhône-Alpes, n° trois cent vingt-deux mille sept cent quatre-vingt-un, T.
+
+      Cette qualification est importante car les dispositions relatives au traitement et aux indemnités ayant le caractère d'un complément de traitement sont applicables de plein droit à tous les fonctionnaires des trois versants de la fonction publique.
+
+      Par conséquent, la détermination de la GIPA relève de la compétence du décret et non de celle de l'organe délibérant des collectivités territoriales.
+
+III. LE SUPPLÉMENT FAMILIAL DE TRAITEMENT.
+
+   A. Nature de rémunération statutaire et modalités de calcul.
+
+      Le SFT est un élément de la rémunération statutaire des fonctionnaires selon l'article vingt de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois.
+
+      Il ne possède pas le caractère d'une prestation familiale comme le précise la jurisprudence du Conseil d'État (CE, vingt-quatre juin mille neuf cent quatre-vingt-onze, Ministre de l'équipement c/ M. Gérard X…, n° cent six mille cinquante-huit, Rec.).
+
+      Cette prestation est destinée à contribuer à la prise en charge financière des enfants par leurs parents agents publics.
+
+      Le droit au SFT est ouvert en fonction du nombre d'enfants à charge au sens du titre Ier du livre V du code de la sécurité sociale.
+
+      L'avantage est alloué au fonctionnaire du chef duquel il est versé, mais il peut être ouvert à un autre bénéficiaire par commun accord.
+
+      Le calcul du SFT doit prendre en compte tous les enfants à la charge du fonctionnaire, y compris ceux issus d'une nouvelle union (CE, Sect., dix juin mille neuf cent soixante-six, M. X…, n° cinquante-neuf mille cent quatre-vingt-dix-sept, Rec.).
+
+   B. Conditions d'attribution et notion de charge effective et permanente.
+
+      Le SFT est versé à la personne qui assume la charge effective et permanente des enfants.
+
+      La jurisprudence définit la charge effective et permanente comme la direction tant matérielle que morale de l'enfant.
+
+      Un père qui assume la totalité des frais d'entretien sans avoir la garde effective ne peut pas être considéré comme assumant cette direction (CE, deux avril deux mille quinze, M. B…A…, n° trois cent soixante-sept mille cinq cent soixante-treize, T.).
+
+      L'administration doit rechercher la personne qui assume cette charge à la date à laquelle le SFT est versé (CE, Sect., trente et un mars mille neuf cent quatre-vingt-neuf, Ministre du budget c/ Mme X…, n° quarante-huit mille sept cent cinquante-six, Rec.).
+
+      En cas de pluralité de fonctionnaires assumant la charge du ou des mêmes enfants, ils doivent désigner d'un commun accord celui du chef duquel sera alloué le SFT.
+
+      La loi n° deux mille dix-neuf-huit cent vingt-huit du six août deux mille dix-neuf a étendu le partage du SFT aux gardes alternées, prévoyant un partage par moitié entre les deux parents.
+
+   C. Règles de cumul et de partage entre conjoints.
+
+      L'article vingt de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois interdit le cumul du SFT avec un avantage de même nature accordé pour un même enfant par un organisme public.
+
+      Dans un couple de fonctionnaires, le SFT ne peut pas être cumulé pour les mêmes enfants.
+
+      Il est possible que le SFT soit versé à l'ancien conjoint d'un agent public qui n'est pas lui-même agent, car la prestation reste un élément de la rémunération statutaire de l'agent public (CE, vingt-quatre novembre deux mille dix, Mme Géraldine A… n° trois cent dix mille quatre cent trois, T.).
+
+      Le versement à un conjoint salarié du droit privé n'empêche pas le versement du SFT à l'agent public (CE, vingt-sept février mille neuf cent quatre-vingt-dix-huit, District de l'agglomération nantaise, n° cent quarante-quatre mille sept cent quatre-vingt-huit, T.).
+
+      Si la charge est partagée, le SFT peut être réparti au prorata des enfants dont les parents assument la charge effective (CE, Ass., quatorze avril mille neuf cent quatre-vingt-quinze, Ministre de la défense c/ Mme X…, n° cent vingt-six mille cinq cent cinquante, Rec.).
+
+IV. LA NOUVELLE BONIFICATION INDICIAIRE.
+
+   A. Critères de responsabilité et de technicité.
+
+      La NBI est une indemnité particulière instituée par l'article vingt-sept de la loi n° quatre-vingt-onze-soixante-treize du dix-huit janvier mille neuf cent quatre-vingt-onze pour certains emplois.
+
+      Son attribution est strictement limitée aux fonctions comportant une responsabilité ou une technicité particulières.
+
+      Le pouvoir réglementaire ne peut se fonder que sur ces deux seuls critères pour déterminer les emplois bénéficiaires.
+
+      Il est donc interdit de limiter le bénéfice de la NBI à un corps spécifique ou à une qualification déterminée.
+
+      L'administration ne peut pas non plus subordonner l'octroi de cette bonification à la détention d'un diplôme.
+
+      L'utilisation de critères autres que la responsabilité ou la technicité est formellement exclue par la jurisprudence.
+
+   B. Caractère non statutaire et lié à l'exercice effectif des fonctions.
+
+      Le bénéfice de la NBI ne constitue pas un avantage statutaire car il n'est pas lié au grade ou au corps.
+
+      Cette indemnité est subordonnée à l'exercice effectif des fonctions et possède donc un caractère temporaire.
+
+      Elle cesse dès que l'agent change de fonctions ou si l'emploi est légalement supprimé de la liste.
+
+      L'intérim ne permet pas de bénéficier de la NBI car il s'agit d'une décision temporaire de l'autorité compétente.
+
+      Le maintien de la NBI est toutefois assuré pendant les congés de maladie, de maternité ou les courtes formations.
+
+      Le fonctionnaire qui est reclassé dans un nouveau corps mais conserve ses fonctions garde son droit à la NBI.
+
+   C. Respect du principe d'égalité et contraintes budgétaires.
+
+      L'administration doit traiter de la même manière tous les agents occupant des emplois de même responsabilité.
+
+      Le pouvoir réglementaire peut toutefois prendre en compte des raisons budgétaires ou des orientations de gestion.
+
+      Cette contrainte budgétaire permet de prévoir que la NBI sera versée dans la limite des crédits disponibles.
+
+      L'administration peut ainsi diminuer le montant de la NBI sans pour autant exclure des emplois équivalents.
+
+      Le principe d'égalité interdit de limiter la NBI à une durée maximale d'occupation d'un emploi.
+
+      L'attribution doit également respecter l'égalité entre les agents titulaires et les agents stagiaires.
+
+V. LE RÉGIME DU LOGEMENT DE FONCTION.
+
+   A. Justification par l'intérêt du service et les contraintes de l'emploi.
+
+      L'attribution d'un logement de fonction n'est pas liée au statut des agents mais à l'exercice de certaines fonctions spécifiques.
+
+      Cette attribution ne peut être justifiée que par l'existence d'un intérêt certain pour la bonne marche du service.
+
+      Le logement de fonction ne peut pas être attribué dans le seul but d'avantager un agent car il doit répondre à un besoin du service.
+
+      L'autorité compétente doit déterminer si la concession présente un intérêt certain au regard des contraintes liées à l'exercice de l'emploi.
+
+      L'éviction illégale d'un agent ne lui donne pas droit à une indemnité en réparation de la perte du logement car il n'a pas accompli de service nécessitant un logement.
+
+   B. Distinction entre nécessité absolue de service et utilité de service.
+
+      Le régime repose sur la distinction entre les logements concédés gratuitement par nécessité absolue de service et ceux concédés par simple utilité de service.
+
+      Dans le cas de la nécessité absolue de service, le principe appliqué est celui de la gratuité du logement.
+
+      Pour les logements attribués par simple utilité de service, l'occupation doit donner lieu au versement d'une redevance.
+
+      Dans la fonction publique d'État, le régime distingue ces deux catégories selon les articles R. deux mille cent vingt-quatre-six et R. deux mille cent vingt-quatre-sept du code général de la propriété des personnes publiques.
+
+      La fonction publique hospitalière prévoit également cette distinction entre les concessions par nécessité absolue de service et celles par utilité de service.
+
+   C. Modalités de redevance et principe de parité entre les fonctions publiques.
+
+      Pour les logements de l'État, la redevance est fixée par les textes ou la jurisprudence, notamment à cinquante pour cent de la valeur locative réelle en cas d'occupation précaire avec astreinte.
+
+      Dans la fonction publique territoriale, les organes délibérants fixent la liste des emplois pouvant bénéficier d'un logement et les modalités de la redevance.
+
+      Le Conseil d'État impose le respect du principe de parité qui interdit aux collectivités territoriales d'accorder des prestations supérieures à celles des agents de l'État.
+
+      L'autorité territoriale doit distinguer les logements gratuits pour présence constante de ceux nécessitant une redevance pour une présence seulement utile.
+
+      L'autorité territoriale peut fixer le montant de la redevance en tenant compte des caractéristiques et des valeurs locatives de logements comparables.
+
+      L'appréciation de l'autorité territoriale pour fixer le montant de la redevance est soumise au contrôle restreint du juge administratif.
+
+VI. LE DROIT AUX CONGÉS ANNUELS.
+
+   A. Durée, modalités de prise et priorité aux charges de famille.
+
+      Les fonctionnaires bénéficient de cinq semaines de congés annuels après avoir accompli un année de service complète du premier janvier au trente et un décembre.
+
+      La durée de ces congés est fixée à cinq fois la durée hebdomadaire de service de référence dans chacune des trois fonctions publiques.
+
+      Le calendrier de prise des congés est établi par le chef de service après consultation des agents, en tenant compte des nécessités de service.
+
+      Les agents ayant charge de famille bénéficient d'un caractère prioritaire pour le choix de leurs périodes de congés annuels.
+
+      L'absence d'un agent ne peut en principe excéder trente et un jours consécutifs, sauf si l'agent n'est pas en mesure d'exercer son droit.
+
+      Pour les enseignants, les nécessités du service public de l'éducation imposent de prendre les congés durant les périodes de vacance des classes.
+
+   B. Régime du report des congés et influence du droit européen.
+
+      En principe, les jours de congés non pris au titre d'une année ne peuvent être ni reportés sur l'année suivante ni indemnisés.
+
+      Toutefois, l'avis du Conseil d'État du vingt-six avril deux mille dix-sept précise qu'en cas d'impossibilité de prendre ses congés due à un congé maladie, le report est possible.
+
+      Le juge peut considérer que ces congés peuvent être pris au cours d'une période de quinze mois après le terme de l'année civile.
+
+      Ce droit au report s'exerce, en l'absence de dispositions nationales, dans la limite de quatre semaines prévue par l'article sept de la directive deux mille trois/quatre-vingt-huit/CE.
+
+      Le droit au congé annuel ne peut pas être exercé en dehors des périodes de vacance des classes pour un agent ayant bénéficié d'un congé de maternité.
+
+   C. Indemnisation et gestion via le compte épargne-temps.
+
+      Le principe général est le non-paiement des congés non pris, car aucune disposition ne prévoit d'indemnité compensatrice.
+
+      Dans la limite de soixante jours, les agents peuvent toutefois épargner leurs jours de congés sur un compte épargne-temps.
+
+      Le compte épargne-temps permet aux agents titulaires et contractuels embauchés depuis au moins un année d'épargner des jours de repos.
+
+      Au-delà des vingt premiers jours épargnés, les agents peuvent choisir une indemnisation ou une monétisation selon un tarif journalier.
+
+      Pour les agents de la fonction publique territoriale, une délibération de la collectivité est nécessaire pour la monétisation et le versement au RAFP.
+
+VII. LES JOURS DE RÉDUCTION DU TEMPS DE TRAVAIL ET LA SANTÉ AU TRAVAIL.
+
+   A. Acquisition des RTT et exclusion des congés de maladie.
+
+      Les jours de réduction du temps de travail visent à éviter que les agents publics dont le temps de travail est supérieur à la durée légale ne dépassent mille six cent sept heures de travail annuel.
+
+      Le temps de travail effectif effectué par les agents au-delà de cette durée, hors heures supplémentaires, génère l’acquisition de jours de RTT.
+
+      Pour les agents ne bénéficiant pas d’un régime de décompte en heures mais au forfait, ils bénéficient d’une compensation sous la forme d’un nombre forfaitaire de jours de RTT.
+
+      Seul le temps de travail effectif, défini comme le temps pendant lequel les agents sont à la disposition de leur employeur et doivent se conformer à ses directives, donne lieu à l’acquisition de RTT.
+
+      Les congés pour raison de santé, tels que les congés de maladie ou de longue maladie, ne sont pas assimilables à du temps de travail effectif et ne peuvent ouvrir droit à des jours de RTT.
+
+      Cette exclusion s'explique par le fait que l'agent en congé de maladie n'est pas à la disposition de son employeur et n'est pas tenu de se conformer à ses directives.
+
+   B. Le don de jours de repos pour assistance à personne handicapée.
+
+      Le décret n° deux mille quinze-cinq cent quatre-vingts du vingt-huit mai deux mille quinze permet à un agent public civil de faire don de jours de repos à un autre agent public.
+
+      Ce don doit être effectué à la demande de l'agent et de manière anonyme et sans contrepartie.
+
+      Le bénéficiaire doit être un agent public parent d’un enfant âgé de moins de vingt ans atteint d’une maladie, d’un handicap ou victime d’un accident d’une particulière gravité rendant indispensable une présence soutenue et des soins contraignants.
+
+      L'agent donneur peut renoncer à tout ou partie de ses jours de repos non pris, qu'ils aient été affectés ou non sur un compte épargne-temps.
+
+      Le bénéficiaire doit être un agent public relevant du même employeur qui assume la charge de l'enfant.
+
+      Cette disposition est complétée par l'article L. trois mille cent quarante-deux-vingt-cinq-un du code du travail qui autorise un salarié à faire don de ses jours de repos pour aider une personne atteinte d'une perte d'autonomie ou d'un handicap.
+
+   C. L'obligation de sécurité et de protection de la santé des agents.
+
+      La jurisprudence du Conseil d’État met à la charge des employeurs publics une véritable obligation de résultat en matière de santé sur le lieu de travail.
+
+      Les autorités administratives ont l’obligation de prendre les mesures nécessaires pour assurer la sécurité et protéger la santé physique et morale de leurs agents.
+
+      Les chefs de service ou l’autorité territoriale sont chargés de veiller à la sécurité et à la protection de la santé des agents placés sous leur autorité.
+
+      Le régime juridique repose sur les principes généraux de prévention de la santé et de la sécurité des travailleurs posés par le code du travail.
+
+      Le manquement à cette obligation de sécurité et de protection de la santé des agents par l’administration est susceptible de constituer une faute de service engageant sa responsabilité.
+
+      L'article L. quatre cent soixante et un-un du code de la sécurité sociale, qui reconnaît les maladies professionnelles, est également applicable aux agents publics.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre une décision créatrice de droit avec une simple erreur de liquidation qui ne crée aucun droit pour l'agent.
+
+      La répétition de l'indu en matière de rémunération est soumise à un délai spécifique de deux ans, contrairement au délai de quatre mois pour le retrait d'une décision créatrice de droits.
+
+      La GIPA est considérée comme un complément de traitement et non comme un élément du régime indemnitaire, ce qui relève de la compétence du décret.
+
+      Le SFT n'est pas une prestation familiale mais un élément de rémunération statutaire, et son droit est ouvert au profit de celui qui assume la charge effective et permanente de l'enfant.
+
+      La NBI n'est pas un avantage statutaire car son bénéfice est lié à l'exercice effectif des fonctions et non au grade ou au corps de l'agent.
+
+      L'attribution d'un logement de fonction est liée à l'intérêt certain pour la bonne marche du service et non au statut de l'agent.
+
+EXEMPLES CITÉS.
+
+      L'administration peut réclamer une somme indue à un agent pendant un délai de prescription de cinq ans si le versement ne résulte pas d'une décision créatrice de droits.
+
+      Le Conseil d'État a jugé dans l'arrêt Région Rhône-Alpes du deux mars deux mille dix que la GIPA est un complément de traitement dont la détermination relève du décret.
+
+      Dans l'affaire Mme Géraldine A de deux mille dix, il a été précisé que le SFT est versé à l'ancien conjoint non agent public si celui-ci assume la charge des enfants.
+
+      Un agent peut bénéficier de cinq semaines de congés annuels, mais le principe est que les jours non pris ne peuvent pas être indemnisés.
+
+      L'acquisition de jours de RTT est liée au dépassement de la durée annuelle de travail effectif fixée à mille six cent sept heures.

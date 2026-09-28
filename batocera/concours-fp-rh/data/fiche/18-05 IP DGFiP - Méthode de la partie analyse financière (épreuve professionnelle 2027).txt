@@ -1,0 +1,231 @@
+GUIDE DE PRÉPARATION À LA PARTIE ANALYSE FINANCIÈRE DU CONCOURS D'INSPECTEUR PRINCIPAL DES FINANCES PUBLIQUES.
+
+LEXIQUE COMPLET.
+
+      La DGFiP désigne la Direction générale des finances publiques qui produit les fiches d'analyse des équilibres financiers fondamentaux.
+
+      L'arrêté du dix-huit décembre deux mille vingt-cinq désigne le texte réglementaire qui définit les modalités de l'épreuve écrite professionnelle du concours.
+
+      L'épargne brute désigne l'agrégat financier qui permet de calculer le taux d'épargne brute en la divisant par les recettes réelles de fonctionnement.
+
+      Le taux d'épargne brute désigne le ratio calculé en divisant l'épargne brute par les recettes réelles de fonctionnement.
+
+      La capacité de désendettement désigne le ratio exprimé en années qui correspond à l'encours de la dette divisé par l'épargne brute.
+
+      Le taux d'endettement désigne le ratio obtenu en divisant l'encours de la dette par les recettes réelles de fonctionnement.
+
+      L'épargne nette désigne l'agrégat financier qui, lorsqu'il est négatif, signifie que la collectivité ne couvre plus le remboursement de sa dette par ses ressources propres de fonctionnement.
+
+      L'effet de ciseaux désigne le phénomène d'analyse financière où les dépenses augmentent plus vite que les recettes.
+
+      L'ordonnateur désigne la personne dont la décision doit être éclairée par le conseiller sans que ce dernier ne s'y substitue.
+
+      La capacité de remboursement désigne le ratio pour une entreprise correspondant aux dettes financières divisées par la capacité d'autofinancement.
+
+COURS DÉTAILLÉ.
+
+I. PRÉSENTATION DE LA NOUVELLE ÉPREUVE.
+
+   A. Cadre réglementaire et modalités de l'arrêté de deux mille vingt-cinq.
+
+      L'organisation de l'épreuve professionnelle est modifiée par l'arrêté du dix-huit décembre deux mille vingt-cinq.
+
+      Cette nouvelle réglementation introduit une seconde partie commune à tous les candidats du concours d'inspecteur principal des finances publiques.
+
+      L'exercice repose sur l'exploitation d'un fonds documentaire pour répondre à une ou plusieurs questions portant sur l'analyse financière.
+
+      Le contenu de l'épreuve ne fait l'objet d'aucun programme fixe et nécessite une préparation sur deux terrains possibles.
+
+      Le candidat doit être capable d'analyser les finances d'une collectivité locale ou d'un établissement public local.
+
+      L'autre terrain d'analyse concerne les entreprises pour les missions d'action économique, de traitement des difficultés ou de recouvrement de la DGFiP.
+
+   B. Barème, durée et coefficient.
+
+      L'épreuve écrite professionnelle globale est assortie d'un coefficient de six.
+
+      La durée totale allouée pour l'ensemble de l'épreuve est de quatre heures.
+
+      La partie spécifique dédiée à l'analyse financière est notée sur cinq points sur vingt.
+
+      Cette section représente une part importante de la note finale au sein de l'épreuve de quatre heures.
+
+      L'option de l'épreuve constitue la partie majeure avec une notation sur quinze points.
+
+   C. Gestion du temps lors de l'épreuve de quatre heures.
+
+      Il est conseillé de consacrer environ cinquante minutes à la partie analyse financière.
+
+      Ce temps de travail doit inclure la lecture attentive du fonds documentaire.
+
+      Le candidat doit veiller à ne pas sacrifier cette partie au profit de l'option notée sur quinze points.
+
+      Une gestion rigoureuse est nécessaire pour éviter de dépasser le temps prévu pour cette section.
+
+      Le respect de ce minutage permet de garantir un équilibre entre l'analyse financière et l'option.
+
+II. CHAMPS D'APPLICATION ET TERRAINS D'ANALYSE.
+
+   A. Analyse des collectivités locales et établissements publics.
+
+      Le terrain le plus probable pour l'épreuve consiste à réaliser l'analyse financière d'une collectivité locale ou d'un établissement public local.
+
+      Cette mission correspond au métier de conseiller aux décideurs locaux et s'appuie sur les fiches d'analyse des équilibres financiers fondamentaux produites par la DGFiP.
+
+      L'analyse porte sur des agrégats tels que les recettes et dépenses réelles de fonctionnement, l'épargne de gestion, l'épargne brute ou encore l'épargne nette.
+
+      Le candidat doit également examiner le remboursement du capital de la dette, les dépenses d'équipement et leur financement, l'encours de dette, le fonds de roulement et la trésorerie.
+
+      L'interprétation nécessite de surveiller des seuils comme un taux d'épargne brute inférieur à sept ou huit pour cent ou une capacité de désendettement supérieure à dix à douze ans.
+
+      Une épargne nette négative est un indicateur critique signifiant que la collectivité ne couvre plus le remboursement de sa dette par ses ressources propres de fonctionnement.
+
+   B. Analyse financière des entreprises et action économique.
+
+      Le second terrain possible pour l'examen est l'analyse financière d'une entreprise.
+
+      La DGFiP pratique ce type d'analyse dans le cadre de l'action économique, du traitement des entreprises en difficulté et du recouvrement.
+
+      Les indicateurs clés à identifier dans les documents sont le chiffre d'affaires, la valeur ajoutée, l'excédent brut d'exploitation et la capacité d'autofinancement.
+
+      Il convient aussi de repérer les capitaux propres, le fonds de roulement net global, le besoin en fonds de roulement, la trésorerie nette et l'endettement.
+
+      Les calculs de ratios incluent le taux de marge, l'autonomie financière et la capacité de remboursement calculée par les dettes financières divisées par la capacité d'autofinancement.
+
+III. MÉTHODOLOGIE DE RÉPONSE EN CINQ ÉTAPES.
+
+   A. Lecture stratégique et repérage des agrégats.
+
+      Il convient de lire les questions avant de parcourir le fonds documentaire afin de savoir précisément quels chiffres rechercher.
+
+      Le candidat doit repérer dans les documents les agrégats utiles selon le terrain d'analyse.
+
+      Pour une collectivité locale ou un établissement public local, il faut identifier les recettes et dépenses réelles de fonctionnement, l'épargne de gestion, l'épargne brute, le remboursement du capital de la dette, l'épargne nette, les dépenses d'équipement et leur financement, l'encours de dette, le fonds de roulement et la trésorerie.
+
+      S'il s'agit d'une entreprise, les éléments à extraire sont le chiffre d'affaires, la valeur ajoutée, l'excédent brut d'exploitation, la capacité d'autofinancement, les capitaux propres, le fonds de roulement net global, le besoin en fonds de roulement, la trésorerie nette et l'endettement.
+
+   B. Calcul des ratios et présentation des formules.
+
+      Chaque calcul de ratio doit être présenté en posant systématiquement la formule avant d'indiquer le résultat.
+
+      Les résultats doivent être arrondis de manière raisonnable et toujours accompagnés de leur unité.
+
+      Pour une collectivité, le taux d'épargne brute est l'épargne brute divisée par les recettes réelles de fonctionnement, tandis que la capacité de désendettement est l'encours de dette divisé par l'épargne brute, exprimée en années.
+
+      Le taux d'endettement se calcule par l'encours divisé par les recettes réelles de fonctionnement et le fonds de roulement s'exprime en jours de dépenses.
+
+      Pour une entreprise, il faut calculer le taux de marge, l'autonomie financière et la capacité de remboursement qui correspond aux dettes financières divisées par la capacité d'autofinancement.
+
+   C. Interprétation des résultats et comparaisons.
+
+      L'interprétation repose sur la comparaison dans le temps sur trois à cinq exercices ou la comparaison à la strate ou au secteur.
+
+      Il faut analyser l'effet de ciseaux lorsque les dépenses augmentent plus vite que les recettes.
+
+      Pour une collectivité, un taux d'épargne brute inférieur à sept ou huit pour cent est un signal de fragilité.
+
+      Une capacité de désendettement supérieure à dix à douze ans constitue une zone d'alerte et une épargne nette négative signifie que la collectivité ne couvre plus le remboursement de sa dette par ses ressources propres de fonctionnement.
+
+   D. Conclusion et posture de conseiller de la DGFiP.
+
+      La conclusion doit présenter un diagnostic hiérarchisé en quelques phrases seulement.
+
+      Elle doit mettre en évidence les marges de manœuvre comme la maîtrise des charges de gestion, la fiscalité, les cessions, le rythme d'investissement ou le recours à l'emprunt.
+
+      Le candidat doit également identifier les risques et les points à suivre en tenant compte du contexte du fonds documentaire.
+
+      La posture adoptée doit être celle d'un conseiller qui éclaire la décision de l'ordonnateur sans jamais s'y substituer.
+
+IV. INDICATEURS ET RATIOS CLÉS PAR DOMAINE.
+
+   A. Agrégats et ratios pour les finances locales.
+
+      Les agrégats essentiels à identifier dans les documents concernent les recettes et les dépenses réelles de fonctionnement.
+
+      Il convient également de repérer l'épargne de gestion, l'épargne brute, le remboursement du capital de la dette ainsi que l'épargne nette.
+
+      L'analyse doit intégrer les dépenses d'équipement et leur mode de financement, l'encours de la dette, le fonds de roulement et la trésorerie.
+
+      Le taux d'épargne brute se calcule en divisant l'épargne brute par les recettes réelles de fonctionnement.
+
+      La capacité de désendettement correspond à l'encours de dette divisé par l'épargne brute et s'exprime en années.
+
+      Le taux d'endettement est obtenu en divisant l'encours par les recettes réelles de fonctionnement.
+
+      Le fonds de roulement doit être exprimé en jours de dépenses.
+
+   B. Agrégats et ratios pour l'analyse d'entreprise.
+
+      Les agrégats financiers à extraire pour une entreprise incluent le chiffre d'affaires, la valeur ajoutée et l'excédent brut d'exploitation.
+
+      Il faut également identifier la capacité d'autofinancement, les capitaux propres, le fonds de roulement net global, le besoin en fonds de roulement, la trésorerie nette et l'endettement.
+
+      Le taux de marge constitue l'un des ratios clés à calculer pour l'analyse de l'activité.
+
+      L'autonomie financière et la capacité de remboursement sont des indicateurs fondamentaux à déterminer.
+
+      La capacité de remboursement se calcule en divisant les dettes financières par la capacité d'autofinancement.
+
+   C. Seuils d'alerte et indicateurs de fragilité.
+
+      Pour une collectivité locale, un taux d'épargne brute inférieur à sept ou huit pour cent constitue un signal de fragilité.
+
+      Une capacité de désendettement supérieure à dix à douze ans représente une zone d'alerte pour les finances publiques.
+
+      Une épargne nette négative indique que la collectivité ne couvre plus le remboursement de sa dette par ses ressources propres de fonctionnement.
+
+      L'analyse doit surveiller l'effet de ciseaux qui survient lorsque les dépenses augmentent plus vite que les recettes.
+
+V. ERREURS CRITIQUES À NE PAS COMMETTRE.
+
+   A. Erreurs de calcul et de présentation.
+
+      L'omission de la formule de calcul avant d'indiquer le résultat est une faute de méthode.
+
+      Il est impératif de ne jamais donner un ratio sans préciser son unité de mesure.
+
+      Le candidat doit veiller à effectuer un arrondi raisonnable lors de la présentation des résultats.
+
+      La simple recopie des tableaux du fonds documentaire sans analyse constitue une erreur majeure.
+
+   B. Erreurs d'analyse et de confusion conceptuelle.
+
+      Il ne faut pas oublier de prendre en compte le sens de l'évolution des indicateurs.
+
+      La confusion entre l'épargne brute et l'épargne nette est une erreur de compréhension grave.
+
+      Le candidat doit éviter de confondre le fonds de roulement avec la trésorerie.
+
+      Une analyse qui ne compare pas les données dans le temps ou par rapport à une strate est incomplète.
+
+   C. Erreurs de gestion du temps et de contexte.
+
+      Il est risqué de consacrer trop de temps à cette partie au détriment de l'option notée sur quinze points.
+
+      Le candidat ne doit pas dépasser les cinquante minutes environ prévues pour cette section de l'épreuve.
+
+      La conclusion ne doit pas faire abstraction du contexte comme un programme d'investissement exceptionnel ou une baisse de dotation.
+
+      L'analyse doit éviter de se substituer à l'ordonnateur au lieu d'éclairer sa décision.
+
+POINTS D'ATTENTION.
+
+      Il est crucial de ne pas recopier les tableaux sans les analyser et de ne jamais donner un ratio sans sa formule ni son unité.
+
+      Le candidat doit veiller à ne pas confondre l'épargne brute avec l'épargne nette, ni le fonds de roulement avec la trésorerie.
+
+      L'interprétation ne doit pas ignorer le contexte du fonds documentaire, comme une baisse ponctuelle de dotation ou un programme d'investissement exceptionnel.
+
+      La conclusion doit adopter la posture d'un conseiller qui éclaire la décision de l'ordonnateur sans s'y substituer.
+
+      Il faut éviter de dépasser le temps de cinquante minutes pour ne pas sacrifier la partie option notée sur quinze points.
+
+EXEMPLES CITÉS.
+
+      Pour une collectivité, un taux d'épargne brute inférieur à sept ou huit pour cent est considéré comme un signal de fragilité.
+
+      Une capacité de désendettement supérieure à dix à douze ans constitue une zone d'alerte pour les finances publiques.
+
+      Une épargne nette négative signifie que la collectivité ne couvre plus le remboursement de sa dette par ses ressources propres de fonctionnement.
+
+      Le calcul de la capacité de désendettement s'effectue en divisant l'encours de dette par l'épargne brute.

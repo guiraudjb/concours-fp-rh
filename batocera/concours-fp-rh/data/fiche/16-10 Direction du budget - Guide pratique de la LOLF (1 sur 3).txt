@@ -1,0 +1,315 @@
+GUIDE PRATIQUE DE LA LOI ORGANIQUE RELATIVE AUX LOIS DE FINANCES.
+
+LEXIQUE COMPLET.
+
+      La LOLF désigne la loi organique relative aux lois de finances promulguée le premier août deux mille un qui instaure de nouvelles règles d'élaboration et d'exécution du budget de l'État.
+
+      Le CGE désigne le compte général de l'État qui est établi selon un nouveau référentiel comptable inspiré des pratiques des entreprises pour offrir une vision globale du patrimoine et des engagements de l'État.
+
+      Le PAP désigne le projet annuel de performances qui est annexé au projet de loi de finances et qui présente la stratégie, la justification des crédits, les objectifs et les indicateurs de chaque programme.
+
+      Le RAP désigne le rapport annuel de performances qui est annexé au projet de loi de règlement des comptes et qui permet de comparer la prévision et l'exécution des objectifs et des indicateurs.
+
+      Le Rprog désigne le responsable de programme qui est le maillon central de la gestion publique, garant de la mise en œuvre et de la performance de son programme à l'échelle nationale.
+
+      Le BOP désigne le budget opérationnel de programme qui est la déclinaison d'un programme sur le terrain, géré par un responsable de BOP qui dispose d'une enveloppe de moyens.
+
+      Le CBCM désigne le contrôleur budgétaire et comptable ministériel qui est placé sous l'autorité du ministre chargé du Budget et des Comptes publics pour assurer la sécurité et la fiabilité de la chaîne de la dépense.
+
+      La DGFiP désigne la direction générale des finances publiques qui est le pilote de la fonction comptable de l'État et qui assure la tutelle stratégique et financière des opérateurs de l'État.
+
+      Le CIAP désigne le comité interministériel d'audit des programmes qui est une structure d'audit interne réunissant l'expertise des inspections générales ministérielles pour auditer la qualité des programmes.
+
+      L'ETPT désigne l'équivalent temps plein travaillé qui est l'unité utilisée pour exprimer les plafonds d'emplois répartis dans chacun des programmes.
+
+COURS DÉTAILLÉ.
+
+I. ENJEUX ET FONDAMENTAUX DE LA RÉFORME.
+
+   A. Genèse et contexte de la LOLF.
+
+      La LOLF a été promulguée le premier août deux mille un après quatre années de travaux pour sa mise en œuvre pratique. Elle a remplacé l'ordonnance organique du deux janvier mille neuf cent cinquante-neuf qui régissait les compétences du Gouvernement et du Parlement.
+
+      La réflexion autour de l'efficacité de la dépense publique a débuté à la fin des années mille neuf cent quatre-vingt-dix au Parlement. Alain Lambert et Didier Migaud ont été les principaux acteurs de ce travail parlementaire.
+
+      Le texte a été discuté entre le sept février et le vingt-huit juin deux mille un avant d'être validé par le Conseil constitutionnel le vingt-cinq juillet deux mille un. La loi est entrée pleinement en application le premier janvier deux mille six.
+
+      La réforme s'inscrit dans un contexte de modernisation de la gestion publique et de réforme des pays de l'OCDE. Elle a été renforcée par la révision constitutionnelle du vingt-trois juillet deux mille huit qui institue les lois de programmation des finances publiques.
+
+   B. Passage d'une logique de moyens à une logique de résultats.
+
+      La LOLF permet de passer d'une logique de moyens affectés à une administration à une logique de résultats par politique publique. L'action de l'État est désormais évaluée de manière systématique à travers des objectifs et des indicateurs.
+
+      Le budget est structuré autour de missions qui correspondent aux grandes politiques de l'État. Chaque mission regroupe des programmes qui constituent l'unité de l'autorisation parlementaire.
+
+      Le responsable de programme est le maillon central de cette nouvelle gestion publique. Il dispose d'une enveloppe de crédits globale et d'une autonomie pour affecter les moyens afin de remplir ses objectifs.
+
+      La performance s'appuie sur une chaîne de responsabilité où les objectifs sont déclinés en actions. Les responsables de budget opérationnel de programme assurent la gestion opérationnelle sur le terrain.
+
+      Trois types d'objectifs expriment les priorités stratégiques de chaque programme. Ils concernent l'efficacité socio-économique pour le citoyen, la qualité du service rendu à l'usager et l'efficience de la gestion des moyens.
+
+   C. Nouveaux principes de lisibilité et de transparence.
+
+      Le budget est présenté par politiques publiques plutôt que par nature de dépenses. Cette présentation par destination permet au Parlement et au citoyen d'apprécier la totalité des moyens déployés pour chaque mission.
+
+      La LOLF prévoit une double présentation des crédits par destination et par nature de dépenses. Le responsable de programme peut modifier la répartition des crédits entre les actions par le principe de fongibilité.
+
+      Une attention particulière est portée aux dépenses de personnel qui sont plafonnées par le principe de fongibilité asymétrique. Les effectifs sont également limités par ministère en EPTT.
+
+      La transparence est renforcée par la justification au premier euro qui explique les crédits demandés selon des déterminants physiques et financiers. Les administrations doivent justifier chaque euro dépensé dès le projet annuel de performances.
+
+      Les documents budgétaires sont enrichis pour éclairer le Parlement. Depuis le PLF deux mille dix, ils incluent une étude d'impact par article pour chiffrer l'incidence budgétaire de chaque disposition.
+
+II. ARCHITECTURE ET STRUCTURE DU BUDGET DE L'ÉTAT.
+
+   A. Découpage par missions, programmes et actions.
+
+      L'architecture du budget de l'État repose sur trois niveaux structurels qui sont les missions, les programmes et les actions.
+
+      Les missions correspondent aux grandes politiques de l'État et peuvent être d'origine ministérielle ou interministérielle. Le Parlement vote le budget par mission, laquelle regroupe plusieurs programmes.
+
+      Le programme constitue l'unité de l'autorisation parlementaire et représente une enveloppe globale et limitative de crédits. Il relève d'un seul ministère et est confié à un responsable de programme.
+
+      Les actions permettent de préciser la destination prévue des crédits au sein d'un programme. Elles constituent un découpage indicatif qui apporte des précisions sur l'utilisation des fonds.
+
+   B. Double présentation des crédits par destination et par nature.
+
+      La LOLF prévoit une double présentation des crédits de chaque programme afin d'identifier au mieux l'utilisation des fonds publics.
+
+      La première présentation se fait par destination, aussi appelée par actions, ce qui permet de comprendre la politique publique concernée. Cette répartition est indicative et le responsable de programme peut la modifier.
+
+      La seconde présentation s'effectue par nature de dépenses selon l'article cinq de la LOLF. Elle classe les charges par titres, comme le titre deux pour les dépenses de personnel ou le titre six pour les dépenses d'intervention.
+
+      Cette approche symétrique permet de croiser les informations pour offrir une vision précise de la dépense. Elle aide le Parlement et le citoyen à apprécier la totalité des moyens déployés.
+
+   C. Principes de fongibilité et gestion des effectifs.
+
+      Le responsable de programme dispose d'une autonomie de gestion grâce au principe de fongibilité. Il peut modifier la répartition des crédits entre les actions ou entre les titres d'un même programme.
+
+      Une attention particulière est portée aux dépenses de personnel qui sont soumises à une fongibilité asymétrique. Ces dépenses sont plafonnées et ne peuvent pas être augmentées par le responsable de programme.
+
+      La loi de finances fixe également un nombre maximum d'emplois par ministère exprimé en ETPT. Ces plafonds d'emplois font l'objet d'un vote unique et sont répartis de manière indicative dans les programmes.
+
+      Depuis deux mille neuf, les opérateurs de l'État sont également soumis à ce plafond des autorisations d'emplois conformément à l'article soixante-quatre de la LFI deux mille huit.
+
+III. LA DÉMARCHE DE PERFORMANCE ET LE CHAÎNAGE VERTUEUX.
+
+   A. Justification des dépenses au premier euro.
+
+      La LOLF abolit la notion de services votés qui consistait en des dépenses reconduites automatiquement d'une année sur l'autre.
+
+      Les administrations doivent désormais expliquer dans leur projet annuel de performances comment elles prévoient utiliser les crédits et les personnels dès le premier euro dépensé.
+
+      Cette approche en base zéro repose sur une justification au premier euro qui utilise des déterminants physiques comme le nombre d'usagers ou des déterminants financiers comme les coûts unitaires.
+
+      Pour le programme enseignement scolaire du premier degré, la justification peut porter sur le nombre d'élèves par enseignant.
+
+      Dans le cas du réseau routier national, les dépenses sont justifiées par le nombre de kilomètres de routes entretenus ou construits.
+
+      Cette méthode impose un dialogue enrichi entre les gestionnaires et leurs tutelles sur les besoins budgétaires de l'année.
+
+   B. Objectifs de performance et indicateurs.
+
+      Chaque programme est associé à une stratégie, des objectifs et des indicateurs de performance quantifiés.
+
+      Ces éléments sont présentés dans les projets annuels de performances annexés au projet de loi de finances.
+
+      La performance peut s'exprimer par trois types d'objectifs qui sont l'efficacité socio-économique pour le citoyen, la qualité du service pour l'usager et l'efficience pour le contribuable.
+
+      Par exemple, le programme formations supérieures aux besoins professionnels peut viser un taux d'insertion des jeunes diplômés trois ans après leur sortie de formation.
+
+      Le programme police nationale ou gendarmerie nationale peut avoir pour objectif de renforcer l'efficacité dans la lutte contre l'insécurité avec un indicateur sur le nombre d'accidents.
+
+      La pertinence et la fiabilité de ces indicateurs sont auditées par le CIAP et par la Cour des comptes.
+
+   C. Le cycle de la performance entre PAP et RAP.
+
+      Le cycle de la performance repose sur le principe du chaînage vertueux inscrit à l'article quarante et un de la LOLF.
+
+      Les projets annuels de performances sont annexés au projet de loi de finances d'octobre de l'année n-un pour présenter la stratégie et les cibles à atteindre.
+
+      Les rapports annuels de performances sont les pendants des PAP et sont annexés au projet de loi de règlement de juin de l'année n+un.
+
+      Les RAP permettent de comparer la prévision et l'exécution en analysant les réalisations effectives au regard des indicateurs de performance.
+
+      L'analyse des RAP doit permettre de contrôler l'exécution de l'année n-un et de nourrir le débat d'orientation des finances publiques de l'année n+un.
+
+      Ce processus crée un véritable cycle de la performance qui lie les discussions de la loi de règlement et du projet de loi de finances.
+
+IV. LA MODERNISATION DE LA COMPTABILITÉ PUBLIQUE.
+
+   A. Le compte général de l'État et l'approche patrimoniale.
+
+      La LOLF a introduit une réforme majeure des comptes en instaurant un nouveau référentiel comptable inspiré de la pratique des entreprises.
+
+      Le compte général de l'État, ou CGE, complète la vision budgétaire en offrant une approche patrimoniale qui recense et valorise ce que l'État contrôle comme les immeubles ou les stocks.
+
+      Cette approche permet de mieux évaluer l'actif et le passif de l'État en intégrant des notions de provisions et de charges à payer.
+
+      Le CGE améliore la gouvernance en responsabilisant les gestionnaires sur les coûts et les risques associés à leurs actions à moyen terme.
+
+      Ce nouveau cadre comptable constitue un instrument essentiel de pilotage opérationnel qui favorise une gestion plus performante de l'action publique.
+
+   B. Les états financiers et la vision comptable élargie.
+
+      Le CGE est composé de quatre états financiers distincts qui sont le bilan, le compte de résultat, le tableau des flux de trésorerie et l'annexe.
+
+      Le bilan de l'État présente la situation nette en faisant la différence entre l'actif, qui recense le patrimoine, et le passif, qui valorise les engagements envers des tiers.
+
+      Le compte de résultat est constitué de trois tableaux qui présentent la totalité des charges et des produits de l'exercice comptable.
+
+      Le tableau des flux de trésorerie classe les entrées et les sorties de fonds en trois catégories liées à l'activité, à l'investissement ou au financement.
+
+      L'annexe fournit des informations complémentaires indispensables comme l'explicitation et le chiffrage des engagements hors bilan.
+
+      Ces états financiers sont essentiels pour l'examen du projet de loi de règlement des comptes et du rapport de gestion.
+
+   C. La certification des comptes par la Cour des comptes.
+
+      La Cour des comptes assure une mission d'audit externe en formulant une opinion sur la conformité des comptes à un référentiel comptable.
+
+      Cette mission de certification, inscrite dans la Constitution depuis la révision du vingt-trois juillet deux mille huit, porte sur la régularité, la sincérité et la fidélité des comptes.
+
+      La certification permet de donner au Parlement et aux ministères l'assurance de disposer d'une comptabilité générale fiabilisée.
+
+      La Cour des comptes est le juge des comptes de l'État et de la bonne exécution de la dépense publique.
+
+      Le premier exercice de certification des comptes de l'État a eu lieu pour les comptes de l'année deux mille six.
+
+V. LES ACTEURS DE LA GOUVERNANCE BUDGÉTAIRE.
+
+   A. La chaîne de responsabilité des gestionnaires et responsables de programme.
+
+      La gestion publique s'appuie sur une chaîne de responsabilité qui garantit un engagement sur la performance à tous les niveaux de la gouvernance budgétaire.
+
+      Le responsable de programme est le maillon central de la nouvelle gestion publique, situé à la charnière entre la responsabilité politique et la responsabilité de gestion.
+
+      Placé sous l'autorité du ministre, le responsable de programme participe à l'élaboration des objectifs stratégiques et est le garant de la mise en œuvre opérationnelle de son programme.
+
+      Il dispose d'une enveloppe de crédits globale et d'une large autonomie pour choisir comment affecter les moyens financiers et humains afin de remplir ses objectifs.
+
+      Le responsable de programme délègue la gestion en constituant des budgets opérationnels de programme, appelés BOP, placés sous l'autorité de responsables identifiés.
+
+      Le responsable de BOP gère une enveloppe globale de moyens et répartit les crédits entre les différentes unités opérationnelles qui mettent en œuvre les activités définies.
+
+   B. Le rôle renforcé des directeurs financiers et des contrôleurs ministériels.
+
+      Au sein de chaque ministère, le directeur des affaires financières, ou DAF, prépare les décisions et arbitrages budgétaires en lien avec les responsables de programme.
+
+      Le DAF définit un cadre pour les doctrines ministérielles de gestion et pilote l'analyse des coûts tout en coordonnant les comptes rendus d'exécution.
+
+      Le contrôleur budgétaire et comptable ministériel, ou CBCM, est placé sous l'autorité du ministre chargé du Budget et des Comptes publics.
+
+      Le CBCM assure une mission de contrôle budgétaire par le visa de la programmation budgétaire initiale et le suivi de l'exécution budgétaire au sein du ministère.
+
+      En qualité de comptable public, le CBCM est assignataire des ordres de dépenses et de recettes et s'assure de la sincérité des enregistrements comptables.
+
+      Le service de contrôle budgétaire et comptable ministériel mobilise les synergies de ces deux départements pour analyser la situation financière et maîtriser les risques.
+
+   C. Le pilotage par la Direction du Budget et la DGFiP.
+
+      La direction du Budget définit la politique des finances publiques et de la politique budgétaire de l'État, tout en élaborant les lois de finances.
+
+      Elle coordonne les autorités chargées du contrôle financier et assure la tutelle stratégique et financière des opérateurs de l'État.
+
+      La Direction générale des finances publiques, ou DGFiP, pilote la fonction comptable de l'État et accompagne la modernisation des circuits de dépenses.
+
+      La DGFiP est un acteur clé de la mise en œuvre de la comptabilité de l'État et du processus de certification des comptes.
+
+      La direction du Budget élabore une programmation pluriannuelle des finances publiques pour répondre aux impératifs de soutenabilité des finances publiques.
+
+      La DGFiP s'efforce chaque année de fournir des documents budgétaires riches et lisibles pour permettre au Parlement de mieux apprécier la performance de l'action publique.
+
+VI. LE CONTRÔLE ET LE RÔLE DES INSTITUTIONS.
+
+   A. Les pouvoirs élargis du Parlement et le droit d'amendement.
+
+      Le Parlement dispose désormais de pouvoirs élargis qui lui permettent de se prononcer sur l'intégralité des crédits, puisque chaque mission fait l'objet d'un vote.
+
+      Les parlementaires bénéficient d'un droit d'amendement élargi qui leur permet de répartir des crédits au sein de chaque mission.
+
+      Bien que l'impossibilité d'augmenter les dépenses globales demeure, un parlementaire peut prendre l'initiative de majorer les crédits d'un programme à condition de ne pas augmenter le total de la mission.
+
+      Le Parlement dispose également d'un délai de soixante-dix jours pour examiner le projet de loi de finances conformément à l'article quarante-sept de la Constitution.
+
+      L'amélioration du contrôle parlementaire s'appuie aussi sur l'élargissement des pouvoirs d'investigation des commissions des finances selon l'article cinquante-sept de la LOLF.
+
+   B. Les missions d'assistance et de certification de la Cour des comptes.
+
+      La Cour des comptes est le juge des comptes de l'État et de la bonne exécution de la dépense publique.
+
+      Elle exerce une mission d'assistance au Parlement et au Gouvernement qui est formalisée par l'article cinquante-huit de la LOLF et l'article un-VIII de la loi organique relative aux lois de financement de la Sécurité sociale.
+
+      La Cour contribue au contrôle de l'exécution des lois de finances en transmettant des rapports relatifs aux résultats de l'exercice antérieur lors du débat d'orientation des finances publiques.
+
+      La Cour des comptes a également la mission de certification des comptes de l'État, une mission d'audit externe qui formule une opinion sur leur conformité et leur sincérité.
+
+      Cette mission de certification est inscrite dans la Constitution depuis la révision constitutionnelle du vingt-trois juillet deux mille huit.
+
+   C. L'audit des programmes par le CIAP.
+
+      Le Comité interministériel d'audit des programmes a été créé par le général Gouvernement dès le mois de novembre deux mille un.
+
+      Sa mission est d'auditer la qualité des programmes du budget de l'État au regard des principes de la LOLF, sans porter d'appréciation sur l'opportunité des choix stratégiques.
+
+      Le CIAP veille particulièrement à la pertinence du dispositif de performance, notamment sur la corrélation entre les axes stratégiques, la structuration en actions et le choix des objectifs et indicateurs.
+
+      Présidé par un inspecteur général des finances, le comité réunit dix-huit membres et un représentant de chacun des ministères budgétaires.
+
+      Depuis deux mille neuf, la démarche s'est recentrée sur le dispositif de performance en se concentrant sur la fiabilité et l'utilisation opérationnelle des objectifs et indicateurs des PAP et des RAP.
+
+VII. LE PÉRIMÈTRE ÉLARGI DE LA GESTION PUBLIQUE.
+
+   A. Le statut et le pilotage des opérateurs de l'État.
+
+      La notion d'opérateur de l'État concerne toute entité dotée de la personnalité morale qui contribue à une mission de service public, dont le financement est majoritairement assuré par l'État et qui est directement contrôlée par lui. En deux mille douze, cinq cent soixante organismes répondaient à ces critères de qualification.
+
+      Ces organismes sont intégrés dans les projets annuels de performances et doivent détailler leurs missions, les actions du programme auquel ils se rattachent, ainsi que la nature de leurs liens avec l'État. Ils présentent également leurs objectifs, leurs indicateurs et la récapitulation de leurs crédits.
+
+      Le pilotage des opérateurs a été renforcé par la circulaire du Premier ministre du vingt-six mars deux mille dix qui définit de nouvelles règles de gestion et de gouvernance. Ces règles visent à accroître la cohérence des politiques publiques par des engagements réciproques entre les tutelles et les organismes.
+
+      L'État exerce un contrôle sur les opérateurs par le biais du plafond des autorisations d'emplois qui est fixé chaque année en loi de finances depuis le premier janvier deux mille neuf. Ce plafond couvre l'ensemble des emplois de l'opérateur, sauf pour les contrats à durée limitée financés par des ressources propres.
+
+      Le financement des opérateurs peut passer par des taxes affectées, mais le système de plafonnement introduit par la loi de finances pour deux mille douze permet de mieux maîtriser la dépense publique. Ce dispositif prévoit de reverser automatiquement le surplus éventuel au budget général.
+
+   B. L'encadrement des dépenses fiscales.
+
+      Les dépenses fiscales, aussi appelées niches fiscales, regroupent l'ensemble des positions dérogatoires à la norme fiscale qui entraînent une perte de recettes pour l'État, comme les exonérations ou les crédits d'impôt. Leur coût était estimé à environ soixante-cinq virgule neuf milliards d'euros pour l'année deux mille douze.
+
+      La loi de programmation des finances publiques de deux mille neuf a instauré la règle de gage prévue à l'article onze, qui impose que les réductions et suppressions de dépenses fiscales compensent au moins les augmentations adoptées sur la même période.
+
+      Un encadrement éclairé du coût est assuré par l'évaluation systématique des dispositifs, puisque toute nouvelle dépense fiscale doit être évaluée dans les trois ans suivant sa création. Les dépenses déjà existantes devaient être évaluées au plus tard le trente juin deux mille onze.
+
+      La présentation des dépenses fiscales dans les documents budgétaires suit une double entrée avec une approche sectorielle et une approche synthétique en annexe. Cette annexe regroupe les dépenses par nature d'impôt, par mission et par type de bénéficiaires.
+
+   C. La programmation pluriannuelle des finances publiques.
+
+      Le rôle de la direction du Budget a évolué vers la maîtrise des dépenses à travers l'élaboration d'une programmation pluriannuelle des finances publiques. Cette démarche intègre l'ensemble des administrations publiques pour une vision consolidée.
+
+      Cette programmation pluriannuelle s'appuie sur les lois de programmation des finances publiques qui portent sur une période de quatre années. La réforme constitutionnelle de deux mille huit a notamment institué ces lois en vertu de l'article trente-quatre de la Constitution.
+
+      La mise en œuvre de ce budget pluriannuel est liée à la nécessité de garantir la soutenabilité des finances publiques. Elle permet d'intégrer des réformes structurelles et de mieux piloter les dépenses fiscales au sein de la sphère publique.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre la logique de moyens qui prévalait avant la LOLF avec la nouvelle logique de résultats par politique publique.
+
+      Une confusion fréquente réside dans la distinction entre la fongibilité et la fongibilité asymétrique qui s'applique spécifiquement aux dépenses de personnel.
+
+      Il est important de nuancer le rôle du Parlement qui ne peut pas augmenter les dépenses totales d'une mission mais peut réallouer des crédits entre programmes.
+
+      La distinction entre la comptabilité budgétaire qui suit les flux de caisse et la comptabilité générale qui analyse le patrimoine est essentielle.
+
+      Le rôle de la Cour des comptes doit être distingué de celui du CIAP car la première certifie les comptes tandis que le second audite la qualité des programmes.
+
+EXEMPLES CITÉS.
+
+      Le budget de l'État en deux mille douze présente une mission de recherche et enseignement supérieur qui représente douze virgule sept pour cent des dépenses.
+
+      La mission Sécurité constitue quatre virgule six pour cent des principales missions du budget général de l'État en deux mille douze.
+
+      Le coût des dépenses fiscales est estimé à environ soixante-cinq virgule neuf milliards d'euros pour l'année deux mille douze.
+
+      Le programme Enseignement scolaire du premier degré utilise le nombre d'élèves par enseignant comme indicateur de performance.
+
+      En deux mille onze, le CIAP a réalisé des audits sur dix-neuf programmes représentant quatre-vingt-trois objectifs et cent soixante-quinze indicateurs.

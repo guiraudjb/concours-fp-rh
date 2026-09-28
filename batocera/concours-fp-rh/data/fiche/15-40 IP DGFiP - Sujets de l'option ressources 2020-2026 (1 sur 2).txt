@@ -1,0 +1,257 @@
+SYNTHÈSE DES THÉMATIQUES DE GESTION DES RESSOURCES HUMAINES ET DE L'ORGANISATION IMMOBILIÈRE À LA DGFIP.
+
+LEXIQUE COMPLET.
+
+      La DDFiP désigne la Direction départementale des Finances publiques qui est l'administration locale de la DGFiP.
+
+      Le SIE désigne le Service des impôts des particuliers ou le Service des impôts des entreprises selon le contexte de l'affectation.
+
+      Le SGC désigne le Service de gestion comptable qui regroupe les activités de comptabilité pour des secteurs comme l'hospitalier ou les collectivités locales.
+
+      Le SIP désigne le Service des impôts des particuliers qui est une structure de proximité pour la gestion de la fiscalité.
+
+      Le PRS désigne le Pôle de recouvrement spécialisé qui est une structure de la direction.
+
+      Le PCE désigne le Pôle de contrôle et d'expertise qui regroupe des agents de catégories A et B.
+
+      Le PCRP désigne le Pôle de contrôle des revenus et du patrimoine.
+
+      Le TBVS désigne le Tableau de bord de veille sociale qui permet de suivre les indicateurs de conditions de vie au travail comme le taux de rotation ou les congés maladie.
+
+      Le NRP désigne le Nouveau Réseau de Proximité qui correspond à la nouvelle organisation des services de la direction.
+
+      Le SAGERFIP désigne l'outil de gestion des effectifs en équivalent temps plein pour les différentes activités des services.
+
+      Le SUB désigne la surface utile brute qui est une mesure utilisée pour le ratio d'occupation des immeubles.
+
+      Le SUN désigne la surface utile nette qui est utilisée pour l'optimisation des surfaces immobilières.
+
+COURS DÉTAILLÉ.
+
+I. GESTION DES MOUVEMENTS ET DES CARRIÈRES DES AGENTS.
+
+   A. Règles de mutation locale et priorités (handicap, rapprochement familial, réorganisation).
+
+      La priorité pour handicap concerne l'agent lui-même ou un enfant de l'agent détenteur d'une carte d'invalidité ou d'une CMI avec mention invalidité. Elle s'exerce sur la commune du fait générateur ou la plus proche comportant des services, et permet une affectation même en l'absence de vacance de poste ou en surnombre.
+
+      En cas de surnombre suite à une priorité handicap, l'agent est nommé ALD local. Le choix du service est décidé par le directeur local selon les besoins de l'agent et les possibilités d'affectation.
+
+      La priorité pour rapprochement familial s'applique aux agents souhaitant se rapprocher de leur conjoint, partenaire de PACS, concubin, enfant en cas de divorce ou de séparation, ou un soutien de famille. Elle donne droit à une priorité d'affectation sur les services de la commune du fait générateur.
+
+      Les priorités en cas de réorganisation sont hiérarchisées en six niveaux. Le niveau un permet aux agents du périmètre de suivre leur emploi et leurs missions, tandis que les niveaux suivants concernent le maintien dans le service d'origine ou la recherche d'un emploi de même nature.
+
+   B. Gestion des agents ALD et des promotions.
+
+      Les agents ALD ayant été affectés sur des emplois vacants de leur catégorie peuvent demander à être affectés sur le poste qu'ils occupent sans qu'un délai de séjour ne leur soit opposé. Cette régularisation est possible uniquement lors de la mise en place du nouveau dispositif d'affectation locale au premier septembre deux mille dix-neuf.
+
+      En cas de concurrence avec d'autres demandes, l'agent ALD est régularisé s'il reste un emploi vacant après satisfaction des agents impactés par une réorganisation ou une suppression d'emploi. Les agents ALD qui ne sont pas concernés par le dispositif de régularisation incluent les agents détachés localement.
+
+      Les agents peuvent être promus par liste d'aptitude de la catégorie C vers la catégorie B. Le mouvement des internes permet également de prendre en compte les lauréats de concours internes spéciaux comme le concours interne spécial de contrôleur.
+
+   C. Mécanismes de départage des vœux et ancienneté administrative.
+
+      Le mouvement des internes est classé avant celui des entrants. Au sein de chaque mouvement, les vœux sont départagés selon les priorités puis l'ancienneté administrative.
+
+      L'ancienneté administrative est le critère de principe de classement et est connue au trente et un/douze de l'année précédant le mouvement. Elle est constituée par le grade, l'échelon, la date de prise de rang et le numéro d'ancienneté.
+
+      Pour les catégories B et C, l'ancienneté est pondérée par un interclassement intégral des grades en fonction du nouvel indice majoré. Des dérogations à ce principe peuvent exister pour l'intérêt du service ou la situation de l'agent, sous réserve de motivation et de débat en CAPL.
+
+      La priorité pour handicap s'applique sans distinction de la qualité du demandeur, qu'il soit interne ou entrant. Les vœux exprimés pour rapprochement familial sont classés après ceux des détenteurs des priorités de réorganisation ou de suppression d'emploi.
+
+II. PILOTAGE DE LA QUALITÉ DE VIE AU TRAVAIL ET VEILLE SOCIALE.
+
+   A. Analyse des indicateurs du Tableau de Bord de Veille Sociale (TBVS).
+
+      Le TBVS est un outil de pilotage qui permet de mesurer les indicateurs socles et complémentaires au sein des services de la DGFiP. Pour les indicateurs socles, un ratio proche de un signifie que le résultat est proche de la moyenne de la DGFiP.
+
+      Plus le ratio s'éloigne de un, plus le résultat est considéré comme dégradé ou positif par rapport à la moyenne nationale. Dans la DDFiP de Haute-Marée, l'analyse s'appuie sur les données de l'année deux mille vingt et un et les indicateurs complémentaires comme l'ancienneté ou le taux de recours à l'entretien professionnel.
+
+      Les indicateurs complémentaires incluent également le nombre de demandes de mutation déposées et non satisfaites au niveau local. Un taux élevé de demandes non satisfaites peut engendrer un sentiment de mal-être chez les agents concernés.
+
+      Le taux de recours à l'entretien professionnel au niveau local concerne spécifiquement les recours devant la CAPL et non devant l'autorité hiérarchique de premier niveau.
+
+   B. Indicateurs de santé et de climat social (maladie, rotation, télétravail).
+
+      Le nombre de périodes de congés maladie de courte durée inférieure ou égale à cinq jours est un indicateur utilisé pour le dépistage des risques psychosociaux. Une multiplication de ces périodes peut être significative d'une dégradation des conditions de vie au travail.
+
+      Le taux de rotation des agents, ou turn-over, est un indicateur de malaise social lorsqu'il est élevé, impactant l'organisation et le savoir-faire. À l'inverse, un changement de personnel peut être une source de dynamisme pour la structure.
+
+      Le taux de télétravailleurs est un indicateur de veille sociale qui peut varier selon les services et les années. Dans le SGC de Garonne-et-Ouest, ce taux est passé de cinquante-sept virgule soixante et onze pour cent en deux mille vingt et un à soixante et onze virgule soixante pour cent en deux mille vingt-trois.
+
+      L'alimentation des CET peut révéler des dysfonctionnements ou une surcharge de travail susceptible d'occasionner des risques psychosociaux sur la durée. Le nombre de jours de congés annuels et ou ARTT mis en compte épargne temps est ainsi suivi.
+
+      L'indicateur relatif aux écrêtements des horaires variables permet de recenser le nombre d'écrêtements enregistrés par service. L'écrêtage est réalisé automatiquement le premier jour de chaque mois pour ramener le compteur à une valeur ne dépassant pas douze heures.
+
+   C. Mise en œuvre de plans d'actions et dialogue social.
+
+      L'élaboration d'un plan d'actions vise à améliorer les indicateurs les plus dégradés identifiés lors de l'analyse du TBVS. Ce travail est réalisé en lien avec les représentants du personnel associés aux travaux sur les conditions de vie au travail.
+
+      Le dialogue social s'exprime notamment à travers le Comité Technique Local qui peut évoquer les points saillants du tableau de bord. La mission conditions de vie au travail est composée de cadres A et B spécialisés en prévention, déontologie et handicap.
+
+      Les actions peuvent porter sur la prévention des risques avec l'animation de réunions sur le DUERP par les assistants de prévention. Le suivi des dossiers d'accidents de service et des relations avec les professionnels de la santé est également assuré.
+
+      Le correspondant handicap et le correspondant à l'action sociale participent à la gestion de la qualité de vie au travail. Ces acteurs contribuent à la mise en œuvre des mesures de soutien et de prévention au sein de la direction.
+
+III. DÉMARCHE ÉCORESPONSABLE ET ENGAGEMENT ECOFIP.
+
+   A. Principes et enjeux de la démarche écoresponsable.
+
+      La démarche EcoFIP s'inscrit dans une politique immobilière de l'État visant à rendre la gestion du parc immobilier plus performante et responsable.
+
+      Cette gestion active cherche à garantir une occupation des biens adaptée aux besoins pour assurer un service public de qualité au meilleur coût.
+
+      Les enjeux principaux incluent l'évolution vers un parc immobilier moins coûteux, mieux entretenu et plus adapté aux évolutions des méthodes de travail.
+
+      La démarche s'appuie sur des leviers tels que la réduction des surfaces occupées, la dématérialisation de la documentation et la rationalisation de l'archivage.
+
+      L'optimisation passe par le respect de ratios d'occupation comme le plafond de vingt m2 de SUB par poste de travail pour les immeubles existants.
+
+   B. Actions concrètes et sensibilisation des agents.
+
+      La sensibilisation des agents peut passer par l'utilisation d'outils de communication comme l'affiche EcoFIP ou les numéros spéciaux de l'Efip.
+
+      Des actions sur la gestion des archives permettent de ne conserver à proximité des services que les dossiers utiles à la gestion courante.
+
+      La rationalisation de l'archivage inclut la suppression des zones d'archives en premier jour au sein des bâtiments et la destruction annuelle des documents obsolètes.
+
+      La gestion des stocks d'imprimés peut être optimisée par la centralisation des stocks et la réduction au strict minimum des stocks intermédiaires.
+
+      Le suivi des fluides via l'outil OSF et l'utilisation des repères d'activité permettent de piloter efficacement l'occupation des espaces.
+
+   C. Gestion et don du mobilier usagé.
+
+      La gestion du mobilier usagé s'inscrit dans une volonté de se débarrasser des équipements pour les céder à d'autres administrations ou associations.
+
+      Le processus de don est encadré par un guide du donneur mis à jour le vingt-neuf janvier deux mille vingt et un pour les biens mobiliers du Domaine.
+
+      Cette démarche permet de valoriser les ressources tout en s'inscrivant dans une dynamique de gestion responsable du patrimoine de l'État.
+
+IV. STRATÉGIE IMMOBILIÈRE ET GESTION DES ESPACES.
+
+   A. Optimisation des surfaces et réduction des coûts d'occupation.
+
+      La politique immobilière de l'État vise une gestion plus performante et responsable en adaptant l'occupation des biens aux besoins pour un service public de qualité au meilleur coût. Cette démarche s'appuie sur la diminution des effectifs, la dématérialisation et la réduction des surfaces occupées.
+
+      L'optimisation peut passer par l'abandon de locations trop grandes pour une nouvelle prise à bail mieux adaptée ou par la cession d'un immeuble domanial. Les opérations doivent présenter un intérêt économique où les coûts engagés sont rapidement amortis.
+
+      Le ratio SUB par poste de travail est un indicateur clé pour mesurer l'optimisation des surfaces. Le plafond est fixé à vingt m2 pour les immeubles existants et les zones où le marché n'est pas tendu, tandis qu'il est de dix-huit m2 pour les immeubles neufs ou les zones tendues.
+
+      La mutualisation des espaces supports comme les salles de réunion, de formation ou de détente est préconisée. Il est également conseillé d'exploiter les zones bénéficiant d'un éclairage naturel pour les postes de travail et de réserver les zones moins éclairées aux dossiers et espaces supports.
+
+      Le coût d'occupation domaniale hors charges remplace les loyers budgétaires depuis deux mille dix-neuf. Les utilisateurs doivent s'engager à améliorer la performance immobilière et à diminuer leur ratio d'occupation.
+
+   B. Gestion des archives et des stocks d'imprimés.
+
+      La rationalisation de l'archivage est un préalable nécessaire à toute optimisation des espaces. Il est conseillé de ne conserver à proximité des services que les dossiers utiles et de stocker les autres en sous-sol ou sur d'autres sites.
+
+      La désignation d'un référent départemental archivage permet d'organiser les opérations annuelles et de suivre la réglementation. Ce référent est l'interlocuteur des Archives départementales pour le recensement des opérations par type de documents.
+
+      La gestion des stocks d'imprimés doit être centralisée au maximum pour assurer une gestion unique par site. Il est recommandé de disposer d'un local fermé à clef et de désigner un responsable AGIM par site pour le suivi des approvisionnements.
+
+      La suppression des imprimés existant sous forme dématérialisée doit être effectuée pour limiter les commandes. Il convient également de réaliser un inventaire régulier et de pilonner les imprimés caducs.
+
+   C. Règles de sécurité et procédures de réhabilitation des bâtiments.
+
+      Les projets de réhabilitation doivent tenir compte des contraintes ergonomiques et peuvent nécessiter le recours à un aménageur d'espace spécialisé. Les travaux de second œuvre incluent la réaffectation des espaces, le décloisonnement et la redistribution de la connectique.
+
+      La gestion des risques liés aux matériaux est essentielle, notamment avec la consultation de documents comme le dépliant amiante de juin deux mille vingt-deux. Les points d'attention lors des travaux immobiliers doivent être rigoureusement suivis.
+
+      La nouvelle doctrine d'occupation des immeubles tertiaires de l'État, issue de la circulaire de la Première Ministre du huit février deux mille vingt-trois, définit les règles de gestion des espaces. Cette doctrine s'inscrit dans une volonté de rationalisation du parc immobilier.
+
+      Lors de la conclusion d'une convention d'utilisation dans une cité administrative, l'utilisateur assume la responsabilité des contrôles réglementaires des parties privatives. L'entretien courant et les petites réparations sont à la charge de l'utilisateur.
+
+V. ORGANISATION TERRITORIALE ET NOUVEAUX RÉSEAUX DE PROXIMITÉ.
+
+   A. Mise en place des Services de Gestion Comptable (SGC).
+
+      Le Nouveau Réseau de Proximité s'appuie sur la création de structures comme le SGC de Jupiter, installé le premier janvier deux mille vingt et un par le regroupement des activités SPL des trésoreries spécialisées de Jupiter et d'Uranus.
+
+      Le SGC de Mont Merveilleux est issu de la fusion de trois trésoreries, à savoir Mont Merveilleux, La Roche Noire et La Mer Verte, avec un déploiement définitif prévu le un janvier deux mille vingt-trois.
+
+      Le SGC de Oise regroupe sur un site unique dix-neuf agents, tandis que le SGC de Garonne-et-Ouest gère le secteur hospitalier et les collectivités locales avec des effectifs variant entre deux mille vingt et un et deux mille vingt-trois.
+
+      Le SGC de Seine-et-Oise présente des effectifs en ETP qui ont évolué de dix virgule neuf en deux mille vingt et un à huit virgule deux en deux mille vingt-trois, tandis que le SGC de Rhin-et-Est affiche treize virgule deux ETP pour l'année deux mille vingt-trois.
+
+   B. Impact des restructurations sur les emplois et les primes.
+
+      La fusion des trésoreries pour le SGC de Mont Merveilleux mobilise douze emplois transférés en catégorie B et six emplois en catégorie C pour La Mer Verte.
+
+      Les primes de restructuration de service sont régies par des barèmes applicables aux opérations intervenues à compter du premier janvier deux mille dix-neuf.
+
+      Pour un agent sans enfant à charge et sans changement de résidence familiale, la prime est de treize mille sept cent cinquante euros si la distance entre la résidence administrative et la résidence familiale est comprise entre dix et dix-neuf km.
+
+      Si la distance entre la résidence administrative et la résidence familiale est supérieure à cent cinquante km, la prime est de quinze mille euros sans changement de résidence et de quinze mille plus quinze mille euros avec changement de résidence.
+
+      En cas de diminution de la distance entre la résidence administrative et la résidence familiale, les montants peuvent atteindre douze mille cinq cents euros pour un agent sans enfant à charge ou quinze mille euros avec enfant à charge sans changement de résidence.
+
+   C. Accompagnement de la mobilité et de la restructuration.
+
+      Le dispositif prévoit des mesures pour les agents dont les missions changent, comme le contrôleur du SIE d'Armor chargé du recouvrement qui peut bénéficier de formations.
+
+      Le complément indemnitaire d'accompagnement est mis en œuvre selon les modalités définies par la note deux mille dix-neuf/sept/neuf mille trois cent soixante-huit du bureau RH-1A concernant les restructurations de service.
+
+      L'indemnité d'accompagnement à la mobilité fonctionnelle au sein de la fonction publique d'État est instituée par l'arrêté du vingt-trois décembre deux mille dix-neuf.
+
+      Le mouvement des agents internes et des agents entrants est encadré par des règles de priorité et d'ancienneté administrative pour garantir un mouvement équilibré.
+
+      Les agents bénéficiant d'une priorité pour rapprochement familial peuvent solliciter une affectation sur la commune du fait générateur de la priorité.
+
+VI. ATTRACTIVITÉ ET ÉGALITÉ PROFESSIONNELLE.
+
+   A. Leviers d'attractivité de la DGFiP et communication métiers.
+
+      L'attractivité de la DGFiP est une thématique centrale abordée lors du cadre d'objectifs et de moyens.
+
+      Le service des ressources humaines et le cabinet de communication du directeur général collaborent sur des réalisations comme des vidéos métiers.
+
+      Ces outils de communication visent à présenter les parcours et les missions pour attirer de nouveaux profils.
+
+      L'ENFiP mène également des enquêtes auprès des inspecteurs stagiaires, comme celle réalisée pour la promotion deux mille vingt-deux mille vingt et un.
+
+      Ces données permettent d'ajuster les stratégies de recrutement et de valoriser l'image de l'institution.
+
+   B. Enjeux de l'égalité professionnelle entre les femmes et les hommes.
+
+      L'égalité professionnelle constitue un enjeu majeur de gestion des ressources humaines au sein de la fonction publique.
+
+      Le plan interministériel pour l'égalité entre les femmes et les hommes s'étend sur la période deux mille vingt-trois-deux mille vingt-sept.
+
+      Les ministères économiques et financiers sont évalués via un index égalité professionnelle, avec des résultats publiés pour l'année deux mille vingt-deux.
+
+      La DGFiP s'inscrit dans cette dynamique à travers un plan d'actions spécifique pour la période deux mille vingt-deux mille vingt-deux.
+
+      Les enjeux concernent la sensibilisation des cadres et des chefs de service aux mesures gouvernementales successives.
+
+   C. Plan d'actions pour l'égalité et la diversité.
+
+      Le plan d'actions pour l'égalité professionnelle deux mille vingt-deux mille vingt-deux propose des perspectives de développement pour l'année deux mille vingt-quatre.
+
+      Les directions départementales doivent décliner les grandes orientations nationales par des actions innovantes et opérationnelles.
+
+      Les propositions peuvent inclure des mesures de sensibilisation pour l'ensemble du réseau départemental.
+
+      L'objectif est de transformer les orientations stratégiques en leviers concrets au niveau local.
+
+      La mise en œuvre de ces actions doit être accompagnée d'un suivi rigoureux pour assurer leur efficacité.
+
+POINTS D'ATTENTION.
+
+      Il faut distinguer le mouvement des internes de celui des entrants car les internes sont classés avant les entrants dans le mouvement local.
+
+      La priorité pour handicap est une priorité absolue qui permet une affectation même en l'absence de vacance de poste ou en surnombre.
+
+      Les priorités de réorganisation ne s'appliquent pas si l'agent participe à un mouvement local pour changer de service au sein d'une même commune.
+
+      Le ratio d'occupation pour les immeubles existants a un plafond de vingt m2 par poste de travail alors qu'il est de dix-huit m2 pour les immeubles neufs.
+
+      Le taux de rotation des agents est un indicateur de malaise social tandis que l'écrêtage des horaires variables est une procédure réglementaire automatique.
+
+EXEMPLES CITÉS.
+
+      L'agent n°trois est promu de la catégorie C en B et peut bénéficier d'une priorité pour rapprochement familial.
+
+      Le SGC de Garonne-et-Ouest présente en deux mille vingt-trois un taux de télétravailleurs de soixante et onze virgule soixante pour cent contre quarante et un virgule soixante pour cent pour le SGC de Seine-et-Oise.
+
+      La prime de restructuration de service pour un agent sans enfant à charge avec un changement de résidence familiale de trente à trente-neuf km est de sept mille cinq cents euros.
+
+      Le SGC de Rhin-et-Est affiche un taux de rotation des agents de vingt et un virgule soixante-dix-huit pour cent pour l'année deux mille vingt-deux.

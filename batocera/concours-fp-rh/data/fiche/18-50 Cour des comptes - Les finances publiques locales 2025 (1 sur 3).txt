@@ -1,0 +1,221 @@
+ANALYSE DE LA SITUATION FINANCIÈRE ET DE LA GESTION DES COLLECTIVITÉS TERRITORIALES EN deux mille vingt-quatre.
+
+LEXIQUE COMPLET.
+
+      La Cour des comptes désigne la juridiction financière qui publie le rapport sur la situation financière et la gestion des collectivités territoriales et de leurs établissements publics.
+
+      Le bloc communal désigne la catégorie regroupant les communes et les intercommunalités qui représente près de soixante pour cent des charges de fonctionnement des collectivités.
+
+      L'épargne brute désigne le solde des produits et des charges réels de fonctionnement qui constitue un indicateur clé de la santé financière des collectivités.
+
+      L'épargne nette désigne le solde de l'épargne brute après le remboursement des emprunts et qui permet de financer les dépenses d'investissement.
+
+      Le besoin de financement désigne le montant nécessaire pour couvrir les dépenses d'investissement et le remboursement des emprunts, qui s'est élevé à onze virgule quatre Md euros en deux mille vingt-quatre.
+
+      La DGF désigne la dotation globale de fonctionnement qui a été revalorisée à hauteur de trois cent vingt M euros en deux mille vingt-quatre.
+
+      La TVA désigne la taxe sur la valeur ajoutée qui est devenue la première recette de fonctionnement des départements et des intercommunalités.
+
+      Les DMTO désignent les droits de mutation à titre onéreux qui ont baissé de deux virgule deux Md euros en deux mille vingt-quatre, soit une diminution de quatorze virgule zéro pour cent.
+
+      Le ratio de désendettement désigne le nombre d'années d'épargne brute théoriquement nécessaires pour rembourser intégralement l'endettement financier.
+
+      L'article L. cent trente-deux-huit du code des juridictions financières désigne le texte législatif qui prévoit que la Cour des comptes établit chaque année un rapport sur la situation financière et la gestion des collectivités territoriales.
+
+COURS DÉTAILLÉ.
+
+I. CADRE MÉTHODOLOGIQUE ET PRÉSENTATION DU RAPPORT.
+
+   A. Principes de la Cour des comptes.
+
+      L'activité de la Cour et des chambres régionales et territoriales des comptes repose sur trois principes fondamentaux qui régissent l'exécution des contrôles et l'élaboration des rapports publics.
+
+      Le principe de l'indépendance institutionnelle des juridictions financières et l'indépendance statutaire de leurs membres garantissent que les contrôles et les conclusions sont rendus en toute liberté d'appréciation.
+
+      La contradiction impose que toutes les constatations, appréciations et recommandations soient systématiquement soumises aux responsables des organismes concernés avant d'être rendues définitives.
+
+      La collégialité intervient pour conclure les étapes de procédure, chaque contrôle étant confié à un ou plusieurs rapporteurs et délibéré par une formation comprenant au moins trois magistrats.
+
+      Sauf pour les rapports demandés par le Parlement ou le Gouvernement, la publication est précédée de la communication du projet de texte aux ministres et aux responsables directement intéressés.
+
+   B. Organisation et structure du rapport deux mille vingt-cinq.
+
+      Le rapport sur les finances publiques locales de deux mille vingt-cinq se présente sous la forme de deux fascicules distincts.
+
+      Le présent fascicule un porte sur la situation financière des collectivités territoriales et de leurs groupements pour l'année deux mille vingt-quatre.
+
+      Le second fascicule, qui sera publié à l'automne, analysera les perspectives des finances locales et la participation des collectivités au redressement des finances publiques.
+
+      Les travaux s'appuient sur la formation interjuridictions Finances publiques locales qui associe la Cour et les chambres régionales et territoriales des comptes.
+
+      Le rapport est structuré en trois chapitres, le premier traitant de la situation globale, le deuxième analysant les catégories de collectivités et le troisième apportant des éclairages sur l'outre-mer et les syndicats.
+
+   C. Méthodes de calcul et indicateurs clés.
+
+      Les analyses se fondent sur les comptes de gestion arrêtés au trente avril deux mille vingt-cinq et transmis par la direction générale des finances publiques.
+
+      Le premier indicateur est le rapport entre l'épargne brute et les produits réels de fonctionnement, avec un seuil d'alerte communément retenu de sept pour cent.
+
+      Le second indicateur est le niveau de l'épargne nette des remboursements d'emprunts, qui permet d'apprécier si l'épargne brute suffit à financer le remboursement des annuités.
+
+      Le troisième indicateur est le niveau de trésorerie, analysé par le nombre de jours de charges réelles de fonctionnement qu'il permet de couvrir, avec une zone d'alerte en dessous de un mois.
+
+      Le quatrième indicateur est le ratio de désendettement, qui mesure le nombre d'années d'épargne brute nécessaires pour rembourser l'endettement financier, avec des plafonds de référence allant de neuf à douze années selon les catégories.
+
+II. ÉTAT DES LIEUX DE LA SITUATION FINANCIÈRE GLOBALE.
+
+   A. Dynamique des produits et charges de fonctionnement.
+
+      En deux mille vingt-quatre, les produits réels de fonctionnement des collectivités se sont élevés à deux cent cinquante-huit virgule deux Md euros, affichant une progression de deux virgule sept pour cent après une hausse de trois virgule quatre pour cent en deux mille vingt-trois. Cette croissance a été principalement portée par les impôts directs sur la détention ou l'utilisation des biens fonciers, qui ont atteint cinquante-six virgule zéro Md euros, soit une hausse de cinq virgule trois pour cent.
+
+      Toutefois, cette dynamique a été freinée par la chute des droits de mutation à titre onéreux qui ont baissé de deux virgule deux Md euros en deux mille vingt-quatre, soit une diminution de quatorze virgule zéro pour cent. La taxe sur la valeur ajoutée, qui constitue une recette majeure pour les régions et les départements, est restée stable à cinquante-deux virgule un Md euros.
+
+      Les charges réelles de fonctionnement ont progressé de quatre virgule un pour cent pour atteindre deux cent vingt virgule cinq Md euros, dépassant ainsi la croissance des produits. Cette hausse est supérieure à l'inflation, avec une augmentation en volume de deux virgule un points, marquant une accélération par rapport aux exercices précédents.
+
+      Le premier poste de dépense est constitué par les charges de personnel qui s'élèvent à soixante-dix-huit virgule quatre Md euros, soit une hausse de quatre virgule huit pour cent. Cette progression s'explique par les revalorisations indiciaires nationales, l'augmentation des effectifs et le recours croissant aux agents contractuels.
+
+      Les achats de biens et services ont augmenté de six virgule trois pour cent pour atteindre cinquante et un virgule huit Md euros, portés par la persistance des effets de l'inflation sur les services extérieurs. En revanche, les dépenses d'énergie et d'eau ont connu une baisse après deux années de forte hausse.
+
+      Les dépenses d'aides à la personne et de frais d'hébergement ont progressé de cinq virgule un pour cent pour atteindre quarante virgule cinq Md euros. Ces charges, qui incombent essentiellement aux départements, reflètent la revalorisation des prestations sociales et l'augmentation du nombre de bénéficiaires.
+
+   B. Évolution de l'épargne brute et nette.
+
+      L'épargne brute des collectivités a enregistré une nouvelle baisse de quatre virgule cinq pour cent en deux mille vingt-quatre pour s'établir à trente-sept virgule sept Md euros. Ce recul est la conséquence directe d'une progression des charges de fonctionnement plus rapide que celle des produits de fonctionnement.
+
+      Le ratio de l'épargne brute rapportée aux produits de fonctionnement est de quatorze virgule six pour cent en deux mille vingt-quatre, ce qui constitue son niveau le plus faible depuis deux mille dix-neuf. Bien que ce niveau reste deux fois supérieur au seuil d'alerte de sept pour cent, il montre une érosion constante.
+
+      L'épargne nette des remboursements d'emprunts a également contracté de huit virgule neuf pour cent sur un an pour atteindre vingt virgule sept Md euros. Sur la période deux mille vingt-deux-deux mille vingt-quatre, cette épargne a reculé de vingt virgule huit pour cent en cumulé.
+
+      Les disparités entre les catégories de collectivités sont marquées, notamment pour les départements dont l'épargne nette a chuté de soixante et onze virgule quatre pour cent entre deux mille vingt-deux et deux mille vingt-quatre. Douze départements présentent désormais une épargne nette négative en deux mille vingt-quatre.
+
+      Pour le bloc communal, la situation est plus contrastée car si l'épargne des communes hors Ville de Paris augmente légèrement, le nombre de communes ayant une épargne nette négative a crû de seize virgule quatre pour cent par rapport à deux mille vingt-trois.
+
+   C. Financement de l'investissement et endettement.
+
+      Les dépenses réelles d'investissement des collectivités ont poursuivi leur croissance de six virgule huit pour cent pour atteindre soixante-dix-sept virgule quatre Md euros en deux mille vingt-quatre. Cette dynamique est alimentée par le cycle électoral municipal, les besoins de la transition écologique et l'exploitation des réseaux de transports.
+
+      L'autofinancement des investissements est en déclin, passant de soixante-seize virgule quatre pour cent en deux mille vingt-deux à soixante-quatre virgule zéro pour cent en deux mille vingt-quatre. Cette baisse est due à la contraction de l'épargne nette qui limite les ressources internes disponibles pour l'investissement.
+
+      Pour couvrir la part non autofinancée de leurs investissements, qui s'élève à vingt-sept virgule neuf Md euros, les collectivités ont puisé cinq virgule quatre Md euros dans leur trésorerie. Cette réduction de la trésorerie fait suite à une utilisation accrue du fonds de roulement.
+
+      L'endettement financier des collectivités a connu une hausse de sept virgule deux Md euros pour atteindre un encours de cent quatre-vingt-quatorze virgule cinq Md euros à la fin de l'année deux mille vingt-quatre. Ce recours accru à l'emprunt est nécessaire pour compenser la baisse de l'épargne et financer les projets d'équipement.
+
+      Le ratio de désendettement, qui mesure le nombre d'années d'épargne brute nécessaires pour rembourser la dette, s'est dégradé pour atteindre cinq virgule deux années en deux mille vingt-quatre contre quatre virgule trois années en deux mille vingt-deux. Ce niveau reste toutefois bien en dessous des seuils critiques.
+
+III. ANALYSE CONTRASTÉE PAR CATÉGORIES DE COLLECTIVITÉS.
+
+   A. La situation favorable du bloc communal.
+
+      Le bloc communal, qui regroupe les communes et les intercommunalités, bénéficie d'une situation financière toujours favorable en deux mille vingt-quatre. Cette solidité repose principalement sur la dynamique des impôts fonciers et des autres impôts territorialisés dont les bases augmentent chaque année.
+
+      Les produits de fonctionnement de cette catégorie ont connu une hausse notable, portée par la revalorisation des bases des locaux d'habitation et industriels de trois virgule neuf pour cent après sept virgule un pour cent en deux mille vingt-trois. Les communes et les intercommunalités affichent également une forte progression de leurs produits de gestion, qui représentent vingt-quatre virgule zéro Md euros pour l'ensemble des collectivités.
+
+      Malgré cette hausse des recettes, les charges de fonctionnement du bloc communal ont progressé de manière très forte avec une hausse de quatre virgule huit pour cent. Cette dynamique est particulièrement marquée pour les intercommunalités dont les charges de personnel ont augmenté de six virgule huit pour cent.
+
+      L'épargne de cette catégorie se maintient à un niveau élevé, bien que des disparités croissantes apparaissent entre les entités. Les dépenses d'investissement du bloc communal sont très dynamiques, avec une augmentation de neuf virgule trois pour cent pour les communes et de onze virgule un pour cent pour les intercommunalités.
+
+      Le recours à l'emprunt s'est accru pour soutenir cet effort d'investissement qui représente les deux tiers des dépenses totales des collectivités. L'autofinancement reste néanmoins élevé, même si la part des dépenses d'investissement autofinancées est tombée à soixante-quatre virgule zéro pour cent en deux mille vingt-quatre contre soixante-seize virgule quatre pour cent en deux mille vingt-deux.
+
+   B. La dégradation des finances des départements.
+
+      La situation financière des départements subit une dégradation marquée en deux mille vingt-quatre avec une chute de l'épargne globale. Cette érosion résulte d'un effet de ciseaux entre la chute des recettes de DMTO et la progression soutenue des charges de fonctionnement.
+
+      Les produits de fonctionnement des départements sont mal orientés, notamment à cause de la baisse des droits de mutation à titre onéreux qui ont reculé de deux virgule deux Md euros en deux mille vingt-quatre. À l'inverse, les charges de fonctionnement ont progressé de trois virgule quatre pour cent, portées par les dépenses d'aides à la personne et de frais d'hébergement.
+
+      L'épargne nette des remboursements d'emprunts des départements a été divisée par près de quatre entre deux mille vingt-deux et deux mille vingt-quatre. En deux mille vingt-quatre, les départements ont autofinancé moins de la moitié de leurs dépenses d'investissement, soit quarante-trois virgule trois pour cent contre quatre-vingt-six virgule neuf pour cent en deux mille vingt-deux.
+
+      L'endettement financier des départements est en forte hausse, ce qui contribue à la fragilité de leur situation. Un nombre significatif de départements présente des indicateurs critiques, avec trente-cinq départements dégageant une épargne brute inférieure au seuil d'alerte de sept pour cent.
+
+      La Cour souligne que la composition des recettes des départements est inadaptée à la rigidité de leurs dépenses sociales. Les recettes de DMTO sont trop cycliques et volatiles pour financer des prestations sociales qui représentent une part prépondérante de leurs charges.
+
+   C. L'érosion de la situation financière des régions.
+
+      Les régions connaissent une érosion de leur situation financière en deux mille vingt-quatre. Bien que la hausse des charges de fonctionnement soit similaire à celle des produits, elle reste inférieure à l'inflation, ce qui entraîne une diminution de l'épargne nette.
+
+      Les produits de fonctionnement des régions ont connu une légère augmentation à périmètre constant de zéro virgule cinq pour cent. La TVA, qui procure plus de la moitié de leurs produits de fonctionnement, est restée stable en deux mille vingt-quatre en raison de la conjoncture économique.
+
+      L'effort d'investissement des régions reste soutenu, notamment dans le domaine des transports, avec une hausse de six virgule six pour cent des dépenses d'investissement. Cette dynamique est portée par une augmentation de neuf virgule zéro pour cent des subventions d'équipement.
+
+      L'autofinancement des investissements par les régions est en déclin, passant de quatre-vingt-deux virgule sept pour cent en deux mille dix-neuf à soixante-huit virgule zéro pour cent en deux mille vingt-quatre. Cette baisse de la capacité d'autofinancement s'accompagne d'un recours accru à l'endettement pour couvrir les besoins.
+
+      La situation est fragilisée par une trésorerie ramenée à un faible niveau en deux mille vingt-quatre. Pour deux régions, le ratio de désendettement est préoccupant, puisqu'il faudrait plus de neuf années d'épargne brute pour rembourser l'intégralité de la dette financière.
+
+IV. ÉCLAIRAGES SUR LES COLLECTIVITÉS D'OUTRE-MER ET LES SYNDICATS.
+
+   A. Spécificités et fragilités des collectivités d'outre-mer.
+
+      La situation financière des collectivités d'outre-mer est restée stable au cours de l'année deux mille vingt-quatre.
+
+      Ces entités font toutefois face à un déséquilibre persistant entre leurs produits et leurs charges de fonctionnement.
+
+      Malgré certains progrès constatés, les situations de trésorerie demeurent encore fragiles pour un grand nombre d'entités locales.
+
+   B. Hétérogénéité des situations des syndicats.
+
+      Les syndicats de collectivités affichent des situations financières très hétérogènes selon leur activité spécifique.
+
+      Leurs produits de fonctionnement ont connu une faible progression tandis que leurs charges de fonctionnement sont restées contenues, en dépit d'une hausse de la masse salariale.
+
+      L'épargne nette de ces organismes est restée stable durant l'exercice.
+
+      Les dépenses d'investissement pour les syndicats connaissent un ralentissement, alors que leur endettement financier est en hausse.
+
+V. PERSPECTIVES ET ENJEUX DU REDRESSEMENT DES FINANCES PUBLIQUES.
+
+   A. Contribution des collectivités au déficit public.
+
+      Le besoin de financement de l'ensemble des administrations publiques s'est élevé à cent soixante-neuf virgule six Md euros en deux mille vingt-quatre, atteignant cinq virgule huit points de PIB.
+
+      Après deux années d'excédents, les collectivités territoriales et leurs groupements dégagent un besoin de financement depuis deux mille vingt-trois.
+
+      Ce besoin de financement a plus que doublé pour les collectivités en deux mille vingt-quatre, passant de cinq virgule zéro Md euros en deux mille vingt-trois à onze virgule quatre Md euros, soit zéro virgule quatre point de PIB.
+
+      Entre deux mille vingt-deux et deux mille vingt-quatre, la dégradation du solde des collectivités représente la moitié de celle du solde des administrations publiques, avec une baisse de zéro virgule cinq point de PIB.
+
+      Le besoin de financement des collectivités en deux mille vingt-quatre est le plus élevé en pourcentage du PIB depuis deux mille huit.
+
+      Cette situation est favorisée par l'absence de dispositif d'encadrement de l'évolution des dépenses de fonctionnement ou de leurs recettes.
+
+   B. Mesures de la loi de finances pour deux mille vingt-cinq.
+
+      La loi de finances pour deux mille vingt-cinq prévoit des mesures visant à faire contribuer les collectivités au redressement des finances publiques.
+
+      Ces mesures incluent une réduction des transferts financiers de l'État par le gel de la TVA et la réduction importante de dotations historiques relatives à la taxe professionnelle.
+
+      Le dispositif prévoit également la mise en œuvre d'un mécanisme pluriannuel de lissage des recettes et une hausse des cotisations à la caisse de retraite des agents des collectivités locales, la CNRACL.
+
+      Ces dispositions s'inscrivent dans la nécessité de rétablir la situation des comptes publics et d'inscrire la dette publique sur une trajectoire descendante.
+
+   C. Marge de manœuvre et libre administration.
+
+      La majorité des collectivités conserve des marges de manœuvre pour contribuer au redressement des finances publiques sans remettre en cause les services publics.
+
+      Cette participation est possible sans remettre en cause les politiques menées en application du principe constitutionnel de libre administration.
+
+      L'enjeu majeur réside dans une répartition équitable de cette contribution entre les différentes catégories de collectivités et au sein de celles-ci.
+
+      La Cour des comptes analysera la portée de ces mesures dans un second fascicule qui sera publié à l'automne deux mille vingt-cinq.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre l'épargne brute et l'épargne nette, car la première est le solde des produits et charges de fonctionnement tandis que la seconde permet de financer les investissements après remboursement des emprunts.
+
+      Une nuance importante réside dans la distinction entre les charges réelles et les dotations aux amortissements, ces dernières étant exclues du calcul des charges réelles de fonctionnement.
+
+      Il convient de ne pas généraliser la situation financière en oubliant que les départements subissent un effet de ciseaux entre des recettes cycliques comme les DMTO et des dépenses sociales très rigides.
+
+      Il faut éviter de croire que les collectivités peuvent emprunter pour financer leur fonctionnement, car contrairement à l'État, elles doivent consacrer leurs emprunts au seul financement de dépenses d'investissement.
+
+      La solidité globale des collectivités doit être nuancée par la montée des disparités, notamment le fait que le nombre de communes ayant une épargne nette négative a crû en deux mille vingt-quatre.
+
+EXEMPLES CITÉS.
+
+      En deux mille vingt-quatre, le besoin de financement des collectivités a plus que doublé pour atteindre onze virgule quatre Md euros, soit zéro virgule quatre point de PIB.
+
+      Les recettes de DMTO ont chuté de deux virgule deux Md euros en deux mille vingt-quatre, soit une baisse de quatorze virgule zéro pour cent, ce qui porte la baisse cumulée sur les deux dernières années à près d'un tiers.
+
+      L'épargne brute des collectivités s'est élevée à trente-sept virgule sept Md euros en deux mille vingt-quatre, ce qui représente quatorze virgule six pour cent de leurs produits réels de fonctionnement.
+
+      Les dépenses d'investissement des collectivités ont atteint soixante-dix-sept virgule quatre Md euros en deux mille vingt-quatre, avec une part d'autofinancement qui est tombée à soixante-quatre virgule zéro pour cent contre soixante-seize virgule quatre pour cent en deux mille vingt-deux.
+
+      Le rapport s'appuie sur l'article L. cent trente-deux-huit du code des juridictions financières pour justifier la publication annuelle de ce bilan par la Cour des comptes.

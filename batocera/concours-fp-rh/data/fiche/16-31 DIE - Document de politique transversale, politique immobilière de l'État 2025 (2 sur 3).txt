@@ -1,0 +1,215 @@
+ANALYSE DE LA POLITIQUE IMMOBILIÈRE DE L'ÉTAT ET DE LA GESTION DE SON PATRIMOINE.
+
+LEXIQUE COMPLET.
+
+      La DIE désigne la direction de l'immobilier de l'État qui assure le pilotage de la politique immobilière de l'État.
+
+      Le sigle SUB désigne la surface utile brute qui correspond à la surface effectivement occupée et entretenue.
+
+      Le terme DTA désigne le dossier technique amiante dont la tenue relève de la responsabilité de l'administration occupante pour les bâtiments dont le permis de construire a été délivré avant le premier juillet mille neuf cent quatre-vingt-dix-sept.
+
+      Le sigle CAS désigne le compte d'affectation spéciale qui porte le programme trois cent quarante-huit et les moyens budgétaires de financement interministériel de la politique immobilière de l'État.
+
+      Le sigle CNIP désigne la conférence nationale de l'immobilier public qui fixe le cadre interministériel et arrête les orientations de la politique immobilière de l'État.
+
+      Le sigle SPSI désigne le schéma pluriannuel de stratégie immobilière qui permet de définir une démarche stratégique quinquennale pour accroître la performance globale du parc immobilier.
+
+      Le sigle SDIR désigne le schéma directeur immobilier régional qui permet aux régions de réaliser leur stratégie sur la période deux mille vingt-trois-deux mille vingt-sept.
+
+      Le terme CDU désigne la convention d'utilisation qui est un dispositif juridique encadrant les relations internes entre l'État propriétaire et les administrations utilisatrices.
+
+      Le sigle RRPIE désigne le responsable régional de la politique immobilière de l'État qui joue le rôle de pilote ensemblier au niveau déconcentré.
+
+      Le sigle OSFI désigne l'outil de suivi des fluides interministériel qui est déployé pour le suivi des consommations énergétiques.
+
+COURS DÉTAILLÉ.
+
+I. PRÉSERVATION ET ÉTAT DE SANTÉ DU PATRIMOINE IMMOBILIER.
+
+   A. Indicateurs de santé du parc et niveaux de cotation.
+
+      La DIE utilise un indicateur global établi par le CEREMA qui combine plusieurs aspects techniques pour évaluer l'état de santé général des bâtiments.
+
+      Quatre niveaux de cotation sont appliqués pour qualifier le parc, allant de très satisfaisant pour un bon état à pas satisfaisant pour un état mauvais avec dégradation générale.
+
+      Le périmètre d'étude englobe les bâtiments de bureau, de logement, d'enseignement et de sport situés en France, incluant la métropole et l'outre-mer.
+
+      Le parc représenté comprend quatre-vingt-un mille neuf cent six actifs pour une superficie de près de soixante-trois millions de m² SUB, contre soixante-dix-sept mille deux cent soixante et un actifs et soixante virgule trois millions de m² SUB en deux mille vingt-trois.
+
+      Les résultats indiquent que treize pour cent du parc est dans un état très satisfaisant et vingt-cinq pour cent dans un état satisfaisant, tandis que cinquante et un pour cent des données n'ont pas été renseignées.
+
+   B. Gestion du risque d'exposition à l'amiante et outil DTA-thèque.
+
+      La DIE accompagne le déploiement de la DTA-thèque pour aider les occupants à suivre l'obligation de constituer et de mettre à jour le dossier technique amiante.
+
+      Cette obligation s'impose pour les bâtiments dont le permis de construire a été délivré avant le premier juillet mille neuf cent quatre-vingt-dix-sept et relève de la responsabilité de l'administration occupante.
+
+      La DTA-thèque vise à constituer une base de données dématérialisée et à faciliter la collecte ainsi que le suivi des mesures prises pour les publics soumis à risque.
+
+      En juin deux mille vingt-cinq, quarante-sept mille quatre cents bâtiments concernés par la réglementation ont été intégrés dans l'outil et trois mille six cents utilisateurs ont été identifiés.
+
+      La plupart des quatre cent vingt-cinq administrations concernées ont finalisé la structuration de l'outil, à l'exception de la préfecture de Région Nouvelle Aquitaine, du haut-commissariat de la Polynésie française et du ministère de l'Intérieur.
+
+   C. Financement et entretien lourd via le compte d'affectation spéciale.
+
+      Le financement de la politique immobilière de l'État est assuré par le CAS Gestion du patrimoine immobilier de l'État via le programme trois cent quarante-huit.
+
+      Les ministères et les préfectures de région disposent chacun d'un budget opérationnel de programme pour financer les dépenses d'entretien lourd et les projets éligibles.
+
+      Une forte autonomie est laissée aux échelons régionaux dans le cadre de la déconcentration, sous le cadre fixé chaque année par le directeur de l'immobilier de l'État.
+
+      L'objectif à moyen terme est de porter le niveau des dépenses d'entretien lourd des immeubles de bureaux à deux cents M euros en fonction de la trésorerie du CAS.
+
+II. RATIONALISATION ET OPTIMISATION DE LA GESTION IMMOBILIÈRE.
+
+   A. Objectifs d'efficacité et de maîtrise des dépenses.
+
+      La politique immobilière de l'État vise à fournir des locaux adaptés aux missions de service public tout en optimisant l'usage du patrimoine. Elle poursuit un triple objectif d'efficacité des services publics, de maîtrise des dépenses et de réduction de l'empreinte environnementale.
+
+      La réduction des coûts est un enjeu majeur car toute surface inutile ou inemployée génère des coûts supplémentaires. La dépense immobilière constitue en effet le deuxième poste de dépenses supports du budget de l'État.
+
+      L'État privilégie la lutte contre l'émiettement des implantations par le regroupement et la densification des services. Cette démarche de rationalisation du parc inclut également une gestion optimisée des baux.
+
+   B. Doctrine d'occupation et ratios de surface par résident.
+
+      La circulaire n° six mille trois cent quatre-vingt-douze-SG du huit février deux mille vingt-trois définit la doctrine d'occupation des immeubles tertiaires pour les services de l'État et ses établissements publics nationaux ou opérateurs. Elle favorise la transformation des espaces de travail pour s'adapter aux nouveaux usages comme le télétravail ou le mode hybride.
+
+      Cette doctrine instaure un ratio d'optimisation immobilière exprimé en m² SUB par résident. Une cible pivot maximum de seize m² SUB par résident est fixée, notamment dans les zones à marché tendu ou les services avec un télétravail important.
+
+      Un plafond maximum de dix-huit m² par résident est également établi pour l'ensemble du parc. La circulaire propose par ailleurs des indicateurs complémentaires et facultatifs pour accompagner la conception d'espaces de travail modernisés.
+
+   C. Gouvernance nationale et déconcentration régionale.
+
+      La DIE assure le pilotage de la politique immobilière en articulant son action avec les directions immobilières des ministères et les préfets de région. La gouvernance repose sur la conférence nationale de l'immobilier public, la CNIP, qui peut être présidée par le Premier ministre ou le ministre chargé du Domaine.
+
+      Au niveau déconcentré, chaque préfet de région agit en qualité de représentant de l'État propriétaire. Il est assisté par le responsable régional de la politique immobilière de l'État, le RRPIE, placé auprès du directeur régional des finances publiques.
+
+      La gouvernance régionale s'appuie sur la conférence régionale de l'immobilier public, la CRIP, présidée par le préfet de région. Les préfets de département relayent cette action à leur échelle en mettant en œuvre la stratégie arrêtée par le préfet de région.
+
+III. PILOTAGE ET ACCOMPAGNEMENT DE LA POLITIQUE IMMOBILIÈRE.
+
+   A. Structures de gouvernance et rôles des instances.
+
+      La DIE assure le pilotage de la politique immobilière en articulant son action avec les directions immobilières des ministères et les préfets de région. La gouvernance repose sur une instance unique, la CNIP, qui peut être présidée par le Premier ministre ou par le ministre chargé du Domaine.
+
+      Au niveau déconcentré, chaque préfet de région est assisté par le RRPIE, placé auprès du directeur régional des finances publiques, pour piloter la politique immobilière locale. La gouvernance régionale s'appuie sur la CRIP, qui est présidée par le préfet de région.
+
+      Le Conseil de l'immobilier de l'État est un organe consultatif placé auprès du Parlementaires et personnalités qualifiées, conformément à l'article D. quatre mille deux cent onze-un du code de la propriété des personnes publiques. Il est présidé par le général de la propriété chargé du secrétariat général du conseil.
+
+      La CIME est une commission interministérielle pour les opérations immobilières de l'État à l'étranger, régie par les articles D. mille deux cent vingt et un-trois à D. mille deux cent vingt et un-six du CG3P. Elle est présidée par Cyrille Pierre et regroupe des représentants de plusieurs directions comme le Trésor ou la DIE.
+
+      Les conférences immobilières se tiennent au printemps avec chaque ministère pour assurer une vision d'ensemble de l'architecture de financement de la dépense immobilière. Elles permettent d'étudier la programmation immobilière consolidée et l'enjeu de l'entretien lourd des immeubles.
+
+   B. Schémas pluriannuels de stratégie immobilière (SPSI et SDIR).
+
+      L'accompagnement de la politique immobilière passe par la formalisation de stratégies dans les SPSI pour les ministères et les opérateurs, et dans les SDIR pour les services déconcentrés. Ces schémas partent d'un diagnostic du parc pour définir le devenir des actifs et la stratégie d'intervention.
+
+      Les cadres méthodologiques des SDIR ont été mis à jour en juin deux mille vingt-deux pour permettre la réalisation de schémas de seconde génération sur la période deux mille vingt-trois-deux mille vingt-sept. Le périmètre étudié dans les SDIR est en hausse avec quarante-quatre mille biens représentant dix-sept virgule trois millions de m² SUB.
+
+      Les SPSI ministériels ont été actualisés en deux mille vingt-trois pour intégrer les évolutions de la circulaire du huit février deux mille vingt-trois relative à la nouvelle doctrine d'occupation des immeubles tertiaires. Au premier août deux mille vingt-cinq, certains ministères comme l'Économie et les Finances ont un SPSI deux mille vingt-quatre-deux mille vingt-huit validé.
+
+      Chaque opérateur a l'obligation d'établir un SPSI pour définir une démarche stratégique quinquennale visant la performance globale de son parc. Au premier août deux mille vingt-cinq, cent opérateurs sont couverts par un SPSI validé avec des recommandations et vingt-deux par un SPSI validé avec réserves.
+
+      Pour les établissements publics et de recherche, trente-sept virgule deux pour cent sont couverts par un SPSI en vigueur au titre de l'année deux mille vingt-quatre et sont validés par la DIE. Cela représente soixante-dix-neuf établissements sur un total de deux cent douze.
+
+   C. Processus de labellisation des projets immobiliers.
+
+      La labellisation est un processus mis en place depuis deux mille seize pour garantir le caractère vertueux des projets immobiliers de l'État et de ses opérateurs. Elle concerne l'immobilier de bureau, de logement et d'enseignement pour améliorer les performances techniques, énergétiques et économiques.
+
+      La procédure s'appuie sur une comparaison de scénarios alternatifs et une analyse par critères de la qualité intrinsèque du projet. La labellisation est déconcentrée avec un plafond de cinq M euros hors Île-de-France et de huit M euros en Île-de-France.
+
+      Entre deux mille seize et deux mille vingt-quatre, la labellisation a permis de s'assurer du caractère vertueux de mille trois cent soixante-quatre projets pour un montant total de sept virgule sept Md euros. En deux mille vingt-quatre, cent soixante-douze projets ont été labellisés pour un montant de mille cent quarante-six M euros.
+
+      La procédure est appelée à évoluer pour intégrer de nouveaux enjeux comme l'adaptation au changement climatique ou la gouvernance des projets. Une réflexion engagée en septembre deux mille vingt-quatre vise à renforcer l'impact de la labellisation d'ici la fin de l'année deux mille vingt-cinq.
+
+      Les projets qui ne répondent pas suffisamment aux critères ou qui manquent de maturité technique ne sont pas labellisés. Certains sont labellisés avec des recommandations ou une clause de revoyure pour approfondir des points de vigilance.
+
+IV. GESTION OPÉRATIONNELLE ET OPTIMISATION DES SURFACES.
+
+   A. Mutualisation des locaux et des services.
+
+      La mutualisation est un levier d'action privilégié pour lutter contre l'émiettement des implantations et réduire l'empreinte énergétique des bâtiments. Elle vise à regrouper les services et à mutualiser les espaces ainsi que les services communs comme l'accueil, le personnel d'entretien ou les salles de réunion.
+
+      Les programmes interministériels trois cent quarante-huit et sept cent vingt-trois constituent les supports budgétaires principaux de cette orientation. L'intervention de l'agence de gestion immobilière de l'État dans les sites multi-occupants renforce la mutualisation de la gestion immobilière.
+
+      La surface des biens multi-occupés par plusieurs services de l'État est en proportion croissante au sein du parc immobilier. La surface de toute surface multi-occupée est passée de deux millions neuf cent quatre-vingt-quinze mille huit cent dix-huit m² en deux mille quinze à quatre millions quatre cent cinquante mille cent cinq m² en deux mille vingt-quatre.
+
+      La surface des bureaux multi-occupés a également progressé, atteignant trois millions cinquante-trois mille quarante-huit m² en deux mille vingt-quatre contre un million huit cent vingt-cinq mille cinquante-deux m² en deux mille quinze. La part des surfaces multi-occupées dans le total de l'État est passée de quatre virgule six pour cent en deux mille quinze à sept virgule sept pour cent en deux mille vingt-quatre.
+
+   B. Optimisation des surfaces et nouveaux modes de travail.
+
+      La circulaire n° six mille trois cent quatre-vingt-douze-SG du huit février deux mille vingt-trois définit une doctrine d'occupation des immeubles tertiaires pour adapter les espaces aux nouveaux usages comme le télétravail ou le mode hybride. Elle instaure un ratio d'optimisation immobilière exprimé en m² SUB par résident avec une cible pivot maximum de seize m² SUB / résident et un plafond maximum de dix-huit m² / résident.
+
+      La réduction des surfaces inutiles ou inemployées est un enjeu majeur pour la maîtrise des dépenses, la dépense immobilière étant le deuxième poste de dépenses supports du budget de l'État. Les surfaces de bureaux ont baissé d'un demi-million de m² entre deux mille quinze et deux mille vingt-quatre.
+
+      L'indicateur de densification, calculé par le rapport entre la surface utile brute et le nombre de postes de travail, a atteint vingt-cinq virgule vingt-cinq m² SUB/poste en deux mille vingt-quatre. Cet indicateur, dont les objectifs sont baissiers, a augmenté par rapport aux vingt-quatre virgule cinquante-sept m² SUB/poste de deux mille dix-neuf.
+
+      La DIE analyse le respect du ratio d'occupation et des orientations d'aménagement à travers les SPSI et les SDIR. Elle utilise également la procédure de labellisation pour expertiser le respect du ratio cible par projet immobilier.
+
+   C. Cadre juridique des conventions d'utilisation et optimisation des baux.
+
+      La convention d'utilisation est un dispositif juridique encadrant les relations entre l'État propriétaire et les administrations utilisatrices conformément à l'article R deux mille trois cent treize-un du code général de la propriété des personnes publiques. Au trente et un décembre deux mille vingt-quatre, le taux de couverture des conventions d'utilisation pour les biens situés en France est de quatre-vingt-dix-neuf pour cent.
+
+      L'optimisation des baux privés vise à améliorer les conditions locatives et à valoriser la signature de l'État en tant que preneur actif. Cette démarche génère des gains bruts issus de la résiliation de baux, de la densification de sites et de la renégociation de contrats.
+
+      La (re)négociation des baux a produit des économies croissantes, passant de soixante-seize M euros en deux mille seize à cent neuf M euros en deux mille vingt-quatre. En deux mille vingt-quatre, l'optimisation a porté sur sept cent soixante-dix-sept baux pris en charge, dont soixante-seize millions neuf cent cinquante-sept mille quatre cent soixante-seize euros de gains sur les franchises.
+
+      Le contexte actuel est favorable aux preneurs, permettant d'obtenir des franchises de loyer allant jusqu'à trente mois du bail. En deux mille vingt-quatre, les gains sur les franchises ont atteint soixante-dix-sept millions d'euros contre trente-cinq virgule deux M euros en deux mille vingt-trois.
+
+V. MODERNISATION ET PERFORMANCE ÉNERGÉTIQUE DU PARC.
+
+   A. Transition écologique et objectifs de sobriété énergétique.
+
+      La modernisation du parc immobilier de l'État vise à répondre aux exigences de la transition environnementale et à anticiper les nouvelles formes de travail. L'utilisation des bâtiments est responsable de près de cinquante pour cent des consommations d'énergie et d'environ le quart des émissions nationales de gaz à effet de serre.
+
+      Une nouvelle feuille de route pour la transition écologique a été élaborée en deux mille vingt-quatre pour intégrer l'adaptation au changement climatique, l'eau et la biodiversité. Elle s'articule autour de six axes, dont la réduction des consommations énergétiques et la préservation des sols.
+
+      La circulaire du vingt-cinq juillet deux mille vingt-deux de la Première ministre fixe l'objectif de réduire de dix pour cent la consommation d'énergie pour les administrations de l'État d'ici deux mille vingt-quatre. Un challenge d'économies d'énergie lancé en deux mille vingt-trois a permis d'obtenir une économie moyenne de dix pour cent sur les bâtiments participants.
+
+      Le dispositif éco-énergie tertiaire devrait concerner environ cinquante mille bâtiments et fait l'objet d'un suivi par la DIE. Par ailleurs, la directive européenne efficacité énergétique est partiellement transposée par l'article vingt-cinq de la loi n° deux mille vingt-cinq-trois cent quatre-vingt-onze du trente avril deux mille vingt-cinq.
+
+      Les investissements massifs via les programmes trois cent quarante-huit et trois cent soixante-deux visent des gains énergétiques importants. Les cités administratives du programme trois cent quarante-huit visent cent vingt-sept GWh/an, tandis que le plan France relance du programme trois cent soixante-deux cible quatre cents GWh/an.
+
+   B. Accessibilité des bâtiments recevant du public.
+
+      La mise en accessibilité des bâtiments recevant du public relève des services occupants en liaison avec les préfets. Le suivi de ces actions est assuré via le référentiel technique et l'outil d'aide au diagnostic.
+
+      L'état d'accessibilité est évalué selon quatre critères, notamment la qualité de l'accueil et la présence de sanitaires adaptés. Pour les bâtiments recevant du public, cinquante-deux pour cent sont réglementaires et fonctionnels, soit six mille trois cent trente-sept bâtiments.
+
+      Les situations de non-conformité varient, avec treize pour cent de bâtiments réglementaires mais non fonctionnels et vingt pour cent de biens non accessibles. Ces données sont issues du référentiel technique au cinq/huit/deux mille vingt-cinq pour douze mille cent quatre-vingt-six actifs.
+
+      Une enquête réalisée en deux mille vingt-cinq sur les dépenses d'accessibilité a évalué à quarante-cinq M euros le montant des investissements de l'État en deux mille vingt-quatre. Ces dépenses sont souvent intégrées dans les projets de rénovation et sont donc difficilement isolables.
+
+   C. Contrôles périodiques et suivi de la performance technique.
+
+      Les contrôles périodiques sont mis en œuvre à partir des conventions d'utilisation pour accompagner les services et identifier les travaux d'entretien nécessaires. Ils permettent de sécuriser juridiquement les occupations et de fiabiliser l'inventaire du parc.
+
+      La campagne deux mille vingt-quatre, pilotée par les RRPIE, a permis de visiter six cent onze immeubles. Ces contrôles ont abouti à la délivrance de sept cent quarante-quatre procès-verbaux de conformité ou avis réservés aux administrations utilisatrices.
+
+      La campagne deux mille vingt-cinq a été initiée le onze mars deux mille vingt-cinq avec pour objectifs la sobriété immobilière et la transition écologique. Elle s'articule avec la circulaire du huit février deux mille vingt-trois pour contribuer à la réduction des surfaces.
+
+      L'approche bâtimentaire des contrôles permet de vérifier l'entretien et les obligations réglementaires comme le diagnostic technique amiante. Une attention particulière est portée aux immeubles stratégiques représentant un enjeu budgétaire avéré.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre le ratio d'optimisation immobilière exprimé en m² SUB par résident, qui a une cible pivot de seize m², avec l'indicateur de densification par poste de travail qui est en hausse à vingt-cinq virgule vingt-cinq m² en deux mille vingt-quatre.
+
+      La distinction entre les formats de la CNIP est cruciale car le format stratégique est présidé par le ministre chargé du Domaine tandis que le format opérationnel est présidé par le directeur de l'immobilier de l'État.
+
+      Une nuance importante concerne l'état d'accessibilité des bâtiments où il faut distinguer les cas réglementaires mais non fonctionnels des cas non réglementaires mais fonctionnels qui utilisent des solutions d'effet équivalent.
+
+      Il est nécessaire de différencier les gains issus de la renégociation de baux, comme les franchises de loyer, des gains consécutifs aux résiliations de baux ou aux installations domaniales.
+
+      Attention à ne pas confondre les deux types de schémas stratégiques, les SPSI qui concernent les ministères et les opérateurs, et les SDIR qui sont destinés aux services déconcentrés au niveau régional.
+
+EXEMPLES CITÉS.
+
+      En deux mille vingt-quatre, la procédure de labellisation a concerné cent soixante-douze projets pour un montant total de mille cent quarante-six M euros.
+
+      Le projet de la cité administrative de Rouen représente un investissement de cent dix-neuf M euros dans le cadre du programme trois cent quarante-huit pour une réhabilitation incluant le désamiantage.
+
+      L'optimisation des baux a permis de réaliser une économie de cent neuf M euros en deux mille vingt-quatre, ce qui représente une hausse de soixante-dix pour cent par rapport aux soixante-quatre M euros de deux mille vingt-trois.
+
+      Le taux de couverture des conventions d'utilisation pour les biens situés en France a atteint quatre-vingt-dix-neuf pour cent au trente et un décembre deux mille vingt-quatre.
+
+      La consommation d'énergie finale du parc immobilier de l'État, hors logements, armées et opérateurs, est passée de trois virgule quatre cent soixante-neuf TWh en deux mille vingt-deux à trois virgule deux cent cinquante-deux TWh en deux mille vingt-quatre.

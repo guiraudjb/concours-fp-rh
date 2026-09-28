@@ -1,0 +1,277 @@
+STRATÉGIE ET CADRE D'USAGE DE L'INTELLIGENCE ARTIFICIELLE DANS LA GESTION DES RESSOURCES HUMAINES DE LA FONCTION PUBLIQUE D'ÉTAT.
+
+LEXIQUE COMPLET.
+
+      La DGAFP désigne la Direction générale pour l'administration et la fonction publique.
+
+      Le sigle HRM désigne la gestion des ressources humaines.
+
+      L'OCDE désigne l'Organisation de coopération et de développement économiques.
+
+      Le sigle CORH désigne le Conseil d'orientation des politiques de ressources humaines.
+
+      Le sigle DINUM désigne la Direction interministérielle du numérique.
+
+      Le sigle DITP désigne la Délégation interministérielle à la transformation publique.
+
+      Le sigle GPEEC désigne la gestion prévisionnelle des emplois, des effectifs et des compétences.
+
+      Le sigle GDPR désigne le Règlement général sur la protection des données.
+
+      Le sigle SIRH désigne les systèmes d'information des ressources humaines.
+
+      Le sigle CSNP désigne la Commission supérieure du numérique et des postes.
+
+      L'IA désigne l'intelligence artificielle.
+
+      Le sigle LLM désigne les Large Language Model.
+
+COURS DÉTAILLÉ.
+
+I. CONTEXTE ET FONDEMENTS DE LA STRATÉGIE.
+
+   A. Cadre international et européen de l'IA.
+
+      L'OCDE a proposé dès deux mille dix-neuf les premiers travaux normatifs sur le sujet et a établi une définition de référence pour les systèmes d'IA.
+
+      Selon l'OCDE, un système d'IA est un système basé sur une machine qui, pour des objectifs explicites ou implicplets, déduit de ses entrées comment générer des résultats tels que des prédictions, du contenu, des recommandations ou des décisions.
+
+      Au niveau européen, les travaux de l'Alliance européenne pour l'IA ainsi que les orientations stratégiques de deux mille dix-huit et le Livre blanc sur l'IA de deux mille vingt ont structuré l'approche du continent.
+
+      Un règlement sur l'IA, négocié depuis deux mille vingt et un et adopté le vingt et un mai deux mille vingt-quatre, présente une vision européenne fondée sur l'éthique et la gestion des risques.
+
+      Ce cadre européen accorde une attention particulière aux usages considérés comme à haut risque, notamment dans les domaines de l'emploi, de la formation professionnelle et des ressources humaines.
+
+      L'accord sur la digitalisation signé en octobre deux mille vingt-deux par le Comité de dialogue social pour les administrations d'État et fédérales traite de la conformité des décisions d'IA avec la législation RH et de l'autonomie de contrôle des administrations.
+
+   B. Définitions et enjeux de l'IA générative.
+
+      L'IA générative est une application particulière qui a gagné du terrain ces dernières années et qui est aujourd'hui au centre des préoccupations du monde du travail.
+
+      Toutes les formes d'IA étant fondées sur les données, les gouvernements doivent garantir l'accès à des données suffisantes, de qualité et impartiales pour un usage éthique.
+
+      L'OCDE prévoyait en deux mille dix-neuf que le potentiel de l'IA permettrait de libérer près d'un tiers du temps des fonctionnaires pour les faire passer de tâches banales à un travail à haute valeur ajoutée.
+
+      L'IA peut transformer les professions en améliorant la performance des travailleurs moins qualifiés ou en augmentant l'exposition des professions hautement qualifiées.
+
+      Une étude réalisée avec GPT-quatre indique que certains métiers comme l'assistant administratif ou le gestionnaire de paie pourraient voir quatre-vingts pour cent de leur travail remplacé dès deux mille vingt-cinq-deux mille vingt-six.
+
+      À l'inverse, des fonctions comme le responsable RH ou le coach interne présentent une probabilité de remplacement de quarante pour cent ou moins, et ce seulement à partir de deux mille trente-quatre.
+
+   C. Approche réglementaire et éthique.
+
+      La stratégie de la DGAFP repose sur un principe directeur d'utilisation de l'IA centrée sur l'humain et sur une symétrie des attentions.
+
+      Le cadre éthique s'articule autour de trois piliers majeurs que sont la protection de l'agent et de l'administration, le contrôle par l'humain et la déontologie.
+
+      La protection concerne l'utilisation légale et transparente des données privées et sensibles ainsi que la robustesse et la sécurité des systèmes d'IA.
+
+      Le contrôle humain impose la concertation avec les représentants du personnel, la déclaration d'utilisation de l'IA par les agents et le maintien de la liberté d'utilisation.
+
+      La déontologie exige la transparence, la justice, l'équité, la diversité, l'inclusion et la non-discrimination dans tous les processus de gestion.
+
+      L'approche préconisée par la DGAFP souligne que la définition d'un cadre d'usage éthique ne règle pas l'expérimentation mais fixe les conditions de sa réversibilité.
+
+II. INTÉGRATION DE L'IA DANS L'ADMINISTRATION FRANÇAISE.
+
+   A. Stratégie nationale et expérimentations publiques.
+
+      Le gouvernement a adopté la stratégie nationale pour l'IA en deux mille dix-huit, laquelle doit être révisée suite aux conclusions du comité sur l'IA générative de mars deux mille vingt-quatre.
+
+      Le ministère de la Transformation et de la Fonction publiques a lancé sa stratégie de déploiement de l'IA le cinq octobre deux mille vingt-quatre.
+
+      Cette stratégie inclut l'expérimentation de l'IA générative sur la plateforme Services Publics+ mise en place par la DITP.
+
+      La création de l'AllIAnce public-privée et les travaux de la DINUM depuis juin deux mille vingt-trois visent à développer une IA générative souveraine.
+
+   B. Objectifs de la feuille de route des SIRH.
+
+      La feuille de route des SIRH de l'Etat pour la période deux mille vingt-trois-deux mille vingt-sept a été publiée le huit mars deux mille vingt-trois.
+
+      Un nouvel objectif a été ajouté à cette feuille de route à la fin du mois de mars deux mille vingt-quatre pour étudier l'usage de l'IA.
+
+      Cet objectif est transversal et concerne l'ensemble des domaines de la gestion des ressources humaines comme les compétences, la dématérialisation ou le pilotage.
+
+   C. Rôle de la DGAFP et des instances de conseil.
+
+      La DGAFP travaille sur les implications de l'IA en gestion des ressources humaines dans le cadre de sa mission de prospective RH.
+
+      Elle a élaboré une proposition de stratégie incluant un projet de cadre d'usage de l'IA en GRH qui a reçu le soutien du CORH le vingt mars deux mille vingt-quatre.
+
+      La CSNP a rendu un avis sur l'IA le dix-sept janvier deux mille vingt-quatre proposant trente recommandations dont six sont spécifiquement dédiées au service public.
+
+      La DGAFP propose une stratégie basée sur la protection du personnel, le contrôle humain et l'éthique pour garantir un usage centré sur l'humain.
+
+III. TRANSFORMATIONS DES MÉTIERS ET DE L'ORGANISATION DU TRAVAIL.
+
+   A. Impacts sur les professions et les compétences.
+
+      L'IA peut améliorer la performance des travailleurs moins qualifiés, tandis que les progrès de l'IA générative pourraient accroître l'exposition des professions hautement qualifiées.
+
+      Une étude prospective menée avec GPT-quatre en juin deux mille vingt-trois indique que quatre métiers comme l'assistant administratif, le gestionnaire de paie, le recruteur et l'analyste en rémunération pourraient voir quatre-vingts pour cent de leur travail remplacé dès deux mille vingt-cinq-deux mille vingt-six.
+
+      À l'inverse, des professions telles que le responsable RH, le coach interne, le conseiller en organisation du travail et le responsable de projet attractivité ont une probabilité de remplacement de quarante pour cent ou moins, et ce seulement à partir de deux mille trente-quatre.
+
+      L'usage de l'IA créera une demande pour de nouvelles tâches et des compétences nécessaires au fonctionnement des modèles, mais aussi des compétences complémentaires où l'humain conserve un avantage comparatif.
+
+      L'intégration de l'IA dans les pratiques professionnelles est considérée comme un gage d'attractivité pour les générations les plus jeunes.
+
+   B. Domaines d'application en gestion des ressources humaines.
+
+      Dans le recrutement, l'IA peut servir à rédiger des fiches de poste, évaluer les compétences, trier les candidatures ou encore lutter contre les biais cognitifs.
+
+      La gestion du personnel peut être optimisée par l'automatisation de certaines tâches administratives et la planification des horaires de travail.
+
+      Pour la formation et le développement des compétences, l'IA permet de formuler des recommandations contextuelles, de développer l'apprentissage personnalisé et d'identifier les compétences émergentes.
+
+      En matière de fidélisation et d'engagement, les outils peuvent analyser les enquêtes internes, prédire les départs ou personnaliser les avantages sociaux des agents.
+
+      Le management et la performance peuvent bénéficier de l'analyse des objectifs, des résultats et des retours d'information des agents et des usagers.
+
+      Enfin, l'IA peut intervenir dans la qualité de vie au travail et la santé mentale par l'analyse des données de bien-être ou la détection précoce de problèmes de santé mentale.
+
+   C. Évolution du management et de la culture professionnelle.
+
+      L'IA favorise l'émergence d'un management augmenté en libérant les managers des tâches de planification, d'organisation et de coordination, comme la gestion chronophage des e-mails.
+
+      Cette évolution pourrait remettre en cause l'expertise traditionnelle des managers et les inciter à construire une nouvelle légitimité fondée sur les soft skills et l'authenticité.
+
+      Les managers devront faire preuve de plus de discernement et de sens critique pour contrôler les résultats produits par l'IA, qui peuvent être biaisés ou incorrects.
+
+      L'intelligence humaine reste indispensable pour rendre l'IA fiable, car plus le système devient digital, plus le besoin d'humains s'accroît.
+
+      Les professionnels de la prévention, tels que les psychologues du travail ou les ergonomes, joueront un rôle clé pour accompagner les agents face à la pression numérique.
+
+      Le management aura également la responsabilité de construire une culture d'utilisation éthique et transparente de l'IA au sein de leurs équipes.
+
+IV. PRINCIPES DIRECTEURS ET CADRE D'USAGE ÉTHIQUE.
+
+   A. Protection des agents et de l'administration.
+
+      L'utilisation des données doit être strictement légale et transparente, en accord avec les réglementations portant sur les données privées et sensibles.
+
+      La robustesse, la sécurité et la sûreté de l'IA constituent des piliers essentiels pour protéger l'administration et ses agents.
+
+      Il est impératif de garantir la souveraineté des données utilisées par les outils pour assurer la protection de l'administration.
+
+      Une cartographie des risques doit être établie afin de mettre en place un contrôle interne et un audit efficace de la stratégie.
+
+   B. Contrôle humain et autonomie de décision.
+
+      Le principe directeur repose sur la responsabilité humaine dans l'utilisation de l'IA au sein des organisations de travail.
+
+      Le cadre d'usage doit être défini en collaboration avec les représentants du personnel pour garantir la concertation et l'autonomie.
+
+      Les agents doivent disposer de la liberté d'utiliser les outils d'IA ainsi que les résultats qu'ils produisent.
+
+      Une obligation de déclaration de l'utilisation de l'IA peut être mise en place pour les agents de la fonction publique.
+
+      L'humain doit conserver la maîtrise, la compréhension et le contrôle des résultats produits par les machines.
+
+   C. Principes de déontologie et d'inclusion.
+
+      L'usage de l'IA doit respecter les principes de transparence, de justice, d'équité et de diversité.
+
+      La lutte contre les discriminations et la promotion de l'inclusion sont des composantes fondamentales de l'éthique de l'IA.
+
+      Il est nécessaire de veiller à ce que les algorithmes ne reproduisent pas de biais cognitifs ou de stéréotypes.
+
+      Le cadre d'usage doit intégrer les obligations déontologiques telles que la dignité, la discrétion et le secret professionnel.
+
+V. AXES OPÉRATIONNELS DE MISE EN ŒUVRE.
+
+   A. Intégration technique et gestion des risques.
+
+      L'intégration de l'IA nécessite d'identifier les responsables des technologies et de définir les missions et fonctions pouvant être assurées avec ou par l'outil.
+
+      Les structures doivent choisir des logiciels fiables et définir des méthodologies d'exploitation des données pour sécuriser la responsabilité des agents et des administrations.
+
+      Il est impératif d'établir une cartographie des risques incluant les menaces externes comme l'usage abusif de données personnelles et les risques internes comme le phénomène d'hallucination.
+
+      La gestion doit également intégrer l'impact environnemental de l'IA au regard de l'objectif de sobriété écologique concernant l'énergie, l'eau et le foncier.
+
+      Une attention particulière doit être portée pour éviter le Shadow IA, qui correspond à l'utilisation d'outils non approuvés par les agents pour accomplir leurs tâches.
+
+   B. Planification des ressources humaines et GPEEC.
+
+      La stratégie repose sur l'intégration de l'IA dans la gestion prévisionnelle des emplois, des effectifs et des compétences pour évaluer les impacts sur les métiers.
+
+      Le responsable de la GRH doit recenser les compétences existantes et déterminer celles qu'il faudra renforcer ou acquérir pour accompagner l'usage de l'IA.
+
+      Les organisations doivent estimer les effets de l'IA sur les professions et attirer des profils formés pour encadrer et gérer ces nouvelles technologies.
+
+      Une méthode de transformation des métiers peut être fixée, par exemple lorsqu'un minimum de cinquante pour cent des tâches est réalisé de façon plus efficace par l'IA.
+
+      Le ministère des Armées a illustré cette approche avec le projet IRMA qui utilise un algorithme pour prédire les démissions avec une précision encourageante.
+
+   C. Formation et accompagnement au changement.
+
+      L'acculturation des managers et des agents doit se faire en lien avec le Campus numérique de la DINUM pour favoriser l'appropriation des outils.
+
+      Il est nécessaire de créer un référentiel de règles combinant l'éthique des ressources humaines et l'éthique numérique pour guider les pratiques.
+
+      L'accompagnement doit inclure la mise en place d'un réseau de correspondants chargés de l'éthique et d'une plateforme d'alerte pour les mauvais usages.
+
+      Le dialogue social est un pilier essentiel qui doit associer les représentants du personnel à chaque étape du processus de déploiement.
+
+      Le ministère des Armées a déjà initié des parcours de formation adaptés pour généraliser la culture IA auprès de ses presque trois cent mille agents.
+
+VI. OUTILS MÉTHODOLOGIQUES POUR LE DÉPLOIEMENT.
+
+   A. Pilotage de l'intégration et choix des outils.
+
+      Le déploiement commence par l'identification des responsables des technologies et la mise en place d'un comité de pilotage spécifique incluant le responsable du numérique et des SIRH, le RSSI et le responsable de la GRH.
+
+      Il est nécessaire de définir des objectifs précis comme l'amélioration de la productivité ou la résolution de problèmes complexes, tout en évaluant les avantages, les coûts et les risques tels que les hallucinations de l'IA.
+
+      Le choix des logiciels doit s'appuyer sur un benchmark des solutions existantes et la rédaction d'un cahier des charges intégrant des clauses prospectives et une phase d'accompagnement des agents.
+
+      L'intégration nécessite de définir des méthodologies d'exploitation des données et d'établir une obligation déclarative pour les agents qui ont recours à l'IA.
+
+      Une cartographie des risques doit être réalisée pour assurer le contrôle interne, en tenant compte notamment de l'impact environnemental et de la sécurité des données.
+
+   B. Évaluation des impacts métiers et recrutement.
+
+      L'évaluation consiste à intégrer l'anticipation des effets de l'IA dans la GPEEC pour mesurer l'impact sur les emplois, les effectifs et les compétences.
+
+      Le responsable de la GRH doit réaliser une synthèse des compétences existantes et de celles à renforcer ou à acquérir, en s'appuyant sur les fiches de poste des agents concernés.
+
+      La stratégie de recrutement doit identifier les besoins qualitatifs et quantitatifs pour attirer des profils formés à l'IA capables d'encadrer son usage.
+
+      Les fiches de recrutement doivent préciser les solutions numériques utilisées, les tâches ajustées et les fonctions d'accompagnement confiées à la nouvelle recrue.
+
+      Il est conseillé de fixer une jauge pour mesurer la transformation d'un métier, par exemple si un minimum de cinquante pour cent des tâches sont réalisées par l'IA.
+
+   C. Acculturation et gestion de la responsabilité humaine.
+
+      L'acculturation doit viser l'ensemble des managers et des agents, y compris les élèves fonctionnaires, en lien avec le Campus numérique de la DINUM.
+
+      La gouvernance doit reposer sur le principe de la responsabilité humaine, garantissant que l'IA assiste le travail humain sans le remplacer.
+
+      Le déploiement nécessite la création d'un référentiel de règles croisant l'éthique RH et l'éthique numérique, ainsi que la mise en place d'un réseau de correspondants en charge de l'éthique.
+
+      Pour soutenir les agents, il est recommandé de proposer des outils d'évaluation pour les chefs de projets et de créer une plateforme d'alerte pour les mauvais usages.
+
+      Le dialogue social est essentiel et doit associer les représentants du personnel à chaque étape pour établir un diagnostic partagé et un niveau d'information équivalent.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre l'usage de l'IA comme un remplacement total des métiers avec son rôle actuel de soutien à des tâches spécifiques.
+
+      Une nuance importante réside dans le fait que l'IA peut améliorer la performance des travailleurs moins qualifiés tout en augmentant l'exposition des professions hautement qualifiées.
+
+      Il est crucial de distinguer les cas d'usages jugés souhaitables de ceux considérés comme inacceptables, comme l'analyse des relations entre collègues ou la détection de problèmes de santé mentale.
+
+      L'utilisation de l'IA ne doit pas mener à une déresponsabilisation managériale mais doit s'inscrire dans un cadre de responsabilité humaine et de contrôle des résultats.
+
+      Il faut éviter le piège de la Shadow IA, qui correspond à l'utilisation par les agents d'outils non approuvés par la structure.
+
+EXEMPLES CITÉS.
+
+      L'expérimentation d'un outil d'IA sur la plateforme Services Publics+ a permis de diviser par deux le délai de réponse, passant de six jours à trois jours.
+
+      Une étude prospective avec GPT-quatre indique que quatre métiers comme l'assistant administratif ou le gestionnaire de paie pourraient voir quatre-vingts pour cent de leur travail remplacé dès deux mille vingt-cinq-deux mille vingt-six.
+
+      Le ministère des Armées a utilisé un algorithme d'apprentissage machine pour prédire avec précision les démissions des officiers pour l'année deux mille vingt-trois.
+
+      Le règlement européen sur l'IA a été adopté le vingt et un mai deux mille vingt-quatre mais il ne doit pas entrer en vigueur avant deux mille vingt-six.
