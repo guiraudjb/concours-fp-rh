@@ -1,0 +1,195 @@
+COORDINATION ENTRE LES EMPLOYEURS PUBLICS EN AUTO-ASSURANCE ET PÔLE EMPLOI.
+
+LEXIQUE COMPLET.
+
+      L'employeur en auto-assurance désigne l'entité du secteur public qui a la charge de l'indemnisation du chômage de ses anciens agents.
+
+      Pôle emploi désigne l'organisme chargé de gérer l'inscription des demandeurs d'emploi et de coordonner les informations avec les employeurs publics.
+
+      La décision de rejet pour compétence du secteur public désigne la notification envoyée au demandeur d'emploi pour lui indiquer que l'indemnisation relève de son employeur public.
+
+      La DAMA désigne la demande d'attestation mensuelle d'actualisation que le demandeur d'emploi doit remettre à l'employeur pour transmettre ses coordonnées.
+
+      L'AMA désigne l'attestation mensuelle d'actualisation envoyée par Pôle emploi à l'employeur pour lui communiquer les informations de situation du demandeur d'emploi.
+
+      L'ARE désigne l'allocation de retour à l'emploi dont la date du dernier jour indemnisé doit être précisée par l'employeur lors de l'attestation d'épuisement du droit.
+
+      Le CSP désigne le contrat de sécurisation professionnelle pour lequel Pôle emploi peut demander les éléments du droit secteur public au demandeur d'emploi.
+
+      L'ATI désigne l'allocation des travailleurs indépendants pour laquelle Pôle emploi peut solliciter les éléments du droit secteur public.
+
+      L'ASS désigne l'allocation de solidarité spécifique dont l'examen par Pôle emploi nécessite une attestation de refus de rechargement de la part de l'employeur.
+
+      L'actualisation désigne la démarche mensuelle effectuée par le demandeur d'emploi auprès de Pôle emploi pour déclarer sa situation et maintenir son inscription.
+
+COURS DÉTAILLÉ.
+
+I. OBLIGATIONS INITIALES DE L'EMPLOYEUR.
+
+   A. Transmission de l'attestation d'assurance chômage à l'ancien agent.
+
+      L'attention des employeurs est particulièrement portée sur la nécessité de transmettre l'attestation d'assurance chômage à leur ancien agent de manière très rapide.
+
+      Cette démarche constitue une obligation initiale importante pour l'employeur public en auto-assurance dès la fin du contrat de travail.
+
+      La transmission de ce document est essentielle pour permettre au demandeur d'emploi de faire valoir ses droits auprès de l'organisme compétent.
+
+   B. Obligation de transmission électronique pour les employeurs de plus de onze salariés.
+
+      Les employeurs qui emploient au moins onze salariés sont soumis à une obligation spécifique concernant la transmission de l'attestation d'assurance chômage.
+
+      Ces employeurs doivent impérativement transmettre ladite attestation à Pôle emploi par voie électronique.
+
+      Cette règle de transmission dématérialisée s'applique dès que le seuil des onze salariés est atteint par l'employeur.
+
+II. PROCÉDURE DE REJET PAR PÔLE EMPLOI POUR COMPÉTENCE PUBLIQUE.
+
+   A. Contenu de la décision de rejet de compétence.
+
+      Lorsque Pôle emploi détermine que la charge de l'indemnisation relève du secteur public, il notifie une décision de rejet pour compétence du secteur public.
+
+      Cette décision précise obligatoirement le nom de l'employeur public désigné comme étant le compétent pour traiter le dossier.
+
+      Le document détaille également les éléments ayant permis de déterminer la charge de l'indemnisation, tels que la date d'inscription ou la date d'examen.
+
+      Les informations incluent aussi la date de la fin de contrat de travail ainsi que la période de référence d'affiliation et la durée d'emploi.
+
+   B. Informations transmises au demandeur d'emploi.
+
+      La décision de rejet est accompagnée d'une demande d'attestation mensuelle d'actualisation appelée DAMA à remettre à l'employeur.
+
+      Ce document permet à l'employeur de transmettre ses coordonnées afin que Pôle emploi puisse lui expédier chaque mois l'attestation mensuelle d'actualisation du demandeur d'emploi.
+
+      Une fiche de liaison est également jointe pour permettre à l'employeur d'informer Pôle emploi dans des contextes réglementaires précis.
+
+      Le demandeur d'emploi est invité par cette notification à se retourner vers l'employeur public compétent pour l'étude de sa demande d'allocations.
+
+   C. Rôle de Pôle emploi dans l'examen des conditions d'ouverture de droit.
+
+      Lorsque la charge de l'indemnisation relève du secteur public, Pôle emploi n'étudie pas les conditions d'ouverture de droit.
+
+      Cela signifie que l'organisme ne vérifie pas notamment la condition de chômage involontaire pour ces dossiers.
+
+      Pôle emploi peut toutefois demander les éléments du droit secteur public en cas d'adhésion au contrat de sécurisation professionnelle ou d'éligibilité à l'allocation des travailleurs indépendants.
+
+III. DOCUMENTS DE LIAISON ENTRE LE DEMANDEUR D'EMPLOI ET L'EMPLOYEUR.
+
+   A. La demande d'attestation mensuelle d'actualisation (DAMA).
+
+      La DAMA est un document qui accompagne la décision de rejet pour compétence du secteur public notifiée au demandeur d'emploi.
+
+      Ce document est destiné à être remis par le demandeur d'emploi à l'employeur public désigné comme compétent.
+
+      L'objectif de cette demande est de permettre à l'employeur d'attester ses coordonnées auprès de Pôle emploi.
+
+      Cette démarche est nécessaire pour que Pôle emploi puisse expédier chaque mois l'attestation mensuelle d'actualisation (AMA) du demandeur d'emploi à l'employeur.
+
+   B. La fiche de liaison pour informer Pôle emploi.
+
+      La fiche de liaison est un document que l'employeur doit remplir pour informer Pôle emploi dans des contextes réglementaires précis.
+
+      L'employeur doit fournir une attestation de l'épuisement du droit pour l'examen du rechargement en précisant les éléments du droit et la date du dernier jour indemnisé en ARE.
+
+      Il doit également transmettre une attestation des éléments du droit à la date de la demande pour l'examen du droit d'option par Pôle emploi.
+
+      Une attestation du refus d'une reprise de droit par l'employeur est requise en cas d'atteinte du délai de déchéance pour le réexamen de la situation.
+
+      Enfin, l'employeur doit attester le refus de rechargement pour l'examen du droit à l'ASS ou à la rémunération de fin de formation en précisant le motif de rejet.
+
+   C. Liberté du modèle d'attestation par l'employeur.
+
+      L'employeur n'est pas tenu d'utiliser obligatoirement le modèle de document fourni par Pôle emploi pour ses communications.
+
+      Il dispose de la possibilité d'utiliser un autre modèle d'attestation pour remplir ses obligations d'information.
+
+      Toutefois, l'employeur doit impérativement respecter les contextes réglementaires dans lesquels il est tenu d'informer Pôle emploi.
+
+IV. CONTEXTES RÉGLEMENTAIRES D'INFORMATION OBLIGATOIRE DE PÔLE EMPLOI.
+
+   A. Attestations liées à l'épuisement du droit ou au droit d'option.
+
+      L'employeur doit fournir une attestation de l'épuisement du droit pour permettre à Pôle emploi d'examiner le rechargement.
+
+      Ce document doit obligatoirement préciser les éléments du droit ainsi que la date du dernier jour indemnisé en ARE.
+
+      Une autre attestation concerne les éléments du droit à la date de la demande.
+
+      Cette transmission est nécessaire pour permettre à Pôle emploi d'effectuer l'examen du droit d'option.
+
+   B. Attestations liées au refus de reprise de droit ou de rechargement.
+
+      L'employeur est tenu de transmettre une attestation du refus d'une reprise de droit.
+
+      Cette démarche intervient en cas d'atteinte du délai de déchéance pour le réexamen de la situation par Pôle emploi.
+
+      L'attestation doit mentionner précisément les éléments du droit au moment de l'inscription.
+
+      L'employeur doit également fournir une attestation du refus de rechargement pour l'examen du droit à l'allocation de solidarité spécifique ou à l'ASS.
+
+      Ce document sert aussi pour l'examen de la rémunération de fin de formation par Pôle emploi.
+
+      L'employeur doit impérativement préciser le motif de rejet dans cette attestation.
+
+   C. Demandes spécifiques pour le CSP ou l'ATI.
+
+      Pôle emploi peut solliciter des éléments complémentaires auprès du demandeur d'emploi.
+
+      Ces demandes concernent les éléments du droit secteur public en cas d'adhésion au contrat de sécurisation professionnelle ou CSP.
+
+      Cette procédure s'applique également pour vérifier l'éligibilité à l'allocation des travailleurs indépendants ou ATI.
+
+V. MODALITÉS D'ACTUALISATION ET SUIVI DE L'INDEMNISATION.
+
+   A. Processus mensuel d'actualisation par le demandeur d'emploi.
+
+      Pour percevoir ses allocations, le demandeur d'emploi indemnisé par un employeur public en auto-assurance doit obligatoirement actualiser sa situation tous les mois auprès de Pôle emploi.
+
+      Cette démarche mensuelle est indispensable pour permettre au demandeur d'emploi de maintenir ou non son inscription auprès de l'organisme.
+
+      Une fois l'actualisation effectuée, Pôle emploi transmet l'attestation mensuelle d'actualisation, appelée AMA, à l'employeur public désigné comme compétent.
+
+   B. Événements à déclarer lors de l'actualisation.
+
+      Lors de son actualisation, le demandeur d'emploi est tenu de déclarer divers événements qui impactent son statut.
+
+      Il doit notamment signaler toute formation suivie ou toute reprise d'activités durant la période.
+
+      Le demandeur d'emploi doit également déclarer ses congés maladie ou maternité.
+
+      La déclaration doit inclure la perception d'une nouvelle pension de retraite ou d'une pension d'invalidité de deuxième ou troisième catégorie.
+
+   C. Contenu de l'attestation mensuelle d'actualisation (AMA) transmise à l'employeur.
+
+      L'AMA envoyée par Pôle emploi à l'employeur public contient des informations précises sur le parcours du demandeur d'emploi.
+
+      Le document précise notamment les dates d'inscription ainsi que la catégorie d'inscription retenue.
+
+      L'attestation mentionne également les dates et les éléments qui ont été déclarés par l'individu.
+
+      Elle indique la date et le motif de la cessation d'inscription si celle-ci a eu lieu.
+
+      Enfin, l'AMA précise la date et le motif de toute décision de sanction, en indiquant la sanction à appliquer que l'employeur devra mettre en œuvre.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre le rôle de Pôle emploi et celui de l'employeur public. Pôle emploi ne vérifie pas les conditions d'ouverture de droit comme le chômage involontaire quand la charge de l'indemnisation relève du secteur public.
+
+      L'obligation de transmission électronique de l'attestation d'assurance chômage ne s'applique qu'aux employeurs qui emploient au moins onze salariés.
+
+      L'employeur n'est pas contraint d'utiliser la fiche de liaison fournie par Pôle emploi. Il peut utiliser un autre modèle d'attestation pour transmettre les informations réglementaires.
+
+      La décision de rejet pour compétence du secteur public est distincte de l'étude des droits. Elle sert uniquement à rediriger le demandeur d'emploi vers l'employeur public compétent.
+
+      L'actualisation mensuelle est une obligation du demandeur d'emploi auprès de Pôle emploi. Cette démarche est indispensable pour maintenir l'inscription et déclarer des événements comme une reprise d'activité ou un congé maladie.
+
+EXEMPLES CITÉS.
+
+      Un employeur possédant onze salariés doit impérativement transmettre l'attestation d'assurance chômage à Pôle emploi par voie électronique.
+
+      Lorsqu'un demandeur d'emploi est redirigé, la décision de rejet précise le nom de l'employeur public désigné ainsi que la date de fin de contrat de travail.
+
+      L'employeur doit fournir une attestation d'épuisement du droit pour permettre à Pôle emploi d'examiner un éventuel rechargement.
+
+      En cas d'adhésion au CSP ou d'éligibilité à l'ATI, Pôle emploi peut solliciter les éléments du droit secteur public auprès du demandeur d'emploi.
+
+      L'AMA envoyée à l'employeur contient des données précises comme la catégorie d'inscription ou la date et le motif d'une décision de sanction.

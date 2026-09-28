@@ -1,0 +1,331 @@
+GUIDE DE COMPRÉHENSION, DE DÉTECTION ET DE GESTION DU RISQUE SUICIDAIRE DANS LE SECTEUR HOSPITALIER.
+
+LEXIQUE COMPLET.
+
+      Le sigle DUERP désigne le document unique pour la prévention des risques professionnels qui doit recenser les risques auxquels sont exposés l'ensemble des personnels médicaux et non médicaux.
+
+      Le sigle CUMP désigne la cellule d'urgence médico-psychologique qui est mise en place par l'ARS pour chaque établissement de santé siège du service d'aide médicale urgente.
+
+      Le sigle CITIS désigne le congé pour invalidité temporaire imputable au service auquel a droit le fonctionnaire dont l'incapacité est consécutive à un accident reconnu imputable au service.
+
+      Le terme imputabilité au service désigne la reconnaissance qu'un suicide ou une tentative de suicide est lié directement au travail, notamment lorsqu'il survient dans le temps et le lieu du service.
+
+      Le sigle CPAM désigne la caisse primaire d'assurance maladie qui est compétente pour reconnaître l'imputabilité au service pour les agents publics non fonctionnaires.
+
+      Le sigle CCHF désigne la commission centrale hygiène, sécurité et conditions de travail du Conseil supérieur de la fonction publique de l'État.
+
+      Le sigle PSSM désigne l'association française des premiers secours en santé mentale qui a élaboré un guide pour accompagner les employeurs.
+
+      Le sigle trois mille cent quatorze désigne le numéro national de prévention du suicide lancé le premier octobre deux mille vingt et un pour la prise en charge des personnes ayant des idées suicidaires.
+
+      Le terme accident du travail désigne un événement reconnu imputable au service qui ouvre droit à des prestations, des réparations forfaitaires et des indemnisations complémentaires.
+
+      Le sigle CGFP désigne le code général de la fonction publique qui régit notamment l'article L. huit cent vingt-deux-dix-huit relatif à l'imputabilité au service.
+
+COURS DÉTAILLÉ.
+
+I. PRÉSENTATION ET MÉTHODOLOGIE DU GUIDE.
+
+   A. Contexte et objectifs du projet.
+
+      Ce guide est le fruit d'une recherche commandée par la Fédération Hospitalière de France dans le cadre d'un appel à projets.
+
+      Le projet porte sur la compréhension, les modalités de prévention et de réaction face au risque suicidaire.
+
+      Le travail repose sur une revue de littérature illustrée par des verbatims issus d'expériences de terrain.
+
+      La méthodologie s'appuie sur un travail bibliographique important et sur une étude qualitative par entretiens d'experts.
+
+      Ces experts sont des personnels et des cadres hospitaliers ayant été confrontés directement à la gestion de phénomènes suicidaires.
+
+   B. Composition de l'équipe de recherche.
+
+      L'équipe interdisciplinaire est issue de différents laboratoires de recherche des Universités de Nîmes et d'Aix-Marseille.
+
+      Elle est coordonnée par un Maître de Conférences en sciences du management de l'UPR CHROME de l'Unîmes.
+
+      L'équipe comprend des Maîtres de Conférences en Psychologie Clinique de l'UPR APSY de l'Unîmes.
+
+      Elle intègre également des designers-chercheurs de l'UPR PROJEKT de l'Unîmes.
+
+      Un Professeur des universités en Psychologie sociale est également membre de cette équipe issue du LPS de l'AMU.
+
+   C. Structure de la documentation.
+
+      Le livrable final se compose de trois livrets ainsi que de deux posters imprimables au format A4 et A3.
+
+      Le premier livret permet de comprendre le phénomène suicidaire en présentant les processus et les facteurs de risque individuels et organisationnels.
+
+      Le second livret porte sur la détection et la prévention du risque suicidaire en proposant des outils et des retours d'expériences.
+
+      Le troisième livret est destiné aux cadres et responsables hospitaliers pour aborder la gestion de crise et les recommandations d'actions.
+
+      Les deux posters synthétisent les principaux éléments des livrets un et deux pour diffuser les outils de prévention au plus grand nombre.
+
+II. IDENTIFICATION DES SIGNES ANNONCIATEURS ET CONTEXTES À RISQUE.
+
+   A. Signes comportementaux et émotionnels.
+
+      L'individu peut manifester un fort repli sur soi accompagné d'une incapacité à établir des relations avec les autres, notamment avec ses collègues de travail.
+
+      On peut observer une expression régulière d'un manque de soutien de la part des amis, des collègues ou de l'organisation du travail.
+
+      Le sujet peut évoquer de manière récurrente un sentiment de solitude et d'isolement.
+
+      L'expression d'un fort sentiment d'échec, de perte d'espoir ou une dévalorisation de soi constitue un indicateur important.
+
+      Une augmentation de l'irritabilité, de l'agitation, de l'insatisfaction, de l'agressivité ou de l'impulsivité peut être identifiée.
+
+      Certains signes incluent une détérioration du sommeil ou le fait de parler de mettre de l'ordre dans ses affaires.
+
+   B. Facteurs de contexte et de vulnérabilité.
+
+      La vigilance doit être accrue lorsque des signes sont associés à une perte récente ou à des changements importants dans les conditions de travail.
+
+      La présence d'une dépression, d'un burn-out professionnel ou d'une fatigue inexpliquée augmente le niveau de risque.
+
+      Un évènement professionnel vécu comme embarrassant ou humiliant constitue un facteur de vulnérabilité.
+
+      L'augmentation des consommations de substances comme l'alcool, les drogues ou le tabac doit être surveillée.
+
+      Une modification de l'état de santé général de la personne est également un élément de contexte à prendre en compte.
+
+   C. Analyse des signaux faibles et retours d'expérience.
+
+      Les actes suicidaires sont souvent imprévisibles et il est nécessaire de guetter les signaux faibles car les personnes qui menacent de passer à l'acte sont parfois assez loin de le faire.
+
+      Certains individus peuvent préparer leur geste sur leur ordinateur en consultant des sites pour savoir comment passer à l'acte.
+
+      Les signaux faibles sont plus faciles à identifier après coup lorsqu'on les relie entre eux, comme le cas d'un collègue qui voyait toujours le verre à moitié vide ou qui était en colère permanente.
+
+      Il est important de noter que ceux qui veulent réellement mourir ne jouent pas forcément au chantage en disant qu'ils vont se suicider.
+
+      Le passage à l'acte peut surprendre alors que la personnalité de l'individu n'a pas changé, comme pour une personne discrète et déjà insatisfaite de sa position.
+
+      Des signaux comme la fatigue ou une pression intense peuvent être signalés par l'entourage sans pour autant être perçus comme des alertes immédiates.
+
+III. CADRE JURIDIQUE DE LA PRÉVENTION DES RISQUES PROFESSIONNELS.
+
+   A. Obligations de l'employeur et protection de la santé.
+
+      La loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois relative au statut général des fonctionnaires définit dans son article vingt-trois le principe de protection des agents en service.
+
+      L'article précise que des conditions d'hygiène et de sécurité de nature à préserver la santé et l'intégrité physique des fonctionnaires doivent être assurées durant leur travail.
+
+      L'employeur public est tenu d'appliquer un certain nombre de règles en matière de santé et de sécurité physique définies dans le Code du travail.
+
+      L'article L. quatre mille cent onze-un du Code du travail rend les dispositions de la quatrième partie relatives à la santé et sécurité au travail applicables aux établissements de santé sociaux et médico-sociaux.
+
+      Ces dispositions s'appliquent aux agents de la fonction publique hospitalière mentionnés à l'article deux de la loi n° quatre-vingt-six-trente-trois.
+
+   B. Principes généraux de prévention.
+
+      L'employeur est imposé de prendre les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs.
+
+      Ces mesures incluent la mise en œuvre d'actions de prévention des risques professionnels et des actions d'information et de formation.
+
+      L'employeur doit mettre en place une organisation et des moyens adaptés tout en évitant les risques et en évaluant ceux qui ne peuvent pas être évités.
+
+      Il doit combattre les risques à la source et adapter le travail à l'homme, notamment par la conception des postes et le choix des équipements.
+
+      La planification de la prévention doit intégrer la technique, l'organisation du travail, les conditions de travail et les relations sociales.
+
+      L'employeur doit donner les instructions appropriées aux travailleurs et donner la priorité aux mesures de protection collective sur les mesures de protection individuelle.
+
+   C. Le document unique d'évaluation des risques.
+
+      L'employeur est tenu de mettre en place le document unique pour la prévention des RPS en vertu des articles R4121-un et R4121-deux du Code du travail.
+
+      Le DUERP doit recenser les risques auxquels sont exposés l'ensemble des personnels médicaux et non médicaux des établissements de la fonction publique hospitalière.
+
+      L'évaluation des risques doit être menée au moins une fois par an et lors de toute décision d'aménagement important modifiant les conditions de santé et de sécurité.
+
+      Ce document comporte l'inventaire des risques identifiés dans chaque unité de travail, leur classement et des propositions d'actions à mettre en place.
+
+      Le DUERP peut être consulté par les salariés, les représentants du personnel et l'inspecteur du travail.
+
+      Les modalités de consultation de la formation spécialisée du comité social doivent être affichées sur le panneau d'information des personnels.
+
+IV. ACCOMPAGNEMENT ET PROCÉDURES EN CAS DE SUICIDE OU TENTATIVE.
+
+   A. Prise en charge des personnels et de la famille.
+
+      L'établissement doit prévenir ou prendre en charge les états de stress post traumatique des personnels de l'équipe par le biais de moyens médico-psychologiques internes.
+
+      La gouvernance de l'établissement, incluant la direction et le PCME, doit s'impliquer activement dans cette communication.
+
+      Concernant la famille, il convient de les contacter pour les informer des circonstances du suicide ainsi que des droits de l'agent ou des droits indemnitaires.
+
+      Il est approprié de proposer l'aide du service social de l'établissement, car les assistants de service social ont pour mission de soutenir les agents et leurs familles.
+
+      Le chef d'établissement doit nouer le contact avec la famille pour proposer aide et soutien avant et après les obsèques sans exercer de pression.
+
+      Une présence de l'établissement aux obsèques est souhaitable, sauf si la famille ou les proches indiquent qu'ils ne le souhaitent pas.
+
+   B. Procédures de consultation et d'information.
+
+      La formation spécialisée du comité social, qu'il s'agisse d'un CSA ou d'un CSE, doit être réunie dans les plus brefs délais après un accident grave.
+
+      Cette formation spécialisée procède à une enquête en cas d'accident de service grave et sa consultation s'étend également aux personnels médicaux.
+
+      L'information de l'inspection du travail est obligatoire lorsque le suicide ou la tentative de suicide occasionne le décès de l'agent.
+
+      Selon l'article R. quatre mille cent vingt et un-cinq du code du travail, l'employeur doit informer l'agent de contrôle de l'inspection du travail immédiatement ou au plus tard dans les douze heures suivant le décès.
+
+      Cette information doit comporter le nom de la victime, sa date de naissance, ainsi que la date, l'heure, le lieu et les circonstances de l'accident.
+
+   C. Rôle des cellules d'urgence médico-psychologique.
+
+      L'établissement peut recourir à la CUMP, mise en place par l'ARS pour chaque établissement de santé siège du SAMU, dans les conditions de l'article R. six mille trois cent onze-vingt-cinq du CSP.
+
+      Cette cellule est composée de médecins psychiatres, de psychologues et d'infirmiers volontaires dont l'intervention est coordonnée par un psychiatre référent.
+
+      La CUMP est chargée d'assurer la prise en charge médico-psychologique des victimes d'accidents susceptibles d'entraîner d'importantes répercussions psychologiques.
+
+      Les praticiens de la CUMP peuvent recourir à des numéros verts, gratuits et anonymes, de soutien psychologique.
+
+      Le service prévention et santé au travail peut être mobilisé pour prendre le relais de la CUMP et mettre en place des suivis adaptés.
+
+V. RÉGIME DE L'IMPUTABILITÉ AU SERVICE.
+
+   A. Conditions pour les fonctionnaires.
+
+      L'imputabilité au service pour les fonctionnaires est régie par l'article L. huit cent vingt-deux-dix-huit du CGFP. Elle est présumée pour tout accident survenu dans le temps et le lieu du service ou lors d'une activité qui en constitue le prolongement normal, sauf faute personnelle ou circonstance particulière.
+
+      Pour les PU-PH et les MCU-PH, l'instruction du dossier en vue d'une reconnaissance est effectuée par les services de l'université en lien avec le CNG.
+
+      L'autorité administrative dispose d'un délai de un mois pour se prononcer après la réception de la déclaration d'accident et du certificat médical. Ce délai peut être majoré de trois mois en cas d'examen par le médecin agréé ou de saisine du conseil médical.
+
+      Le conseil médical est systématiquement consulté lorsque la faute personnelle ou une circonstance particulière est potentiellement de nature à détacher l'accident du service.
+
+      L'administration peut également faire procéder à une expertise médicale du demandeur par un médecin agréé pour instruire une demande de congé pour invalidité temporaire imputable au service.
+
+      En cas de contestation d'une décision de refus, le juge administratif est compétent pour se prononcer au vu des circonstances de l'espèce.
+
+   B. Conditions pour les agents non fonctionnaires.
+
+      Les agents publics non fonctionnaires sont régis par l'article L. quatre cent onze-un du code de la sécurité sociale. C'est la CPAM qui est compétente pour reconnaître l'imputabilité au service.
+
+      Lorsque le suicide ou la tentative intervient au temps et au lieu de travail, son imputabilité est présumée. Il appartient alors à la CPAM de rapporter la preuve que la cause est entièrement étrangère au travail.
+
+      Pour les actes survenant en dehors du lien de subordination, l'imputabilité est reconnue si l'agent établit que l'événement est survenu par le fait du travail.
+
+      La jurisprudence de la Cour de cassation distingue les situations où l'acte est motivé par des éléments professionnels de celles où il résulte d'un état pathologique préexistant sans lien avec le travail.
+
+   C. Jurisprudence sur le lien direct avec le service.
+
+      Le Conseil d'Etat a rendu un arrêt le seize juillet deux mille quatorze qui pose le principe de la présomption d'imputabilité pour les accidents survenant au temps et au lieu du service.
+
+      Une décision du Conseil d'Etat le vingt-sept mars deux mille quinze confirme qu'un suicide survenu sur le lieu de travail est imputable au service s'il n'existe aucune circonstance particulière le détachant de celui-ci.
+
+      La jurisprudence admet l'imputabilité en dehors du temps et du lieu de travail si un lien direct avec le service est établi, comme dans l'affaire de l'infirmière de la CAA de Douai le vingt-sept juin deux mille vingt-trois.
+
+      À l'inverse, la CAA de Paris a rejeté l'imputabilité le vingt novembre deux mille vingt-trois pour une altercation qui ne présentait pas un caractère de soudaineté permettant de qualifier l'événement d'accident de service.
+
+      La CAA de Marseille a également écarté le lien direct le dix-neuf octobre deux mille vingt et un en raison d'une maladie dégénérative et de troubles cognitifs préexistants à la tentative de suicide.
+
+      La Cour de cassation a rappelé le premier juin deux mille vingt-trois que l'imminence d'un licenciement ne peut être considérée comme un fait accidentel si elle procède d'une action réfléchie et volontaire de l'intéressé.
+
+VI. CONSÉQUENCES DE LA RECONNAISSANCE COMME ACCIDENT DU TRAVAIL.
+
+   A. Prestations et congés pour invalidité.
+
+      L'agent victime d'une tentative de suicide reconnue imputable au service bénéficie de congés rémunérés et de la prise en charge des soins directement entraînés par l'accident.
+
+      Pour le fonctionnaire, l'article L. huit cent vingt-deux-vingt et un du CGFP prévoit le congé pour invalidité temporaire imputable au service, le CITIS, lorsque l'incapacité est consécutive à un accident reconnu.
+
+      Le fonctionnaire conserve l'intégralité de son traitement jusqu'à sa reprise de service ou jusqu'à sa mise à la retraite selon l'article L. huit cent vingt-deux-vingt-deux du CGFP.
+
+      Les agents publics non fonctionnaires perçoivent leur rémunération selon leurs statuts respectifs car ils ne perçoivent pas les indemnités journalières de la sécurité sociale.
+
+      Les praticiens hospitaliers sont placés en congé pour une durée maximale de cinq ans avec le versement des émoluments prévus à l'article R. six mille cent cinquante-deux-vingt-trois du CSP.
+
+      Les agents contractuels bénéficient d'un congé jusqu'à la guérison, la consolidation ou le décès, avec un plein traitement limité à un mois après un mois de service, deux mois après un an, ou trois mois après trois ans.
+
+   B. Réparations forfaitaires et pensions.
+
+      Le fonctionnaire victime d'une incapacité permanente d'au moins dix pour cent peut prétendre à une allocation temporaire d'invalidité cumulable avec son traitement selon l'article L. huit cent vingt-quatre-un du CGFP.
+
+      En cas d'incapacité permanente empêchant la poursuite des fonctions, le fonctionnaire de l'Etat peut être radié des cadres par anticipation pour bénéficier d'une rente viagère d'invalidité.
+
+      Le conjoint d'un fonctionnaire peut obtenir une pension de réversion égale à cinquante pour cent de la pension obtenue par l'agent ou celle qu'il aurait pu obtenir au jour de son décès.
+
+      Chaque orphelin de fonctionnaire a droit jusqu'à l'âge de vingt et un ans à une pension égale à dix pour cent de la pension de l'agent, augmentée de dix pour cent de la rente d'invalidité le cas échéant.
+
+      Pour les agents non fonctionnaires, une incapacité permanente inférieure à dix pour cent donne lieu à une indemnité sous forme de capital selon un barème fixé par l'article D. quatre cent trente-quatre-un du CSS.
+
+      Une incapacité égale ou supérieure à dix pour cent est indemnisée par une rente égale au salaire annuel multiplié par le taux d'incapacité conformément à l'article R. quatre cent trente-quatre-deux du CSS.
+
+   C. Indemnisations complémentaires et aides sociales.
+
+      Le fonctionnaire bénéficie du remboursement des honoraires médicaux et des frais directement entraînés par son accident selon l'article L. huit cent vingt-deux-vingt-quatre du CGFP.
+
+      Les agents publics non fonctionnaires ont droit à la couverture des frais médicaux, chirurgicaux et pharmaceutaux dans les limites des tarifs de l'assurance maladie selon le livre IV du CSS.
+
+      Le capital décès pour un fonctionnaire décédé suite à un accident de service est égal à douze fois le montant de son dernier traitement indiciaire brut mensuel selon l'article D. sept cent douze-vingt-trois-un du CSS.
+
+      Les ayants droit des agents non fonctionnaires peuvent percevoir un capital décès forfaitaire déterminé par décret selon l'article L. trois cent soixante et un-un du CSS.
+
+      Les ordres professionnels comme l'Ordre des médecins, des pharmaciens ou des chirurgiens-dentistes disposent d'un dispositif d'assistance financière en urgence via leur comité national d'entraide.
+
+VII. RESSOURCES ET DISPOSITIFS D'AIDE.
+
+   A. Recommandations de la Haute Autorité de Santé.
+
+      L'infirmier et le médecin du travail constituent des interlocuteurs privilégiés pour la prévention.
+
+      Il est recommandé d'évoquer et d'interroger sur des idées suicidaires lors de consultations de médecine du travail répétées, notamment après un arrêt maladie.
+
+      La recherche d'abus de toxiques comme l'alcool doit être effectuée en tant que facteur de risque associé.
+
+      Il convient de contacter l'entourage familial si cela peut aider à une diminution des tensions.
+
+      Le médecin généraliste doit être privilégié comme premier interlocuteur du soin.
+
+      Il est nécessaire de recourir à l'urgence en cas d'expression de troubles psychiques aigus évoquant l'imminence d'un passage à l'acte.
+
+   B. Numéros d'urgence et dispositifs nationaux.
+
+      Le numéro national santé mentale trois mille cent quatorze a été lancé le premier octobre deux mille vingt et un.
+
+      Ce numéro d'appel est gratuit et accessible 24H/vingt-quatre et 7J/sept pour les personnes ayant des idées suicidaires et leur entourage.
+
+      Il permet la prise en charge des premières idées de mort jusqu'à la crise suicidaire et l'orientation vers les personnes ressources.
+
+      L'association PSSM France a été créée en deux mille dix-huit pour former des secouristes en santé mentale.
+
+      Ce programme vise à mieux repérer et réagir face aux troubles pour contribuer à la déstigmatisation des pathologies psychiques.
+
+   C. Outils de formation et de prévention.
+
+      Une plaquette d'information est élaborée à destination de l'ensemble des agents.
+
+      Un kit d'outils d'accompagnement est disponible en format PDF pour l'identification, l'évaluation et la prévention des RPS dans la fonction publique.
+
+      Des référentiels de formation et des indicateurs de diagnostic des risques psychosociaux sont proposés.
+
+      L'association Française PSSM propose un guide pour accompagner les employeurs dans la mise en œuvre de la formation des salariés aux premiers secours en santé mentale.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre la présomption d'imputabilité au service qui s'applique automatiquement si le geste a lieu au temps et au lieu du travail, avec le cas où le suicide survient en dehors de ces cadres.
+
+      Dans le cas d'un acte hors du temps et du lieu de travail, l'imputabilité n'est pas présumée mais doit être prouvée par l'existence d'un lien direct avec le service.
+
+      Une distinction juridique majeure doit être opérée entre les fonctionnaires qui relèvent du code général de la fonction publique et les agents non fonctionnaires régis par le code de la sécurité sociale.
+
+      L'imputabilité pour un fonctionnaire est reconnue par l'établissement public de santé, tandis que pour un agent non fonctionnaire, la décision appartient à la CPAM.
+
+      Il est crucial de noter que les signes annonciateurs ne sont pas des règles garantissant un passage à l'acte, car le suicide est un phénomène multifactoriel et souvent imprévisible.
+
+EXEMPLES CITÉS.
+
+      En France, on enregistre un mort par suicide toutes les heures et une tentative de suicide toutes les quarante secondes.
+
+      Le Conseil d'Etat a jugé en deux mille quatorze qu'un suicide survenu au temps et au lieu du service est présumé imputable au service, sauf circonstances particulières détachables.
+
+      Une infirmière a obtenu la reconnaissance de l'imputabilité au service par la CAA de Douai le vingt-sept juin deux mille vingt-trois, malgré un acte commis à son domicile.
+
+      L'article L. huit cent vingt-deux-dix-huit du CGFP précise que l'imputabilité est présumée pour tout accident survenu à un fonctionnaire dans le temps et le lieu du service.
+
+      Le numéro national de prévention du suicide trois mille cent quatorze est accessible 24H/vingt-quatre et 7J/sept pour les personnes en souffrance psychique.
