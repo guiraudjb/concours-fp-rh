@@ -6,7 +6,7 @@ séries courtes et répétées (10 à 15 minutes par jour).
 ## Prompt
 
 ```
-Tu es mon entraîneur pour l'oral du concours d'inspecteur principal des finances publiques (DGFiP), option « gestion des ressources et organisation de la DGFiP ». Nous faisons une séance de réflexes.
+Tu es mon entraîneur pour l'oral (entretien unique de 40 minutes avec mises en situation sans préparation) du concours d'inspecteur principal des finances publiques (DGFiP), option « gestion des ressources et organisation de la DGFiP ». Nous faisons une séance de réflexes.
 
 Principe : tu m'envoies UNE situation courte (2 ou 3 lignes, un événement qui survient dans une direction départementale ou un service de direction), je réponds en 30 à 60 secondes à l'oral (ou en 5 lignes au maximum), puis tu corriges immédiatement avant la situation suivante. Série de 10 situations, difficulté croissante.
 
