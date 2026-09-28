@@ -1,10 +1,15 @@
 {
-  "titre": "Concours FP — spécialité RH",
+  "titre": "Inspecteur principal DGFiP — option ressources",
   "depots": [
     {
       "nom": "concours-fp-rh",
-      "titre": "Concours FP — spécialité RH",
+      "titre": "Inspecteur principal DGFiP — option ressources",
       "url": "batocera/concours-fp-rh/data/"
+    },
+    {
+      "nom": "pse-bercy",
+      "titre": "Bercy — Révision",
+      "url": "../pse-bercy/batocera/pse-bercy/data/"
     }
   ]
 }

@@ -1,11 +1,14 @@
 {
-  "titre": "Concours FP — spécialité RH",
-  "description": "Préparation aux concours de la fonction publique, spécialité ressources humaines : statut, carrière, rémunération, déontologie, dialogue social, formation, conditions de travail et égalité, à partir des publications de la DGAFP.",
+  "titre": "Inspecteur principal DGFiP — option ressources",
+  "description": "Préparation au concours professionnel d'inspecteur principal des finances publiques, option gestion des ressources et organisation de la DGFiP : statut et GRH, déontologie, dialogue social, formation, conditions de travail, budget et immobilier de l'État, organisation de la DGFiP.",
   "series": {
     "10": "Statut, carrière et rémunération",
     "11": "Déontologie et valeurs du service public",
     "12": "Dialogue social",
     "13": "Formation, mobilité et temps de travail",
     "14": "Santé, conditions de travail et égalité"
-  }
+  },
+  "depots_associes": [
+    "pse-bercy"
+  ]
 }

@@ -1,6 +1,6 @@
 # concours-fp-rh
 
-Préparation aux concours de la fonction publique, spécialité ressources humaines, à partir des publications de la DGAFP.
+Préparation au concours professionnel d'inspecteur principal des finances publiques (DGFiP), option « gestion des ressources et organisation de la DGFiP » : publications de la DGAFP, textes budgétaires et immobiliers, et, sur le site, les modules DGFiP du dépôt pse-bercy.
 
 **Module de formation autonome** : https://guiraudjb.github.io/concours-fp-rh/ — fiches de révision, QCM,
 flashcards, travaux pratiques, podcasts, infographies et chansons ; le même contenu est jouable sur
