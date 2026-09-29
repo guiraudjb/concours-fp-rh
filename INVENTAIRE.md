@@ -1,28 +1,29 @@
 # Inventaire des modules et des médias — concours-fp-rh
 
-Généré le 29/09/2026 à 23:05 par `scripts/inventaire_medias.py` (134 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
+Généré le 30/09/2026 à 00:15 par `scripts/inventaire_medias.py` (135 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
 
 ## Synthèse
 
 | Contenu | Présents | Absents | Couverture |
 |---|---:|---:|---:|
-| Fiche | 134 | 0 | 100 % |
-| QCM | 134 | 0 | 100 % |
-| Flash | 134 | 0 | 100 % |
-| TP | 134 | 0 | 100 % |
-| Icône | 134 | 0 | 100 % |
-| Infographie | 134 | 0 | 100 % |
-| Paroles | 134 | 0 | 100 % |
-| Chanson | 134 | 0 | 100 % |
-| Podcast | 85 | 49 | 63 % |
-| Micro-chronique | 85 | 49 | 63 % |
-| Narration fiche | 0 | 134 | 0 % |
-| Audio QCM/flash | 0 | 134 | 0 % |
+| Fiche | 135 | 0 | 100 % |
+| QCM | 135 | 0 | 100 % |
+| Flash | 135 | 0 | 100 % |
+| TP | 135 | 0 | 100 % |
+| Icône | 135 | 0 | 100 % |
+| Infographie | 135 | 0 | 100 % |
+| Paroles | 135 | 0 | 100 % |
+| Chanson | 135 | 0 | 100 % |
+| Podcast | 88 | 47 | 65 % |
+| Micro-chronique | 88 | 47 | 65 % |
+| Narration fiche | 1 | 134 | 0 % |
+| Audio QCM/flash | 0 | 135 | 0 % |
 
 ## Par série
 
 | Série | Modules | Fiche | QCM | Flash | TP | Icône | Infographie | Paroles | Chanson | Podcast | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 |
 | 10 Statut, carrière et rémunération | 41 | 41 | 41 | 41 | 41 | 41 | 41 | 41 | 41 | 32 | 32 | 0 | 0 |
 | 11 Déontologie et valeurs du service public | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 0 | 0 | 0 | 0 |
 | 12 Dialogue social | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 0 | 0 | 0 | 0 |
@@ -31,12 +32,13 @@ Généré le 29/09/2026 à 23:05 par `scripts/inventaire_medias.py` (134 modules
 | 15 Méthode et annales du concours | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 0 | 0 |
 | 16 Budget, immobilier et organisation | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 0 | 0 |
 | 17 Management et encadrement | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 0 | 0 |
-| 18 Analyse financière | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 8 | 8 | 0 | 0 |
+| 18 Analyse financière | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 0 | 0 |
 
 ## Détail par module
 
 | Module | Fiche | QCM | Flash | TP | Icône | Infographie | Paroles | Chanson | Podcast | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 00-10 ANSSI - Rapport d'incident sur les cyberattaques ayant touché la DGFiP (2026) | ✅ | 28 | 22 | 9 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 | 10-10 DGAFP - Filière RH, grands principes du droit de la fonction publique (1 sur 2) | ✅ | 27 | 24 | 6 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 10-11 DGAFP - Filière RH, grands principes du droit de la fonction publique (2 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 10-20 DGAFP - Filière RH, statuts particuliers | ✅ | 23 | 25 | 6 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
@@ -169,5 +171,5 @@ Généré le 29/09/2026 à 23:05 par `scripts/inventaire_medias.py` (134 modules
 | 18-50 Cour des comptes - Les finances publiques locales 2025 (1 sur 3) | ✅ | 27 | 25 | 15 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | 18-51 Cour des comptes - Les finances publiques locales 2025 (2 sur 3) | ✅ | 29 | 22 | 15 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | 18-52 Cour des comptes - Les finances publiques locales 2025 (3 sur 3) | ✅ | 28 | 25 | 15 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| 18-60 Banque de France - Analyse financière de l'entreprise, bilan et haut de bilan | ✅ | 28 | 25 | 8 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| 18-70 Banque de France - Soldes intermédiaires de gestion et solvabilité | ✅ | 28 | 24 | 11 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| 18-60 Banque de France - Analyse financière de l'entreprise, bilan et haut de bilan | ✅ | 28 | 25 | 8 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| 18-70 Banque de France - Soldes intermédiaires de gestion et solvabilité | ✅ | 28 | 24 | 11 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
