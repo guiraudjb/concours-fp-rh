@@ -14,5 +14,9 @@
   },
   "depots_associes": [
     "pse-bercy"
-  ]
+  ],
+  "podcast": {
+    "fil_rouge": "une direction départementale des finances publiques imaginaire, son inspecteur principal nouvellement nommé, ses agents",
+    "concours": true
+  }
 }
