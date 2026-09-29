@@ -1,6 +1,6 @@
 # Inventaire des modules et des médias — concours-fp-rh
 
-Généré le 29/09/2026 à 22:59 par `scripts/inventaire_medias.py` (134 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
+Généré le 29/09/2026 à 23:05 par `scripts/inventaire_medias.py` (134 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
 
 ## Synthèse
 
@@ -9,13 +9,13 @@ Généré le 29/09/2026 à 22:59 par `scripts/inventaire_medias.py` (134 modules
 | Fiche | 134 | 0 | 100 % |
 | QCM | 134 | 0 | 100 % |
 | Flash | 134 | 0 | 100 % |
-| TP | 129 | 5 | 96 % |
+| TP | 134 | 0 | 100 % |
 | Icône | 134 | 0 | 100 % |
 | Infographie | 134 | 0 | 100 % |
 | Paroles | 134 | 0 | 100 % |
 | Chanson | 134 | 0 | 100 % |
-| Podcast | 84 | 50 | 62 % |
-| Micro-chronique | 84 | 50 | 62 % |
+| Podcast | 85 | 49 | 63 % |
+| Micro-chronique | 85 | 49 | 63 % |
 | Narration fiche | 0 | 134 | 0 % |
 | Audio QCM/flash | 0 | 134 | 0 % |
 
@@ -31,7 +31,7 @@ Généré le 29/09/2026 à 22:59 par `scripts/inventaire_medias.py` (134 modules
 | 15 Méthode et annales du concours | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 0 | 0 |
 | 16 Budget, immobilier et organisation | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 0 | 0 |
 | 17 Management et encadrement | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 0 | 0 |
-| 18 Analyse financière | 10 | 10 | 10 | 10 | 5 | 10 | 10 | 10 | 10 | 7 | 7 | 0 | 0 |
+| 18 Analyse financière | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 8 | 8 | 0 | 0 |
 
 ## Détail par module
 
@@ -163,11 +163,11 @@ Généré le 29/09/2026 à 22:59 par `scripts/inventaire_medias.py` (134 modules
 | 17-71 DGAFP - Gestion prévisionnelle des ressources humaines dans les services de l'État (2 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | 18-05 IP DGFiP - Méthode de la partie analyse financière (épreuve professionnelle 2027) | ✅ | 26 | 25 | 19 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | 18-10 DGFiP - Analyse financière des communes, équilibres fondamentaux et ratios | ✅ | 24 | 24 | 21 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| 18-20 Banque des Territoires - Finances locales, budget, fiscalité et équilibre | ✅ | 27 | 24 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| 18-20 Banque des Territoires - Finances locales, budget, fiscalité et équilibre | ✅ | 27 | 24 | 10 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | 18-30 DGFiP - Conseil financier et fiscal aux collectivités et établissements publics locaux | ✅ | 27 | 25 | 10 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| 18-40 OFGL - Les finances des collectivités locales en 2025 | ✅ | 30 | 25 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| 18-50 Cour des comptes - Les finances publiques locales 2025 (1 sur 3) | ✅ | 27 | 25 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| 18-51 Cour des comptes - Les finances publiques locales 2025 (2 sur 3) | ✅ | 29 | 22 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| 18-52 Cour des comptes - Les finances publiques locales 2025 (3 sur 3) | ✅ | 28 | 25 | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| 18-40 OFGL - Les finances des collectivités locales en 2025 | ✅ | 30 | 25 | 11 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| 18-50 Cour des comptes - Les finances publiques locales 2025 (1 sur 3) | ✅ | 27 | 25 | 15 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| 18-51 Cour des comptes - Les finances publiques locales 2025 (2 sur 3) | ✅ | 29 | 22 | 15 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| 18-52 Cour des comptes - Les finances publiques locales 2025 (3 sur 3) | ✅ | 28 | 25 | 15 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | 18-60 Banque de France - Analyse financière de l'entreprise, bilan et haut de bilan | ✅ | 28 | 25 | 8 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 18-70 Banque de France - Soldes intermédiaires de gestion et solvabilité | ✅ | 28 | 24 | 11 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
