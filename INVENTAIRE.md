@@ -1,6 +1,6 @@
 # Inventaire des modules et des médias — concours-fp-rh
 
-Généré le 30/09/2026 à 00:15 par `scripts/inventaire_medias.py` (135 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
+Généré le 30/09/2026 à 00:21 par `scripts/inventaire_medias.py` (135 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
 
 ## Synthèse
 
@@ -17,13 +17,13 @@ Généré le 30/09/2026 à 00:15 par `scripts/inventaire_medias.py` (135 modules
 | Podcast | 88 | 47 | 65 % |
 | Micro-chronique | 88 | 47 | 65 % |
 | Narration fiche | 1 | 134 | 0 % |
-| Audio QCM/flash | 0 | 135 | 0 % |
+| Audio QCM/flash | 1 | 134 | 0 % |
 
 ## Par série
 
 | Série | Modules | Fiche | QCM | Flash | TP | Icône | Infographie | Paroles | Chanson | Podcast | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 |
+| 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | 10 Statut, carrière et rémunération | 41 | 41 | 41 | 41 | 41 | 41 | 41 | 41 | 41 | 32 | 32 | 0 | 0 |
 | 11 Déontologie et valeurs du service public | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 0 | 0 | 0 | 0 |
 | 12 Dialogue social | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 0 | 0 | 0 | 0 |
@@ -38,7 +38,7 @@ Généré le 30/09/2026 à 00:15 par `scripts/inventaire_medias.py` (135 modules
 
 | Module | Fiche | QCM | Flash | TP | Icône | Infographie | Paroles | Chanson | Podcast | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 00-10 ANSSI - Rapport d'incident sur les cyberattaques ayant touché la DGFiP (2026) | ✅ | 28 | 22 | 9 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 00-10 ANSSI - Rapport d'incident sur les cyberattaques ayant touché la DGFiP (2026) | ✅ | 28 | 22 | 9 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 10-10 DGAFP - Filière RH, grands principes du droit de la fonction publique (1 sur 2) | ✅ | 27 | 24 | 6 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 10-11 DGAFP - Filière RH, grands principes du droit de la fonction publique (2 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 10-20 DGAFP - Filière RH, statuts particuliers | ✅ | 23 | 25 | 6 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
