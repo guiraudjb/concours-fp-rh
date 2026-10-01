@@ -1,0 +1,191 @@
+ÉVOLUTION DE L'ACCÈS AUX SERVICES PUBLICS, ÉTAT DES LIEUX QUANTITATIF DES CANAUX DE CONTACT ENTRE 2021 ET 2024 (DITP, 2026).
+
+LEXIQUE COMPLET.
+
+      La DITP, Direction interministérielle de la transformation publique, pilote le déploiement des réformes, territorialise l'action publique, améliore la qualité et l'accessibilité des services publics, simplifie la vie des Français et des agents et améliore l'efficience de l'action publique.
+
+      Le CITP est le comité interministériel de la transformation publique.
+
+      Une sollicitation est un contact entre un usager et un agent public, par téléphone, numérique, accueil physique ou courrier.
+
+      Un canal de contact est le moyen par lequel l'usager sollicite le service public.
+
+      Les usages autonomes, ou selfcare, sont les ressources qui permettent à l'usager de faire ses démarches sans recourir à un agent, comme les sites, les applications, les comptes personnels et les chatbots.
+
+      Le taux de décroché agent rapporte les appels décrochés par un agent aux appels entrés en file d'attente et aux appels dissuadés avant la file d'attente.
+
+      Le serveur vocal interactif, ou SVI, est le répondeur automatisé qui oriente ou renseigne l'usager sans agent.
+
+      France services est le réseau labellisé de guichets de proximité qui accompagnent les usagers pour le compte de partenaires nationaux et locaux.
+
+      Un usager unique est une personne comptée une seule fois quel que soit le nombre de ses contacts, ce qui suppose un outil de gestion de la relation usager.
+
+COURS DÉTAILLÉ.
+
+I. LE CADRE DE L'ÉTUDE.
+
+   A. Le mandat.
+
+      Le CITP de 2023 a chargé la DITP de collecter les données de fréquentation des canaux des administrations en contact avec le public, décision prise lors du 7e CITP de mai 2023.
+
+      L'objectif est de connaître les sollicitations réelles, et non les seules préférences captées par les sondages.
+
+      La Cour des comptes, dans son rapport de septembre 2024 sur France services, a souligné le besoin d'une vision partagée des flux pour suivre l'usager dans son parcours.
+
+   B. Le périmètre et les limites.
+
+      L'étude couvre 25 services publics de l'État et de la sécurité sociale, sans les collectivités territoriales, l'enseignement ni les soins.
+
+      Les données sont récentes et hétérogènes, le courrier est peu suivi et donc sous-estimé, et l'étude ne distingue pas un changement d'habitude des usagers d'une restriction d'un canal par l'administration.
+
+      L'année 2021 est marquée par la crise sanitaire, ce qui rend les comparaisons délicates.
+
+II. LA VISION GLOBALE DES INTERACTIONS.
+
+   A. Les usages autonomes dominent.
+
+      En 2024, les sites et applications des 25 services ont reçu 4,1 milliards de visites et 188 millions de comptes personnels étaient actifs.
+
+   B. Les sollicitations des agents restent nombreuses.
+
+      Plus de 259 millions de sollicitations ont été adressées aux agents publics en 2024, soit 4,3 par personne de 15 ans et plus et par an.
+
+      Malgré la dématérialisation, ce volume a augmenté entre 2021 et 2024 à périmètre constant, de 194 à 205 millions pour 13 services.
+
+   C. Les canaux.
+
+      Le téléphone est le premier canal d'échange avec un agent, avec 41 pour cent des échanges en 2024.
+
+      Les courriels et messageries arrivent en deuxième position, l'accueil physique en troisième et le courrier en dernier.
+
+      Entre 2021 et 2024, la part de l'accueil physique a progressé et celle du numérique a diminué.
+
+   D. Les services les plus sollicités.
+
+      France Travail représente 25 pour cent des sollicitations, la DGFiP 14 pour cent, la CNAF 14 pour cent et l'Assurance maladie 12 pour cent, soit 62 pour cent à eux quatre.
+
+      Le volume de France Travail tient à la récurrence des échanges, actualisation et accompagnement des demandeurs d'emploi.
+
+   E. Les modèles d'accès.
+
+      Le téléphone prédomine dans la majorité des services, avec près des trois quarts des sollicitations à l'Assurance maladie ou à l'Anah.
+
+      Seuls France Travail et la DGFiP ont un modèle dominé par le numérique, et France services un modèle dominé par l'accueil physique, avec 82 pour cent.
+
+III. LA VISION PAR USAGER UNIQUE.
+
+      Le nombre de sollicitations par usager unique est le plus élevé au téléphone, puis au numérique, puis à l'accueil physique, ce qui reflète le faible coût d'usage du téléphone.
+
+      À l'Assurance retraite, un usager sur deux a utilisé le téléphone et un sur huit l'accueil physique, contre deux sur trois et un sur six à la MSA.
+
+      Le téléphone a un usage presque universel, tandis que le physique et le numérique sont plus segmentés.
+
+      À l'Assurance maladie, 92 pour cent des usagers uniques ont utilisé le numérique, 22 pour cent le téléphone et 5 pour cent l'accueil physique.
+
+IV. L'ÉTAT DES LIEUX PAR CANAL.
+
+   A. L'accueil physique.
+
+      41 millions de visites ont eu lieu en 2024, soit 18 pour cent des échanges, dont 35 pour cent sur rendez-vous.
+
+      La part de l'accueil physique est passée de 16 à 18 pour cent entre 2021 et 2024, soit une hausse de 18 pour cent et 5,5 millions de visites, portée surtout par France services.
+
+      Les services les plus fréquentés au guichet sont la DGFiP avec 22 pour cent, France Travail avec 21 pour cent, la CNAF avec 13 pour cent et la Police nationale avec 9,5 pour cent.
+
+   B. Le téléphone.
+
+      117 millions d'échanges téléphoniques ont eu lieu en 2024 avec 24 services.
+
+      L'Assurance maladie représente 19 pour cent des échanges, France Travail 15 pour cent, les préfectures 15 pour cent et la CNAF 10 pour cent, soit 59 pour cent à eux quatre.
+
+      Une grande partie des appels est traitée par les serveurs vocaux, dissuadée ou abandonnée, et seuls les appels décrochés par un agent sont comptés.
+
+      Le taux de décroché global est passé de 77,6 pour cent au deuxième trimestre 2023 à 81,8 pour cent au deuxième trimestre 2025, soit plus 4,2 points, pour un objectif de 85 pour cent fixé par le plan téléphone du CITP de 2023.
+
+   C. Le numérique.
+
+      78 millions de sollicitations numériques ont été reçues en 2024 par courriel, messagerie, formulaire, chat avec un agent ou visioconférence.
+
+      À périmètre constant, elles ont baissé de 3 pour cent entre 2021 et 2024, et leur part est passée de 37 à 34 pour cent.
+
+      France Travail est passé de 27 à près de 35 millions de sollicitations numériques, tandis que l'Assurance maladie est passée de 14 à 4,7 millions grâce à un chatbot.
+
+      Les visioconférences ont augmenté de 335 pour cent et les chats de 41 pour cent, mais ils ne représentent que 1 pour cent des sollicitations numériques.
+
+      France Travail concentre 45 pour cent des sollicitations numériques, la DGFiP 21 pour cent, la CNAF 9 pour cent et l'Urssaf 8 pour cent.
+
+   D. Le courrier papier.
+
+      Les services ont reçu 23 millions de courriers en 2024, un volume stable mais sous-estimé, car de nombreux services ont cessé de le suivre.
+
+V. FRANCE SERVICES.
+
+   A. Une croissance continue.
+
+      En 2024, France services a réalisé 11,2 millions d'actes pour 9 millions d'usagers, soit 1,2 acte par usager.
+
+      Les accompagnements ont été multipliés par près de quatre entre 2021 et 2024, pour atteindre 8,9 millions.
+
+      Le nombre de structures labellisées est passé de 1 300 à 2 840.
+
+   B. Les modalités.
+
+      81 pour cent des accompagnements se font en accueil physique, 18 pour cent par téléphone, 1 pour cent par courriel et 0,1 pour cent en visioconférence.
+
+      35 pour cent des accompagnements physiques se font sur rendez-vous, comme la moyenne des services publics.
+
+   C. Les partenaires.
+
+      4,5 millions d'accompagnements ont été réalisés pour les partenaires nationaux, DGFiP, France Travail, CNAF, Assurance maladie, point-justice, MSA, Assurance retraite, Urssaf et ministère de l'Intérieur.
+
+      Le poids de France services dans l'accueil physique varie de 3 pour cent pour France Travail à 59 pour cent pour l'Assurance retraite.
+
+      La fréquentation des guichets des partenaires augmente aussi, sauf à l'Assurance maladie et à la DGFiP, et une étude qualitative reste nécessaire pour savoir s'il y a transfert ou complémentarité.
+
+VI. LES NOUVELLES TENDANCES.
+
+   A. Les usages autonomes.
+
+      Entre 2021 et 2024, les visites sur les sites et applications ont augmenté de 8,7 pour cent, les comptes usagers actifs de 24 pour cent et les sessions de chatbot de 119 pour cent.
+
+      Les usages autonomes visent à augmenter la satisfaction des usagers et à diminuer les contacts entrants.
+
+   B. La dématérialisation des démarches.
+
+      Le taux de réalisation en ligne progresse constamment, par exemple pour la déclaration de revenus, la contestation d'avis de contravention ou la demande de RSA.
+
+      Ces taux incluent des démarches faites par des agents ou des aidants pour des usagers éloignés du numérique.
+
+   C. Le développement du rendez-vous.
+
+      23,8 millions de rendez-vous ont eu lieu en 2024, 12 millions en accueil physique et 11,8 millions au téléphone.
+
+      Au guichet, la part du rendez-vous va de 67 à 70 pour cent pour l'Assurance retraite à 6 à 10 pour cent pour la DGFiP.
+
+      Au téléphone, elle va de 35 pour cent pour France Travail à 1 pour cent pour France Titres.
+
+POINTS D'ATTENTION.
+
+      Le mandat vient du CITP de mai 2023 et l'étude couvre 25 services de l'État et de la sécurité sociale.
+
+      Retenir 259 millions de sollicitations d'agents en 2024, soit 4,3 par personne et par an.
+
+      Le téléphone est le premier canal avec un agent, 41 pour cent des échanges, malgré 4,1 milliards de visites en ligne.
+
+      Les sollicitations d'agents augmentent malgré la dématérialisation.
+
+      Le taux de décroché atteint 81,8 pour cent au deuxième trimestre 2025 pour un objectif de 85 pour cent.
+
+      France services passe de 1 300 à 2 840 structures et multiplie ses accompagnements par près de quatre entre 2021 et 2024.
+
+      Les comparaisons avec 2021 sont faussées par la crise sanitaire et le courrier est sous-estimé.
+
+EXEMPLES CITES.
+
+      Assurance maladie, sollicitations numériques réduites de 14 à 4,7 millions grâce à un chatbot.
+
+      France Travail, 25 pour cent de l'ensemble des sollicitations.
+
+      DGFiP, premier service au guichet physique avec 22 pour cent des visites.
+
+      Assurance retraite, 59 pour cent de son accueil physique réalisé en France services.

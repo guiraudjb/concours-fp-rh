@@ -1,0 +1,185 @@
+PLAN TÉLÉPHONE, BILAN POUR LES SERVICES PUBLICS 2023-2025, DEUX ANNÉES DÉDIÉES À L'AMÉLIORATION DU CANAL D'ACCÈS PRIVILÉGIÉ PAR LES FRANÇAIS (DITP, FÉVRIER 2026).
+
+LEXIQUE COMPLET.
+
+      Le plan téléphone est l'engagement pris par le gouvernement au comité interministériel de la transformation publique du 7 mai 2023 pour améliorer l'accueil téléphonique des services publics.
+
+      Services Publics plus est le programme d'amélioration continue de la qualité et de l'efficacité des services publics, commun à toutes les administrations, dont l'engagement 2 porte sur la facilité d'accès.
+
+      Le taux de décroché agent rapporte les appels décrochés par un agent à la somme des appels entrés en file d'attente agents et des appels dissuadés avant la file, sans compter les appels traités par le serveur vocal.
+
+      Le serveur vocal interactif, ou SVI, oriente l'appelant ou lui permet certaines démarches sans agent.
+
+      Le rappel automatique permet à l'usager qui attend d'être rappelé par un agent plutôt que de patienter.
+
+      Le rendez-vous téléphonique planifie un temps dédié avec un agent pour une demande complexe.
+
+      Le front office accueille l'usager, le back office traite les dossiers, et le middle office fait le lien entre les deux.
+
+      La conclusivité est la capacité à apporter dès le premier contact une réponse définitive à l'usager.
+
+      Un voicebot est un robot conversationnel vocal qui répond aux demandes simples grâce à l'IA.
+
+      La TOIP est la téléphonie sur IP, qui remplace le réseau téléphonique commuté en cuivre.
+
+COURS DÉTAILLÉ.
+
+I. LES OBJECTIFS DU PLAN.
+
+   A. Le contexte.
+
+      Le téléphone est le canal le plus utilisé pour échanger avec un agent, avec 41 pour cent des échanges, soit près de 96 millions d'échanges téléphoniques en 2024.
+
+      C'est un canal universel, utilisé aussi par ceux qui préfèrent internet et par les jeunes pour comprendre les démarches en ligne.
+
+      Les Français éprouvent pourtant des difficultés à joindre les services publics et à obtenir une réponse de qualité.
+
+   B. Les quatre engagements du CITP du 7 mai 2023.
+
+      Le taux de décroché devait dépasser 85 pour cent dans les 18 mois, soit d'ici décembre 2024.
+
+      Une mesure de la satisfaction des usagers au téléphone devait être mise en place avant fin 2023.
+
+      Le numéro de téléphone devait être facilement identifiable sur les sites des administrations avant juillet 2023.
+
+      La prise de rendez-vous et le rappel devaient être développés pour éviter l'attente.
+
+   C. Un canal sous pression.
+
+      Malgré la baisse des appels liée au numérique, les dix services les plus sollicités reçoivent chacun entre 5 et plus de 20 millions d'appels décrochés par an.
+
+      Les demandes sont plus complexes, car les usagers appellent quand ils n'ont pas réussi seuls, ce qui allonge les appels et exige plus d'expertise.
+
+      Les volumes réagissent fortement aux réformes et aux annonces, les téléconseillers sont difficiles à recruter et à garder, et certains services connaissent une forte saisonnalité.
+
+      La crise sanitaire a créé des tensions durables sur le canal téléphonique.
+
+II. LES TÉMOIGNAGES DE TROIS SERVICES.
+
+   A. L'Assurance maladie.
+
+      Elle compte 53 plateformes régionales, le numéro unique 36 46 et 2 300 agents dont 200 encadrants, pour 28,5 millions d'appels en 2023.
+
+      Avant la crise, elle recevait environ 18 millions d'appels par an avec un taux de décroché proche de 90 pour cent, mais le volume a atteint près de 40 millions en 2022 et le taux est tombé à 50 pour cent au plus fort de la crise.
+
+      Un plan de retour à l'équilibre a appuyé les dix CPAM les plus touchées et des plans personnalisés d'accompagnement ont été déployés dans une vingtaine d'autres.
+
+      Le taux de décroché est passé de 69 pour cent en 2024 à 85 pour cent en 2025, toutes les CPAM dépassant 70 pour cent et quinze dépassant 90 pour cent, pour 26 millions d'appels traités en 2025.
+
+      La cible 2026 est de 90 pour cent, avec des horaires harmonisés de 8 heures 30 à 17 heures, le rappel téléphonique et un SVI visuel.
+
+   B. La DGFiP.
+
+      Elle dispose du numéro unique 0 809 401 401, joignable de 8 heures 30 à 19 heures, et de 800 agents dans 20 centres de contact, complétés par les services des impôts des particuliers.
+
+      Le nouveau mode de calcul de 2023, qui exclut les appels traités par le SVI, a fait chuter son taux de décroché de 80 à 59 pour cent.
+
+      Les flux peuvent être multipliés par dix entre les campagnes, déclaration des revenus d'avril à juin et avis d'imposition d'août à septembre, et les périodes creuses.
+
+      Elle a ouvert des centres à Charleville-Mézières en 2023 et à Vesoul en septembre 2024, mené des campagnes de recrutement, renforcé la présence de 17 à 19 heures et affiché le numéro unique sur les fiches Google.
+
+      Son taux de décroché agent est passé de 59 pour cent en 2023 à plus de 75 pour cent en 2024, et devrait dépasser 80 pour cent en 2025.
+
+      En avril 2025, le 0 809 401 401 a obtenu le label Services Publics plus Argent, et l'objectif est de 85 pour cent à l'horizon 2027.
+
+   C. La DSNJ.
+
+      La Direction du service national et de la jeunesse accompagne près de 800 000 jeunes par an pour la Journée défense et citoyenneté, avec 1 200 agents dans 33 centres et le numéro 09 70 84 51 51.
+
+      Elle a simplifié l'arborescence de son SVI, rationalisé la prise d'appels, renforcé la formation et le pilotage, et généralisé le télétravail pour la prise d'appels.
+
+      Son taux de décroché est passé de 53 pour cent au lancement du plan à 83 pour cent au premier trimestre 2025 et 90 pour cent au deuxième trimestre 2025.
+
+III. LES RÉSULTATS DU PLAN.
+
+   A. Des indicateurs communs.
+
+      Le plan s'adresse à 30 services publics, dont 25 disposent désormais d'un taux de décroché conforme à la définition du CITP.
+
+      Les indicateurs sont publiés sur la plateforme Services Publics plus, ce qui assure transparence et comparabilité.
+
+   B. La satisfaction téléphonique.
+
+      12 services sur 30 mesuraient initialement la satisfaction, contre 22 au deuxième trimestre 2025, et 4 autres ont un projet.
+
+      Aucune méthode ni cible commune n'a été imposée, et le taux moyen de satisfaction est de 86 pour cent au deuxième trimestre 2025.
+
+   C. Le taux de décroché.
+
+      Le taux de décroché global est passé de 77,6 pour cent au deuxième trimestre 2023 à 81,8 pour cent au deuxième trimestre 2025, soit plus 4,2 points, et plus 2,7 points en moyenne glissante.
+
+      14 services sur 25 dépassent 85 pour cent, contre 10 en mai 2023, et 19 dépassent 75 pour cent, contre 13.
+
+      Les meilleurs taux sont l'ANTAI à 98 pour cent, France Consulaire et le Casier judiciaire national à 97 pour cent, et les plus faibles le service Réponse Conso à 44 pour cent et l'ONaCVG à 21 pour cent.
+
+   D. Le rappel et le rendez-vous.
+
+      Près de 12 millions de rendez-vous téléphoniques ont eu lieu en 2024, soit 10 pour cent des interactions téléphoniques.
+
+      À l'Assurance maladie, le rendez-vous téléphonique résout le dossier dans près de 95 pour cent des cas et satisfait 86 pour cent des assurés.
+
+      À la MSA, les rendez-vous téléphoniques ont presque doublé pour dépasser 60 000.
+
+      Le rappel automatique représente 600 000 à 800 000 appels par trimestre, et France Travail garantit un rappel par un conseiller dans les deux heures.
+
+IV. LES QUATRE LEVIERS D'AMÉLIORATION.
+
+   A. L'organisation de la prise d'appels.
+
+      Les services ont mutualisé l'activité entre plateformes, renforcé les effectifs aux heures chargées et rapproché front office et back office pour réduire les rappels répétés.
+
+      La MSA a ainsi expérimenté l'entraide entre neuf caisses, sans dégrader les caisses en appui.
+
+   B. Les ressources humaines.
+
+      Les services ont renforcé les équipes, amélioré l'attractivité du métier de téléconseiller et professionnalisé les centres d'appels par la formation.
+
+      La DGFiP compte désormais 20 centres de contact et 850 équivalents temps plein dédiés à l'accueil téléphonique.
+
+   C. Les outils.
+
+      Les services ont développé des outils de gestion de la relation usager, amélioré leurs SVI et déployé des voicebots.
+
+      L'Urssaf généralise un robot conversationnel fondé sur l'IA, que l'usager peut quitter à tout moment pour parler à un conseiller.
+
+      Le SVI de France Travail permet l'actualisation, la consultation des dates de paiement, la déclaration de changement de situation et la demande d'attestation.
+
+   D. La proactivité.
+
+      Les services informent mieux les usagers, par SMS, compte personnel ou SVI, et multiplient les appels sortants.
+
+      La CAF du Rhône a appelé ses allocataires lors de la mise en place de la double authentification, et France Titres envoie SMS et courriels sur l'avancement des demandes.
+
+V. LE PILOTAGE.
+
+      La DITP pilote le plan, chaque service a produit un plan d'actions à l'été 2023 et un suivi trimestriel national alimente un tableau de bord de l'accès aux services publics.
+
+      Quatre groupes de travail ont porté sur le rappel avec l'Urssaf, les usages autonomes avec France Titres, la qualité de réponse avec la Cnam et les parcours omnicanaux avec la DGFiP en 2026.
+
+      Les 30 services ont été choisis pour leurs volumes d'appels, le caractère essentiel du service ou l'existence d'un numéro unique.
+
+POINTS D'ATTENTION.
+
+      Le plan téléphone date du CITP du 7 mai 2023 et fixait 85 pour cent de taux de décroché d'ici décembre 2024.
+
+      L'objectif global n'est pas atteint, 81,8 pour cent au deuxième trimestre 2025, mais 14 services sur 25 dépassent 85 pour cent.
+
+      Le taux de décroché agent exclut les appels traités par le SVI, ce qui a fait baisser mécaniquement certains taux, comme à la DGFiP de 80 à 59 pour cent.
+
+      La satisfaction téléphonique moyenne est de 86 pour cent, sans méthode ni cible imposée.
+
+      Les quatre leviers sont l'organisation, les ressources humaines, les outils et la proactivité.
+
+      Ne pas confondre le numéro de la DGFiP, 0 809 401 401, et celui de l'Assurance maladie, 36 46.
+
+EXEMPLES CITES.
+
+      Assurance maladie, taux de décroché de 69 pour cent en 2024 à 85 pour cent en 2025.
+
+      DGFiP, de 59 pour cent en 2023 à plus de 75 pour cent en 2024, label Services Publics plus Argent en avril 2025.
+
+      DSNJ, de 53 pour cent à 90 pour cent au deuxième trimestre 2025.
+
+      Robot conversationnel de l'Urssaf et SVI de France Travail.
+
+      Appels proactifs de la CAF du Rhône.
