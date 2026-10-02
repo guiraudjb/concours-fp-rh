@@ -1,6 +1,6 @@
 # Inventaire des modules et des médias — concours-fp-rh
 
-Généré le 02/10/2026 à 07:07 par `scripts/inventaire_medias.py` (138 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
+Généré le 02/10/2026 à 14:20 par `scripts/inventaire_medias.py` (138 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
 
 ## Synthèse
 
@@ -16,21 +16,21 @@ Généré le 02/10/2026 à 07:07 par `scripts/inventaire_medias.py` (138 modules
 | Paroles | 138 | 0 | 100 % |
 | Chanson | 138 | 0 | 100 % |
 | Podcast local | 138 | 0 | 100 % |
-| Podcast NotebookLM | 0 | 138 | 0 % |
+| Podcast NotebookLM | 1 | 137 | 0 % |
 | Micro-chronique | 138 | 0 | 100 % |
-| Narration fiche | 88 | 50 | 63 % |
-| Audio QCM/flash | 96 | 42 | 69 % |
+| Narration fiche | 138 | 0 | 100 % |
+| Audio QCM/flash | 138 | 0 | 100 % |
 
 ## Par série
 
 | Série | Modules | Fiche | QCM | Flash | TP | Icône | Infographie locale | Infographie NotebookLM | Paroles | Chanson | Podcast local | Podcast NotebookLM | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 |
+| 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | 10 Statut, carrière et rémunération | 41 | 41 | 41 | 41 | 41 | 41 | 41 | 0 | 41 | 41 | 41 | 0 | 41 | 41 | 41 |
-| 11 Déontologie et valeurs du service public | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 0 | 6 | 6 | 6 | 0 | 6 | 0 | 0 |
-| 12 Dialogue social | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 0 | 5 | 5 | 5 | 0 | 5 | 0 | 0 |
-| 13 Formation, mobilité et temps de travail | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 0 | 12 | 12 | 12 | 0 | 12 | 0 | 0 |
-| 14 Santé, conditions de travail et égalité | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 0 | 27 | 27 | 27 | 0 | 27 | 0 | 8 |
+| 11 Déontologie et valeurs du service public | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 0 | 6 | 6 | 6 | 0 | 6 | 6 | 6 |
+| 12 Dialogue social | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 0 | 5 | 5 | 5 | 0 | 5 | 5 | 5 |
+| 13 Formation, mobilité et temps de travail | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 0 | 12 | 12 | 12 | 0 | 12 | 12 | 12 |
+| 14 Santé, conditions de travail et égalité | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 0 | 27 | 27 | 27 | 0 | 27 | 27 | 27 |
 | 15 Méthode et annales du concours | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 0 | 7 | 7 | 7 | 0 | 7 | 7 | 7 |
 | 16 Budget, immobilier et organisation | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 0 | 15 | 15 | 15 | 0 | 15 | 15 | 15 |
 | 17 Management et encadrement | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 0 | 14 | 14 | 14 | 0 | 14 | 14 | 14 |
@@ -40,7 +40,7 @@ Généré le 02/10/2026 à 07:07 par `scripts/inventaire_medias.py` (138 modules
 
 | Module | Fiche | QCM | Flash | TP | Icône | Infographie locale | Infographie NotebookLM | Paroles | Chanson | Podcast local | Podcast NotebookLM | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 00-10 ANSSI - Rapport d'incident sur les cyberattaques ayant touché la DGFiP (2026) | ✅ | 28 | 22 | 9 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 00-10 ANSSI - Rapport d'incident sur les cyberattaques ayant touché la DGFiP (2026) | ✅ | 28 | 22 | 9 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 10-10 DGAFP - Filière RH, grands principes du droit de la fonction publique (1 sur 2) | ✅ | 27 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 10-11 DGAFP - Filière RH, grands principes du droit de la fonction publique (2 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 10-20 DGAFP - Filière RH, statuts particuliers | ✅ | 23 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
@@ -82,56 +82,56 @@ Généré le 02/10/2026 à 07:07 par `scripts/inventaire_medias.py` (138 modules
 | 10-147 DGAFP - Structurer la fonction recrutement (3 sur 3) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 10-150 DGAFP - Rupture conventionnelle pérennisée dans la fonction publique | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 10-160 DGAFP - Actualité RH de la fonction publique en 2026 | ✅ | 27 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
-| 11-10 DGAFP - Guide de la laïcité dans la fonction publique (1 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 11-11 DGAFP - Guide de la laïcité dans la fonction publique (2 sur 2) | ✅ | 26 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 11-20 DGAFP - Protection fonctionnelle des agents publics | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 11-30 DGAFP - Probité, cadeaux et invitations (1 sur 2) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 11-31 DGAFP - Probité, cadeaux et invitations (2 sur 2) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 11-40 Circulaire du 18 août 2026 - Atteintes à la probité au sein des administrations | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 12-10 DGAFP - Négociation collective dans la fonction publique de l'État | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 12-20 DGAFP - Comités sociaux d'administration et formations spécialisées (1 sur 4) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 12-21 DGAFP - Comités sociaux d'administration et formations spécialisées (2 sur 4) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 12-22 DGAFP - Comités sociaux d'administration et formations spécialisées (3 sur 4) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 12-23 DGAFP - Comités sociaux d'administration et formations spécialisées (4 sur 4) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-10 DGAFP - Guide pratique de la formation professionnelle | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-20 DGAFP - Schéma directeur de la formation 2024-2027 | ✅ | 26 | 23 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-30 DGAFP - Agir pour son projet de mobilité professionnelle (1 sur 4) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-31 DGAFP - Agir pour son projet de mobilité professionnelle (2 sur 4) | ✅ | 29 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-32 DGAFP - Agir pour son projet de mobilité professionnelle (3 sur 4) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-33 DGAFP - Agir pour son projet de mobilité professionnelle (4 sur 4) | ✅ | 29 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-40 DGAFP - Temps partiel des agents publics | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-50 DGAFP - Autorisations spéciales d'absence | ✅ | 30 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-60 DGAFP - Télétravail et travail en présentiel (1 sur 3) | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-61 DGAFP - Télétravail et travail en présentiel (2 sur 3) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-62 DGAFP - Télétravail et travail en présentiel (3 sur 3) | ✅ | 23 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 13-70 DGAFP - Mentorat des agents durant leur parcours professionnel | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-10 DGAFP - Plan santé au travail dans la fonction publique | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
-| 14-20 DGAFP - Accidents de service et maladies professionnelles (1 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
-| 14-21 DGAFP - Accidents de service et maladies professionnelles (2 sur 2) | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
-| 14-30 DGAFP - Maintien dans l'emploi des agents publics de l'État (1 sur 3) | ✅ | 29 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
-| 14-31 DGAFP - Maintien dans l'emploi des agents publics de l'État (2 sur 3) | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
-| 14-32 DGAFP - Maintien dans l'emploi des agents publics de l'État (3 sur 3) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
-| 14-40 DGAFP - Violences sexistes et sexuelles, outils statutaires et disciplinaires (1 sur 4) | ✅ | 25 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
-| 14-41 DGAFP - Violences sexistes et sexuelles, outils statutaires et disciplinaires (2 sur 4) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
-| 14-42 DGAFP - Violences sexistes et sexuelles, outils statutaires et disciplinaires (3 sur 4) | ✅ | 30 | 23 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-43 DGAFP - Violences sexistes et sexuelles, outils statutaires et disciplinaires (4 sur 4) | ✅ | 21 | 22 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-50 DGAFP - Égalité professionnelle, rapport 2024 (1 sur 4) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-51 DGAFP - Égalité professionnelle, rapport 2024 (2 sur 4) | ✅ | 27 | 23 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-52 DGAFP - Égalité professionnelle, rapport 2024 (3 sur 4) | ✅ | 28 | 23 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-53 DGAFP - Égalité professionnelle, rapport 2024 (4 sur 4) | ✅ | 30 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-60 DGAFP - Stratégie territoriale RH de l'État 2026-2028 | ✅ | 25 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-70 DGAFP - Qualité de vie et conditions de travail, référentiels | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-75 DGAFP - Espaces de discussion sur le travail | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-80 DGAFP - Violences conjugales et intrafamiliales, rôle des employeurs publics | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-85 DGAFP - Accord de 2018 sur l'égalité professionnelle (1 sur 3) | ✅ | 23 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-86 DGAFP - Accord de 2018 sur l'égalité professionnelle (2 sur 3) | ✅ | 25 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-87 DGAFP - Accord de 2018 sur l'égalité professionnelle (3 sur 3) | ✅ | 24 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-90 DGAFP - Lutte contre les discriminations anti-LGBT+ au travail | ✅ | 28 | 21 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-95 DGFiP - Prévenir les risques suicidaires, plan d'actions 2025-2027 | ✅ | 29 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-96 Risque suicidaire au travail - repérage, conduite à tenir et postvention (1 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-97 Risque suicidaire au travail - repérage, conduite à tenir et postvention (2 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-98 DGAFP - Accord-cadre de 2013 sur la prévention des risques psychosociaux | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| 14-99 DGAFP - Arrêts maladie et temps partiel thérapeutique, la réforme de 2026 | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| 11-10 DGAFP - Guide de la laïcité dans la fonction publique (1 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 11-11 DGAFP - Guide de la laïcité dans la fonction publique (2 sur 2) | ✅ | 26 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 11-20 DGAFP - Protection fonctionnelle des agents publics | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 11-30 DGAFP - Probité, cadeaux et invitations (1 sur 2) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 11-31 DGAFP - Probité, cadeaux et invitations (2 sur 2) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 11-40 Circulaire du 18 août 2026 - Atteintes à la probité au sein des administrations | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 12-10 DGAFP - Négociation collective dans la fonction publique de l'État | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 12-20 DGAFP - Comités sociaux d'administration et formations spécialisées (1 sur 4) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 12-21 DGAFP - Comités sociaux d'administration et formations spécialisées (2 sur 4) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 12-22 DGAFP - Comités sociaux d'administration et formations spécialisées (3 sur 4) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 12-23 DGAFP - Comités sociaux d'administration et formations spécialisées (4 sur 4) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-10 DGAFP - Guide pratique de la formation professionnelle | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-20 DGAFP - Schéma directeur de la formation 2024-2027 | ✅ | 26 | 23 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-30 DGAFP - Agir pour son projet de mobilité professionnelle (1 sur 4) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-31 DGAFP - Agir pour son projet de mobilité professionnelle (2 sur 4) | ✅ | 29 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-32 DGAFP - Agir pour son projet de mobilité professionnelle (3 sur 4) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-33 DGAFP - Agir pour son projet de mobilité professionnelle (4 sur 4) | ✅ | 29 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-40 DGAFP - Temps partiel des agents publics | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-50 DGAFP - Autorisations spéciales d'absence | ✅ | 30 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-60 DGAFP - Télétravail et travail en présentiel (1 sur 3) | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-61 DGAFP - Télétravail et travail en présentiel (2 sur 3) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-62 DGAFP - Télétravail et travail en présentiel (3 sur 3) | ✅ | 23 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 13-70 DGAFP - Mentorat des agents durant leur parcours professionnel | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-10 DGAFP - Plan santé au travail dans la fonction publique | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-20 DGAFP - Accidents de service et maladies professionnelles (1 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-21 DGAFP - Accidents de service et maladies professionnelles (2 sur 2) | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-30 DGAFP - Maintien dans l'emploi des agents publics de l'État (1 sur 3) | ✅ | 29 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-31 DGAFP - Maintien dans l'emploi des agents publics de l'État (2 sur 3) | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-32 DGAFP - Maintien dans l'emploi des agents publics de l'État (3 sur 3) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-40 DGAFP - Violences sexistes et sexuelles, outils statutaires et disciplinaires (1 sur 4) | ✅ | 25 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-41 DGAFP - Violences sexistes et sexuelles, outils statutaires et disciplinaires (2 sur 4) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-42 DGAFP - Violences sexistes et sexuelles, outils statutaires et disciplinaires (3 sur 4) | ✅ | 30 | 23 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-43 DGAFP - Violences sexistes et sexuelles, outils statutaires et disciplinaires (4 sur 4) | ✅ | 21 | 22 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-50 DGAFP - Égalité professionnelle, rapport 2024 (1 sur 4) | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-51 DGAFP - Égalité professionnelle, rapport 2024 (2 sur 4) | ✅ | 27 | 23 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-52 DGAFP - Égalité professionnelle, rapport 2024 (3 sur 4) | ✅ | 28 | 23 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-53 DGAFP - Égalité professionnelle, rapport 2024 (4 sur 4) | ✅ | 30 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-60 DGAFP - Stratégie territoriale RH de l'État 2026-2028 | ✅ | 25 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-70 DGAFP - Qualité de vie et conditions de travail, référentiels | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-75 DGAFP - Espaces de discussion sur le travail | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-80 DGAFP - Violences conjugales et intrafamiliales, rôle des employeurs publics | ✅ | 27 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-85 DGAFP - Accord de 2018 sur l'égalité professionnelle (1 sur 3) | ✅ | 23 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-86 DGAFP - Accord de 2018 sur l'égalité professionnelle (2 sur 3) | ✅ | 25 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-87 DGAFP - Accord de 2018 sur l'égalité professionnelle (3 sur 3) | ✅ | 24 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-90 DGAFP - Lutte contre les discriminations anti-LGBT+ au travail | ✅ | 28 | 21 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-95 DGFiP - Prévenir les risques suicidaires, plan d'actions 2025-2027 | ✅ | 29 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-96 Risque suicidaire au travail - repérage, conduite à tenir et postvention (1 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-97 Risque suicidaire au travail - repérage, conduite à tenir et postvention (2 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-98 DGAFP - Accord-cadre de 2013 sur la prévention des risques psychosociaux | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 14-99 DGAFP - Arrêts maladie et temps partiel thérapeutique, la réforme de 2026 | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 15-05 IP DGFiP - Les épreuves du concours après la réforme 2026-2027 | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 15-10 IP DGFiP - Note administrative, attentes du jury 2019-2026 | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 15-20 IP DGFiP - Épreuve professionnelle, attentes du jury 2019-2026 (1 sur 2) | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
