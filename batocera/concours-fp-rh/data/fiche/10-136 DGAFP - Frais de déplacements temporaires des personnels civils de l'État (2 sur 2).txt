@@ -22,7 +22,7 @@ LEXIQUE COMPLET.
 
       L'AIFE désigne l'Agence informatique de l'État.
 
-      La DAE désigne la Direction des affaires étrangères.
+      La DAE désigne la Direction des achats de l'État.
 
       La DB désigne la Direction du budget.
 
@@ -70,9 +70,9 @@ II. RÈGLEMENT DES INDEMNITÉS KILOMÉTRIQUES.
 
       En Polynésie française, les taux pour un véhicule de cinq CV et moins sont de quarante-sept virgule trente-deux F CFP jusqu'à deux mille km, cinquante-six virgule soixante-dix-huit F CFP jusqu'à dix mille km et trente-trois virgule soixante-dix-sept F CFP après dix mille km. Les montants pour la Nouvelle-Calédonie et les îles Wallis et Futuna suivent des barèmes spécifiques en F CFP.
 
-      Les véhicules de six CV et sept CV bénéficient de taux de zéro,37, zéro virgule quarante-six et zéro virgule vingt-sept euros en métropole et territoires selon le même découpage kilométrique. Pour les îles Wallis et Futuna, les taux sont de cinquante et un,29, soixante-six virgule vingt-cinq et trente-neuf virgule quatorze F CFP.
+      Les véhicules de six CV et sept CV bénéficient de taux de zéro virgule trente-sept, zéro virgule quarante-six et zéro virgule vingt-sept euros en métropole et territoires selon le même découpage kilométrique. Pour les îles Wallis et Futuna, les taux sont de cinquante et un virgule vingt-neuf, soixante-six virgule vingt-cinq et trente-neuf virgule quatorze F CFP.
 
-      Les véhicules de huit CV et plus reçoivent zéro virgule quarante et un euro jusqu'à deux mille km, zéro virgule cinq euro jusqu'à dix mille km et zéro virgule vingt-neuf euro au-delà de dix mille km en métropole et territoires assimilés. En Polynésie française, les taux sont de cinquante-cinq,5, soixante-six virgule vingt-cinq et trente-neuf virgule quatorze F CFP.
+      Les véhicules de huit CV et plus reçoivent zéro virgule quarante et un euro jusqu'à deux mille km, zéro virgule cinq euro jusqu'à dix mille km et zéro virgule vingt-neuf euro au-delà de dix mille km en métropole et territoires assimilés. En Polynésie française, les taux sont de cinquante-cinq virgule cinq, soixante-six virgule vingt-cinq et trente-neuf virgule quatorze F CFP.
 
    B. Calcul des indemnités pour les agents en service à l'étranger.
 
@@ -82,7 +82,7 @@ II. RÈGLEMENT DES INDEMNITÉS KILOMÉTRIQUES.
 
       Cette valeur de référence est déterminée par chaque service gestionnaire. Elle doit ensuite être divisée par cinquante mille pour le calcul final.
 
-      La seconde partie de l'indemnité est égale à zéro virgule six litre par kilomètre parcouru. Ce calcul s'effectue sur la base du prix du carburant dans le pays de résidence de l'agent.
+      La seconde partie de l'indemnité est égale à zéro virgule zéro six litre par kilomètre parcouru. Ce calcul s'effectue sur la base du prix du carburant dans le pays de résidence de l'agent.
 
    C. Indemnités pour les motocyclettes et autres véhicules à moteur.
 

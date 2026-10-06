@@ -8,7 +8,7 @@ LEXIQUE COMPLET.
 
       La reconstitution de la carrière désigne l'obligation pour l'administration de replacer l'agent dans la position exacte qu'il aurait occupée s'il n'avait pas fait l'objet de la mesure annulée.
 
-      La théorie du cause traitement désigne le principe consistant pour l'administration à verser à l'agent l'ensemble des traitements qu'il aurait dû percevoir.
+      La théorie du traitement désigne le principe consistant pour l'administration à verser à l'agent l'ensemble des traitements qu'il aurait dû percevoir.
 
       La théorie de l'indemnité désigne le principe de versement d'une indemnisation à l'agent, consacré par la décision Deberles.
 
@@ -30,7 +30,7 @@ I. LA RECONSTITUTION DE LA CARRIÈRE DE L'AGENT.
 
       L'administration doit replacer l'agent dans la position exacte qu'il aurait occupée s'il n'avait pas fait l'objet de la mesure annulée.
 
-      Cette obligation consiste à apporter une compensation aux agents dont les droits pourraient être affectés par cette reconstitution.
+      Lorsque cette reconstitution porte atteinte aux droits d'autres agents, l'administration doit apporter à ces derniers une compensation.
 
       La mise en œuvre de cette obligation est aisée pour l'avancement d'échelon car il repose principalement sur l'ancienneté.
 
@@ -44,7 +44,7 @@ I. LA RECONSTITUTION DE LA CARRIÈRE DE L'AGENT.
 
       Selon la décision Rodière, l'administration doit assurer à l'intéressé les chances d'avancement sur lesquelles il peut légitimement compter en raison de la réglementation en vigueur.
 
-      Pour reconstituer la carrière, l'administration doit retenir la moyenne des trois avancements obtenus par les fonctionnaires de même niveau restés en fonctions.
+      Pour reconstituer la carrière, l'administration doit retenir la moyenne des avancements obtenus par les fonctionnaires de même niveau restés en fonctions.
 
       Le droit de l'agent n'est pas absolu et doit rester compatible avec les autres droits individuels.
 
@@ -80,7 +80,7 @@ II. LES LIMITES AU DROIT DE RECONSTITUTION.
 
       Par ailleurs, les décisions prises par l'administration pour exécuter sa reconstitution de carrière doivent être conformes aux textes en vigueur à la date à laquelle elles prennent rétroactivement effet.
 
-      Cela implique de consulter les organismes consultatifs selon leur composition à cette date, même si le Conseil d'État admet, en cas d'impossibilité, de consulter l'organisme dans sa composition à la date de la décision initiale si elle offre des garanties équivalentes, selon le CE, Sect., quatorze février mille neuf cent quatre-vingt-dix-sept, M. X..., n° cent onze mille quatre cent soixante-huit, Rec.
+      Cela implique de consulter les organismes consultatifs selon leur composition à cette date, même si le Conseil d'État admet, en cas d'impossibilité, de consulter l'organisme dans sa composition à la date à laquelle la mesure est prise si elle offre des garanties équivalentes, selon le CE, Sect., quatorze février mille neuf cent quatre-vingt-dix-sept, M. X..., n° cent onze mille quatre cent soixante-huit, Rec.
 
    C. L'impact du non-respect des délais de recours.
 
@@ -116,11 +116,11 @@ III. LES MODALITÉS DE MISE EN ŒUVRE DE LA RECONSTITUTION.
 
 IV. LA RÉPARATION DU PRÉJUDICE SUBI PAR L'AGENT.
 
-   A. L'évolution de la réparation : de la théorie du cause traitement à l'indemnité.
+   A. L'évolution de la réparation : de la théorie du traitement à l'indemnité.
 
       Lorsqu'une décision d'éviction est annulée rétroactivement, l'administration est tenue de réparer le préjudice subi par l'agent.
 
-      Historiquement, cette réparation consistait à verser à l'agent l'intégralité des traitements qu'il aurait dû percevoir, ce qui correspond à la théorie du cause traitement.
+      Historiquement, cette réparation consistait à verser à l'agent l'intégralité des traitements qu'il aurait dû percevoir, ce qui correspond à la théorie du traitement.
 
       Depuis la décision Deberles, la jurisprudence a évolué pour consacrer la théorie de l'indemnité.
 
@@ -156,7 +156,7 @@ POINTS D'ATTENTION.
 
       Le droit à la reconstitution de carrière n'est pas absolu car il doit rester compatible avec les droits individuels des autres agents.
 
-      La jurisprudence limite les effets de la reconstitution sur les tiers, comme lorsque l'annulation d'un décret n'entraîne pas l'annulation des autres décisions prises sur sa base.
+      La jurisprudence limite les effets de la reconstitution sur les tiers, comme lorsque l'annulation d'une décision prise sur la base d'un décret illégal n'entraîne pas l'annulation des autres décisions prises sur ce décret.
 
       La réparation du préjudice ne se limite plus au seul traitement mais inclut désormais la perte des primes et indemnités ayant une chance sérieuse d'être perçues.
 
@@ -170,4 +170,4 @@ EXEMPLES CITÉS.
 
       La décision Commune d'Ajaccio du six décembre deux mille treize du CE, Sect. n° trois cent soixante-cinq mille cent cinquante-cinq, Rec. intègre la perte des primes et indemnités dans la réparation du préjudice.
 
-      L'arrêt du trois décembre mille neuf cent cinquante-quatre, Sieur X, Rec., montre que l'annulation d'un décret illégal n'entraîne pas l'annulation des autres décisions prises sur sa base.
+      L'arrêt du trois décembre mille neuf cent cinquante-quatre, Sieur X, Rec., montre que l'annulation d'une décision fixant l'ancienneté d'un agent, prise sur la base d'un décret illégal, n'entraîne pas l'annulation des autres décisions prises sur ce décret.

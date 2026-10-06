@@ -20,7 +20,7 @@ LEXIQUE COMPLET.
 
       La FPH désigne la fonction publique hospitalière qui est l'un des trois versants de la fonction publique.
 
-      La DGAP désigne la direction générale de l'administration et de la fonction publique qui doit être saisie pour toute ISRC supérieure à quatre-vingt mille euros.
+      La DGAFP désigne la direction générale de l'administration et de la fonction publique qui doit être saisie pour toute ISRC supérieure à quatre-vingt mille euros.
 
 COURS DÉTAILLÉ.
 

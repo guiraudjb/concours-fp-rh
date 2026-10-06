@@ -18,7 +18,7 @@ LEXIQUE COMPLET.
 
       Le RBOP désigne le responsable de budget opérationnel de programme qui prépare et gère un budget local et global.
 
-      Le PPROG désigne le projet annuel de performances qui précise pour chaque objectif du programme les actions, les coûts, les objectifs et les indicateurs.
+      Le PAP désigne le projet annuel de performances qui précise pour chaque objectif du programme les actions, les coûts, les objectifs et les indicateurs.
 
       Le RAP désigne le rapport annuel de performances qui est un document annexé au projet de loi de règlement des comptes.
 

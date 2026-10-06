@@ -108,7 +108,7 @@ III. LES INDEMNITÉS LIÉES AUX TÂCHES SPÉCIFIQUES ET AUX FRAIS.
 
       Ce dispositif se traduit par l'attribution de points d'indice majoré supplémentaires. Si l'agent quitte l'emploi concerné, il perd immédiatement le bénéfice de la NBI.
 
-      Au premier juillet deux mille vingt-trois, la valeur du point d'indice annuel était de cinquante-neuf virgule sept euros. Une NBI de quinze points représente donc huit cent quatre-vingt-six euros bruts annuellement, soit soixante-treize virgule quatre-vingt-trois euros bruts par mois.
+      Au premier juillet deux mille vingt-trois, la valeur du point d'indice annuel était de cinquante-neuf virgule zéro sept euros. Une NBI de quinze points représente donc huit cent quatre-vingt-six euros bruts annuellement, soit soixante-treize virgule quatre-vingt-trois euros bruts par mois.
 
       La NBI permet de percevoir un supplément de pension qui dépend du montant et du nombre d'années de perception. Elle est réduite en cas d'exercice à temps partiel.
 
@@ -116,7 +116,7 @@ III. LES INDEMNITÉS LIÉES AUX TÂCHES SPÉCIFIQUES ET AUX FRAIS.
 
       Le CTI est une prime issue des accords du Ségur de la santé du treize juillet deux mille vingt. Il est calculé sur la base de quarante-neuf points d'indice majoré.
 
-      Au premier juillet deux mille vingt-trois, le montant du CTI correspond à deux cent quarante et un virgule huit euros bruts, soit cent quatre-vingt-onze virgule quarante-deux euros nets. Ce montant est identique pour tous les agents éligibles, quel que soit leur statut ou leur versant.
+      Au premier juillet deux mille vingt-trois, le montant du CTI correspond à deux cent quarante et un virgule zéro huit euros bruts, soit cent quatre-vingt-onze virgule quarante-deux euros nets. Ce montant est identique pour tous les agents éligibles, quel que soit leur statut ou leur versant.
 
       Le CTI est versé aux agents travaillant dans des structures comme les hôpitaux, les EHPAD ou les services de protection maternelle et infantile. Les contractuels perçoivent une prime équivalente.
 
@@ -156,7 +156,7 @@ IV. LE RÉGIME INDEMNITAIRE FIXE.
 
       L'ISOE est liée à l'exercice effectif des fonctions comme le suivi individuel des élèves et la participation aux conseils de classe pour les titulaires et les contractuels.
 
-      Cette indemnité comprend une part fixe dont le montant annuel était de mille deux cent cinquante-six virgule trois euros au premier juillet deux mille vingt-deux, soit cent quatre virgule soixante-sept euros par mois, et une part modulable pour les professeurs principaux.
+      Cette indemnité comprend une part fixe dont le montant annuel était de mille deux cent cinquante-six virgule zéro trois euros au premier juillet deux mille vingt-deux, soit cent quatre virgule soixante-sept euros par mois, et une part modulable pour les professeurs principaux.
 
       Le taux de l'ISOE est indexé sur la valeur du point de la fonction publique et elle est versée en proportion de la quotité de travail pour les enseignants à temps partiel.
 
@@ -220,4 +220,4 @@ EXEMPLES CITÉS.
 
       Un agent percevant une NBI de quinze points bénéficie de huit cent quatre-vingt-six euros brut annuellement au premier juillet deux mille vingt-trois.
 
-      Le CTI correspond à deux cent quarante et un virgule huit euros bruts soit cent quatre-vingt-onze virgule quarante-deux euros nets au premier juillet deux mille vingt-trois.
+      Le CTI correspond à deux cent quarante et un virgule zéro huit euros bruts soit cent quatre-vingt-onze virgule quarante-deux euros nets au premier juillet deux mille vingt-trois.
