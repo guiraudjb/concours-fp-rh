@@ -1,37 +1,37 @@
 # Inventaire des modules et des médias — concours-fp-rh
 
-Généré le 02/10/2026 à 14:20 par `scripts/inventaire_medias.py` (138 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
+Généré le 07/10/2026 à 22:18 par `scripts/inventaire_medias.py` (139 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
 
 ## Synthèse
 
 | Contenu | Présents | Absents | Couverture |
 |---|---:|---:|---:|
-| Fiche | 138 | 0 | 100 % |
-| QCM | 138 | 0 | 100 % |
-| Flash | 138 | 0 | 100 % |
-| TP | 138 | 0 | 100 % |
-| Icône | 138 | 0 | 100 % |
-| Infographie locale | 138 | 0 | 100 % |
-| Infographie NotebookLM | 0 | 138 | 0 % |
-| Paroles | 138 | 0 | 100 % |
-| Chanson | 138 | 0 | 100 % |
-| Podcast local | 138 | 0 | 100 % |
-| Podcast NotebookLM | 1 | 137 | 0 % |
-| Micro-chronique | 138 | 0 | 100 % |
-| Narration fiche | 138 | 0 | 100 % |
-| Audio QCM/flash | 138 | 0 | 100 % |
+| Fiche | 139 | 0 | 100 % |
+| QCM | 139 | 0 | 100 % |
+| Flash | 139 | 0 | 100 % |
+| TP | 139 | 0 | 100 % |
+| Icône | 139 | 0 | 100 % |
+| Infographie locale | 139 | 0 | 100 % |
+| Infographie NotebookLM | 2 | 137 | 1 % |
+| Paroles | 139 | 0 | 100 % |
+| Chanson | 139 | 0 | 100 % |
+| Podcast local | 139 | 0 | 100 % |
+| Podcast NotebookLM | 2 | 137 | 1 % |
+| Micro-chronique | 139 | 0 | 100 % |
+| Narration fiche | 139 | 0 | 100 % |
+| Audio QCM/flash | 139 | 0 | 100 % |
 
 ## Par série
 
 | Série | Modules | Fiche | QCM | Flash | TP | Icône | Infographie locale | Infographie NotebookLM | Paroles | Chanson | Podcast local | Podcast NotebookLM | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | 10 Statut, carrière et rémunération | 41 | 41 | 41 | 41 | 41 | 41 | 41 | 0 | 41 | 41 | 41 | 0 | 41 | 41 | 41 |
 | 11 Déontologie et valeurs du service public | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 0 | 6 | 6 | 6 | 0 | 6 | 6 | 6 |
 | 12 Dialogue social | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 0 | 5 | 5 | 5 | 0 | 5 | 5 | 5 |
 | 13 Formation, mobilité et temps de travail | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 0 | 12 | 12 | 12 | 0 | 12 | 12 | 12 |
 | 14 Santé, conditions de travail et égalité | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 0 | 27 | 27 | 27 | 0 | 27 | 27 | 27 |
-| 15 Méthode et annales du concours | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 0 | 7 | 7 | 7 | 0 | 7 | 7 | 7 |
+| 15 Méthode et annales du concours | 8 | 8 | 8 | 8 | 8 | 8 | 8 | 1 | 8 | 8 | 8 | 1 | 8 | 8 | 8 |
 | 16 Budget, immobilier et organisation | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 0 | 15 | 15 | 15 | 0 | 15 | 15 | 15 |
 | 17 Management et encadrement | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 0 | 14 | 14 | 14 | 0 | 14 | 14 | 14 |
 | 18 Analyse financière | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 0 | 10 | 10 | 10 | 0 | 10 | 10 | 10 |
@@ -40,7 +40,7 @@ Généré le 02/10/2026 à 14:20 par `scripts/inventaire_medias.py` (138 modules
 
 | Module | Fiche | QCM | Flash | TP | Icône | Infographie locale | Infographie NotebookLM | Paroles | Chanson | Podcast local | Podcast NotebookLM | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 00-10 ANSSI - Rapport d'incident sur les cyberattaques ayant touché la DGFiP (2026) | ✅ | 28 | 22 | 9 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 00-10 ANSSI - Rapport d'incident sur les cyberattaques ayant touché la DGFiP (2026) | ✅ | 28 | 22 | 9 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 10-10 DGAFP - Filière RH, grands principes du droit de la fonction publique (1 sur 2) | ✅ | 27 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 10-11 DGAFP - Filière RH, grands principes du droit de la fonction publique (2 sur 2) | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 10-20 DGAFP - Filière RH, statuts particuliers | ✅ | 23 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
@@ -139,6 +139,7 @@ Généré le 02/10/2026 à 14:20 par `scripts/inventaire_medias.py` (138 modules
 | 15-30 IP DGFiP - Oral, attentes du jury et mises en situation | ✅ | 28 | 21 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 15-40 IP DGFiP - Sujets de l'option ressources 2020-2026 (1 sur 2) | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 15-41 IP DGFiP - Sujets de l'option ressources 2020-2026 (2 sur 2) | ✅ | 26 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 15-50 IP DGFiP - Oral 2024, banque des questions du jury et réponses structurées | ✅ | 48 | 24 | 41 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 16-10 Direction du budget - Guide pratique de la LOLF (1 sur 3) | ✅ | 29 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 16-11 Direction du budget - Guide pratique de la LOLF (2 sur 3) | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 16-12 Direction du budget - Guide pratique de la LOLF (3 sur 3) | ✅ | 21 | 22 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
