@@ -196,7 +196,7 @@ VI. RESSOURCES ET SITES UTILES.
 
       France compétences permet de consulter le référentiel des niveaux de prise en charge des contrats d'apprentissage sur le site https://www.francecompetences.fr/.
 
-      Les DREETS assurent le suivi via leur site www.dreets.gouv.fr et la DGEFP publie les actualités relatives à l'apprentissage sur le site https://travail-emploi.gouv.fr/formation-professionnelle/en-alternance-dix mille sept cent cinquante et un/apprentissage.
+      Les DREETS assurent le suivi via leur site www.dreets.gouv.fr et la DGEFP publie les actualités relatives à l'apprentissage sur le site travail-emploi.gouv.fr, rubrique apprentissage.
 
       Le FIPHFP propose des informations sur les contrats d'apprentissage pour les personnes en situation de handicap sur le site www.fiphfp.fr.
 

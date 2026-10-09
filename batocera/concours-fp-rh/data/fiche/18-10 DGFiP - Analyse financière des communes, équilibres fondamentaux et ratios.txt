@@ -192,7 +192,7 @@ IV. MÉTHODES ET OUTILS DE L'ANALYSE FINANCIÈRE.
 
       Le coefficient de mobilisation du potentiel fiscal courant des charges permet d'évaluer les capacités de la commune à jouer sur les taux des taxes. Il se calcule par le rapport entre les recettes fiscales locales et la somme des dépenses de fonctionnement et de la dette.
 
-      La marge d'autofinancement révèle la capacité d'une collectivité à financer ses investissements après avoir payé ses dépenses de fonctionnement et sa dette. Elle se calcule en divisant la dette par les recettes de fonctionnement.
+      La marge d'autofinancement révèle la capacité d'une collectivité à financer ses investissements après avoir payé ses dépenses de fonctionnement et sa dette. Elle se calcule en divisant la somme des dépenses de fonctionnement et de l'annuité de la dette par les recettes de fonctionnement.
 
       Les marges de manœuvre sont jugées amples si aucun ou si un seul des trois ratios est au-dessus de zéro virgule sept. Elles sont modérées si deux des trois ratios sont au-dessus de zéro virgule sept.
 

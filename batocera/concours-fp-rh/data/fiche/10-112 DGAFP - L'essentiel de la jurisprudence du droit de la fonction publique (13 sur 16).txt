@@ -204,7 +204,7 @@ V. LE RÉGIME CONTRACTUEL DES AGENTS DE DROIT PUBLIC.
 
       Pour lutter contre la précarité, la loi n° deux mille cinq-huit cent quarante-trois du vingt-six juillet deux mille cinq prévoit que les contrats à durée déterminée ne peuvent en principe excéder une durée de trois ans, renouvelable une fois, soit six ans au total.
 
-      Au-delà de cette période de six ans, un agent peut être recruté sur un contrat à durée indéterminée sans décision expresse, sauf si les textes prévoient une durée maximale de contrats successifs ou une limitation du nombre de renouvellements.
+      Au-delà de cette période de six ans, un agent ne peut être recruté sur un contrat à durée indéterminée que par décision expresse, sauf si les textes prévoient une durée maximale de contrats successifs ou une limitation du nombre de renouvellements.
 
       La notion de cédéisation permet à un agent ayant atteint six ans d'ancienneté sur des contrats à durée déterminée de passer à un contrat à durée indéterminée, sous réserve de ne pas occuper des fonctions de remplacement temporaire.
 
@@ -260,7 +260,7 @@ VI. CONTRÔLE ET PROTECTION DES AGENTS CONTRACTUELS.
 
       Les membres de l'organe délibérant d'une collectivité territoriale justifient d'un intérêt leur donnant qualité pour contester les contrats de recrutement d'agents non titulaires.
 
-      Le recours des tiers contre les contrats d'agents publics est un recours de plein contentieux, ce qui permet au juge de ne pas seulement annuler mais aussi d'ordonner une régularisation ou d'octroyer des indemnités.
+      Par dérogation, le recours des tiers contre les contrats de recrutement d'agents publics reste un recours pour excès de pouvoir, selon le CE, deux mille quinze, Commune d'Aix-en-Provence ; pour les autres contrats administratifs, le recours des tiers est un recours de plein contentieux depuis la décision Tarn-et-Garonne de deux mille quatorze.
 
       Le juge peut utiliser une palette de recours comme l'injonction de régularisation ou l'annulation différée dans le temps pour assurer la continuité du service public.
 
@@ -302,7 +302,7 @@ POINTS D'ATTENTION.
 
       Le renouvellement d'un contrat à durée déterminée n'est pas un licenciement et l'administration n'a pas l'obligation de motiver sa décision de ne pas le renouveler.
 
-      Le recours des tiers contre un contrat de recrutement d'agent contractuel est un recours de plein contentieux et non un simple recours pour excès de pouvoir.
+      Le recours des tiers contre un contrat de recrutement d'agent contractuel reste un recours pour excès de pouvoir, par dérogation au plein contentieux applicable aux autres contrats administratifs.
 
 EXEMPLES CITÉS.
 

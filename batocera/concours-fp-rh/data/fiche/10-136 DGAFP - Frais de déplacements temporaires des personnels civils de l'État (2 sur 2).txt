@@ -118,7 +118,7 @@ III. DISPOSITIF DES INDEMNITÉS DE STAGE.
 
    B. Conditions de versement selon le mode de logement.
 
-      Le premier cas concerne les stagiaires logés gratuitement par l'État.
+      Le premier cas concerne les stagiaires logés gratuitement par l'État et ayant accès à un restaurant administratif.
 
       Pour ces agents, le versement est de deux taux de base pendant les huit premiers jours.
 
@@ -126,9 +126,9 @@ III. DISPOSITIF DES INDEMNITÉS DE STAGE.
 
       À partir du septième mois, l'indemnité est de un demi-taux de base.
 
-      Le deuxième cas s'applique aux stagiaires non logés gratuitement par l'État.
+      Le deuxième cas s'applique aux stagiaires non logés gratuitement par l'État mais ayant accès à un restaurant administratif.
 
-      Ils perçoivent trois taux de base pendant le premier mois jusqu'à la fin du sixième mois.
+      Ils perçoivent trois taux de base pendant le premier mois.
 
       Le versement est de deux taux de base du deuxième au sixième mois.
 
@@ -136,11 +136,11 @@ III. DISPOSITIF DES INDEMNITÉS DE STAGE.
 
       Le troisième cas concerne les stagiaires logés gratuitement mais sans accès à un restaurant administratif.
 
-      Ils reçoivent trois taux de base du neuvième jour aux huit premiers jours.
+      Ils reçoivent trois taux de base pendant les huit premiers jours.
 
-      Le taux est de deux taux de base du neuvième au troisième mois.
+      Le taux est de deux taux de base du neuvième jour à la fin du troisième mois.
 
-      Il est de un taux de base du quatrième au sixième mois.
+      Il est de un taux de base du quatrième au sixième mois, puis de un demi-taux de base à partir du septième mois.
 
       Enfin, le quatrième cas concerne les stagiaires non logés et sans accès à un restaurant administratif.
 

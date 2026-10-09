@@ -34,7 +34,7 @@ I. LE STATUT ET LES GARANTIES DES AGENTS CONTRACTUELS.
 
       Le juge administratif a dégagé des principes généraux du droit applicables à l'ensemble des agents contractuels de droit public, s'inspirant tant du code du travail que des règles statutaires des fonctionnaires.
 
-      Il est interdit de rémunérer un agent contractuel en deçà du salaire minimum, comme l'a consacré le CE, Sect., vingt-trois avril mille neuf cent quatre-vingt-deux, Ville des agents contractuels de Toulouse c/ Mme X, n° trente-six mille huit cent cinquante et un, Rec.
+      Il est interdit de rémunérer un agent contractuel en deçà du salaire minimum, comme l'a consacré le CE, Sect., vingt-trois avril mille neuf cent quatre-vingt-deux, Ville de Toulouse c/ Mme X, n° trente-six mille huit cent cinquante et un, Rec.
 
       La jurisprudence interdit également de rémunérer un agent en dessous du SMIC en vertu d'un principe général du droit applicable à tout salarié, selon le CE, Sect., vingt-trois avril mille neuf cent quatre-vingt-deux, Ville de Toulouse c/ Mme X, n° trente-six mille huit cent cinquante et un, Rec.
 
@@ -260,7 +260,7 @@ VI. LES CONDITIONS DE RECEVABILITÉ DU RECOURS.
 
       L'intérêt pour agir d'un syndicat défendant des intérêts collectifs est admis lorsque l'acte attaqué possède une portée générale et impersonnelle.
 
-      Un syndicat peut demander l'annulation d'un arrêté ministériel fixant les conditions d'un concours s'il a fait acte de candidature.
+      En revanche, un syndicat n'est pas recevable à contester les résultats d'un concours : seuls les candidats qui ont participé aux épreuves y ont intérêt.
 
       Lorsqu'un décret est divisible, un syndicat n'est recevable à le contester que pour la catégorie d'agents qu'il représente.
 

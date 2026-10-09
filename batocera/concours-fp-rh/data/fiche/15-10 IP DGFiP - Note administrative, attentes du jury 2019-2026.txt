@@ -14,11 +14,11 @@ LEXIQUE COMPLET.
 
       Le sigle URSSAF désigne l'organisme de collecte des cotisations sociales.
 
-      Le sigle NRP désigne la notion de nouvelle répartition de la population.
+      Le sigle NRP désigne le nouveau réseau de proximité de la DGFiP.
 
       Le sigle TZNR désigne le territoire zéro non recours.
 
-      Le sigle COM désigne le comité de direction ou l'instance de pilotage stratégique.
+      Le sigle COM désigne le contrat d'objectifs et de moyens de la DGFiP.
 
       Le sigle IPFiP désigne l'inspecteur principal des Finances publiques.
 
@@ -188,7 +188,7 @@ V. ANALYSE DES ERREURS RÉCURRENTES SUR LE FOND.
 
       De nombreux candidats adoptent une vision partielle en traitant les sujets uniquement sous l'angle de la DGFiP.
 
-      Cette tendance au repli empêche de prendre en compte les relations avec les autres partenaires comme les URSAFF, les CCI ou les CMA.
+      Cette tendance au repli empêche de prendre en compte les relations avec les autres partenaires comme les URSSAF, les CCI ou les CMA.
 
       L'absence de mention des actions portées par le gouvernement ou des dispositifs comme les Espaces France Service est régulièrement regrettée.
 

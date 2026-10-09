@@ -16,7 +16,7 @@ LEXIQUE COMPLET.
 
       L'ARTT désigne l'aménagement et la réduction du temps de travail qui constitue une modalité de décompte des heures de travail pour les agents.
 
-      Le RAFP désigne le régime d'épargne qui permet la monétisation de certains jours de repos épargnés sur le CET pour les agents de la fonction publique territoriale.
+      Le RAFP désigne la retraite additionnelle de la fonction publique, régime obligatoire par points sur lequel des jours épargnés sur le CET peuvent notamment être versés.
 
       Le Conseil d'État est la juridiction qui précise la nature de la GIPA comme étant un complément de traitement et non un élément du régime indemnitaire.
 
@@ -42,11 +42,11 @@ I. RÉGIME DE LA RÉPÉTITION DE L'INDU ET DES DÉCISIONS PÉCUNIAIRES.
 
       Lorsqu'une décision pécuniaire est conditionnée au maintien d'une condition, comme l'attribution d'une prime mensuelle, l'administration peut l'abroger si l'intéressé ne remplit plus cette condition selon l'art. L. deux cent quarante-deux-deux du CRPA. Le retrait d'une décision créatrice de droit ne peut toutefois intervenir que dans un délai très bref de quatre mois.
 
-      L'articulation entre le retrait et la prescription est complexe car le respect de la décision créatrice de droit doit l'emporter pour maintenir la cohérence entre la décision et les sommes versées. En pratique, si le délai de quatre mois est expiré, l'argent ne peut plus être réclamé à l'agent, même si l'administration ne peut plus retirer la décision.
+      L'articulation entre le retrait et la prescription est complexe car le respect de la décision créatrice de droit doit l'emporter pour maintenir la cohérence entre la décision et les sommes versées. Avant la loi de deux mille onze, la jurisprudence en déduisait qu'une fois le délai de quatre mois expiré, l'argent ne pouvait plus être réclamé à l'agent.
 
       Il existe une distinction importante entre les décisions purement pécuniaires et les décisions mixtes ayant une portée statutaire, comme une nomination dans un grade. Si une décision est annulée rétroactivement, l'administration ne peut pas forcément récupérer les sommes versées si le délai de quatre mois est passé, sauf si la jurisprudence de la répétition de l'indu s'applique.
 
-      Le délai pour décider d'une répétition d'un indu est de quatre mois à compter de la prise de décision, ce qui est bien inférieur au délai de prescription de droit commun. En droit privé, le délai de prescription est de cinq ans en principe et de trois ans pour les créances liées au paiement des salaires des contrats de travail selon l'art. L. trois mille deux cent quarante-cinq-un du code du travail.
+      Le retrait d'une décision créatrice de droits doit intervenir dans les quatre mois ; la répétition d'un indu de rémunération obéit, elle, à une prescription de deux ans, bien inférieure au délai de prescription de droit commun. En droit privé, le délai de prescription est de cinq ans en principe et de trois ans pour les créances liées au paiement des salaires des contrats de travail selon l'art. L. trois mille deux cent quarante-cinq-un du code du travail.
 
    C. Régime spécifique de la répétition de l'indu en matière de rémunération.
 
@@ -58,7 +58,7 @@ I. RÉGIME DE LA RÉPÉTITION DE L'INDU ET DES DÉCISIONS PÉCUNIAIRES.
 
       Une autre exception concerne les sommes versées sans présenter les caractères d'une rémunération, comme les indemnités de réparation après une éviction illégale. Pour ces cas, le délai de prescription reste celui du droit commun, conformément au CE, vingt-huit mai deux mille quatorze, M. A...D... et Communal, n° trois cent soixante-seize mille cinq cent un.
 
-      Enfin, la jurisprudence traditionnelle continue de s'appliquer pour empêcher la répétition de l'indu si un délai de quatre mois s'est écoulé depuis la décision créatrice de droits. Le législateur a ainsi voulu éviter que l'administration puisse récupérer une prime qu'elle ne peut plus retirer juridiquement.
+      Ainsi, depuis la loi de deux mille onze, l'expiration du délai de quatre mois n'empêche plus la répétition de l'indu : l'administration peut récupérer pendant deux ans les sommes indûment versées, même lorsqu'elle ne peut plus retirer la décision qui les a accordées.
 
 II. LA GARANTIE INDIVIDUELLE DU POUVOIR D'ACHAT.
 
@@ -76,9 +76,9 @@ II. LA GARANTIE INDIVIDUELLE DU POUVOIR D'ACHAT.
 
    B. Champ d'application et bénéficiaires.
 
-      Tous les fonctionnaires ont vocation à bénéficier de la GIPA à condition qu'ils détiennent un grade dont l'indice sommet est inférieur ou égal à celui de la catégorie A.
+      Tous les fonctionnaires ont vocation à bénéficier de la GIPA à condition qu'ils détiennent un grade dont l'indice sommet est inférieur ou égal à la hors-échelle B.
 
-      Le Conseil d'État a précisé que cette condition n'est pas remplie si le grade comporte un échelon affecté de l'indice hors-échelle B, même si cet échelon n'est accessible qu'au choix.
+      Le Conseil d'État a précisé que cette condition n'est pas remplie si le grade comporte un échelon affecté de l'indice hors-échelle B bis, même si cet échelon n'est accessible qu'au choix.
 
       Les agents publics non-titulaires des trois fonctions publiques entrent également dans le champ du dispositif sous certaines conditions.
 

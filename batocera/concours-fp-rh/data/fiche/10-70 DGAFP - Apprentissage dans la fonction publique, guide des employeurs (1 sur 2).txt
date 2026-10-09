@@ -122,11 +122,11 @@ III. RÉMUNÉRATION ET PROTECTION SOCIALE.
 
       La rémunération minimale de l'apprenti est calculée selon son âge au moment de l'embauche et l'année d'exécution du contrat.
 
-      Pour un apprenti de moins de vingt et un ans, le salaire de la première année est de vingt-sept pour cent, celui de la deuxième année est de trente-neuf pour cent et celui de la troisième année est de cinquante-cinq pour cent du SMIC.
+      Pour un apprenti de moins de dix-huit ans, le salaire de la première année est de vingt-sept pour cent, celui de la deuxième année est de trente-neuf pour cent et celui de la troisième année est de cinquante-cinq pour cent du SMIC.
 
-      Pour un apprenti de dix-huit à vingt-cinq ans, les taux sont de quarante-trois pour cent pour la première année, cinquante et un pour cent pour la deuxième année et soixante-sept pour cent pour la troisième année.
+      Pour un apprenti de dix-huit à vingt ans, les taux sont de quarante-trois pour cent pour la première année, cinquante et un pour cent pour la deuxième année et soixante-sept pour cent pour la troisième année.
 
-      Pour un apprenti de vingt-six ans et plus, la rémunération est de cinquante-trois pour cent la première année, soixante et un pour cent la deuxième année et soixante-dix-huit pour cent la troisième année.
+      Pour un apprenti de vingt et un à vingt-cinq ans, la rémunération est de cinquante-trois pour cent la première année, soixante et un pour cent la deuxième année et soixante-dix-huit pour cent la troisième année. À partir de vingt-six ans, l'apprenti perçoit cent pour cent du SMIC.
 
       Les employeurs publics ont la faculté de majorer ces taux de rémunération de dix à vingt points.
 
@@ -138,7 +138,7 @@ III. RÉMUNÉRATION ET PROTECTION SOCIALE.
 
       L'apprenti bénéficie d'une exonération des charges sociales et de l'impôt sur le revenu dans la limite du montant annuel du SMIC.
 
-      Il ne paie aucune cotisation salariale sur son salaire brut dans la limite de soixante-dix-neuf pour cent du SMIC brut.
+      Pour les contrats conclus depuis le premier mars deux mille vingt-cinq, il ne paie aucune cotisation salariale dans la limite de cinquante pour cent du SMIC brut, et la CSG et la CRDS sont dues au-delà. L'ancienne limite était de soixante-dix-neuf pour cent du SMIC.
 
       L'employeur public est exonéré des cotisations patronales relatives aux assurances sociales, aux allocations familiales, à la CSA, au FNAL et au versement transport.
 

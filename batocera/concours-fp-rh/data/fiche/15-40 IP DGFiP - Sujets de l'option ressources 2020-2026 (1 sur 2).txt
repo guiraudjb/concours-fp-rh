@@ -4,7 +4,7 @@ LEXIQUE COMPLET.
 
       La DDFiP désigne la Direction départementale des Finances publiques qui est l'administration locale de la DGFiP.
 
-      Le SIE désigne le Service des impôts des particuliers ou le Service des impôts des entreprises selon le contexte de l'affectation.
+      Le SIE désigne le service des impôts des entreprises.
 
       Le SGC désigne le Service de gestion comptable qui regroupe les activités de comptabilité pour des secteurs comme l'hospitalier ou les collectivités locales.
 

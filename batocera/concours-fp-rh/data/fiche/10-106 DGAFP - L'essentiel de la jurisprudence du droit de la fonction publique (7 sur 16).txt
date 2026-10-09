@@ -44,7 +44,7 @@ I. LE RÉGIME JURIDIQUE DU FONCTIONNAIRE STAGIAIRE.
 
       On distingue deux catégories de stagiaires, à savoir ceux nommés dans leur futur emploi permanent et ceux qui suivent une formation dans une école administrative.
 
-      Les stagiaires de la fonction publique d'État, territoriale et hospitalière sont régis par le décret n° quatre-vingt-quatorze-huit cent soixante-quatorze du sept octobre mille neuf cent quatre-vingt-quatorze, le décret n° quatre-vingt-douze-mille cent quatre-vingt-quatorze du quatre novembre mille neuf cent quatre-vingt-douze ou le décret n° quatre-vingt-dix-sept-quatre cent quatre-vingt-sept du sept octobre mille neuf cent quatre-vingt-quatorze.
+      Les stagiaires de la fonction publique d'État, territoriale et hospitalière sont régis par le décret n° quatre-vingt-quatorze-huit cent soixante-quatorze du sept octobre mille neuf cent quatre-vingt-quatorze, le décret n° quatre-vingt-douze-mille cent quatre-vingt-quatorze du quatre novembre mille neuf cent quatre-vingt-douze ou le décret n° quatre-vingt-dix-sept-quatre cent quatre-vingt-sept du douze mai mille neuf cent quatre-vingt-dix-sept.
 
       Le stage est en principe obligatoire, sauf exceptions comme pour les magistrats de tribunaux administratifs et de cours administratives d'appel.
 
@@ -134,7 +134,7 @@ III. LA TITULARISATION ET LES MESURES EXCEPTIONNELLES.
 
       Le législateur a mis en œuvre d'autres plans, comme la loi n° deux mille douze-trois cent quarante-sept du douze mars deux mille douze qui permet la titularisation d'agents contractuels. La loi n° deux mille seize-quatre cent quatre-vingt-trois du vingt avril deux mille seize a porté à six ans la durée des services effectifs requis pour ce dispositif.
 
-      Des concours réservés existent aussi pour les agents justifiant d'une expérience professionnelle, élective ou associative, appelés les troisième concours. Enfin, la loi n° deux mille dix-neuf-huit cent vingt-huit du six août deux mille dix-neuf a prévu un dispositif expérimental de rupture conventionnelle pour les fonctionnaires de six années.
+      Des concours réservés existent aussi pour les agents justifiant d'une expérience professionnelle, élective ou associative, appelés les troisième concours. Enfin, la loi n° deux mille dix-neuf-huit cent vingt-huit du six août deux mille dix-neuf a prévu un dispositif de rupture conventionnelle pour les fonctionnaires, d'abord expérimental pour six ans, puis pérennisé.
 
 IV. LA POSITION D'ACTIVITÉ.
 
@@ -164,13 +164,13 @@ IV. LA POSITION D'ACTIVITÉ.
 
    C. Les obligations et les recours liés à l'affectation.
 
-      L'administration peut procéder à une affectation pour ordre, ce qui est strictement prohibé par l'article douze de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois. Elle doit soit proposer une affectation adéquate, soit licencier l'agent pour insuffisance professionnelle.
+      L'administration ne peut pas procéder à une affectation pour ordre, strictement prohibée par l'article douze de la loi n° quatre-vingt-trois-six cent trente-quatre du treize juillet mille neuf cent quatre-vingt-trois. Elle doit soit proposer une affectation adéquate, soit licencier l'agent pour insuffisance professionnelle.
 
       Le changement d'affectation peut être contesté devant le juge s'il ne constitue pas une simple mesure d'ordre intérieur. Une mutation d'office est contestable si elle modifie de façon importante les conditions de travail comme la résidence, les responsabilités ou la rémunération.
 
       Les fonctionnaires bénéficiant d'une garantie d'inamovibilité, tels que les magistrats du siège, ne peuvent recevoir de nouvelle affectation sans leur consentement. Cela s'applique même si la proposition est liée à un avancement.
 
-      Le dispositif de rupture conventionnelle est devenu expérimentale pour les fonctionnaires des trois fonctions publiques du premier janvier deux mille vingt jusqu'en deux mille vingt-cinq. Il permet de mettre fin à une situation de manière consensuelle.
+      Le dispositif de rupture conventionnelle a d'abord été expérimenté pour les fonctionnaires des trois fonctions publiques du premier janvier deux mille vingt jusqu'à fin deux mille vingt-cinq, avant d'être pérennisé. Il permet de mettre fin à une situation de manière consensuelle.
 
       Si l'administration commet une illégalité fautive en ne donnant pas un poste adéquat, le fonctionnaire peut demander réparation du préjudice subi. Le juge tient toutefois compte des démarches effectuées par l'intéressé pour faire cesser l'illégalité.
 
@@ -234,7 +234,7 @@ VI. LA DISPONIBILITÉ.
 
    B. Les modalités de demande et de réintégration.
 
-      La mise en disponibilité est prononcée sur demande du fonctionnaire, bien que l'administration puisse y faire droit de plein droit dans certains cas comme pour élever un enfant de moins de huit ans.
+      La mise en disponibilité est prononcée sur demande du fonctionnaire, bien que l'administration puisse y faire droit de plein droit dans certains cas comme pour élever un enfant de moins de douze ans, depuis le décret de deux mille dix-neuf ; la limite était auparavant de huit ans.
 
       L'administration peut également placer un fonctionnaire en disponibilité d'office dans des cas limitativement prévus par la loi, comme à l'expiration des congés de maladie de longue durée.
 

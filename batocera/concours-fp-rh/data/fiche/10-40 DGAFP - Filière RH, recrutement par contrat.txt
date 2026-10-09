@@ -222,7 +222,7 @@ V. OBLIGATIONS DÉONTOLOGIQUES DURANT LE CONTRAT.
 
       L'agent doit consacrer l'intégralité de son activité professionnelle aux tâches confiées, l'exercice d'une activité privée lucrative étant interdit par principe.
 
-      Des dérogations existent, comme pour les agents occupant un emploi à temps incomplet inférieur à soixante-dix pour cent d'un temps plein, sous réserve de déclaration à l'autorité hiérarchique.
+      Des dérogations existent, comme pour les agents occupant un emploi à temps incomplet inférieur ou égal à soixante-dix pour cent d'un temps plein, sous réserve de déclaration à l'autorité hiérarchique.
 
       Un agent peut également exercer une activité accessoire en dehors de ses heures de service après autorisation, ou créer une entreprise après autorisation sous réserve de passer à temps partiel pour une durée maximale de quatre ans.
 
@@ -240,7 +240,7 @@ VI. OBLIGATIONS POST-CONTRACTUELLES ET DÉCLARATIVES.
 
       Cette interdiction s'applique également si l'agent a été chargé de conclure des contrats de toute nature ou de formuler un avis sur de tels contrats avec cette entreprise.
 
-      Le non-respect de cette interdiction constitue le délit de prise illégale d'intérêts puni de trois ans d'emprisonnement et d'une amende de deux cent mille euros.
+      Le non-respect de cette interdiction constitue le délit de prise illégale d'intérêts après la cessation des fonctions, prévu par l'article quatre cent trente-deux-treize du code pénal et puni de trois ans d'emprisonnement et d'une amende de deux cent mille euros.
 
    B. Déclarations d'intérêts et de situation patrimoniale.
 
@@ -268,12 +268,12 @@ POINTS D'ATTENTION.
 
 EXEMPLES CITÉS.
 
-      Le principe de non-discrimination interdit toute distinction basée sur quinze critères comme les opinions politiques, l'orientation sexuelle, l'âge ou l'apparence physique.
+      Le principe de non-discrimination interdit toute distinction fondée sur des critères comme les opinions politiques, l'orientation sexuelle, l'âge ou l'apparence physique.
 
       Pour les emplois dits signalés nécessitant une expertise forte, la procédure renforcée impose un regard croisé avec au moins deux personnes dont l'une représente l'autorité hiérarchique.
 
       Lors d'un entretien de recrutement, la règle des quatre-vingts/vingt doit être respectée avec quatre-vingts pour cent du temps de parole accordé au candidat et vingt pour cent au manager.
 
-      Le délit de prise illégale d'intérêts est puni de cinq ans d'emprisonnement et d'une amende de cinq cent mille euros.
+      Commise pendant l'exercice des fonctions, la prise illégale d'intérêts, prévue par l'article quatre cent trente-deux-douze du code pénal, est punie de cinq ans d'emprisonnement et d'une amende de cinq cent mille euros.
 
-      Un agent occupant un emploi à temps incomplet d'une durée inférieure à soixante-dix pour cent d'un temps plein peut exercer une activité privée sans restriction sous réserve de déclaration.
+      Un agent occupant un emploi à temps incomplet d'une durée inférieure ou égale à soixante-dix pour cent d'un temps plein peut exercer une activité privée lucrative, sous réserve d'une déclaration à l'autorité hiérarchique, qui peut s'y opposer.

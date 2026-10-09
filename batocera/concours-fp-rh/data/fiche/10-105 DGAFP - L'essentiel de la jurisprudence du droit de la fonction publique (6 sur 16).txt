@@ -22,7 +22,7 @@ LEXIQUE COMPLET.
 
       Le tour extérieur désigne une voie de recrutement qui permet de faire accéder directement à la fonction publique des personnes de compétence en mettant à profit leur expérience professionnelle.
 
-      Le PACTE désigne un dispositif de recrutement sur contrat de droit public pour les jeunes de seize à vingt-cinq ans peu ou faiblement qualifiés qui aboutit à la titularisation après un stage.
+      Le PACTE désigne un dispositif de recrutement sur contrat de droit public pour les jeunes de seize à vingt-huit ans peu ou faiblement qualifiés qui aboutit à la titularisation après un stage.
 
       La jurisprudence Lugan désigne la règle selon laquelle l'annulation d'un concours n'entraîne l'annulation des nominations que si celles-ci ont été spécifiquement attaquées par le requérant.
 
@@ -98,7 +98,7 @@ II. LES DÉROGATIONS AU PRINCIPE DU CONCOURS.
 
       Le recrutement sans concours est aussi possible pour la constitution initiale d'un corps ou pour les fonctionnaires de catégorie C dont le grade de début est doté de l'échelle de rémunération la moins élevée.
 
-      Le dispositif PACTE permet le recrutement sur contrat d'un an renouvelable une fois pour les jeunes de seize à vingt-cinq ans ou les demandeurs d'emploi de quarante-cinq ans et plus.
+      Le dispositif PACTE permet le recrutement sur contrat d'un an renouvelable une fois pour les jeunes de seize à vingt-huit ans ou les demandeurs d'emploi de quarante-cinq ans et plus.
 
       Le dispositif expérimental PRAB propose une formation en alternance pour les jeunes de moins de vingt-huit ans afin de les préparer aux concours de catégorie A ou B.
 
@@ -260,9 +260,9 @@ VI. LE CONTENTIEUX DES CONCOURS ET DES EXAMENS.
 
       Si les nominations ne sont pas attaquées, elles demeurent et le requérant ne peut prétendre qu'à une indemnité pour la perte de chances sérieuses.
 
-      Si l'administration décide de maintenir les postes ouverts après l'annulation, elle n'est pas tenue d'organiser un nouveau concours.
+      Après l'annulation des nominations, l'administration n'est pas tenue d'organiser un nouveau concours.
 
-      Dans ce cas, elle est tenue de réorganiser le concours ou de reprendre les opérations à partir de l'étape où elles ont été annulées si les opérations sont divisibles.
+      En revanche, si elle décide de maintenir les postes ouverts, elle est tenue de réorganiser le concours ou de reprendre les opérations à partir de l'étape où elles ont été annulées si les opérations sont divisibles.
 
 POINTS D'ATTENTION.
 
@@ -280,10 +280,10 @@ EXEMPLES CITÉS.
 
       Le Conseil d'État a précisé dans l'arrêt de deux mille neuf Syndicat national des ingénieurs de l'industrie et des mines que l'examen professionnel n'est pas équivalent au concours interne car le jury peut consulter le dossier administratif.
 
-      L'article seize quater de la loi du treize juillet mille neuf cent quatre-vingt-trois impose désormais une représentation équilibrée entre les femmes et les hommes avec une proportion minimale de quarante pour cent de chaque sexe.
+      L'article seize ter de la loi du treize juillet mille neuf cent quatre-vingt-trois impose désormais une représentation équilibrée entre les femmes et les hommes avec une proportion minimale de quarante pour cent de chaque sexe.
 
       Dans l'affaire de mille neuf cent quatre-vingt-onze Mlle Mireille X, le jury a commis une erreur de droit en fondant son appréciation sur l'aptitude physique de la candidate au lieu de se concentrer sur ses compétences.
 
-      Le dispositif PACTE permet le recrutement sur un contrat de un à deux ans pour les jeunes de seize à vingt-cinq ans tandis que le dispositif PRAB s'adresse aux demandeurs d'emploi de quarante-cinq ans et plus.
+      Le dispositif PACTE permet le recrutement sur un contrat de un à deux ans pour les jeunes de seize à vingt-huit ans, et il a été ouvert aux demandeurs d'emploi de quarante-cinq ans et plus. Le PRAB, expérimentation de six ans lancée en deux mille dix-sept et aujourd'hui terminée, s'adressait aux jeunes sans emploi de vingt-huit ans au plus.
 
       Selon la jurisprudence Lugan, l'annulation d'un concours n'entraîne l'annulation des nominations que si celles-ci ont été spécifiquement attaquées par le requérant dans le délai du recours contentieux.
