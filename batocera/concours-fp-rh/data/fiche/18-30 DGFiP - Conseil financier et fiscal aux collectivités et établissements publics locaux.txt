@@ -32,6 +32,8 @@ I. LE RÔLE ET LES MISSIONS DU COMPTABLE PUBLIC.
 
    A. Missions de gestion financière et comptable.
 
+      Mise à jour : TIPI a été remplacé par PayFiP, et la DGFiP a déployé depuis deux mille dix-neuf le nouveau réseau de proximité et les conseillers aux décideurs locaux.
+
       Le comptable public est seul chargé du maniement des fonds et des mouvements des comptes de disponibilités des collectivités et établissements publics locaux.
 
       Il assure la tenue quotidienne de la comptabilité qui aboutit à l'élaboration du compte de gestion retraçant l'ensemble des opérations conduites par les ordonnateurs locaux.

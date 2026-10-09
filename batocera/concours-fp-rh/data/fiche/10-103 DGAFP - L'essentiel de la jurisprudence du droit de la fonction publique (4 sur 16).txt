@@ -28,6 +28,8 @@ I. LA PROTECTION DES DONNÉES PERSONNELLES ET DE LA VIE PRIVÉE.
 
    A. Conditions de collecte et de traitement des données.
 
+      Mise à jour : ce recueil date de deux mille vingt ; les articles des lois de mille neuf cent quatre-vingt-trois, mille neuf cent quatre-vingt-quatre et mille neuf cent quatre-vingt-six qu'il cite sont abrogés et codifiés depuis le premier mars deux mille vingt-deux dans le code général de la fonction publique.
+
       L'administration peut mettre en place des fichiers informatiques utilisant des données personnelles de ses agents à condition que l'atteinte à la vie privée soit proportionnée.
 
       La loi n° soixante-dix-huit-dix-sept du sept janvier mille neuf cent soixante-dix-huit relative à l'informatique, aux fichiers et aux libertés permet la collecte et le traitement d'informations nominatives sous deux conditions cumulatives.

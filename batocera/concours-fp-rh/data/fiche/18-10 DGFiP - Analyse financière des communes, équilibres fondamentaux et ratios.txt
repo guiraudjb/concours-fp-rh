@@ -30,6 +30,8 @@ I. PRÉSENTATION ET ORGANISATION DES DONNÉES COMPTABLES.
 
    A. Méthodologie de regroupement des communes.
 
+      Mise à jour : la suppression de la CVAE, prévue par la loi de finances pour deux mille vingt-trois, a été étalée puis reportée à deux mille trente par la loi de finances pour deux mille vingt-cinq.
+
       Les communes françaises sont recensées au premier janvier de l'année et sont réparties au sein de trente et un groupes de référence.
 
       Ces groupes de communes sont définis selon la taille démographique de la commune et son appartenance ou non à un établissement public de coopération intercommunale à fiscalité propre.

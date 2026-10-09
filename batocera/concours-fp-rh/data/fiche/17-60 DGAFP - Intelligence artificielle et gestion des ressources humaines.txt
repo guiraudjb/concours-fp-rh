@@ -32,6 +32,8 @@ I. CONTEXTE ET FONDEMENTS DE LA STRATÉGIE.
 
    A. Cadre international et européen de l'IA.
 
+      Mise à jour : le règlement européen sur l'intelligence artificielle est entré en vigueur le premier août deux mille vingt-quatre, avec une application échelonnée de deux mille vingt-cinq à deux mille vingt-sept.
+
       L'OCDE a proposé dès deux mille dix-neuf les premiers travaux normatifs sur le sujet et a établi une définition de référence pour les systèmes d'IA.
 
       Selon l'OCDE, un système d'IA est un système basé sur une machine qui, pour des objectifs explicites ou implicplets, déduit de ses entrées comment générer des résultats tels que des prédictions, du contenu, des recommandations ou des décisions.
