@@ -1,6 +1,6 @@
 # Inventaire des modules et des médias — concours-fp-rh
 
-Généré le 19/10/2026 à 08:35 par `scripts/inventaire_medias.py` (139 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
+Généré le 19/10/2026 à 08:51 par `scripts/inventaire_medias.py` (139 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
 
 ## Synthèse
 
@@ -12,11 +12,11 @@ Généré le 19/10/2026 à 08:35 par `scripts/inventaire_medias.py` (139 modules
 | TP | 139 | 0 | 100 % |
 | Icône | 139 | 0 | 100 % |
 | Infographie locale | 139 | 0 | 100 % |
-| Infographie NotebookLM | 7 | 132 | 5 % |
+| Infographie NotebookLM | 10 | 129 | 7 % |
 | Paroles | 139 | 0 | 100 % |
 | Chanson | 139 | 0 | 100 % |
 | Podcast local | 139 | 0 | 100 % |
-| Podcast NotebookLM | 7 | 132 | 5 % |
+| Podcast NotebookLM | 10 | 129 | 7 % |
 | Micro-chronique | 139 | 0 | 100 % |
 | Narration fiche | 139 | 0 | 100 % |
 | Audio QCM/flash | 139 | 0 | 100 % |
@@ -26,7 +26,7 @@ Généré le 19/10/2026 à 08:35 par `scripts/inventaire_medias.py` (139 modules
 | Série | Modules | Fiche | QCM | Flash | TP | Icône | Infographie locale | Infographie NotebookLM | Paroles | Chanson | Podcast local | Podcast NotebookLM | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| 10 Statut, carrière et rémunération | 41 | 41 | 41 | 41 | 41 | 41 | 41 | 5 | 41 | 41 | 41 | 5 | 41 | 41 | 41 |
+| 10 Statut, carrière et rémunération | 41 | 41 | 41 | 41 | 41 | 41 | 41 | 8 | 41 | 41 | 41 | 8 | 41 | 41 | 41 |
 | 11 Déontologie et valeurs du service public | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 0 | 6 | 6 | 6 | 0 | 6 | 6 | 6 |
 | 12 Dialogue social | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 0 | 5 | 5 | 5 | 0 | 5 | 5 | 5 |
 | 13 Formation, mobilité et temps de travail | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 0 | 12 | 12 | 12 | 0 | 12 | 12 | 12 |
@@ -46,9 +46,9 @@ Généré le 19/10/2026 à 08:35 par `scripts/inventaire_medias.py` (139 modules
 | 10-20 DGAFP - Filière RH, statuts particuliers | ✅ | 23 | 25 | 6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 10-30 DGAFP - Filière RH, promotion professionnelle et conditions d'entrée | ✅ | 30 | 25 | 6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 10-40 DGAFP - Filière RH, recrutement par contrat | ✅ | 27 | 23 | 5 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 10-50 DGAFP - Filière RH, structure de la rémunération | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
-| 10-60 DGAFP - Chiffres clés de la fonction publique 2025 | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
-| 10-70 DGAFP - Apprentissage dans la fonction publique, guide des employeurs (1 sur 2) | ✅ | 28 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 10-50 DGAFP - Filière RH, structure de la rémunération | ✅ | 30 | 25 | 6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 10-60 DGAFP - Chiffres clés de la fonction publique 2025 | ✅ | 28 | 25 | 6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 10-70 DGAFP - Apprentissage dans la fonction publique, guide des employeurs (1 sur 2) | ✅ | 28 | 24 | 6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 10-71 DGAFP - Apprentissage dans la fonction publique, guide des employeurs (2 sur 2) | ✅ | 30 | 24 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 10-75 DGAFP - Attirer et recruter toutes les générations | ✅ | 28 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
 | 10-80 DGAFP - Étapes de la carrière, fidélisation et accompagnement | ✅ | 30 | 25 | 6 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
