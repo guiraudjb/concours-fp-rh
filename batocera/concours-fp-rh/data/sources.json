@@ -1462,5 +1462,46 @@
    "pages": 63,
    "taille": 2597408
   }
+ ],
+ "19-10 DGFiP - Rapport d'activité 2025": [
+  {
+   "fichier": "source/rapport-activite-dgfip-2025.pdf",
+   "titre": "DGFiP - Rapport d'activité 2025",
+   "pages": 56,
+   "taille": 6468841,
+   "url": "https://www.economie.gouv.fr/files/files/directions_services/dgfip/Rapport/2025/ra_2025.pdf"
+  },
+  {
+   "fichier": "source/label-spp-dgfip-2025.pdf",
+   "titre": "DITP - Label argent Services publics+ pour la DGFiP (26 juin 2025)",
+   "pages": 3,
+   "taille": 200489,
+   "url": "https://www.modernisation.gouv.fr/files/2025-06/CommuniquePresse-LabelSPP_DGFiP.pdf"
+  }
+ ],
+ "19-11 DGFiP - Programme 156, projet annuel de performances 2026": [
+  {
+   "fichier": "source/pap2026-programme-156.pdf",
+   "titre": "PLF 2026 - Projet annuel de performances, mission Gestion des finances publiques",
+   "pages": 173,
+   "taille": 2497280,
+   "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1087984/file/PAP2026_BG_Gestion_finances_publiques_GA.pdf"
+  },
+  {
+   "fichier": "source/senat-plf2026-gestion-finances-publiques.pdf",
+   "titre": "Sénat - PLF 2026, mission Gestion des finances publiques (synthèse)",
+   "pages": 6,
+   "taille": 415174,
+   "url": "https://www.senat.fr/rap/l25-139-314/l25-139-314-syn.pdf"
+  }
+ ],
+ "19-20 Sénat - Action de la DGFiP auprès du bloc communal et nouveau réseau de proximité (2024)": [
+  {
+   "fichier": "source/senat-r23-303-nrp.pdf",
+   "titre": "Sénat - Rapport d'information n° 303 (2023-2024), action de la DGFiP auprès du bloc communal",
+   "pages": 143,
+   "taille": 4581691,
+   "url": "https://www.senat.fr/rap/r23-303/r23-3031.pdf"
+  }
  ]
 }

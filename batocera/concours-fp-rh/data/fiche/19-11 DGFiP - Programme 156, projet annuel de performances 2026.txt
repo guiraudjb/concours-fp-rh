@@ -1,0 +1,261 @@
+FICHE DE RÉVISION DÉTAILLÉE ET EXHAUSTIVE SUR LE PROGRAMME cent cinquante-six ET LA MISSION GESTION DES FINANCES PUBLIQUES DANS LE CADRE DU PROJET DE LOI DE FINANCES POUR deux mille vingt-six.
+
+LEXIQUE COMPLET.
+
+      L'AIFE désigne l'Agence pour l'Informatique Financière de l'État, service à compétence nationale chargé de concevoir et d'opérer les grands systèmes d'information financiers de l'État comme Chorus et la plateforme publique de facturation électronique.
+
+      L'AE représente l'Autorisation d'Engagement, qui constitue la limite supérieure des dépenses pouvant être engagées par l'État pour une opération financière donnée.
+
+      Le BOFiP correspond au Bulletin Officiel des Finances Publiques, support unique de diffusion de la doctrine fiscale opposable publiée par la direction générale des finances publiques.
+
+      Le CAS Pensions désigne le Compte d'Affectation Spéciale Pensions, qui retrace les opérations relatives aux pensions et allocations d'ancienneté des agents civils et militaires de l'État.
+
+      Le CDL représente le Conseiller aux Décideurs Locaux, agent de la DGFiP dédié au conseil financier, budgétaire et fiscal de proximité auprès des élus des collectivités territoriales.
+
+      Le CGF correspond au Centre de Gestion Financière, structure mutualisée placée sous l'autorité du comptable public réunissant le centre de services partagés et le service facturier.
+
+      Le CFU désigne le Compte Financier Unique, document dématérialisé commun à l'ordonnateur et au comptable destiné à remplacer le compte administratif et le compte de gestion dans le secteur local.
+
+      Le CP représente le Crédit de Paiement, qui constitue la limite supérieure des dépenses pouvant être ordonnancées ou payées pendant l'année pour la couverture des engagements contractés.
+
+      La DGDDI désigne la Direction Générale des Douanes et Droits Indirects, administration chargée de la protection des frontières, du contrôle des marchandises et de la perception des fiscalités douanières.
+
+      La DGFiP correspond à la Direction Générale des Finances Publiques, administration qui gère les opérations fiscales et financières de l'État et du secteur public local.
+
+      La DIE représente la Direction de l'Immobilier de l'État, organisme chargé de définir et de mettre en œuvre la politique immobilière patrimoniale de l'État et de ses opérateurs.
+
+      La DLF désigne la Direction de la Législation Fiscale, direction chargée de concevoir et de rédiger les textes législatifs et réglementaires en matière fiscale.
+
+      L'ESSOC correspond à la Loi pour un État au Service d'une Société de Confiance du dix août deux mille dix-huit, texte instaurant le droit à l'erreur et rénovant les relations entre l'administration et les administrés.
+
+      L'ETP désigne l'Équivalent Temps Plein, unité de mesure des effectifs physiques de l'administration expressed en quotité de travail.
+
+      L'ETPT représente l'Équivalent Temps Plein Travaillé, unité de mesure des effectifs pondérée par la durée de présence effective des agents sur l'année budgétaire.
+
+      GMBI désigne l'application Gérer Mes Biens Immobiliers, service en ligne permettant aux propriétaires de déclarer la situation d'occupation de leurs locaux et les caractéristiques de leurs biens.
+
+      Le GVT correspond au Glissement Vieillesse Technicité, mécanisme mesurant la variation de la masse salariale liée à l'avancement d'ancienneté et de grade des agents publics.
+
+      La LFI désigne la Loi de Finances Initiale, texte législatif voté par le Parlement fixant le budget de l'État pour une année civile déterminée.
+
+      La M57 correspond au référentiel budgétaire et comptable M57, norme comptable révisée et généralisée à l'ensemble des collectivités territoriales locales.
+
+      Le MEFSIN désigne le Ministère de l'Économie, des Finances et de la Souveraineté Industrielle et Numérique, ministère de rattachement de la DGFiP et de la DGDDI.
+
+      Le PAP correspond au Projet Annuel de Performances, document budgétaire annexé au projet de loi de finances présentant les objectifs, indicateurs et crédits de chaque programme.
+
+      Le PAS désigne le Prélèvement à la Source, mode de recouvrement de l'impôt sur le revenu consistant à prélever l'impôt au moment du versement des revenus.
+
+      Le PLF représente le Projet de Loi de Finances, document soumis chaque automne au Parlement pour autoriser les recettes et les dépenses de l'État pour l'année suivante.
+
+      Le SFACT désigne le Service Facturier, organisation centralisée chargée du traitement et du paiement des factures émises par les fournisseurs des organismes publics.
+
+      Le SPE correspond au Service Partenaire des Entreprises, dispositif offrant un accompagnement fiscal personnalisé aux grandes entreprises et groupes partenaires.
+
+      La SUB désigne la Surface Utile Brute, mesure de la superficie totale occupée par le patrimoine immobilier de l'État et de ses établissements publics.
+
+COURS DÉTAILLÉ.
+
+I. CADRE BUDGETAIRE ET TRAJECTOIRE FINANCIERE DE LA MISSION GESTION DES FINANCES PUBLIQUES ET DU PROGRAMME cent cinquante-six.
+
+   A. Les grandes masses budgétaires de la mission et la répartition par programme.
+
+      Le projet de loi de finances pour deux mille vingt-six alloue un montant total de onze virgule zéro cinq milliards d'euros en crédits de paiement à la mission Gestion des finances publiques, ce qui représente une hausse de un virgule soixante-quinze pour cent par rapport à la loi de finances initiale pour deux mille vingt-cinq. En autorisations d'engagement, les crédits demandés pour l'ensemble de la mission s'élèvent à onze virgule dix-neuf milliards d'euros, enregistrant une progression annuelle de deux virgule quatorze pour cent.
+
+      La mission Gestion des finances publiques regroupe trois programmes budgétaires majeurs dont le programme cent cinquante-six intitulé Gestion fiscale et financière de l'État et du secteur public local. Ce programme porte l'essentiel des moyens de la direction générale des finances publiques avec huit milliards deux cent quatre-vingt-dix-neuf millions sept cent quatre-vingt-sept mille neuf cent cinquante-deux euros en autorisations d'engagement et huit milliards deux cent vingt-neuf millions neuf cent quarante-trois mille cinq euros en crédits de paiement pour l'année deux mille vingt-six, affichant des hausses respectives de un virgule quarante-deux pour cent et de un virgule quatorze pour cent par rapport à deux mille vingt-cinq.
+
+      Les deux autres programmes de la mission complètent ce dispositif institutionnel et opérationnel. Le programme trois cent deux dédié à la Facilitation et sécurisation des échanges retrace les crédits de la direction générale des douanes et droits indirects à hauteur de un milliard huit cent trente-neuf millions six cent six mille cinquante-sept euros en autorisations d'engagement et un milliard huit cent vingt millions huit cent quatre-vingt-douze mille six cent dix-sept euros en crédits de paiement. Le programme deux cent dix-huit consacré à la Conduite et pilotage des politiques économiques et financières retrace les moyens du secrétariat général du ministère pour un milliard quarante-sept millions deux cent quarante-six mille six cent trente-quatre euros en autorisations d'engagement et neuf cent quatre-vingt-dix-huit millions huit cent soixante mille six cent quatre-vingt-onze euros en crédits de paiement.
+
+      L'analyse rétrospective menée par la commission des finances du Sénat montre que si les crédits de la mission ont augmenté de neuf virgule un pour cent en valeur depuis deux mille dix-neuf, ils ont en réalité diminué de sept virgule trois pour cent en volume après prise en compte de l'inflation. La mission participe ainsi de manière prépondérante à la maîtrise des dépenses publiques et à la rationalisation des moyens de l'État dans un contexte budgétaire contraint.
+
+   B. L'évolution pluriannuelle des crédits du programme cent cinquante-six et l'analyse par nature de dépense.
+
+      Les dépenses de personnel inscrites au titre deux du programme cent cinquante-six s'élèvent à six milliards neuf cent soixante-quatre millions cent trente-trois mille six cent trente-deux euros en autorisations d'engagement et en crédits de paiement pour deux mille vingt-six. Cette enveloppe connaît une quasi-stabilité par rapport à deux mille vingt-cinq avec une progression contenue de zéro virgule vingt-trois pour cent, soit une augmentation nette de quinze virgule soixante-six millions d'euros par rapport à la loi de finances initiale pour deux mille vingt-cinq.
+
+      L'évolution de la masse salariale en deux mille vingt-six se caractérise par l'absence totale de mesures catégorielles nouvelles. La hausse constatée sur le titre deux s'explique exclusivement par deux facteurs techniques que sont le glissement vieillesse technicité pour un solde positif de cinq virgule quatre-vingt-cinq millions d'euros et l'augmentation des contributions de l'administration au compte d'affectation spéciale Pensions dont le taux de cotisation employeur atteint quatre-vingt-deux virgule six pour cent pour le personnel civil à compter du premier janvier deux mille vingt-six.
+
+      Les dépenses de fonctionnement hors personnel regroupées au titre trois du programme cent cinquante-six atteignent un milliard quatre-vingt-dix-huit millions quatre cent cinquante-huit mille sept cent vingt-trois euros en autorisations d'engagement et un milliard quatre-vingt-quatorze millions six cent soixante-quatorze mille neuf cent sept euros en crédits de paiement en deux mille vingt-six. Cela représente une hausse de cinq virgule trente-six pour cent en crédits de paiement, tirée principalement par les investissements informatiques, le renouvellement des équipements de travail et les charges immobilières des services déconcentrés.
+
+      Les dépenses d'investissement du titre cinq connaissent une croissance importante avec deux cent trente-six millions sept cent trente-cinq mille cinq cent quatre-vingt-dix-sept euros en autorisations d'engagement et cent soixante-dix millions six cent soixante-quatorze mille quatre cent soixante-six euros en crédits de paiement. Cette progression de soixante-six virgule trente-deux pour cent en autorisations d'engagement traduit l'effort massif de la DGFiP pour la résorption de la dette technique informatique, le développement de nouvelles applications numériques et la modernisation de son infrastructure applicative. Les dépenses d'intervention du titre six demeurent quant à elles marginales à hauteur de quatre cent soixante mille euros.
+
+   C. La trajectoire des emplois et la réduction programmée des effectifs.
+
+      Le plafond d'emplois autorisé pour le programme cent cinquante-six est fixé à quatre-vingt-douze mille cent quinze équivalents temps plein travaillés pour l'année deux mille vingt-six. Ce niveau marque une diminution de quatre cent quarante-sept équivalents temps plein travaillés par rapport au plafond de quatre-vingt-douze mille cinq cent soixante-deux équivalents temps plein travaillés ouvert en loi de finances initiale pour deux mille vingt-cinq.
+
+      Le schéma d'emplois pour deux mille vingt-six prévoit une suppression nette de cinq cent cinquante équivalents temps plein au sein de la direction générale des finances publiques. Ce mouvement contribue directement au schéma d'emplois négatif de la mission Gestion des finances publiques qui enregistre la suppression de cinq cent cinquante-huit équivalents temps plein au total en deux mille vingt-six, incluant la suppression de vingt-six emplois au secrétariat général et la création de dix-huit emplois en douane.
+
+      Cette évolution s'inscrit dans la continuité d'un effort pluriannuel ininterrompu de réduction des effectifs de la DGFiP. Entre deux mille vingt et un et deux mille vingt-six, les suppressions d'emplois cumulées au sein du programme cent cinquante-six s'élèvent à cinq mille six cent quarante et un équivalents temps plein, avec des baisses successives de mille sept cent soixante-dix-huit emplois en deux mille vingt et un, mille cinq cent quinze emplois en deux mille vingt-deux, mille quarante-huit emplois en deux mille vingt-trois, deux cents emplois en deux mille vingt-quatre, cinq cent cinquante emplois en deux mille vingt-cinq et cinq cent cinquante emplois en deux mille vingt-six.
+
+      La répartition catégorielle des quatre-vingt-douze mille cent quinze équivalents temps plein travaillés du programme cent cinquante-six reflète la haute technicité des missions exercées. Les emplois de catégorie A plus et A représentent environ trente et un virgule cinq pour cent des effectifs globaux, la catégorie B regroupe quarante-deux pour cent des agents, tandis que la catégorie C rassemble vingt-six virgule cinq pour cent du personnel restant.
+
+II. RENFORCEMENT ET MODERNISATION DES MISSIONS REGALIENNES ET FISCALES DE LA DGFIP.
+
+   A. La stratégie de lutte contre la fraude fiscale et le ciblage par intelligence artificielle.
+
+      La lutte contre la fraude fiscale constitue la priorité absolue de la DGFiP pour garantir le civisme fiscal et préserver les recettes publiques. En deux mille vingt-quatre, les montants encaissés au titre du contrôle fiscal ont atteint onze virgule quatre milliards d'euros, dépassant le niveau d'avant-crise enregistré en deux mille dix-neuf et confirmant le redressement opéré après la baisse constatée en deux mille vingt.
+
+      Le renforcement des moyens humains dédiés à la lutte contre la fraude se poursuit conformément aux orientations du plan gouvernemental présenté en deux mille vingt-trois. Sur l'objectif de création de mille cinq cents postes dédiés à cette mission d'ici deux mille vingt-sept, la DGFiP et la DGDDI ont bénéficié du renforcement de sept cent quatre-vingts emplois supplémentaires sur la période allant de deux mille vingt-trois à deux mille vingt-cinq.
+
+      L'utilisation des technologies de datamining et de l'intelligence artificielle est devenue centrale pour la programmation des contrôles fiscaux. L'indicateur un.1 du projet annuel de performances fixe une cible de cinquante pour cent de contrôles des professionnels ciblés par IA et datamining pour deux mille vingt-six, niveau déjà dépassé en deux mille vingt-quatre avec cinquante-six virgule zéro quatre pour cent de contrôles ciblés grâce aux travaux du bureau spécialisé de la DGFiP et des directions régionales de contrôle fiscal.
+
+      Concernant le contrôle des particuliers, la trajectoire cible prévoit d'atteindre quarante-cinq pour cent de contrôles ciblés par IA en deux mille vingt-six puis cinquante pour cent en deux mille vingt-sept, contre cinquante-deux virgule quatre-vingt-dix-sept pour cent réalisés en deux mille vingt-quatre. Parallèlement, la part des dossiers répressifs transmis au Parquet doit progresser de onze pour cent à treize pour cent en deux mille vingt-six, la part des opérations en fiscalité internationale se stabiliser à quinze virgule vingt-cinq pour cent, et le taux net de recouvrement en droits et pénalités sur créances de contrôle fiscal être porté à soixante-dix pour cent dès deux mille vingt-six.
+
+   B. La gestion de la fiscalité des entreprises et le partenariat fiscal.
+
+      L'action un intitulée Fiscalité des grandes entreprises retrace les moyens consacrés à l'assiette, au recouvrement et au contrôle des plus grands contribuables professionnels. Dotée de cent vingt-sept millions neuf cent soixante-quatorze mille neuf cent cinquante-sept euros en autorisations d'engagement et cent trente-sept millions trois cent cinquante-quatre mille neuf cent cinquante-sept euros en crédits de paiement, cette action rassemble mille quatre cent huit équivalents temps plein travaillés, soit un virgule cinq pour cent des effectifs du programme cent cinquante-six.
+
+      La direction des grandes entreprises agit en tant qu'interlocuteur fiscal unique pour un portefeuille de cinquante-neuf mille trois cent seize entreprises en deux mille vingt-cinq, affichant une progression de cinq virgule huit pour cent par rapport à deux mille vingt-quatre. Dans le cadre de la démarche de sécurité juridique issue de la loi ESSOC, le Service Partenaire des Entreprises gère cent sept partenariats fiscaux au trente juin deux mille vingt-cinq, vise cent quinze partenariats à la fin de l'année deux mille vingt-cinq et poursuit l'objectif d'atteindre cent quarante-cinq groupes partenaires d'ici deux mille vingt-sept.
+
+      L'action deux intitulée Fiscalité des PME regroupe les moyens dédiés à la gestion fiscale des petites et moyennes entreprises au sein des services des impôts des entreprises et des pépinières fiscales. Elle représente un milliard six cent trente-quatre millions quatre cent quatre-vingt-un mille quatre cent quatre-vingt-quatre euros en autorisations d'engagement, un milliard six cent trente-huit millions cinq cent un mille quatre cent quatre-vingt-quatre euros en crédits de paiement et dix-neuf mille deux cent quatre-vingt-quatorze équivalents temps plein travaillés, soit vingt virgule neuf pour cent des effectifs du programme.
+
+      L'unification du recouvrement fiscal entre la douane et la DGFiP se poursuit avec le transfert progressif de la gestion des accises sur les produits pétroliers et énergétiques. Depuis le premier janvier deux mille vingt-cinq, la DGFiP gère les demandes de remboursement des professionnels et assurera la gestion globale et le recouvrement complet de l'accise sur les énergies à compter du premier janvier deux mille vingt-sept.
+
+   C. La fiscalité des particuliers, la gestion foncière et le prélèvement à la source.
+
+      L'action trois consacrée à la Fiscalité des particuliers et à la fiscalité directe locale constitue le premier poste budgétaire du programme cent cinquante-six en matière d'effectifs avec vingt-sept mille deux cent quatre-vingt-neuf équivalents temps plein travaillés, soit vingt-neuf virgule six pour cent du total des personnels. Ses crédits s'élèvent à deux milliards cinquante-cinq millions six cent onze mille cinq cent cinquante-neuf euros en autorisations d'engagement et deux milliards cinquante-sept millions cent un mille cinq cent cinquante-neuf euros en crédits de paiement pour l'exercice deux mille vingt-six.
+
+      La gestion de l'impôt sur le revenu repose sur le maintien d'un niveau d'excellence du prélèvement à la source, dont le taux de recouvrement spontané dépasse quatre-vingt-dix-neuf virgule cinq pour cent. La DGFiP mène des campagnes régulières pour inciter les usagers à signaler rapidement leurs changements de situation sur le service en ligne Gérer mon prélèvement à la source afin d'adapter leur taux d'imposition en temps réel.
+
+      À la suite de la suppression de la taxe d'habitation sur les résidences principales, la DGFiP a développé l'application en ligne Gérer Mes Biens Immobiliers. Ce dispositif permet aux propriétaires de réaliser leurs déclarations d'occupation et d'adapter l'imposition des résidences secondaires et des logements vacants. Le taux de dématérialisation des déclarations foncières est ciblé à quarante pour cent en deux mille vingt-six et devra atteindre quatre-vingts pour cent en deux mille vingt-sept.
+
+      Le projet Foncier Innovant illustre l'utilisation des technologies de pointe pour la fiabilisation des bases de fiscalité directe locale. Grâce à l'analyse automatique des photographies aériennes fournies par l'Institut national de l'information géographique et forestière via des algorithmes d'intelligence artificielle, la DGFiP parvient à détecter les piscines et bâtis non déclarés pour réévaluer les bases de taxe foncière.
+
+III. TRANSFORMATION DIGITALE, FACTURATION ELECTRONIQUE ET PROJETS SI STRATEGIQUES.
+
+   A. Le déploiement de la facturation électronique interentreprises et la gouvernance AIFE.
+
+      La réforme de la facturation électronique interentreprises constitue le chantier informatique et fiscal le plus ambitieux de la décennie pour les entreprises et l'administration. Elle repose sur deux obligations complémentaires que sont l'émission et la réception de factures électroniques structurées d'une part, et la transmission des données de transaction via le mécanisme d'e-reporting d'autre part.
+
+      Le calendrier légal de généralisation de la facturation électronique fixe la première échéance au premier septembre deux mille vingt-six pour l'obligation de réception par l'ensemble des entreprises et l'obligation d'émission pour les grandes entreprises et les entreprises de taille intermédiaire. La seconde étape interviendra le premier septembre deux mille vingt-sept pour l'obligation d'émission par les petites et moyennes entreprises ainsi que les microentreprises.
+
+      Sur le plan économique, la dématérialisation des factures devrait générer quatre virgule cinq milliards d'euros de gains de productivité pour les un virgule cinq million de PME du territoire. Pour les finances publiques, le gain annuel en recettes fiscales est évalué entre deux et trois milliards d'euros à compter de deux mille vingt-huit grâce au renforcement du recouvrement spontané et à la détection précoce des fraudes à la taxe sur la valeur ajoutée. Le coût total du projet pour l'État est réévalué à deux cent soixante-sept virgule sept millions d'euros sur la période deux mille vingt et un-deux mille vingt-huit.
+
+      En octobre deux mille vingt-quatre, le Gouvernement a réorienté l'architecture technique du projet en renonçant au développement d'un portail public de facturation complet jugeant son coût et sa complexité excessifs. L'Agence pour l'informatique financière de l'État concentre désormais ses développements sur l'annuaire centralisé des destinataires et sur le concentrateur de données, s'appuyant sur une centaine de plateformes de dématérialisation partenaires déjà immatriculées par la DGFiP.
+
+   B. La modernisation du système d'information et les grands projets applicatifs.
+
+      Le schéma directeur numérique de la DGFiP s'articule autour de six axes stratégiques prioritaires. Ces axes comprennent la résorption méthodique de la dette technique, la modernisation des applications existantes, l'exploitation renforcée de la masse des données financières, la migration progressive vers le cloud computing et l'expérimentation des usages de l'intelligence artificielle générative.
+
+      Le projet NARA qui désigne la Nouvelle Application du Recouvrement des Amendes porte la refonte globale de l'outil informatique de recouvrement forcé. Ce projet permet d'automatiser les procédures de saisie à tiers détenteur et d'accroître les paiements spontanés, générant un gain financier annuel estimé à cinquante-deux virgule un millions d'euros pour un coût de développement parfaitement maîtrisé.
+
+      Le projet PAYSAGE assure la modernisation de l'application de paye ministérielle PAY afin de pérenniser le versement des rémunérations des agents de l'État et d'intégrer les évolutions réglementaires futures. Parallèlement, la DGFiP modernise ses applications historiques de gestion fiscale des entreprises avec les projets MEDOC, FICOBA trois et PILAT pour le contrôle fiscal.
+
+      La mise en œuvre des directives européennes de coopération administrative fiscale se traduit par des évolutions informatiques majeures. Les crédits d'investissement du programme cent cinquante-six financent notamment les développements nécessaires à la directive DAC7, qui impose aux plateformes numériques de transmettre les revenus réalisés par leurs utilisateurs afin de lutter contre l'évasion fiscale internationale.
+
+   C. La qualité de service numérique aux usagers et la réduction de l'indisponibilité applicative.
+
+      L'amélioration de la qualité de service numérique constitue un engagement fort du cadre d'objectifs et de moyens deux mille vingt-trois-deux mille vingt-sept. La DGFiP s'est fixée pour objectif d'adapter ses applications aux standards contemporains d'ergonomie et de diviser par deux la durée totale d'indisponibilité applicative à l'horizon deux mille vingt-sept par rapport à l'année de référence deux mille vingt-deux.
+
+      L'indicateur deux.3 du Projet Annuel de Performances mesure cette trajectoire de réduction de l'indisponibilité des services informatiques aux usagers. La cible retenue pour deux mille vingt-six prévoit une baisse de trente-cinq pour cent de la durée d'indisponibilité par rapport à deux mille vingt-deux, après une baisse constatée de trente virgule quatre-vingt-dix-neuf pour cent en deux mille vingt-trois et de trente pour cent en deux mille vingt-quatre. Cet objectif exige un renforcement rigoureux des phases de recette et de déploiement des applications.
+
+      La DGFiP veille au maintien d'une offre d'accueil multicanal performante associant les canaux numériques, téléphoniques et physiques. L'indicateur de qualité de service fixe des exigences élevées avec un taux de décroché téléphonique de soixante-dix-sept virgule cinq pour cent, un taux de réponse dans la semaine aux messages électroniques sur E-Contacts de soixante-dix-sept virgule cinq pour cent, et un taux de satisfaction de l'accueil physique sur rendez-vous fixé à quatre-vingt-cinq pour cent.
+
+      La sécurité juridique des contribuables est renforcée par le traitement diligent des demandes de rescrit fiscal et par le développement du droit à l'erreur. La part des contrôles fiscaux se concluant par une acceptation du contribuable des corrections d'erreurs commises de bonne foi fait l'objet d'une trajectoire rehaussée à quarante-trois pour cent en deux mille vingt-six puis quarante-cinq pour cent à partir de deux mille vingt-sept.
+
+IV. GESTION FINANCIERE PUBLIQUE, SECTEUR LOCAL ET QUALITE DES COMPTES.
+
+   A. L'accompagnement du secteur public local et le réseau des conseillers aux décideurs locaux.
+
+      L'action sept intitulée Gestion financière du secteur public local hors fiscalité retrace les moyens consacrés à la tenue des comptes et au conseil des collectivités territoriales. Dotée de un milliard trois cent trente millions sept cent seize mille huit cent soixante-dix-neuf euros en autorisations d'engagement, un milliard trois cent trente millions deux cent vingt-cinq mille deux cent soixante-dix-neuf euros en crédits de paiement et dix-sept mille trois cent quarante-quatre équivalents temps plein travaillés, elle représente dix-huit virgule huit pour cent des effectifs globaux de la DGFiP.
+
+      Le réseau des conseillers aux décideurs locaux a finalisé son déploiement à la fin de l'année deux mille vingt-trois avec près de mille conseillers implantés sur l'ensemble du territoire national. Ce réseau permet à chaque établissement public de coopération intercommunale de disposer d'un expert dédié de la DGFiP pour apporter un conseil budgétaire, financier, fiscal et patrimonial personnalisé aux maires et présidents d'intercommunalités.
+
+      La dématérialisation des encaissements des collectivités s'appuie sur le développement de la plateforme de paiement en ligne PayFiP. La DGFiP généralise en deux mille vingt-six l'expérimentation du virement référencé qui permet d'imputer automatiquement les règlements des usagers dans les applications comptables locales grâce au traitement automatisé des références des factures.
+
+      La réduction des délais de paiement des dépenses locales constitue une priorité partenariale entre l'ordonnateur et le comptable public. La DGFiP publie en open data les délais de paiement individuels de l'ensemble des collectivités locales, y compris celles de moins de trois mille cinq cents habitants, et met en œuvre le contrôle allégé en partenariat pour fluidifier la chaîne de la dépense.
+
+   B. La généralisation du compte financier unique et la rénovation des instructions comptables.
+
+      La généralisation du Compte Financier Unique constitue la réforme majeure de la comptabilité publique locale sur la période deux mille vingt-quatre-deux mille vingt-six. Mené en lien avec la direction générale des collectivités locales, le CFU se substitue au compte administratif de l'ordonnateur et au compte de gestion du comptable afin de produire un document financier annuel unique et dématérialisé.
+
+      Après une phase d'expérimentation réussie entre deux mille vingt et deux mille vingt-quatre qui a rassemblé plus de vingt-six mille entités productrices, le CFU a vocation à être déployé auprès de plus de soixante-deux mille collectivités et établissements publics locaux éligibles au plus tard pour la présentation des comptes de l'exercice deux mille vingt-six.
+
+      La rénovation des normes comptables locales se concrétise par le passage généralisé au référentiel budgétaire et comptable M57. Cette harmonisation améliore la lisibilité des bilans et la qualité des informations patrimoniales des collectivités territoriales, facilitant le suivi budgétaire par les assemblées délibérantes et les organes de contrôle.
+
+      La DGFiP déploie l'offre de service relative à la synthèse de la qualité des comptes des collectivités locales. Le comptable public ou le conseiller aux décideurs locaux présente un rapport annuel sur la qualité des comptes devant l'assemblée délibérante locale, accompagnant la démarche de certification des comptes pour les collectivités et hôpitaux volontaires.
+
+   C. La gestion financière de l'État hors fiscalité, le contrôle des dépenses et les centres de gestion financière.
+
+      L'action cinq intitulée Gestion financière de l'État hors fiscalité regroupe les fonctions de contrôle et de paiement des dépenses de l'État, la tenue des comptes généraux et le recouvrement des recettes non fiscales. Elle mobilise neuf cent quarante-sept millions trois cent dix-neuf mille neuf cent soixante-treize euros en autorisations d'engagement, neuf cent quarante-sept millions neuf cent dix-neuf mille neuf cent soixante-treize euros en crédits de paiement et douze mille sept cent quinze équivalents temps plein travaillés, soit treize virgule huit pour cent des effectifs du programme.
+
+      Le déploiement des Centres de Gestion Financière rénove l'organisation de la chaîne de la dépense de l'État. Placés sous l'autorité du comptable public, les CGF regroupent les centres de services partagers de l'ordonnateur et les services facturiers. L'indicateur un.2 prévoit l'ouverture de soixante-huit centres de gestion financière en deux mille vingt-six pour atteindre une cible de quatre-vingts centres en deux mille vingt-sept.
+
+      La modernisation du contrôle de la dépense publique repose sur la généralisation du contrôle hiérarchisé de la dépense et la responsabilisation des gestionnaires publics. Le contrôle s'exerce selon une approche graduée par les enjeux et par les risques, permettant d'accélérer les délais de paiement de l'État dont le taux de règlement au-delà de trente jours est ciblé à dix virgule cinq pour cent en deux mille vingt-six puis neuf virgule cinq pour cent en deux mille vingt-sept.
+
+      La Direction de l'Immobilier de l'État gère un patrimoine bâtis de quatre-vingt-seize virgule sept millions de mètres carrés de surface utile brute et trente et un mille cent soixante-dix terrains non bâtis pour une valeur comptable de soixante-treize virgule six milliards d'euros au trente et un décembre deux mille vingt-quatre. La DIE définit la politique immobilière occupante, pilote l'aménagement des cités administratives et applique les doctrines de densification tertiaire.
+
+V. PILOTAGE DES RESSOURCES HUMAINES, RESPONSABILITE SOCIALE ET AMENDEMENTS PARLEMENTAIRES.
+
+   A. La politique de ressources humaines, le cadre de vie au travail et l'accompagnement des agents.
+
+      L'action neuf intitulée Soutien regroupe l'ensemble des fonctions transversales, de gestion des ressources humaines, de formation, de logistique et d'informatique de la DGFiP. Elle est dotée de deux milliards trente-deux millions sept cent soixante-dix-huit mille trente-sept euros en autorisations d'engagement, un milliard neuf cent quarante-sept millions neuf cent quatre-vingt-quatre mille six cent quatre-vingt-dix euros en crédits de paiement et rassemble onze mille neuf cent soixante-deux équivalents temps plein travaillés, soit treize virgule zéro pour cent des effectifs du programme.
+
+      L'accompagnement des agents dans la transformation de leurs métiers constitue un axe prioritaire de la politique RH. La DGFiP adapte son offre de formation continue pour accompagner la digitalisation des procédures, renforcer l'expertise technique des effectifs et soutenir le déploiement des services relocalisés dans les départements.
+
+      L'amélioration du cadre et des espaces de travail s'inscrit dans la mise en œuvre du schéma pluriannuel de stratégie immobilière. La DGFiP consacre des crédits importants au traitement de l'amiante, à la mise aux normes d'accessibilité aux personnes handicapées dans le cadre des agendas d'accessibilité programmée, à la sécurisation des locaux et au réaménagement des bureaux.
+
+      La politique RH ministérielle soutient le développement de l'apprentissage, l'égal accès des femmes aux emplois de direction en application de la loi du dix-neuf juillet deux mille vingt-trois, ainsi que l'accompagnement personnalisé des agents en situation de handicap avec la mise en œuvre de la langue des signes française pour l'accueil des personnes sourdes ou malentendantes.
+
+   B. L'exemplarité environnementale et les engagements en matière de responsabilité sociale.
+
+      L'objectif quatre du Projet Annuel de Performances engage la DGFiP à être exemplaire en matière de responsabilité sociale et environnementale. Cet objectif retrace les actions de l'administration pour réduire son empreinte carbone et promouvoir l'égalité professionnelle entre les femmes et les hommes.
+
+      L'écoresponsabilité du parc automobile de la DGFiP fait l'objet d'un verdissement continu mesuré par l'indicateur quatre.1. La cible retenue pour deux mille vingt-six prévoit que cinquante-cinq pour cent du parc automobile soit composé de véhicules électriques ou à très faibles émissions, avant d'atteindre une cible de soixante-six pour cent en deux mille vingt-sept grâce au renouvellement des flottes et à l'aliénation accélérée des véhicules thermiques anciens.
+
+      La maîtrise des consommations d'énergie des bâtiments domaniaux et locatifs constitue le second levier environnemental majeur. Sur la base du bilan d'émissions de gaz à effet de serre actualisé au niveau départemental, la DGFiP vise une réduction de vingt pour cent de ses consommations d'électricité et de gaz en deux mille vingt-six par rapport à l'année de référence deux mille vingt-deux, avec une cible de réduction portée à vingt-cinq pour cent en deux mille vingt-sept.
+
+      La promotion de la mixité hiérarchique et de l'égalité professionnelle est suivie par l'indicateur quatre.2. La DGFiP garantit la parité dans les jurys de concours, promeut la féminisation des emplois de direction et participe activement aux réseaux ministériels de sensibilisation contre les violences sexistes et sexuelles.
+
+   C. Les ajustements parlementaires et les amendements de la commission des finances du Sénat.
+
+      Lors de l'examen du projet de loi de finances pour deux mille vingt-six, la commission des finances du Sénat, sous le rapport de Claude NOUGEIN, a salué la contribution de la mission Gestion des finances publiques au redressement des finances de l'État tout en proposant des amendements de crédits significatifs.
+
+      La commission des finances a adopté deux amendements de réduction des crédits imputés par convention sur la mission Gestion des finances publiques pour un montant total de quatre cent soixante-deux millions d'euros en autorisations d'engagement et en crédits de paiement. Le premier amendement augmente de un à trois le nombre de jours de carence appliqués aux arrêts maladie dans la fonction publique d'État pour un gain de cent douze millions d'euros. Le second amendement instaure le non-remplacement d'un agent public sur deux partant à la retraite, hors ministères régaliens et Éducation nationale, pour un économie de trois cent cinquante millions d'euros.
+
+      Concernant la mission Crédits non répartis, la commission des finances du Sénat propose un amendement visant à supprimer la totalité des trois cent cinquante millions d'euros inscrits sur le programme cinq cent cinquante et un intitulé Provision relative aux rémunérations publiques. Le rapporteur spécial estime que cette réserve de budgétisation revêt un caractère injustifié et ne saurait servir à financer des mesures de titre deux non présentées au Parlement.
+
+      En ce qui concerne le Compte d'affectation spéciale Gestion du patrimoine immobilier de l'État, les prévisions de recettes s'élèvent à deux cent soixante-dix millions d'euros en deux mille vingt-six pour trois cent vingt et un virgule cinq millions d'euros de dépenses en crédits de paiement, sous couvert d'une norme dépense pilotable fixée à deux cent dix millions d'euros en autorisations d'engagement. Le Sénat demande au Gouvernement de présenter rapidement le vecteur législatif nécessaire au lancement du pilote de la Foncière de l'État censurée en deux mille vingt-cinq.
+
+POINTS D'ATTENTION.
+
+      La diminution de sept virgule trois pour cent en volume des crédits de la mission Gestion des finances publiques entre deux mille dix-neuf et deux mille vingt-six atteste de la contribution continue de la DGFiP au redressement des finances publiques.
+
+      Le montant de la masse salariale du programme cent cinquante-six est porté à six virgule quatre-vingt-seize milliards d'euros en deux mille vingt-six sous l'effet exclusif du glissement vieillesse technicité et de la hausse des cotisations au CAS Pensions.
+
+      La suppression de cinq cent cinquante équivalents temps plein à la DGFiP en deux mille vingt-six porte à cinq mille six cent quarante et un le nombre total d'emplois supprimés au sein du programme cent cinquante-six sur la période allant de deux mille vingt et un à deux mille vingt-six.
+
+      Le calendrier légal de la facturation électronique interentreprises fixe l'obligation de réception et d'émission pour les grandes entreprises et ETI au premier septembre deux mille vingt-six puis au premier septembre deux mille vingt-sept pour les PME.
+
+      Le gain financier attendu de la généralisation de la facturation électronique sur les recettes de TVA est évalué entre deux et trois milliards d'euros par an à compter de l'année deux mille vingt-huit.
+
+      La décision gouvernementale d'octobre deux mille vingt-quatre de renoncer au portail public de facturation confie le flux d'échange aux plateformes de dématérialisation partenaires et à l'annuaire central AIFE.
+
+      La commission des finances du Sénat propose deux amendements de réduction de crédits sur la mission à hauteur de quatre cent soixante-deux millions d'euros au titre des jours de carence et des départs à la retraite.
+
+      La commission des finances du Sénat propose la suppression intégrale de la dotation de trois cent cinquante millions d'euros du programme cinq cent cinquante et un au titre de la réserve de rémunérations publiques.
+
+      La généralisation du Compte Financier Unique s'imposera à plus de soixante-deux mille collectivités locales et établissements publics locaux au plus tard pour l'exercice budgétaire deux mille vingt-six.
+
+      L'objectif de réduction de la durée d'indisponibilité des applications informatiques de la DGFiP ouvertes aux usagers est ciblé à moins trente-cinq pour cent en deux mille vingt-six par rapport à l'année deux mille vingt-deux.
+
+EXEMPLES CITES.
+
+      Le projet Foncier Innovant utilise le traitement automatisé des photographies aériennes de l'IGN par intelligence artificielle pour la détection des piscines et constructions non imposées.
+
+      L'application Gérer Mes Biens Immobiliers offre un service dématérialisé permettant aux propriétaires de déclarer la situation d'occupation de leurs locaux résidentiels.
+
+      Le projet NARA dédié au recouvrement forcé des amendes génère un gain d'efficience et de recettes publiques estimé à cinquante-deux virgule un millions d'euros par an.
+
+      Le Service Partenaire des Entreprises gère cent sept partenariats fiscaux au trente juin deux mille vingt-cinq pour offrir un accompagnement personnalisé aux grands groupes de sociétés.
+
+      Le réseau des Conseillers aux Décideurs Locaux rassemble près de mille agents spécialisés pour accompagner l'ensemble des établissements publics de coopération intercommunale.
+
+      La plateforme PayFiP permet aux usagers de régler en ligne leurs factures publiques locales et intègre le virement référencé automatisé à compter de deux mille vingt-six.
+
+      Le projet PAYSAGE assure la modernisation technique de l'application de paye ministérielle PAY pour sécuriser la rémunération des agents de l'État.
+
+      Le Pôle National d'Analyse des Comptes centralise et vérifie la qualité des comptes du secteur public local transmis par l'ensemble des réseaux comptables.
+
+      Le programme communautaire Fiscalis cofinance les dépenses de fonctionnement informatiques liées au renforcement de la coopération fiscale européenne.
+
+      L'application Chorus portée par l'AIFE assure le pilotage interministériel des engagements budgétaires et de la comptabilité générale de l'État.
