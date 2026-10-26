@@ -47,6 +47,15 @@
    "taille": 202638
   }
  ],
+ "10-41 Cour des comptes - Montée en puissance des agents contractuels dans la fonction publique (2026)": [
+  {
+   "fichier": "source/ccomptes-agents-contractuels-2026.pdf",
+   "titre": "Cour des comptes - La montée en puissance des agents contractuels, une fonction publique en mutation (juin 2026)",
+   "pages": 108,
+   "taille": 3102181,
+   "url": "https://www.ccomptes.fr/sites/default/files/2026-06/20260605-Montee-en-puissance-des-agents-contractuels-dans-la-fonction-publique.pdf"
+  }
+ ],
  "10-50 DGAFP - Filière RH, structure de la rémunération": [
   {
    "fichier": "source/parcours-de-formation-professionnalisation-rh-l3.pdf",
@@ -61,6 +70,24 @@
    "titre": "Chiffres clés de la fonction publique – Édition 2025",
    "pages": 25,
    "taille": 4365912
+  }
+ ],
+ "10-61 DGAFP - Rapport annuel sur l'état de la fonction publique 2026": [
+  {
+   "fichier": "source/dgafp-rapport-annuel-etat-fp-2026.pdf",
+   "titre": "DGAFP - Rapport annuel sur l'état de la fonction publique, édition 2026",
+   "pages": 204,
+   "taille": 2506683,
+   "url": "https://www.fonction-publique.gouv.fr/files/files/publications/rapport-annuel/rapport_annuel_2026.pdf"
+  }
+ ],
+ "10-62 DGAFP - Chiffres clés de la fonction publique 2026": [
+  {
+   "fichier": "source/dgafp-chiffres-cles-2026.pdf",
+   "titre": "DGAFP - Chiffres clés de la fonction publique, édition 2026",
+   "pages": 25,
+   "taille": 4261909,
+   "url": "https://www.fonction-publique.gouv.fr/files/files/publications/publications-dgafp/cc-2026-web.pdf"
   }
  ],
  "10-70 DGAFP - Apprentissage dans la fonction publique, guide des employeurs (1 sur 2)": [
@@ -334,6 +361,15 @@
   }
  ],
  "10-160 DGAFP - Actualité RH de la fonction publique en 2026": [],
+ "10-170 DGAFP - Revue stratégique de la fonction publique 2035-2050": [
+  {
+   "fichier": "source/dgafp-revue-strategique-fp-2035-2050-synthese.pdf",
+   "titre": "DGAFP - Synthèse de la revue stratégique de la fonction publique 2035-2050 (octobre 2026)",
+   "pages": 84,
+   "taille": 2764502,
+   "url": "https://www.fonction-publique.gouv.fr/files/files/Publications/Publications%20DGAFP/2026/Synthese_RSFP_2026.pdf"
+  }
+ ],
  "11-10 DGAFP - Guide de la laïcité dans la fonction publique (1 sur 2)": [
   {
    "fichier": "source/comprendre_la-_laicite.pdf",
@@ -551,6 +587,15 @@
    "titre": "Plan santé au travail dans la fonction publique",
    "pages": 52,
    "taille": 743138
+  }
+ ],
+ "14-11 DGAFP - Plan santé au travail dans la fonction publique 2026-2030": [
+  {
+   "fichier": "source/dgafp-plan-sante-travail-2026-2030.pdf",
+   "titre": "DGAFP - Plan santé au travail dans la fonction publique 2026-2030",
+   "pages": 88,
+   "taille": 2247420,
+   "url": "https://www.fonction-publique.gouv.fr/files/files/Publications/Publications%20DGAFP/2026/PST_FP_2026_2030.pdf"
   }
  ],
  "14-20 DGAFP - Accidents de service et maladies professionnelles (1 sur 2)": [
@@ -1179,6 +1224,15 @@
    "taille": 1381850
   }
  ],
+ "16-13 IGF - Effets d'une application prolongée de la loi spéciale en 2027": [
+  {
+   "fichier": "source/igf-loi-speciale-2027.pdf",
+   "titre": "IGF - Effets d'une application prolongée de la loi spéciale en 2027 (2026)",
+   "pages": 87,
+   "taille": 6057434,
+   "url": "https://www.igf.gouv.fr/files/igf/files/contributed/Rapports%20de%20mission/2026/2026-E-053-Loi-speciale.pdf"
+  }
+ ],
  "16-20 Cour des comptes - La politique immobilière de l'État 2023 (1 sur 4)": [
   {
    "fichier": "source/cour-des-comptes-politique-immobiliere-etat-2023.pdf",
@@ -1235,6 +1289,15 @@
    "taille": 8171734
   }
  ],
+ "16-33 PLF 2027 - Document de politique transversale, politique immobilière de l'État": [
+  {
+   "fichier": "source/plf2027-dpt-politique-immobiliere.pdf",
+   "titre": "PLF 2027 - Document de politique transversale Politique immobilière de l'État",
+   "pages": 321,
+   "taille": 7843222,
+   "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1129696/file/12-DPT%202027%20-%20Politique%20immobili%C3%A8re%20de%20l%27Etat.pdf"
+  }
+ ],
  "16-40 Bercy - Lignes directrices de gestion ministérielles, mobilité": [
   {
    "fichier": "source/ldg-mobilite-mef.pdf",
@@ -1251,12 +1314,30 @@
    "taille": 391422
   }
  ],
+ "16-42 DGFiP - Rapport social unique 2024": [
+  {
+   "fichier": "source/dgfip-rsu-2024.pdf",
+   "titre": "DGFiP - Rapport social unique 2024",
+   "pages": 178,
+   "taille": 2456791,
+   "url": "https://www.economie.gouv.fr/files/files/directions_services/dgfip/Rapport/2024/rsu_dgfip_2024.pdf"
+  }
+ ],
  "16-50 DGAFP - Rapport d'activité 2025": [
   {
    "fichier": "source/Rapport_activite_DGAFP_2025.pdf",
    "titre": "DGAFP - Rapport d'activité 2025",
    "pages": 52,
    "taille": 3998917
+  }
+ ],
+ "16-52 PLF 2027 - Mission Transformation et fonction publiques, projet annuel de performances": [
+  {
+   "fichier": "source/plf2027-pap-transformation-fonction-publiques.pdf",
+   "titre": "PLF 2027 - Projet annuel de performances, mission Transformation et fonction publiques",
+   "pages": 98,
+   "taille": 1765729,
+   "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128281/file/PAP%202027%20-%20Transformation%20et%20fonction%20publiques.pdf"
   }
  ],
  "16-60 DITP - Baromètre 2026 de la complexité administrative par moments de vie": [
@@ -1456,6 +1537,24 @@
    "titre": "Les finances publiques locales 2025 – Fascicule 1",
    "pages": 198,
    "taille": 5627252
+  }
+ ],
+ "18-53 Cour des comptes - Les finances publiques locales 2026": [
+  {
+   "fichier": "source/ccomptes-finances-publiques-locales-2026.pdf",
+   "titre": "Cour des comptes - Les finances publiques locales, résultats 2025 et perspectives 2026 (juillet 2026)",
+   "pages": 241,
+   "taille": 6246836,
+   "url": "https://www.ccomptes.fr/sites/default/files/2026-07/20260709-Finances-publiques-locales-2026.pdf"
+  }
+ ],
+ "18-54 PLF 2027 - Rapport sur la situation des finances publiques locales": [
+  {
+   "fichier": "source/plf2027-rapport-finances-publiques-locales.pdf",
+   "titre": "PLF 2027 - Rapport sur la situation des finances publiques locales",
+   "pages": 198,
+   "taille": 2883609,
+   "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128183/file/PLF%202027%20-%20Rapport%20sur%20la%20situation%20des%20finances%20publiques%20locales.pdf"
   }
  ],
  "18-60 Banque de France - Analyse financière de l'entreprise, bilan et haut de bilan": [

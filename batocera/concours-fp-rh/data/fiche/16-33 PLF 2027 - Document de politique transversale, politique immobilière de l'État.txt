@@ -1,0 +1,263 @@
+LA POLITIQUE IMMOBILIÈRE DE L'ÉTAT ET LE DOCUMENT DE POLITIQUE TRANSVERSALE DU PLF deux mille vingt-sept.
+
+LEXIQUE COMPLET.
+
+      AGILE : Agence de gestion de l'immobilier de l'État créée pour accompagner la mutualisation des espaces, la transition environnementale, le développement du photovoltaïque et l'assistance à maîtrise d'ouvrage.
+
+      EPIFE : Établissement public immobilier et foncier de l'État, établissement public industriel et commercial créé au plus tard le premier janvier deux mille vingt-sept par la loi du dix-huit août deux mille vingt-six pour reprendre les droits et obligations de la société AGILE et moderniser la gestion foncière.
+
+      DIE : Direction de l'immobilier de l'État, direction de la Direction générale des Finances publiques chargée de définir et de piloter la politique immobilière interministérielle.
+
+      DPT : Document de politique transversale, annexe au projet de loi de finances présentant la stratégie, les moyens et l'effort financier interministériel consacrés à une politique publique globale.
+
+      SPSI : Schéma pluriannuel de stratégie immobilière fixant la trajectoire de rationalisation, de densification et d'entretien du parc immobilier d'un ministère ou d'un service déconcentré.
+
+      SUB : Surface utile brute, mesure de la superficie totale d'un bâtiment hors œuvres nettes comprenant les bureaux, les circulations et les locaux techniques.
+
+      SHON : Surface hors œuvre nette, ancienne mesure de superficie des constructions remplacée par la surface de plancher dans la réglementation de l'urbanisme.
+
+      CAS Immobilier : Compte d'affectation spéciale Gestion du patrimoine immobilier de l'État retraçant les recettes de cessions domaniales et les dépenses d'investissement immobilier de l'État.
+
+      Programme trois cent quarante-huit : Programme budgétaire intitulé Performance et résilience des bâtiments de l'État et de ses opérateurs finançant la rénovation énergétique et la transition environnementale du parc tertiaire.
+
+      Programme sept cent vingt-trois : Programme budgétaire du CAS Immobilier dédié aux opérations d'investissement, de restructuration et de rationalisation du patrimoine immobilier de l'État.
+
+      Chorus CPT : Module de la comptabilité patrimoniale de l'État permettant le suivi inventorié, l'immatriculation et la valorisation financière des actifs immobiliers publics.
+
+      Ratio d'occupation : Norme maximale d'occupation fixée à seize mètres carrés de surface utile brute par poste de travail pour optimiser l'utilisation des immeubles tertiaires.
+
+      Bail emphytéotique domanial : Contrat de location de très longue durée consenti par l'État sur son domaine public ou privé pour valoriser ses actifs sans transfert de propriété définitive.
+
+      Décret tertiaire : Réglementation imposant une réduction progressive des consommations d'énergie finale des bâtiments à usage tertiaire de plus de mille mètres carrés.
+
+      Plan de résilience : Dispositif d'appels à projets en deux phases ayant alloué cent quatre-vingts millions d'euros pour accélérer les économies d'énergie et réduire la dépendance énergétique du parc étatique.
+
+COURS DÉTAILLÉ.
+
+I. FONDEMENTS JURIDIQUES ET STRATÉGIE GLOBALE DE LA POLITIQUE IMMOBILIÈRE DE L'ÉTAT.
+
+   A. Cadre législatif et gouvernance interministérielle.
+
+      Le cadre législatif de la politique immobilière de l'État repose sur l'article cent vingt-huit de la loi n° deux mille cinq-mille sept cent vingt du trente décembre deux mille cinq de finances rectificative pour deux mille cinq modifié par la loi n° deux mille dix-neuf-mille quatre cent soixante-dix-neuf du vingt-huit décembre deux mille dix-neuf et complété par la loi n° deux mille vingt-trois-mille trois cent vingt-deux du vingt-neuf décembre deux mille vingt-trois de finances pour deux mille vingt-quatre. Ce socle juridique institue quinze documents de politique transversale dont celui consacré à l'immobilier domanial. La gouvernance interministérielle est placée sous l'autorité directe du ministre de l'Action et des Comptes publics.
+
+      La loi n° deux mille vingt-six-sept cent quatre-vingt-quinze du dix-huit août deux mille vingt-six visant à moderniser la gestion du patrimoine immobilier de l'État marque une étape décisive dans l'organisation domaniale. Elle prévoit la création au plus tard le premier janvier deux mille vingt-sept de l'établissement public immobilier et foncier de l'État nommé EPIFE. Cet établissement public national à caractère industriel et commercial reprendra l'ensemble des droits et obligations de la société AGILE.
+
+      La Direction de l'immobilier de l'État assure la gouvernance stratégique en animant le réseau des responsables d'immobilier ministériels et préfectoraux. L'action interministérielle vise à garantir l'efficience de la gestion domaniale et l'harmonisation des pratiques administratives sur tout le territoire. La politique transversale associe l'ensemble des ministères et des établissements publics occupent le parc.
+
+      Les conférences d'immobilier régional réunissent sous l'autorité des préfets de région les services déconcentrés et la Direction de l'immobilier de l'État. Ces instances valident les schémas directeurs immobiliers régionaux et veillent à l'arbitrage des projets de regroupement de services. Elles constituent le bras armé territorial de la politique domaniale de l'État.
+
+   B. Ampleur et caractéristiques du parc immobilier domanial.
+
+      L'État et ses établissements publics gèrent un parc d'une ampleur exceptionnelle représentant plus de quatre-vingt-seize millions de mètres carrés de surface utile brute. Ce patrimoine bâti se compose de bâtiments tertiaires, de casernes, de commissariats, de palais de justice et d'établissements d'enseignement supérieur. La superficie totale des terrains non bâtis rattachés à ce parc s'élève à plusieurs milliards de mètres carrés.
+
+      Les surfaces de bureaux occupées par les administrations centrales et déconcentrées connaissent une baisse continue depuis dix ans. Entre deux mille quinze et deux mille vingt-cinq, le parc tertiaire de bureaux a enregistré une réduction globale de près de cinq cent mille mètres carrés. Cette évolution reflète les efforts soutenus de rationalisation des surfaces et l'impact des nouvelles organisations du travail.
+
+      L'inventaire physique et comptable de ce patrimoine repose sur l'outil d'information Chorus CPT qui comptabilise l'ensemble des actifs domaniaux. Les biens immobiliers figurant au bilan de l'État font l'objet d'une réévaluation annuelle conforme aux normes comptables de l'État. La connaissance précise des surfaces constitue un préalable indispensable à toute décision d'arbitrage.
+
+      Le parc immobilier se divise entre les immeubles appartenant en propre à l'État et les surfaces prises en location auprès de bailleurs privés. L'État vise une réduction progressive du poids des loyers privés en favorisant le regroupement des services dans des bâtiments domaniaux restructurés. L'optimisation domaniale constitue ainsi un levier d'économie budgétaire directe.
+
+   C. Les quatre grands objectifs stratégiques de la politique transversale.
+
+      Le premier objectif stratégique impose de mieux connaître et valoriser le patrimoine immobilier de l'État et de ses opérateurs. Cet axe s'appuie sur la fiabilisation des données de l'inventaire Chorus CPT et sur la recherche de recettes domaniales nouvelles. La valorisation privilégie la concession de baux emphytéotiques et le déploiement d'équipements photovoltaïques sur les toitures et parkings publics.
+
+      Le deuxième objectif concerne la rationalisation et l'optimisation de la gestion du parc immobilier tertiaire. Il fixe comme norme stricte le respect d'un ratio d'occupation maximal de seize mètres carrés de surface utile brute par résident. La mise en place des schémas pluriannuels de stratégie immobilière conditionne la programmation des travaux de densification.
+
+      Le troisième objectif vise à moderniser le parc bâti et à accélérer sa transition écologique conformément aux exigences du décret tertiaire. Les interventions prioritaires ciblent la réduction des consommations énergétiques, la décarbonation des systèmes de chauffage et l'adaptation au changement climatique. Les programmes budgétaires dédiés apportent les cofinancements nécessaires aux opérations lourdes.
+
+      Le quatrième objectif s'attache à la professionnalisation de la fonction immobilière et au renforcement de la gouvernance. Il repose sur le développement des compétences des équipes ministérielles et sur la structuration de la filière immobilière de l'État. L'intervention opérationnelle d'AGILE puis de l'EPIFE sécurise la maîtrise d'ouvrage et la conduite des projets complexes.
+
+II. CONNAISSANCE, INVENTAIRE ET VALORISATION DU PATRIMOINE IMMOBILIER.
+
+   A. La fiabilisation de l'inventaire physique et comptable via Chorus CPT.
+
+      La fiabilisation de l'inventaire physique représente une priorité constante pour la Direction de l'immobilier de l'État. L'application Chorus CPT centralise l'ensemble des données géographiques, juridiques et techniques de chaque bâtiment public. Chaque immeuble se voit attribuer un identifiant unique garantissant la traçabilité des occupations et des actes domaniaux.
+
+      La tenue rigoureuse de la comptabilité patrimoniale permet d'inscrire la valeur vénale et la valeur nette comptable du parc au bilan de l'État. Les campagnes annuelles de contrôle interne comptable vérifient l'exactitude des surfaces saisies en mètres carrés utiles bruts. Cette fiabilisation conditionne la précision des indicateurs de performance présentés au Parlement.
+
+      L'intégration des données relatives aux opérateurs de l'État constitue un enjeu majeur d'harmonisation. Les établissements publics nationaux gèrent un parc de plus de vingt-deux millions de mètres carrés de surface utile brute. L'extension du suivi dans Chorus CPT garantit une vision consolidée de l'ensemble du patrimoine public.
+
+      La connaissance exhaustive des coûts d'occupation inclut les dépenses de loyers, de fluides, d'entretien et de maintenance. L'analyse croisée des données financières et physiques permet de repérer les bâtiments énergivores ou sous-occupés. Ce ciblage oriente les choix de cession, de restructuration ou de résiliation de baux privés.
+
+   B. La stratégie de valorisation domaniale et le développement du photovoltaïque.
+
+      La stratégie de valorisation domaniale connaît une mutation profonde qui privilégie la conservation du patrimoine étatique. Au lieu de céder systématiquement les biens inutilisés, l'État recherche des montages alternatifs tels que le bail emphytéotique domanial. Ces contrats de longue durée génèrent des redevances régulières tout en préservant le domaine national pour l'avenir.
+
+      La revalorisation des redevances domaniales constitue une ressource budgétaire dynamique pour l'État. Les autorisations d'occupation temporaire du domaine public font l'objet d'une révision systématique pour refléter les conditions du marché. Les produits tirés de ces redevances concourent au financement des investissements immobiliers de l'État.
+
+      Le développement de la production d'énergie photovoltaïque sur le foncier public s'inscrit dans cette logique de valorisation. L'État met à disposition des toitures, des ombrières de parking et des terrains nus pour l'installation de centrales solaires. Cette démarche produit des recettes complémentaires tout en participant directement à la transition énergétique nationale.
+
+      La société AGILE joue un rôle moteur dans la concrétisation des projets photovoltaïques sur le patrimoine étatique. Elle accompagne les ministères dans le recensement des gisements fonciers et la passation des appels d'offres de mise à disposition domaniale. Cet accompagnement technique sécurise la faisabilité juridique et financière des installations.
+
+   C. Les cessions immobilières et le fonctionnement du Compte d'affectation spéciale.
+
+      La cession des immeubles domaniaux devenus inutiles aux services publics demeure un levier d'optimisation. La vente de ces actifs permet d'éliminer des coûts de structure et de maintenance particulièrement lourds. Les cessions sont réalisées par le pôle d'évaluation domaniale selon des procédures de mise en concurrence transparentes.
+
+      Le Compte d'affectation spéciale Gestion du patrimoine immobilier de l'État retrace l'intégralité des produits de cession. Ce mécanisme budgétaire garantit le retour des recettes de vente vers le financement des projets d'investissement. Il comporte le programme sept cent vingt-trois qui répartit les crédits entre les ministères cédants et les actions interministérielles.
+
+      Une quote-part des produits de cession enregistrés sur le Compte d'affectation spéciale est obligatoirement affectée au désendettement de l'État. Ce prélèvement légal contribue à la trajectoire de maîtrise des finances publiques nationales. Le solde disponible est réinvesti dans la rénovation et la densification du parc subsistant.
+
+      La politique de cession prend en compte les politiques publiques locales d'aménagement et de logement. Des décotes du prix de vente peuvent être accordées conformément aux textes législatifs pour favoriser la construction de logements sociaux. L'État concourt ainsi à la résorption de la crise du logement dans les zones tendues.
+
+III. RATIONALISATION, OPTIMISATION DE L'OCCUPATION ET SCHÉMAS DIRECTEURS.
+
+   A. La norme d'occupation de seize mètres carrés SUB et la densification des espaces.
+
+      La circulaire de la Première ministre du huit février deux mille vingt-trois a formalisé la nouvelle doctrine d'occupation des immeubles tertiaires de l'État. Elle impose le respect d'une cible stricte de seize mètres carrés de surface utile brute maximum par résident. Cette norme s'applique impérativement à tous les projets d'aménagement, de restructuration et de renouvellement de bail.
+
+      Le déploiement des nouvelles formes de travail et du télétravail permet de réorganiser l'espace au sein des administrations. La généralisation du travail flexible s'accompagne d'un partage des postes et d'une mutualisation des salles de réunion. Cette approche évite le surdimensionnement des locaux tout en améliorant la qualité des environnements de travail.
+
+      Les opérations de densification conduites dans les bâtiments tertiaires permettent d'obtenir des gains de surface considérable. À titre d'exemple, la restructuration de certains sites administratifs génère des libérations de plus de trente mille mètres carrés. Ces surfaces restituées sont soit attribuées à d'autres services, soit restituées aux propriétaires privés.
+
+      La mise en conformité du parc tertiaire avec la cible de seize mètres carrés nécessite des investissements d'aménagement intérieur. Les crédits d'investissement finançant la densification sont rentabilisés rapidement par les économies d'échelle générées. La baisse des coûts de chauffage, de nettoyage et d'entretien garantit le retour sur investissement.
+
+   B. Les Schémas pluriannuels de stratégie immobilière et les regroupements de services.
+
+      Les Schémas pluriannuels de stratégie immobilière constituent le cadre de référence pour la planification domaniale de chaque ministère. Ces documents stratégiques établissent un diagnostic complet du parc occupé et définissent la trajectoire d'évolution à cinq ans. Ils doivent intégrer obligatoirement les exigences de sobriété foncière et environnementale.
+
+      À l'échelle régionale, les Schémas directeurs immobiliers régionaux coordonnent la présence territoriale des services déconcentrés de l'État. Élaborés sous la responsabilité des préfets, ils organisent le regroupement des administrations sur des cités administratives ou des complexes mutualisés. Cette mutualisation renforce la cohérence de l'action publique locale.
+
+      Le regroupement des services déconcentrés permet de fermer des implantations dispersées et vétustes au profit d'ensembles modernes. Les cités administratives rénovées accueillent plusieurs directions ministérielles sur un même site. Cette proximité géographique facilite les synergies de travail et rationalise l'accueil des usagers.
+
+      La réalisation des opérations de regroupement s'accompagne d'une réduction drastique de l'empreinte immobilière de l'État dans les départements. Les gains de surface issus des fermetures de sites secondaires financent la modernisation des locaux centraux. L'efficacité des services publics territoriaux s'en trouve directement renforcée.
+
+   C. La maîtrise et la rationalisation des baux pris en location.
+
+      La gestion des baux pris en location auprès du secteur privé constitue un axe majeur d'économie budgétaire. L'État cherche activement à réduire le montant total des loyers versés en renégociant les baux venant à échéance ou en résiliant les baux inutiles. Toute nouvelle prise à bail privé est soumise à l'accord préalable de la Direction de l'immobilier de l'État.
+
+      Les avis conformes délivrés par la Direction de l'immobilier de l'État vérifient la stricte nécessité du recours au marché privé. Ils imposent le respect du ratio de seize mètres carrés par résident et négocient les conditions financières avec les bailleurs. En cas d'offre domaniale disponible, le projet de location privée est rejeté.
+
+      L'extinction progressive des baux privés les plus onéreux est programmée dans les schémas directeurs de région. Le transfert des agents vers des immeubles domaniaux restructurés libère immédiatement des crédits de fonctionnement. Cette stratégie permet de réorienter les dépenses administratives vers l'investissement de rénovation.
+
+      Le suivi rigoureux des échéances de baux dans Chorus CPT garantit l'anticipation des renégociations ou des déménagements. L'anticipation sur deux ou trois ans évite les reconductions tacites défavorables aux intérêts financiers de l'État. La maîtrise des engagements locatifs contribue à la soutenabilité du budget général.
+
+IV. TRANSITION ÉCOLOGIQUE, RENOVATION ÉNERGÉTIQUE ET PROGRAMME trois cent quarante-huit.
+
+   A. La réponse aux exigences environnementales et au décret tertiaire.
+
+      Le parc immobilier de l'État représente une consommation énergétique globale évaluée à environ seize térawatts-heures par an. La transition écologique du parc bâti constitue une priorité nationale pour réduire les émissions de gaz à effet de serre. L'État doit être exemplaire dans l'atteinte des objectifs de réduction des consommations fixés par la loi.
+
+      Le décret tertiaire impose aux bâtiments publics de plus de mille mètres carrés une baisse progressive de leurs consommations d'énergie. Les paliers réglementaires fixent des réductions de quarante pour cent en deux mille trente, cinquante pour cent en deux mille quarante et soixante pour cent en deux mille cinquante par rapport à une année de référence. Le respect de ces échéances exige des travaux de rénovation thermique d'envergure.
+
+      La décarbonation du chauffage constitue un levier majeur pour éradiquer l'usage des énergies fossiles dans les bâtiments publics. L'État remplace progressivement les chaudières au fioul et au gaz par des pompes à chaleur ou des raccordements aux réseaux de chaleur urbains. Cette conversion énergétique diminue drastiquement l'empreinte carbone des administrations.
+
+      La sobriété immobilière passe également par l'adaptation des bâtiments au changement climatique et au confort d'été. Les travaux intègrent l'isolation par l'extérieur, l'installation de protections solaires et la végétalisation des espaces extérieurs. Ces aménagements préservent la santé et la productivité des agents lors des vagues de chaleur.
+
+   B. Les plans de résilience et le financement de la transition environnementale.
+
+      Face à la hausse rapide des coûts de l'énergie, l'État a déployé des mesures d'urgence pour réduire la consommation du parc tertiaire. Le premier appel à projets du plan de résilience nommé Résilience I a été lancé en avril deux mille vingt-deux avec une enveloppe de cinquante millions d'euros. Il a financé des actions à gain rapide telles que la régulation des systèmes de chauffage et l'isolation des combles.
+
+      Le second appel à projets du plan de résilience nommé Résilience II a été engagé en octobre deux mille vingt-deux pour un montant de cent trente millions d'euros. Il a permis d'étendre les travaux de sobriété énergétique à un nombre accru de bâtiments administratifs. Au total, ces cent quatre-vingts millions d'euros d'investissements ciblés génèrent une économie d'énergie permanente estimée à cinq pour cent de la consommation du parc.
+
+      Depuis deux mille vingt-quatre, la mesure « Transition environnementale » prend le relais pour cofinancer les opérations lourdes de rénovation. Ces crédits budgétaires soutiennent la réhabilitation globale des enveloppes de bâtiments et la modernisation des équipements techniques. Ils s'articulent étroitement avec les objectifs de densification des surfaces de travail.
+
+      La combinaison des actions de sobriété et des investissements de rénovation lourde évite l'artificialisation des sols. En restructurant le parc bâti existant, l'État répond aux objectifs de la loi Climat et résilience sans étalement urbain. Cette politique préserve le foncier naturel tout en revalorisant les actifs domaniaux.
+
+   C. Le rôle central du programme trois cent quarante-huit « Performance et résilience des bâtiments de l'État ».
+
+      Le programme trois cent quarante-huit intitulé Performance et résilience des bâtiments de l'État et de ses opérateurs constitue l'instrument budgétaire d'excellence. Il regroupe les crédits d'investissement interministériels dédiés à la rénovation énergétique du parc public. La Direction de l'immobilier de l'État en assure le pilotage opérationnel et la répartition stratégique.
+
+      La sélection des projets financés sur le programme trois cent quarante-huit s'effectue par des appels à projets compétitifs interministériels. Les dossiers présentés par les ministères sont évalués sur leur rentabilité énergétique, le coût de la tonne de carbone évitée et le gain de surface. Cette sélection rigoureuse garantit une efficacité maximale de la dépense publique.
+
+      Le programme trois cent quarante-huit encourage la mutualisation des espaces et le partage des locaux entre plusieurs administrations. Les opérations financées intègrent systématiquement la mise aux normes d'accessibilité et la densification de l'occupation. Ce guichet unique simplifie le montage financier des réhabilitations d'envergure.
+
+      L'évaluation des résultats du programme trois cent quarante-huit s'appuie sur des indicateurs de performance précis mesurant les kilowatts-heures économisés. Les données de consommation réelles sont suivies post-travaux pour vérifier l'atteinte des objectifs initiaux. La transparence de ces résultats atteste de la bonne utilisation des deniers publics.
+
+V. PROFESSIONNALISATION, GOUVERNANCE ET NOUVEAUX ACTEURS : AGILE ET EPIFE.
+
+   A. La montée en puissance d'AGILE et sa transformation en EPIFE par la loi du dix-huit août deux mille vingt-six.
+
+      L'Agence de gestion de l'immobilier de l'État nommée AGILE a été créée pour apporter une expertise opérationnelle d'ingénierie aux services publics. Elle intervient dans l'assistance à maîtrise d'ouvrage, l'exploitation-maintenance et le conseil en aménagement des espaces de travail. Sa création répondait à la nécessité de professionnaliser la conduite des projets complexes.
+
+      La loi n° deux mille vingt-six-sept cent quatre-vingt-quinze du dix-huit août deux mille vingt-six visant à moderniser la gestion du patrimoine immobilier de l'État franchit une étape décisive. Elle dispose la création au plus tard le premier janvier deux mille vingt-sept de l'établissement public immobilier et foncier de l'État dénommé EPIFE. Cet établissement public national à caractère industriel et commercial succède directement à la société AGILE.
+
+      L'EPIFE reprend de plein droit l'ensemble des biens, droits, obligations et contrats conclus par AGILE. Doté d'une autonomie juridique et financière renforcée, cet établissement public d'État dispose de compétences élargies pour porter des opérations immobilières d'envergure. Il pourra notamment acquérir, rénover, gérer et céder des actifs fonciers pour le compte de l'État.
+
+      La création de l'EPIFE offre aux ministères un partenaire industriel capable d'assurer le portage d'opérations immobilières complexes. L'établissement simplifie le recours à la maîtrise d'ouvrage déléguée et accélère la réalisation des travaux. Cette transformation consolide la modernisation de l'action foncière et domaniale de la Nation.
+
+   B. La structuration de la filière professionnelle et le renforcement des compétences.
+
+      La professionnalisation de la fonction immobilière implique la structuration d'une véritable filière professionnelle au sein de l'État. Les métiers de l'immobilier public sont identifiés et valorisés à travers des référentiels de compétences unifiés. Cette démarche attractive vise à fidéliser les talents et à recruter des experts qualifiés.
+
+      Les plans de formation continue dispensés aux agents de la filière couvrent l'ensemble de la gestion d'actifs domaniaux. Les modules pédagogiques traitent de la conduite de projet, de la réglementation environnementale, de la négociation locative et de la maintenance technique. La montée en compétence garantit la qualité de la gestion quotidienne du parc.
+
+      Le réseau des responsables de l'immobilier ministériel travaille en concertation étroite avec la Direction de l'immobilier de l'État. Des communautés de pratiques et des espaces d'échange partagent les retours d'expérience sur les projets innovants. L'harmonisation des méthodes de travail renforce la cohésion de l'ensemble de la filière interministérielle.
+
+      Le développement d'outils numériques communs soutient les agents dans le pilotage de leurs opérations. Au-delà de Chorus CPT, des plateformes collaboratives permettent le suivi des projets de rénovation et la gestion des fluides. L'accélération de la digitalisation simplifie le reporting et sécurise les décisions de gestion.
+
+   C. Le pilotage territorial de la politique domaniale par les préfets et les conférences régionales.
+
+      Le préfet de région constitue l'autorité décisionnelle compétente pour décliner la politique immobilière sur le territoire. Il préside la conférence d'immobilier régional qui réunit l'ensemble des directeurs des services déconcentrés et des opérateurs. Cette instance arbitrale valide la programmation des opérations et l'allocation des surfaces.
+
+      Les responsables régionaux de l'immobilier de l'État assistent le préfet de région dans l'instruction des dossiers immobiliers. Ils apportent leur expertise technique pour évaluer la faisabilité des regroupements de services et des opérations de densification. Leur analyse garantit l'alignement des projets territoriaux sur les orientations nationales.
+
+      L'arbitrage préfectoral s'étend aux propositions de prises à bail privé, de renouvellements locatifs et de cessions d'immeubles domaniaux. Le préfet veille à ce qu'aucune solution privée ne soit retenue lorsqu'un bâtiment public vacant peut accueillir les services. Ce filtre préfectoral renforce l'efficience de l'implantation locale de l'État.
+
+      Le suivi régulier des indicateurs de performance régionaux permet de mesurer les progrès accomplis dans chaque circonscription. Les ratios de m² par résident, le taux d'avancement des schémas directeurs et le respect des budgets sont analysés en conférence. Ce pilotage par les résultats dynamise la gestion domaniale en province.
+
+VI. DÉCLINAISON SECTORIELLE, EFFORT FINANCIER ET DÉPENSES DES PROGRAMMES.
+
+   A. La déclinaison de la politique immobilière au sein des grands périmètres ministériels.
+
+      Le ministère de l'Intérieur gère un parc bâti d'une ampleur considérable comprenant les commissariats, les casernes de gendarmerie et les préfectures. Les services de la gendarmerie nationale occupent plus de cinq virgule sept millions de mètres carrés de surface utile brute. La modernisation des casernes s'appuie sur des programmes pluriannuels d'investissement visant la sécurité des agents et le confort des usagers.
+
+      Le ministère des Armées gère le plus vaste ensemble domanial de l'État avec plus de vingt-cinq millions de mètres carrés de surface utile brute. Son patrimoine comprend des emprises opérationnelles, des bases aériennes, des ports militaires et quatre-vingt mille quatre cent treize logements destinés aux militaires et à leurs familles. L'adaptation des infrastructures aux engagements des forces armées exige un entretien lourd et continu.
+
+      Le ministère de la Justice déploie son parc immobilier sur les établissements pénitentiaires, les palais de justice et les centres de protection judiciaire de la jeunesse. L'administration pénitentiaire poursuit des programmes de construction de nouvelles places de prison tout en rénovant le parc existant. Le ministère de l'Éducation nationale et celui de l'Enseignement supérieur gèrent des surfaces majeures dédiées à la formation.
+
+      Le ministère de l'Europe et des Affaires étrangères entretient un parc immobilier diplomatique spécifique réparti dans le monde entier. Il gère les ambassades, les consulats et les résidences de France sur le réseau international. La rationalisation de ce patrimoine à l'étranger concourt également aux objectifs de la politique transversale.
+
+   B. L'évaluation de l'effort financier global de l'État et la structure des crédits.
+
+      L'effort financier consacré par l'État à sa politique immobilière rassemble des crédits budgétaires répartis sur de nombreux programmes. Dans le projet de loi de finances pour deux mille vingt-sept, la présentation consolidée retrace les autorisations d'engagement et les crédits de paiement mobilisés. Elle prend en compte l'exécution deux mille vingt-cinq et les prévisions révisées pour deux mille vingt-six.
+
+      Les dépenses de personnel associées aux équipes chargées de la gestion du parc sont rigoureusement comptabilisées en équivalents temps plein travaillé. L'évaluation de ces emplois atteste de la mobilisation des ressources humaines nécessaires à la conduite des projets. Les crédits de titre deux couvrent les rémunérations des personnels de la Direction de l'immobilier et des ministères.
+
+      Les crédits d'investissement de titre cinq et les crédits de fonctionnement de titre trois constituent le cœur des financements opérationnels. Les dépenses de fonctionnement couvrent les loyers privés, les charges de fluides et la maintenance courante des installations. Les dépenses d'investissement financent les gros travaux de structure, de sécurité et de rénovation énergétique.
+
+      La présentation synthétique des recettes domaniales intègre les redevances pour occupation du domaine et les produits de cession. Ces ressources viennent abonder les capacités d'investissement de l'État à travers le Compte d'affectation spéciale. L'équilibre financier de la politique immobilière s'appuie sur la complémentarité des dotations budgétaires et des recettes propres.
+
+   C. L'analyse des programmes budgétaires majeurs concourant à la politique immobilière.
+
+      Le programme cent soixante-seize de la Police nationale et le programme cent cinquante-deux de la Gendarmerie nationale concentrent des crédits importants pour l'immobilier de sécurité. Ces financements permettent de construire de nouveaux hôtelleries de police et de rénover les casernes domaniales. L'amélioration des conditions de travail et d'hébergement des forces de l'ordre constitue une priorité budgétaire soutenue.
+
+      Le programme cent soixante-six de la Justice judiciaire et le programme cent sept de l'Administration pénitentiaire financent la mise aux normes des juridictions et des prisons. La modernisation des palais de justice intègre la numérisation des salles d'audience et l'accessibilité aux personnes à mobilité réduite. Les crédits de l'administration pénitentiaire soutiennent la modernisation des structures de détention.
+
+      Le programme deux cent seize pour l'Intérieur, le programme deux cent douze pour la Défense et le programme trois cent cinquante-quatre pour l'administration territoriale apportent le soutien logistique. Ces programmes supports portent les crédits de fonctionnement immobilier et d'entretien des cités administratives. Ils coordonnent les interventions techniques pour le compte des services déconcentrés et centraux.
+
+      Les programmes de l'Enseignement supérieur comme le programme cent cinquante financent la restructuration du patrimoine universitaire national. Les universités bénéficient de crédits de rénovation pour mettre aux normes leurs campus et réduire leurs factures énergétiques. La convergence de l'ensemble de ces programmes budgétaires garantit l'efficacité globale de la politique transversale.
+
+POINTS D'ATTENTION.
+
+      La cible obligatoire de seize mètres carrés de surface utile brute maximum par résident définie par la circulaire du huit février deux mille vingt-trois s'impose à l'ensemble des administrations tertiaires.
+
+      La loi du dix-huit août deux mille vingt-six prévoit la création au plus tard le premier janvier deux mille vingt-sept de l'établissement public EPIFE qui succédera à la société AGILE.
+
+      Les objectifs du décret tertiaire imposent des réductions successives de consommation d'énergie de quarante pour cent en deux mille trente, cinquante pour cent en deux mille quarante et soixante pour cent en deux mille cinquante.
+
+      Le programme trois cent quarante-huit est le guichet unique interministériel pour le financement des opérations lourdes de rénovation énergétique et de transition environnementale.
+
+      Toute prise de bail privé par un service de l'État est soumise à l'avis conforme préalable de la Direction de l'immobilier de l'État.
+
+      Les redevances pour occupation temporaire du domaine public font l'objet d'une revalorisation systématique et le développement photovoltaïque constitue une ressource nouvelle.
+
+      Une part des produits de cession enregistrés sur le Compte d'affectation spéciale gestion du patrimoine immobilier est obligatoirement affectée au désendettement de l'État.
+
+      L'inventaire physique et la valorisation comptable du parc bâti de l'État reposent sur la fiabilisation continue de l'outil Chorus CPT.
+
+EXEMPLES CITES.
+
+      Le premier appel à projets du plan de résilience a alloué cinquante millions d'euros en avril deux mille vingt-deux et le second appel à projets Résilience II a mobilisé cent trente millions d'euros en octobre deux mille vingt-deux.
+
+      Les armées gèrent un parc de quatre-vingt mille quatre cent treize logements pour une surface totale de six virgule neuf millions de mètres carrés de surface utile brute.
+
+      Les surfaces occupées par les services de la gendarmerie nationale représentent cinq virgule soixante-treize millions de mètres carrés de surface utile brute.
+
+      La restructuration de certains sites administratifs a permis d'obtenir un gain de surface de l'ordre de trente mille mètres carrés après densification.
+
+      La vente en l'état futur d'achèvement du bâtiment Newdelec porte sur une surface de deux mille quatre cent quarante mètres carrés.
+
+      Le bail commercial conclu entre l'État et Generali porte sur une surface de deux mille trois cent treize mètres carrés dont mille sept cent quarante-trois mètres carrés privatifs.
+
+      Le parc immobilier géré par les établissements publics nationaux et opérateurs de l'État totalise vingt-deux virgule soixante-huit millions de mètres carrés de surface utile brute.
+
+      La consommation énergétique globale du parc tertiaire de l'État est évaluée à environ seize térawatts-heures par an pour quatre-vingt-seize millions de mètres carrés.
