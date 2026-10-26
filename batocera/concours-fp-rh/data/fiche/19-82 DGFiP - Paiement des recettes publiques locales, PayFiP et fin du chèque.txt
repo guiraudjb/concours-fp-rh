@@ -1,0 +1,231 @@
+LEXIQUE COMPLET.
+
+      PayFiP désigne l'offre de paiement en ligne sécurisée développée par la Direction générale des Finances publiques pour permettre aux usagers de régler les sommes dues aux collectivités locales et à leurs régies.
+
+      Hélios est l'application informatique nationale de gestion comptable et financière des collectivités locales gérées directement par les comptables de la Direction générale des Finances publiques.
+
+      PES ASAP XML correspond au Protocole d'Échange Standard Aller Simple Avec PayFiP en format XML permettant l'édition de factures comportant un QRCode pour un paiement simplifié par l'usager.
+
+      DFT désigne le compte de Dépôt de Fonds au Trésor obligatoirement ouvert auprès de la direction régionale ou départementale des Finances publiques pour raccorder une régie locale à PayFiP.
+
+      TIPI désigne le traitement automatisé de données à caractère personnel nommé Titres payables par internet faisant l'objet de l'arrêté modificateur du deux mai deux mille dix-huit.
+
+      Régie locale ou communale désigne une structure administrative chargée d'encaisser directement des recettes publiques pour le compte d'une collectivité territoriale comme la cantine ou la crèche.
+
+      Wero est une solution européenne de paiement rapide sur téléphone mobile présentant un taux de commissionnement inférieur à celui de la carte bancaire et dont l'intégration dans PayFiP est prévue entre deux mille vingt-sept et deux mille vingt-huit.
+
+      Virement simplifié est un moyen de paiement sur PayFiP accessible à partir du printemps deux mille vingt-six permettant à l'usager d'autoriser un virement directement depuis son espace bancaire sans carte bancaire et sans coût pour la collectivité.
+
+      Espaces France Services sont des guichets publics de proximité mobilisés par l'État pour accompagner les usagers éloignés du numérique dans leurs démarches et leurs paiements.
+
+      3DSecure est un protocole d'authentification bancaire sécurisé garantissant le paiement à la collectivité lors d'une transaction par carte bancaire sur PayFiP.
+
+COURS DÉTAILLÉ.
+
+I. LE CADRE RÉGLEMENTAIRE ET L'OBLIGATION DE PAIEMENT EN LIGNE DES RECETTES LOCALES.
+
+   A. Le cadre juridique issu du décret du premier août deux mille dix-huit.
+
+      Le décret numéro deux mille dix-huit-six cent quatre-vingt-neuf du premier août deux mille dix-huit impose à toutes les administrations publiques de mettre à disposition des usagers un service de paiement en ligne performant.
+
+      Cette obligation légale s'applique de manière stricte à l'ensemble des collectivités locales et à leurs régies dès lors qu'elles encaissent au moins cinq mille euros par an.
+
+      La mise en œuvre de ce cadre réglementaire vise à accélérer la dématérialisation des finances locales tout en améliorant la qualité du service rendu aux administrés.
+
+      L'arrêté du deux mai deux mille dix-huit modifie l'arrêté du vingt-deux décembre deux mille neuf relatif au traitement automatisé de données à caractère personnel nommé TIPI pour adapter la réglementation informatique.
+
+   B. Les enjeux de modernisation et de sécurisation pour les collectivités.
+
+      Proposer un service de paiement en ligne constitue un enjeu majeur de modernisation de la gestion financière et comptable des acteurs publics locaux.
+
+      L'ouverture vers la dématérialisation permet de sécuriser les moyens d'encaissement et de réduire significativement les délais de recouvrement des recettes publiques.
+
+      Pour l'usager le service est accessible vingt-quatre heures sur vingt-quatre et sept jours sur sept et évite tout déplacement physique aux guichets des mairies ou des trésoreries.
+
+      Chaque transaction réalisée en ligne donne lieu à l'envoi immédiat d'un courriel de confirmation garantissant la traçabilité complète de l'opération de paiement.
+
+   C. Le rôle central de la Direction générale des Finances publiques.
+
+      La Direction générale des Finances publiques a développé la plateforme PayFiP pour offrir aux collectivités une solution clé en main et hautement sécurisée.
+
+      Les directions régionales et départementales des Finances publiques mettent à disposition des collectivités un correspondant moyens de paiement chargé de l'accompagnement technique.
+
+      La plateforme PayFiP est mise à disposition gratuitement pour les collectivités locales et leurs régies afin d'encourager son adoption générale.
+
+      L'objectif de l'État est d'orienter massivement les usagers vers cette plateforme publique afin de rationaliser les coûts de gestion comptable.
+
+II. LES MODALITÉS DE FONCTIONNEMENT ET MOYENS DE PAIEMENT DE LA PLATEFORME PAYFIP.
+
+   A. Les quatre moyens de paiement proposés aux usagers.
+
+      Le paiement par carte bancaire est sécurisé par le protocole 3DSecure qui offre à la collectivité locale une garantie absolue de paiement de sa créance.
+
+      Lors d'un paiement par carte bancaire la collectivité paie à chaque transaction une commission proportionnelle au montant encaissé par la plateforme.
+
+      Le paiement par prélèvement unique nécessite une identification de l'usager sur son compte impots.gouv.fr ou à travers le dispositif FranceConnect.
+
+      Le prélèvement unique présente l'avantage majeur de ne facturer aucun coût d'encaissement à la collectivité locale concernée.
+
+   B. Les innovations du virement simplifié et de la solution européenne Wero.
+
+      Le virement simplifié est déployé sur PayFiP à partir du printemps deux mille vingt-six pour permettre le paiement direct depuis l'espace bancaire de l'usager.
+
+      Cette modalité de virement simplifié ne nécessite aucune possession de carte bancaire et ne génère aucun coût d'encaissement pour la collectivité.
+
+      La solution européenne Wero sera intégrée à PayFiP au cours de la période deux mille vingt-sept-deux mille vingt-huit pour permettre des paiements rapides depuis un téléphone mobile.
+
+      Wero présentera un taux de commissionnement nettement inférieur à celui de la carte bancaire traditionnelle tout en garantissant une exécution instantanée.
+
+   C. Le raccordement des collectivités gérées dans l'application Hélios.
+
+      Pour les collectivités locales dont la gestion comptable est intégrée dans Hélios le recours à la plateforme PayFiP est totalement incontournable.
+
+      L'utilisation de PayFiP suppose la signature préalable d'un contrat entre la collectivité et le correspondant moyens de paiement de la Direction générale des Finances publiques.
+
+      Après raccordement le payeur peut régler sa dette directement sur le site PayFiP ou via un module de collecte intégré au site internet de la collectivité.
+
+      Les factures transmises via le protocole PES ASAP XML comportent un QRCode permettant la préidentification automatique de la facture sans saisie manuelle.
+
+      Ces factures sont également mises en ligne sur impots.gouv.fr permettant à l'usager de recevoir une notification par courriel et de supprimer l'envoi papier.
+
+   D. Le raccordement spécifique des régies locales non gérées dans Hélios.
+
+      Les collectivités ou régies non gérées dans Hélios ne peuvent pas proposer le paiement direct sur PayFiP car la plateforme ne connaît pas leurs factures.
+
+      Ces structures doivent obligatoirement se doter d'un site internet de collecte des demandes de paiement qui dialogue directement avec PayFiP.
+
+      Le raccordement d'une régie exige au préalable l'ouverture d'un compte de Dépôt de Fonds au Trésor auprès de la direction régionale ou départementale.
+
+      PayFiP joue alors le rôle d'une brique de paiement sécurisée intégrée au site internet de collecte de la régie locale.
+
+III. LA SUPPRESSION DU CHÈQUE ET LA STRATÉGIE DE TRANSITION DE LA DGFIP.
+
+   A. L'échéance du trente et un mai deux mille vingt-sept et l'obsolescence industrielle.
+
+      La Direction générale des Finances publiques a annoncé la suppression définitive du service de remise de chèques auprès des centres d'encaissement au trente et un mai deux mille vingt-sept.
+
+      Cette décision fait suite à une circulaire officielle de la Direction générale des Finances publiques en date du deux avril deux mille vingt-six adressée aux services.
+
+      Les matériels de traitement industriel des chèques seront frappés d'obsolescence technique inéluctable dans le courant de l'année deux mille vingt-sept.
+
+      L'État a fait le choix stratégique de ne pas réinvestir dans ces équipements lourds devenus obsolètes et coûteux.
+
+   B. La marginalisation des moyens de paiement physiques.
+
+      Dans l'ensemble des recettes publiques encaissées le paiement par chèque ne représente plus aujourd'hui que moins de quatre pour cent du volume total.
+
+      Les paiements en numéraire ou espèces sont encore plus marginaux et représentent désormais moins de un pour cent des recettes encaissées.
+
+      Les chèques et le numéraire sont des moyens de paiement moins sécurisés qui engendrent des coûts de gestion très élevés pour l'État et les collectivités.
+
+      La politique de la Direction générale des Finances publiques vise à rationaliser les canaux d'encaissement en supprimant progressivement les formats papier.
+
+   C. Le réorientement des usagers vers le paiement de proximité.
+
+      Pour pallier la fin du chèque le Gouvernement oriente les usagers vers des solutions de paiement de proximité adaptées à tous les publics.
+
+      Au guichet des régies locales des solutions alternatives sans carte bancaire comme les liens de paiement gratuits sont mises à la disposition des usagers.
+
+      Aux guichets de la Direction générale des Finances publiques les usagers conservent la possibilité d'effectuer leurs règlements par carte bancaire.
+
+      Le réseau des buralistes agréés permet aux usagers de régler leurs factures publiques en espèces dans la limite stricte de trois cents euros.
+
+      Le marché de gestion des espèces reconduit avec La Banque Postale au printemps deux mille vingt-six assure la continuité des dépôts et retraits de numéraire pour les régies.
+
+IV. LES DÉBATS PARLEMENTAIRES ET LES INQUIÉTUDES DES ÉLUS LOCAUX.
+
+   A. La question orale au Sénat de Monsieur Fabien Genet.
+
+      Le sénateur Fabien Genet a déposé la question orale numéro mille cent quatre-vingt-treize publiée au Journal Officiel du Sénat le dix-huit juin deux mille vingt-six à la page deux mille neuf cent soixante-six.
+
+      Cette question visait à interpeller le ministère de l'économie sur les conséquences de la suppression du chèque pour les collectivités territoriales.
+
+      La réponse du Gouvernement a été apportée en séance publique le vingt et un juillet deux mille vingt-six et publiée au Journal Officiel du Sénat le vingt-deux juillet deux mille vingt-six à la page six mille cent quarante-deux.
+
+      Des maires de Saône-et-Loire ont exprimé de vives inquiétudes quant aux conséquences financières et organisationnelles pour les régies communales.
+
+   B. Le risque de report vers le numéraire et les risques de gestion en mairie.
+
+      Les élus locaux redoutent que la fin du chèque n'entraîne un report massif vers le paiement en numéraire de la part des publics éloignés du numérique.
+
+      L'augmentation de la manipulation d'espèces en mairie entraîne des charges de gestion très lourdes et renforce la responsabilité personnelle des régisseurs.
+
+      La conservation de sommes importantes en numéraire au sein des mairies accroît les risques d'erreurs comptables de pertes et de vols.
+
+      Les régies de services municipaux du quotidien comme la cantine scolaire sont particulièrement exposées à ces difficultés d'encaissement.
+
+   C. Les contraintes financières et le risque cyber pour les petites communes.
+
+      L'installation de terminaux de paiement électronique et le raccordement à PayFiP représentent des coûts élevés pour les communes les plus modestes.
+
+      Les élus s'interrogent sur les risques de fraude et d'hameçonnage liés au paiement en ligne qui peuvent effrayer certains administrés.
+
+      Ces craintes face au numérique risquent de provoquer une augmentation des impayés ou des retards de paiement dans les finances locales.
+
+      L'éloignement progressif des guichets publics oblige également les agents communaux à parcourir des distances accrues pour déposer les espèces.
+
+V. LES MESURES D'ACCOMPAGNEMENT ET LE MAINTIEN DE LA CONTINUITE DU SERVICE PUBLIC.
+
+   A. Le soutien technique et la mobilisation des espaces France Services.
+
+      Pour accompagner les usagers confrontés à la fracture numérique le Gouvernement mobilise l'ensemble du réseau des espaces France Services.
+
+      Des campagnes d'information et de communication nationale et locale sont progressivement déployées pour sensibiliser la population aux nouveaux outils.
+
+      Les agents de la Direction générale des Finances publiques accompagnent les élus et les régisseurs dans le déploiement des nouvelles briques de paiement.
+
+      Des dispositifs spécifiques d'assistance technique sont proposés aux communes rurales et aux petites régies pour faciliter leur transition.
+
+   B. L'encadrement du marché des espèces avec La Banque Postale.
+
+      Le marché public relatif à la gestion des espèces a été reconduit avec La Banque Postale au cours du printemps deux mille vingt-six.
+
+      Ce marché permet aux collectivités locales d'effectuer en toute sécurité le dépôt et le retrait des espèces générées par les services publics.
+
+      Le dispositif garantit la continuité parfaite du service sans rupture pour la gestion des fonds des régies locales.
+
+      Ce partenariat historique s'inscrit dans la stricte continuité du marché précédent afin de ne pas perturber les habitudes des régisseurs.
+
+   C. La réponse gouvernementale sur les coûts et la gratuité de PayFiP.
+
+      La ministre déléguée Maud Bregeon a rappelé en séance publique que la plateforme PayFiP est entièrement gratuite pour les collectivités.
+
+      L'État prend à sa charge l'ensemble des coûts de développement et de maintenance de la brique nationale de paiement en ligne PayFiP.
+
+      Le Gouvernement souligne que la suppression du chèque générera des économies de gestion à la fois pour l'État et pour le secteur public local.
+
+      La ministre a confirmé que le maintien d'un maillage de paiement de proximité via les buralistes garantit l'accessibilité pour tous les usagers.
+
+POINTS D'ATTENTION.
+
+      Le paiement en ligne PayFiP est juridiquement obligatoire pour toutes les collectivités et régies encaissant au moins cinq mille euros par an.
+
+      Le service de remise des chèques auprès des centres d'encaissement sera définitivement supprimé à compter du trente et un mai deux mille vingt-sept.
+
+      La date limite du trente et un mai deux mille vingt-sept découle directement d'une circulaire de la Direction générale des Finances publiques en date du deux avril deux mille vingt-six.
+
+      Le chèque et le numéraire ne représentent respectivement que moins de quatre pour cent et moins de un pour cent du total des recettes publiques encaissées.
+
+      Le paiement en espèces auprès du réseau des buralistes agréés est plafonné à un montant maximum de trois cents euros par transaction.
+
+      Le paiement par carte bancaire sur PayFiP entraîne le paiement d'une commission par la collectivité tandis que le prélèvement unique et le virement simplifié sont sans frais d'encaissement.
+
+      Pour raccorder une régie à PayFiP il est obligatoire d'ouvrir un compte de Dépôt de Fonds au Trésor auprès de la direction départementale ou régionale des Finances publiques.
+
+      Le virement simplifié sera accessible sur PayFiP au printemps deux mille vingt-six et la solution européenne Wero sera intégrée au cours de la période deux mille vingt-sept-deux mille vingt-huit.
+
+EXEMPLES CITÉS.
+
+      L'application de paiement des factures de cantine scolaire ou de crèche municipale au sein des régies communales.
+
+      L'utilisation du protocole PES ASAP XML pour insérer un QRCode de paiement automatique sur les factures éditées par les collectivités.
+
+      L'identification sécurisée des usagers sur PayFiP à travers le portail impots.gouv.fr ou le dispositif FranceConnect.
+
+      La transmission des demandes de paiement via un site internet de collecte dédié connecté à la brique de paiement PayFiP pour les régies locales.
+
+      L'utilisation du réseau des buralistes agréés pour régler une dette publique en espèces dans la limite de trois cents euros.
+
+      Le dépôt et le retrait de numéraire par les régisseurs locaux auprès des guichets de La Banque Postale dans le cadre du marché reconduit au printemps deux mille vingt-six.
+
+      L'accompagnement des usagers éloignés des outils informatiques par les agents d'un espace France Services.

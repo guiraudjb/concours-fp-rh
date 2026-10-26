@@ -1580,5 +1580,30 @@
    "taille": 487141,
    "url": "https://www.senat.fr/rap/r25-119/r25-1191.pdf"
   }
+ ],
+ "19-70 DGFiP - Compte général de l'État 2025": [
+  {
+   "fichier": "source/compte-general-etat-2025.pdf",
+   "titre": "DGFiP - Compte général de l'État 2025",
+   "pages": 209,
+   "taille": 4854896,
+   "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109786/file/Compte%20g%C3%A9n%C3%A9ral%20de%20l%27Etat%202025.pdf"
+  }
+ ],
+ "19-82 DGFiP - Paiement des recettes publiques locales, PayFiP et fin du chèque": [
+  {
+   "fichier": "source/payfip.pdf",
+   "titre": "Collectivités locales - L'offre de paiement en ligne PayFiP",
+   "pages": 3,
+   "taille": 19711,
+   "url": "https://www.collectivites-locales.gouv.fr/finances-locales/loffre-de-paiement-en-ligne-payfip"
+  },
+  {
+   "fichier": "source/senat-question-2026-cheque.pdf",
+   "titre": "Sénat - Question orale de M. Fabien Genet et réponse du Gouvernement (2026)",
+   "pages": 3,
+   "taille": 21164,
+   "url": "https://www.senat.fr/questions/base/2026/qSEQ26061193S.html"
+  }
  ]
 }
