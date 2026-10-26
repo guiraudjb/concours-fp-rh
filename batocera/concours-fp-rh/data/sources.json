@@ -1503,5 +1503,46 @@
    "taille": 4581691,
    "url": "https://www.senat.fr/rap/r23-303/r23-3031.pdf"
   }
+ ],
+ "19-50 DGFiP - Bilan du contrôle fiscal 2025": [
+  {
+   "fichier": "source/bilan-controle-fiscal-2025.pdf",
+   "titre": "Ministère - Dossier de presse, bilan du contrôle fiscal 2025",
+   "pages": 10,
+   "taille": 226889,
+   "url": "https://www.ifrap.org/sites/default/files/documents/2026-04/540_-_dp_-_bilan_du_controle_fiscal_2025.pdf"
+  }
+ ],
+ "19-51 Assemblée nationale - Moyens de la DGFiP contre la fraude et l'évasion fiscales (2026)": [
+  {
+   "fichier": "source/an-rapport-controle-fiscal-l17b3072.pdf",
+   "titre": "Assemblée nationale - Rapport d'information n° 3072 (21 juillet 2026), Mathilde Feld",
+   "pages": 49,
+   "taille": 140219,
+   "url": "https://www.assemblee-nationale.fr/dyn/opendata/RINFANR5L17B3072.html"
+  }
+ ],
+ "19-52 Sénat et Assemblée nationale - Intelligence artificielle et contrôle fiscal (2024)": [
+  {
+   "fichier": "source/senat-r23-491-ia-fraude.pdf",
+   "titre": "Sénat - Rapport d'information n° 491 (2023-2024), IA, impôts, prestations sociales et lutte contre la fraude",
+   "pages": 88,
+   "taille": 5414960,
+   "url": "https://senat.fr/rap/r23-491/r23-4911.pdf"
+  },
+  {
+   "fichier": "source/an-l16b2742-ia-controle-fiscal.pdf",
+   "titre": "Assemblée nationale - Rapport d'information n° 2742 (6 juin 2024), nouvelles technologies et contrôle fiscal",
+   "pages": 37,
+   "taille": 954572,
+   "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/cion_fin/l16b2742_rapport-information.pdf"
+  },
+  {
+   "fichier": "source/foncier-innovant.pdf",
+   "titre": "Collectivités locales - Le foncier innovant",
+   "pages": 2,
+   "taille": 16761,
+   "url": "https://www.collectivites-locales.gouv.fr/competences/le-foncier-innovant"
+  }
  ]
 }

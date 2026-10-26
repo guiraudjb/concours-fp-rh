@@ -1,0 +1,171 @@
+FICHE DE RÉVISION EXHAUSTIVE SUR LES MOYENS DE LA DGFIP CONTRE LA FRAUDE ET L'ÉVASION FISCALES.
+
+LEXIQUE COMPLET.
+
+      DGFIP : Direction générale des finances publiques, administration régalienne chargée de la gestion des finances publiques, de la collecte des impôts et du contrôle fiscal en France.
+
+      ESFP : Examen de la situation fiscale personnelle, procédure de contrôle approfondi visant à vérifier la sincérité des déclarations de revenus des particuliers au regard de leur patrimoine, de leur trésorerie et de leur train de vie.
+
+      Vérification de comptabilité : Contrôle fiscal approfondi effectué le plus souvent sur place dans l'entreprise pour examiner les livres comptables et s'assurer de la régularité des déclarations.
+
+      Examen de comptabilité : Contrôle à distance de la comptabilité d'une entreprise réalisé depuis les bureaux de l'administration fiscale à partir du fichier des écritures comptables dématérialisé.
+
+      Contrôle sur pièces : Vérification formelle réalisée en bureau par les agents de l'administration à partir des éléments déclarés et des recoupements d'informations disponibles.
+
+      Datamining : Technique d'analyse et de traitement automatisé de masses de données déclaratives et financières permettant d'identifier des incohérences ou des risques de fraude.
+
+      DVNI : Direction des vérifications nationales et internationales, service spécialisé de la DGFIP chargé du contrôle des grandes entreprises et des dossiers complexes à très forts enjeux.
+
+      STDR : Service de traitement des déclarations rectificatives, cellule temporaire d'accueil des régularisations spontanées d'avoirs non déclarés détenus à l'étranger.
+
+      SAGERFIP : Outil de gestion et de suivi de la force de travail consacrée à la mission de contrôle fiscal au sein des directions locales de la DGFIP.
+
+      Loi ESSOC : Loi du dix août deux mille dix-huit pour un État au service d'une société de confiance, ayant introduit le droit à l'erreur et le principe de conclusion apaisée des contrôles.
+
+      ONAF : Office national antifraude, service d'enquête judiciaire et administrative rattaché à la direction générale des douanes et droits indirects.
+
+      Pilat : Projet d'application informatique de la DGFIP destiné à refondre l'architecture applicative globale de la chaîne du contrôle fiscal.
+
+      GMBI : Application Gérer mes biens immobiliers dédiée aux obligations déclaratives des propriétaires fonciers et immobiliers.
+
+      Écart fiscal : Évaluation statistique de la différence entre les recettes fiscales théoriquement dues en application de la loi et les recettes effectivement collectées.
+
+COURS DÉTAILLÉ.
+
+I. DÉGRADATION DES RÉSULTATS DU CONTRÔLE FISCAL ET ÉVOLUTION DES RECETTES DE deux mille quinze À deux mille vingt-cinq.
+
+   A. Décrochage historique des montants recouvrés par rapport aux recettes fiscales globales.
+
+      Entre deux mille quinze et deux mille vingt-quatre, les recettes fiscales recouvrées par la direction générale des finances publiques ont progressé de quarante-quatre pour cent en euros courants, passant d'un indice cent à plus de cent quarante. Cette hausse s'explique par la dynamique économique globale et par le transfert à la DGFIP de plusieurs impositions auparavant perçues par les douanes, telles que les taxes intérieures de consommation sur l'énergie et la taxe sur la valeur ajoutée à l'importation. Dans le même temps, les résultats totaux du contrôle fiscal sont passés de vingt et un virgule deux milliards d'euros en deux mille quinze à vingt virgule un milliards d'euros en deux mille vingt-quatre, marquant un recul de cinq virgule quatre pour cent en valeur nominale. En intégrant l'année deux mille vingt-cinq, les résultats atteignent environ vingt virgule sept milliards d'euros, soit une baisse de deux virgule quatre pour cent par rapport au niveau de deux mille quinze.
+
+      Les recettes effectivement encaissées par l'État au titre du contrôle fiscal ont également enregistré une baisse de six virgule six pour cent, passant de douze virgule deux milliards d'euros en deux mille quinze à onze virgule quatre milliards d'euros en deux mille vingt-quatre et en deux mille vingt-cinq. En prenant en compte l'inflation cumulée de dix-neuf virgule sept pour cent sur cette période décennale, le rendement réel du contrôle fiscal a baissé de plus de vingt pour cent. La Cour des comptes constate ainsi un décrochage structurel, la part des résultats du contrôle fiscal représentant quatre virgule trois pour cent des recettes fiscales totales encaissées en deux mille quinze, contre seulement deux virgule huit pour cent en deux mille vingt-quatre.
+
+      Pour nuancer ce constat, la direction générale des finances publiques met en avant l'effet exceptionnel du service de traitement des déclarations rectificatives actif entre deux mille quatorze et deux mille dix-sept. Le tarissement des régularisations d'avoirs à l'étranger, qui avaient rapporté deux virgule sept milliards d'euros en deux mille quinze et deux virgule cinq milliards d'euros en deux mille seize, n'a toutefois pas été compensé par les transmissions issues de l'échange automatique d'informations internationales. De plus, un changement de méthode comptable survenu en deux mille dix-neuf a décalé plus de deux milliards d'euros de résultats sur l'exercice deux mille vingt en retenant les montants mis en recouvrement après avis des commissions consultatives au lieu des montants initialement notifiés.
+
+   B. Analyse comparative de l'assiette fiscale et des rendements réels des contrôles.
+
+      Au cours de la période allant de deux mille treize à deux mille vingt-cinq, le tissu fiscal national s'est fortement élargi, augmentant la charge de travail théorique de l'administration. Le nombre de foyers fiscaux imposables à l'impôt sur le revenu a augmenté de treize virgule quatre pour cent. L'accroissement est encore plus marqué du côté des professionnels, avec une hausse de quatre-vingt-dix virgule sept pour cent du nombre d'entreprises assujetties à l'impôt sur les sociétés et une progression de quatre-vingt-quatre virgule neuf pour cent du nombre d'entreprises redevables de la taxe sur la valeur ajoutée.
+
+      Cette explosion du nombre d'entreprises assujetties s'explique principalement par le développement massif des micro-entreprises dans le tissu socio-économique français. Même si ces entités présentent des enjeux financiers individuels plus modérés, cette évolution représente un élargissement considérable du périmètre d'assujettis à contrôler par l'administration fiscale. La capacité globale de couverture du tissu économique par la DGFIP s'est ainsi trouvée fortement réduite.
+
+      Au cours de l'exercice deux mille vingt-cinq, un refus exceptionnel de demande de remboursement de crédit de taxe sur la valeur ajoutée portant sur un dossier unique de quatre virgule quatre-vingt-cinq milliards d'euros a dû être retiré des statistiques courantes pour éviter de fausser l'analyse. Hors cet événement ponctuel, les chiffres confirmés mettent en évidence l'incapacité des services de contrôle à suivre la croissance continue des assiettes imposables et la complexité accrue des stratégies d'optimisation.
+
+II. EFFONDREMENT DES EFFECTIFS DE LA DGFIP ET IMPACT SUR LES SERVICES DE CONTRÔLE.
+
+   A. Historique des coupes d'effectifs et décalage des plans de redéploiement.
+
+      De deux mille huit à deux mille vingt-cinq, la direction générale des finances publiques a constitué la principale administration contributrice aux réductions d'effectifs de l'État. Son personnel global est passé de cent vingt-cinq mille cinq cents agents à quatre-vingt-onze mille soixante-quatre agents, soit une suppression nette de plus de vingt-sept pour cent de ses effectifs en une quinzaine d'années. Près de la moitié de ces suppressions ont été réalisées entre deux mille quinze et deux mille vingt-cinq, avec des réductions annuelles d'effectifs comprises entre zéro virgule trois pour cent et deux virgule trois pour cent par an.
+
+      Les services exclusivement dédiés au contrôle fiscal ont subi une réduction d'effectifs encore plus prononcée. Selon les données mesurées par l'outil SAGERFIP, la force de travail consacrée à la mission de contrôle fiscal est passée de douze mille trois cent soixante-deux agents en deux mille quinze à dix mille trois cent quarante-cinq agents en deux mille vingt-trois, avant de connaître une légère remontée à dix mille trois cent soixante-dix-sept agents en deux mille vingt-quatre et dix mille quatre cent quatre-vingt-dix-sept agents en deux mille vingt-cinq. Cela représente une perte cumulée de plus de dix-huit pour cent des effectifs spécialisés du contrôle fiscal sur la période.
+
+      Le plan de lutte contre la fraude fiscale annoncé en mai deux mille vingt-trois prévoyait une augmentation de quinze pour cent des effectifs du contrôle fiscal d'ici la fin du quinquennat, correspondant à la création promise de mille cinq cents équivalents temps plein. Dans la réalité des effectifs comptabilisés fin deux mille vingt-cinq, les services de contrôle fiscal n'ont gagné que quarante-deux emplois supplémentaires selon le référentiel SAGERFIP. En intégrant la création de vingt-cinq emplois au sein de l'unité de renseignement fiscal et de quarante et un emplois pour l'office national antifraude, le renforcement réel ne dépasse pas une centaine d'agents.
+
+   B. Crise de recrutement, vacance de postes et fragilisation de la DVNI.
+
+      Sur les neuf cent vingt et un redéploiements de postes annoncés entre deux mille vingt-trois et deux mille vingt-six, plus du tiers était en réalité affecté à l'accompagnement des usagers, à la sécurité juridique et au recouvrement des amendes, au détriment direct des opérations de vérification. De plus, la traduction effective des créations d'emplois sur le terrain subit des délais importants liés à la préparation des concours, aux recrutements et à la formation professionnelle initiale des nouveaux agents. La mise en place au premier janvier deux mille vingt-six du nouveau référentiel d'allocation des emplois a par ailleurs masqué près de trois mille postes vacants non pourvus à la suite d'un rapport de l'inspection générale des finances.
+
+      Cette attrition continue des moyens humains crée des difficultés de recrutement majeures et une dégradation des conditions de travail au sein des services. Selon les enquêtes annuelles de l'Observatoire interne du ministère menées en deux mille vingt-cinq, seulement cinquante-quatre pour cent des agents de la DGFIP se déclarent satisfaits de leur charge de travail, contre soixante-douze pour cent dans l'ensemble de la fonction publique d'État, et un fonctionnaire sur trois fait part d'un niveau de stress très élevé.
+
+      Les structures spécialisées dans le contrôle du haut du spectre sont très lourdement impactées par ces vacances d'effectifs. À la direction des vérifications nationales et internationales, quinze pour cent des deux cent quatre-vingt-douze postes de vérificateurs étaient vacants en deux mille vingt-quatre. Le taux de renouvellement annuel des équipes s'élève à quatorze pour cent, conduisant à une ancienneté médiane très faible de trois ans et cinq mois. Sachant qu'un vérificateur de cette direction apporte en moyenne douze millions d'euros par an à l'État, ces vacances de postes entraînent une perte de recettes fiscales estimée à plusieurs centaines de millions d'euros par an.
+
+III. MUTATION DU CONTRÔLE FISCAL : BASCULEMENT SUR PIÈCES ET DÉCLIN DU CONTRÔLE SUR PLACE.
+
+   A. Effondrement des vérifications approfondies et hausse des contrôles à distance.
+
+      Pour gérer la pénurie d'effectifs, la direction générale des finances publiques a réorienté ses modalités de contrôle en accordant une priorité absolue aux dossiers simples et automatisables. Les contrôles sur pièces des particuliers réalisés à distance en bureau ont ainsi augmenté de vingt et un virgule deux pour cent entre deux mille quinze et deux mille vingt-cinq, passant de neuf cent quarante-sept mille huit cents à un million cent cinquante mille procédures traitées.
+
+      À l'inverse, les contrôles sur pièces des professionnels ont enregistré une diminution de trente-deux virgule huit pour cent, chutant de cent soixante-dix-sept mille cinq cent cinquante à cent dix-neuf mille quatre cents dossiers. Le déclin est encore plus spectaculaire concernant les procédures d'investigation sur le terrain. Entre deux mille quinze et deux mille vingt-cinq, les examens de la situation fiscale personnelle des particuliers se sont effondrés de cinquante-quatre virgule sept pour cent. Sur la même période, les vérifications de comptabilité au sein des entreprises ont régressé de trente-huit virgule sept pour cent, la baisse globale atteignant dix-neuf virgule cinq pour cent en incluant les examens de comptabilité réalisés à distance sur fichier.
+
+      L'usage des instruments de recherche coercitifs en cas de fraude grave a également reculé. Les perquisitions fiscales conduites sur le fondement de l'article L. seize B du livre des procédures fiscales ont diminué de quatorze pour cent entre deux mille quinze et deux mille vingt-cinq. Cette baisse des investigations matérielles sur place prive l'administration des moyens nécessaires pour déceler les schémas frauduleux élaborés et occultes.
+
+   B. Perte du rendement des interventions sur le terrain et impact sur le consentement à l'impôt.
+
+      Ce changement de doctrine a profondément modifié la répartition financière des résultats du contrôle fiscal. Les droits et pénalités issus des contrôles sur pièces ont augmenté de cinquante-quatre pour cent en dix ans pour atteindre sept virgule quatre milliards d'euros en deux mille vingt-cinq, représentant plus d'un tiers du résultat global. En revanche, le rendement issu des contrôles sur place s'est effondré, passant de douze virgule un milliards d'euros en deux mille quinze à neuf virgule sept milliards d'euros en deux mille vingt-cinq, soit une baisse de dix-neuf virgule quatre pour cent. La contribution des interventions sur le terrain dans le total des résultats est ainsi tombée de soixante et onze virgule six pour cent en deux mille quinze à cinquante-sept pour cent en deux mille vingt-cinq.
+
+      La rapporteure spéciale regrette cette focalisation sur le rendement budgétaire immédiat à court terme au détriment de la recherche des fraudes à fort enjeu. La multiplication des contrôles automatisés ciblés sur les particuliers, parallèle au retrait des vérifications approfondies dans les entreprises et sur les hauts patrimoines, nourrit le sentiment d'une fiscalité à deux vitesses.
+
+      Cette stratégie consistant à concentrer les contrôles sur les contribuables disposant de peu de moyens de défense fragilise la portée dissuasive du contrôle fiscal. En réduisant la présence des vérificateurs sur le terrain, l'administration fiscale prend le risque d'offrir une impunité de fait aux schémas d'évasion les plus complexes et attentatoires au pacte social.
+
+IV. ANOMALIES DU DATAMINING, LIMITES DE L'INTELLIGENCE ARTIFICIELLE ET DETTE TECHNIQUE.
+
+   A. Rendements comparés de l'intelligence artificielle et de l'initiative humaine.
+
+      Depuis deux mille seize, l'administration a fait du datamining et du croisement automatisé de données de masse la pierre angulaire de sa programmation. La part des contrôles professionnels déterminés par datamining est passée de treize virgule neuf pour cent en deux mille dix-huit à cinquante-deux virgule quatre pour cent en deux mille vingt-deux, cinquante-six pour cent en deux mille vingt-trois et cinquante-sept virgule trois pour cent en deux mille vingt-cinq. Pour les particuliers, la part des contrôles issus du datamining est passée de quarante virgule trois pour cent en deux mille vingt-trois à cinquante-trois pour cent en deux mille vingt-quatre et soixante-trois virgule un pour cent en deux mille vingt-cinq, dépassant largement la cible de cinquante pour cent fixée par le cadre d'objectifs et de moyens.
+
+      L'analyse des performances financières met en évidence le faible rendement des contrôles programmés par l'intelligence artificielle. En deux mille vingt-trois, alors que les dossiers issus du traitement de données en masse représentaient quarante-quatre pour cent des contrôles réalisés, ils n'ont généré que treize virgule huit pour cent des droits et pénalités mis en recouvrement, soit deux virgule un milliards d'euros. Le rendement moyen d'un contrôle issu du datamining s'est élevé à trois mille quatre cent soixante-treize euros, contre seize mille six cent soixante-seize euros pour un contrôle engagé à l'initiative des agents.
+
+      Les contrôles initiés par la programmation humaine et la connaissance de terrain des vérificateurs affichent ainsi un rendement près de cinq fois supérieur à celui du datamining. De plus, selon l'enquête menée en deux mille vingt-trois par le syndicat Solidaires auprès de sept mille huit cents agents, quatre-vingt-cinq pour cent des personnels se déclarent insatisfaits de l'usage des systèmes d'intelligence artificielle, dénonçant la démultiplication de tâches répétitives et une absence de valeur ajoutée par rapport aux méthodes d'enquête traditionnelles.
+
+   B. Sous-investissement informatique, dérives de l'externalisation et projets structurants.
+
+      La modernisation des services de contrôle est fortement ralentie par l'accumulation d'une dette technique informatique considérable. À la fin de l'année deux mille vingt-cinq, l'indicateur de conformité technologique du système d'information de la DGFIP n'atteignait que cinquante-deux virgule deux pour cent, très loin de la cible de soixante-dix-huit pour cent fixée pour deux mille vingt-sept. Les annulations budgétaires prononcées en deux mille vingt-cinq ont lourdement frappé les crédits informatiques, entraînant des coupes de dizaines de millions d'euros sur les dépenses d'équipement.
+
+      Le recours massif et incontrôlé à des prestataires privés pour pallier la pénurie d'informaticiens internes a conduit à des échecs industriels et financiers majeurs. L'application Gérer mes biens immobiliers a fonctionné avec un taux d'externalisation supérieur à soixante-dix pour cent, générant un coût cinq fois supérieur aux prévisions initiales et causant une perte de recettes fiscales évaluée par la Cour des comptes à un virgule trois milliard d'euros pour l'État.
+
+      Par ailleurs, le projet Pilat, destiné à unifier l'ensemble de la chaîne informatique du contrôle fiscal de la programmation au recouvrement, accuse un retard très important. Initialement prévue pour deux mille vingt-deux, sa mise en service progressive s'étale entre fin deux mille vingt-cinq et fin deux mille vingt-sept, tandis que son coût prévisionnel a plus que triplé, passant de trente-six millions d'euros en deux mille dix-sept à cent vingt-trois virgule cinq millions d'euros en deux mille vingt-quatre.
+
+V. ÉVOLUTION DES SANCTIONS, ÉVALUATION DE L'ÉCART FISCAL ET RECOMMANDATIONS.
+
+   A. Chute des pénalités, application des sanctions et enjeux du recouvrement.
+
+      Le montant total des pénalités et intérêts de retard appliqués lors des contrôles fiscaux s'est effondré de quarante-quatre virgule deux pour cent en dix ans, passant de cinq virgule un milliards d'euros en deux mille quinze à deux virgule six milliards d'euros en deux mille vingt-quatre et deux virgule huit milliards d'euros en deux mille vingt-cinq. La baisse est de trente-neuf virgule quatre pour cent sur les seuls contrôles sur place. La Cour des comptes attribue cette baisse des sanctions exclusives de bonne foi au manque d'encadrement des vérificateurs et à la pression sur les délais de contrôle.
+
+      La recherche d'une conclusion apaisée des contrôles encouragée par la loi ESSOC de deux mille dix-huit et le développement des règlements d'ensemble amiables conduisent les services à écarter l'application des pénalités pour manquement délibéré. En l'absence de ces sanctions, la fraude n'est pas formellement caractérisée, ce qui empêche toute poursuite pénale automatique. Concernant le volet judiciaire, la suppression du verrou de Bercy en deux mille dix-huit a doublé le nombre de dossiers transmis aux parquets, mais le nombre de personnes condamnées a baissé en raison de l'engorgement des tribunaux.
+
+      L'évaluation statistique globale de la fraude fiscale accuse un retard important par rapport aux standards de l'OCDE. Alors que les syndicats évaluent la fraude entre quatre-vingts et cent milliards d'euros par an, la DGFIP n'a affecté que trois statisticiens à ce chiffrage depuis septembre deux mille vingt-quatre. Une première étude sur la TVA publiée en septembre deux mille vingt-quatre évalue l'écart entre six et dix milliards d'euros, tandis que les travaux sur l'impôt sur les sociétés et l'impôt sur le revenu doivent aboutir d'ici deux mille vingt-huit. La généralisation de la facturation électronique obligatoire de la TVA, fixée au premier septembre deux mille vingt-six pour les grandes entreprises et au premier septembre deux mille vingt-sept pour les PME, doit apporter un rendement supplémentaire de deux à trois milliards d'euros.
+
+   B. Synthèse des dix recommandations de la rapporteure spéciale.
+
+      La première recommandation vise à confier à la Cour des comptes la réalisation d'une évaluation systématique et indépendante de chaque plan de lutte contre la fraude présenté au Parlement.
+
+      La deuxième recommandation demande la création de deux mille emplois supplémentaires spécialisés dans le contrôle fiscal d'ici deux mille vingt-neuf afin de rétablir le niveau de contrôle externe constaté en deux mille douze.
+
+      La troisième recommandation préconise de fixer en concertation avec les syndicats une cible globale d'effectifs permettant à la DGFIP d'assurer l'intégralité de ses missions régaliennes.
+
+      La quatrième recommandation propose d'élargir l'application des pénalités exclusives de bonne foi en s'appuyant sur les critères établis par la jurisprudence administrative.
+
+      La cinquième recommandation demande d'attribuer au service statistique les moyens indispensables pour finaliser le chiffrage de l'écart fiscal impôt par impôt d'ici deux mille vingt-huit.
+
+      La sixième recommandation préconise le rétablissement de contrôles aléatoires afin de consolider la mesure statistique de la fraude et de maintenir un effet dissuasif.
+
+      La septième recommandation demande de doubler les crédits affectés à la résorption de la dette informatique pour atteindre un taux de conformité technologique des outils de quatre-vingt-dix pour cent d'ici deux mille trente.
+
+      La huitième recommandation propose de créer un service interne de développement informatique doté de moyens propres afin de mettre fin à l'externalisation des projets numériques.
+
+      La neuvième recommandation demande de plafonner à cinquante pour cent la part des contrôles issus de l'intelligence artificielle et d'élaborer une doctrine préservant l'initiative des vérificateurs.
+
+      La dixième recommandation exige de conditionner toute réorganisation de services à une évaluation préalable rigoureuse des gains d'efficience réels en concertation avec les agents.
+
+POINTS D'ATTENTION.
+
+      Le ratio entre le rendement du contrôle fiscal et les recettes fiscales globales est tombé de quatre virgule trois pour cent en deux mille quinze à deux virgule huit pour cent en deux mille vingt-quatre.
+
+      La DGFIP a perdu plus de trente-quatre mille emplois entre deux mille huit et deux mille vingt-cinq dont plus de dix-huit pour cent au sein des services spécialisés du contrôle fiscal.
+
+      Les examens de la situation fiscale personnelle des particuliers se sont effondrés de cinquante-quatre virgule sept pour cent au cours des dix dernières années.
+
+      Les vérifications de comptabilité menées sur place dans les entreprises ont régressé de trente-huit virgule sept pour cent entre deux mille quinze et deux mille vingt-cinq.
+
+      Un contrôle issu de l'initiative humaine rapporte en moyenne seize mille six cent soixante-seize euros contre trois mille quatre cent soixante-treize euros pour un contrôle issu du datamining.
+
+      Le montant global des pénalités financières et intérêts de retard appliqués par l'administration a baissé de quarante-quatre virgule deux pour cent depuis deux mille quinze.
+
+      La vacance de quinze pour cent des postes de vérificateurs à la DVNI engendre une perte de recettes fiscales estimée à plusieurs centaines de millions d'euros par an.
+
+      L'échec de l'application externalisée Gérer mes biens immobiliers a causé une perte de recettes fiscales de un virgule trois milliard d'euros pour l'État.
+
+EXEMPLES CITES.
+
+      La direction des vérifications nationales et internationales emploie deux cent quatre-vingt-douze vérificateurs rapportant chacun en moyenne douze millions d'euros de droits rappelés par an.
+
+      L'application Gérer mes biens immobiliers a présenté un taux d'externalisation supérieur à soixante-dix pour cent et un coût final cinq fois supérieur au budget prévu.
+
+      Le projet informatique Pilat a vu son coût prévisionnel passer de trente-six millions d'euros en deux mille dix-sept à cent vingt-trois virgule cinq millions d'euros en deux mille vingt-quatre.
+
+      Un contrôle aléatoire ciblé a été réalisé en deux mille vingt-deux sur cinq cent trente-neuf entreprises du secteur médical et de la réparation pour l'étude sur l'écart fiscal de la TVA.
+
+      L'administration fiscale australienne affecte une vingtaine d'emplois à temps plein à l'évaluation systématique de son écart fiscal.
+
+      La généralisation de la facturation électronique de la TVA est programmée du premier septembre deux mille vingt-six au premier septembre deux mille vingt-sept pour générer deux à trois milliards d'euros.
+
+      Un dossier unique de contestation de crédit de TVA s'élevant à quatre virgule quatre-vingt-cinq milliards d'euros a été écarté des résultats récurrents de l'année deux mille vingt-cinq.

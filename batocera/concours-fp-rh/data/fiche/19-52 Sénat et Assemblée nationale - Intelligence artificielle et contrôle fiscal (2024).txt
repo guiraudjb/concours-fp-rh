@@ -1,0 +1,267 @@
+L'INTELLIGENCE ARTIFICIELLE ET LE CONTRÔLE FISCAL EN FRANCE.
+
+LEXIQUE COMPLET.
+
+      Analyse de données: Méthode de programmation du contrôle fiscal reposant sur le croisement automatisé des bases informatiques de l'administration pour identifier des incohérences déclaratives ou des ruptures de comportement.
+
+      Base graphe: Outil de visualisation et de cartographie sous forme de schéma montrant les liens juridiques, financiers et personnels entre entreprises pour calculer un score de risque de fraude.
+
+      Bureau SJCF-1D: Structure de l'administration centrale de la direction générale des finances publiques créée en octobre deux mille vingt au sein du service de la sécurité juridique et du contrôle fiscal pour piloter la programmation par intelligence artificielle.
+
+      Data mining: Exploration approfondie de données volumineuses s'appuyant sur des méthodes statistiques et des algorithmes pour modéliser des comportements frauduleux et cibler les vérifications.
+
+      Foncier innovant: Projet informatique utilisant des algorithmes d'intelligence artificielle appliqués aux prises de vues aériennes de l'IGN pour détecter les constructions et piscines non déclarées et mettre à jour le plan cadastral.
+
+      Fuzzy matching: Technique de rapprochement flou permettant d'associer un identifiant fiscal à un état civil ne disposant pas d'identifiant unique dans les référentiels de l'administration fiscale.
+
+      Modèle non supervisé: Algorithme d'apprentissage automatique capable de détecter par lui-même des anomalies ou des cas atypiques au sein d'une population considérée comme homogène sans données d'apprentissage préalables.
+
+      Modèle supervisé: Algorithme d'apprentissage automatique conçu pour concevoir des prédictions de fraude à partir de l'analyse de critères et de résultats issus de contrôles fiscaux passés.
+
+      Moissonnage de données: Extraction automatisée de contenus accessibles publiquement sur internet ou sur des plateformes numériques afin de les croiser avec les déclarations fiscales des contribuables.
+
+      OCRisation: Procédé de reconnaissance optique de caractères permettant de convertir une image numérisée de document en texte informatique exploitable par des algorithmes de recherche textuelle.
+
+      Projet CFVR: Traitement informatique automatisé intitulé ciblage de la fraude et valorisation des requêtes développé à partir de deux mille treize pour automatiser la détection des risques fiscaux.
+
+      Projet PILAT: Application informatique de pilotage et d'analyse du contrôle fiscal initiée en deux mille dix-huit destinée à refondre le système d'information de la programmation au recouvrement.
+
+COURS DÉTAILLÉ.
+
+I. CADRE JURIDIQUE, DÉPLOIEMENT CHRONOLOGIQUE ET DISPOSITIFS TECHNIQUES DU CIBLAGE AUTOMATISÉ.
+
+   A. Genèse et étapes du développement du projet CFVR de deux mille treize à deux mille vingt-trois.
+
+      Le projet informatique intitulé ciblage de la fraude et valorisation des requêtes a été initié en juillet deux mille treize par la direction générale des finances publiques. Ce traitement automatisé a été officiellement créé par l'arrêté du vingt et un février deux mille quatorze dans le but d'automatiser le raisonnement de détection de la fraude fiscale. L'outil repose sur des équations mathématiques de probabilité afin de modéliser les comportements frauduleux à partir des caractéristiques de fraudes avérées. Le développement complet du projet CFVR a abouti en deux mille vingt-trois pour un coût global de trente-quatre virgule cinq millions d'euros.
+
+      Le déploiement opérationnel du ciblage automatisé s'est effectué de façon très progressive à travers des phases successives d'expérimentation et de pérennisation. En deux mille quatorze, les premiers travaux ont ciblé prioritairement les fraudes aux remboursements de taxe sur la valeur ajoutée concernant les professionnels. Par l'arrêté du seize juillet deux mille quinze, le dispositif a été étendu de manière pérenne à l'ensemble des secteurs professionnels ainsi qu'aux personnes physiques ayant un lien direct avec une entreprise.
+
+      L'extension des techniques de data mining au contrôle des personnes physiques a nécessité des précautions particulières. Une phase d'expérimentation a été lancée par l'arrêté du vingt-huit août deux mille dix-sept concernant le ciblage des dossiers de particuliers. À la suite des résultats observés, le dispositif a été définitivement pérennisé par l'arrêté du douze novembre deux mille dix-neuf. L'analyse de données est ainsi devenue une source permanente de programmation pour le contrôle des particuliers.
+
+      La montée en puissance du projet CFVR s'est traduite par une augmentation massive des dossiers transmis aux services opérationnels. Le traitement permet d'interroger simultanément une infrastructure de données nationale d'une grande volumétrie. Ce travail d'analyse préalable vise à fournir aux directions territoriales des listes de dossiers à fort enjeu fiscal ou présentant des anomalies déclaratives caractérisées.
+
+   B. Évolution des textes législatifs et extensions successives des données collectées.
+
+      Le cadre légal autorisant la collecte et le traitement automatisé des données s'est élargi au fil des lois de finances. L'article cent cinquante-quatre de la loi n° deux mille dix-neuf-mille quatre cent soixante-dix-neuf du vingt-huit décembre deux mille dix-neuf de finances pour deux mille vingt a autorisé la direction générale des finances publiques à collecter les données des plateformes numériques. Ce texte permet de rechercher les activités occultes et les fraudes à la domiciliation fiscale à partir des contenus librement accessibles en ligne. L'absence de possibilité d'accéder aux pages nécessitant un mot de passe a toutefois limité le rendement direct de ce dispositif.
+
+      La loi n° deux mille vingt-trois-mille trois cent vingt-deux du vingt-neuf décembre deux mille vingt-trois de finances pour deux mille vingt-quatre a franchi une nouvelle étape dans l'extension des prérogatives de recherche. L'article cent douze de cette loi a autorisé une seconde expérimentation permettant la collecte automatisée de données sur les réseaux sociaux. Ce texte permet également d'orienter les recherches vers les infractions relatives à la minoration de recettes afin de lutter contre la concurrence déloyale entre entreprises.
+
+      Les algorithmes d'intelligence artificielle de la direction générale des finances publiques exploitent un patrimoine de mille quatre cents milliards de données informatiques. L'administration centrale regroupe les déclarations fiscales des professionnels et des particuliers, les données cadastrales, ainsi que le fichier des comptes bancaires et assimilés. Ce patrimoine est enrichi par des données externes provenant des douanes, des organismes sociaux et des échanges automatiques d'informations internationales.
+
+      La centralisation des données internationales permet d'interroger les informations sur les comptes bancaires détenus à l'étranger et les déclarations d'activité pays par pays des multinationale. La capacité de croiser ces multiples flux informatiques au sein d'une plateforme unique constitue le cœur de la nouvelle stratégie de détection des risques fiscaux.
+
+   C. Variété des méthodes et technologies informatiques d'apprentissage automatique.
+
+      La direction générale des finances publiques combine deux méthodologies principales pour détecter les anomalies déclaratives. L'analyse-risque consiste à appliquer de manière automatisée des règles métier conçues par des experts fiscalistes à partir d'expériences de contrôle antérieures. La science des données applique quant à elle des méthodes statistiques avancées à des bases de données volumineuses pour faire émerger des tendances cachées et des incohérences complexes.
+
+      La science des données s'appuie sur trois technologies distinctes d'intelligence artificielle. Les modèles supervisés d'apprentissage automatique conçoivent des algorithmes capables de prédire un risque de fraude en apprenant des relations entre des variables à partir de contrôles passés. Les modèles non supervisés ciblent des atypismes ou des ruptures de comportement au sein d'une population homogène sans apprentissage préalable. L'analyse en réseau utilise une base graphe pour mesurer la proximité d'un contribuable avec des fraudeurs avérés.
+
+      L'administration recourt également au moissonnage de données web pour confronter les informations publiques d'internet aux déclarations fiscales. La technique du rapprochement flou permet quant à elle d'attribuer un identifiant fiscal unique aux données transmises par des tiers dépourvues de numéro fiscal. Ce mécanisme optimise l'appariement des informations de l'état civil dans les bases nationales.
+
+      Les documents au format image issus de la numérisation des actes transmis par les contribuables font l'objet d'une extraction automatisée. Une phase d'OCRisation transforme l'image du document numérisé en texte informatique. Un algorithme de text mining analyse ensuite le contenu textuel pour extraire automatiquement les informations nécessaires à l'enrichissement des fiches fiscales.
+
+   D. Le projet Foncier innovant et la modernisation du plan cadastral par imagerie aérienne.
+
+      Le projet Foncier innovant met en œuvre des algorithmes d'intelligence artificielle pour traiter les orthophotographies aériennes fournies par l'Institut national de l'information géographique et forestière. Le système compare les images issues du ciel aux fichiers fonciers informatisés pour détecter les bâtis et les piscines non fiscalisés. L'objectif est d'assurer une juste perception des impôts directs locaux au profit des collectivités territoriales.
+
+      La première vague de détection des piscines non déclarées sur l'ensemble du territoire métropolitain hors Paris et DROM a permis de repérer cent cinquante mille piscines imposables non imposées. Les propriétaires concernés ont été invités à souscrire une déclaration foncière de régularisation. Cette première phase a confirmé la faisabilité technique du traitement automatisé des images aériennes à grande échelle.
+
+      Une phase d'industrialisation du projet Foncier innovant a été engagée en juin deux mille vingt-quatre. Elle repose sur la mise à disposition triennale des photographies aériennes départementales par l'IGN. Le dispositif s'est étendu à la détection des bâtiments isolés non fiscalisés. Les contours géométriques des éléments détectés sont ajustés automatiquement par l'algorithme pour optimiser leur positionnement cadastral.
+
+      La mise à jour effective du plan cadastral reste subordonnée à la confirmation systématique des éléments par un agent humain. Le plan cadastral intègre deux nouvelles représentations cartographiques sous les appellations de piscines et bâtiments vus du ciel. Ces objets sont décrits dans les standards informatiques Edigéo V1.3 modifié deux mille vingt-cinq et DXF-PCI édition avril deux mille vingt-cinq V1.2.
+
+II. ORGANISATION ADMINISTRATIVE, COMPÉTENCES TECHNIQUES ET ENJEUX DE SOUVERAINETÉ.
+
+   A. Restructuration administrative et centralisation des travaux au sein du bureau SJCF-1D.
+
+      Le développement de l'intelligence artificielle a généré une profonde transformation organisationnelle au sein de la direction générale des finances publiques. La création de la mission requêtes et valorisation en deux mille quatorze a marqué le début de la centralisation des travaux de programmation. Cette structure a été remplacée en octobre deux mille vingt par le bureau SJCF-1D intégré au service de la sécurité juridique et du contrôle fiscal.
+
+      Le bureau SJCF-1D gère une plateforme unique de données dédiée au ciblage de la fraude. Il assure la conception des requêtes informatiques et la diffusion des listes de dossiers ciblés par data mining destinées aux directions départementales et régionales des finances publiques ainsi qu'aux directions spécialisées de contrôle fiscal. Cette centralisation a retiré la conception des requêtes complexes aux échelons locaux.
+
+      L'administration centrale justifie cette réorganisation par la volonté d'harmoniser les axes de contrôle sur l'ensemble du territoire national. La centralisation permet d'éviter les travaux redondants d'extraction de données autrefois menés de façon cloisonnée dans chaque direction départementale. Elle vise également à professionnaliser la gestion des algorithmes de ciblage.
+
+      La diffusion des listes nationales a modifié le quotidien des vérificateurs de terrain. Les agents reçoivent désormais des propositions de dossiers pré-identifiés par les algorithmes centraux. Cette nouvelle organisation exige une coordination renforcée entre le bureau central de programmation et les brigades opérationnelles de contrôle.
+
+   B. Composition, répartition interne des sections et profil des agents spécialisés.
+
+      Au mois d'avril deux mille vingt-quatre, le bureau SJCF-1D comptait un effectif total de trente-quatre agents spécialisés. Cette structure est organisée en quatre sections fonctionnelles distinctes. La section d'analyse-risque des professionnels conçoit et met à jour les requêtes visant les entreprises. La section d'analyse-risque des particuliers traite quant à elle les requêtes ciblant les personnes physiques.
+
+      La troisième section est dédiée à la data science et assure la création ainsi que l'entraînement des modèles d'intelligence artificielle en lien avec les sections métier. La quatrième section est en charge de l'informatique et veille à l'extraction des données, au maintien de l'infrastructure technique et à la mise à disposition de la plateforme informatique aux usagers.
+
+      La répartition statutaire du personnel du bureau SJCF-1D fait apparaître une forte diversité de recrutement. Les titulaires de la direction générale des finances publiques représentent soixante-dix pour cent des effectifs. Les personnels contractuels constituent vingt-cinq pour cent des agents du bureau, tandis que cinq pour cent des effectifs sont mis à disposition par l'Institut national de la statistique et des études économiques.
+
+      Les data scientists représentent trente pour cent des effectifs globaux du bureau SJCF-1D. La direction générale des finances publiques a fait le choix stratégique d'internaliser ses développements informatiques. L'administration ne recourt plus à des prestataires privés extérieurs pour la conception de ses algorithmes de contrôle fiscal.
+
+   C. Défis de recrutement, dépendance aux contractuels et risque de perte de compétences.
+
+      Le recrutement des data scientists constitue une difficulté majeure pour l'administration fiscale en raison de la rareté des profils qualifiés parmi les fonctionnaires titulaires. La direction générale des finances publiques est contrainte de recourir massivement à des contrats de droit privé pour pourvoir ces postes hautement techniques. Cette situation crée une dépendance vis-à-vis de personnels extérieurs au statut de la fonction publique.
+
+      Le bureau SJCF-1D fait face à un turnover important parmi ses agents spécialisés en science des données. Compte tenu de la haute technicité des projets menés et de la richesse du patrimoine de données de la DGFiP, l'expérience acquise dans ce service est fortement valorisable sur le marché du travail. Les entreprises du secteur privé proposent des rémunérations supérieures qui entraînent le départ régulier des jeunes talents.
+
+      La rotation fréquente des spécialistes en intelligence artificielle fait peser un risque sur la continuité du service et la conservation des compétences internes. L'affaiblissement de la mémoire technique de l'administration peut compromettre la souveraineté et la sécurité des systèmes automatisés de lutte contre la fraude fiscale.
+
+      Face à ce constat, la rapporteure spéciale Charlotte Leduc préconise dans sa recommandation n° deux la création d'une filière interne de recrutement de data scientists. Cette filière aurait vocation à être mutualisée entre les différents ministères et services de l'État pour offrir des parcours professionnels attractifs et pérenniser les compétences informatiques critiques.
+
+   D. Relations avec les agents de terrain et rôle des organisations syndicales.
+
+      L'introduction des technologies de data mining a suscité des inquiétudes importantes chez les agents de vérification sur le terrain. Les personnels ont craint une perte d'autonomie et une automatisation de leur métier, associant l'arrivée de l'intelligence artificielle aux suppressions continues de postes. Les représentations syndicales ont dénoncé le manque d'association des agents de terrain à la conception des projets informatiques.
+
+      Afin de remédier aux retours d'expérience insuffisants et aux disparités d'utilisation des listes informatiques selon les départements, le bureau SJCF-1D a fait évoluer ses consignes en deux mille vingt-quatre. Les listes issues du data mining doivent désormais obligatoirement être affectées nominativement à un vérificateur et faire l'objet de commentaires systématiques dans les applications de suivi.
+
+      Des fiches méthodologiques sont désormais diffusées et présentées directement dans les services déconcentrés par les cadres du bureau central. Le chef du bureau SJCF-1D anime depuis deux mille vingt-quatre un réseau dénommé Contrôle fiscal et intelligence artificielle afin d'organiser des ateliers d'échange et de sensibilisation au niveau interrégional.
+
+      La rapporteure spéciale souligne dans sa recommandation n° trois que ces initiatives d'information doivent être amplifiées. Elle demande d'associer plus étroitement les agents de terrain et les organisations syndicales représentatives à l'évaluation régulière et aux évolutions futures des algorithmes de ciblage.
+
+III. ÉVALUATION DES RÉSULTATS FINANCIERS, EFFICIENCE RÉELLE ET DÉPENSES DU CIBLAGE.
+
+   A. Progression quantitative des contrôles issus de l'intelligence artificielle.
+
+      L'efficacité du ciblage automatisé fait l'objet d'un suivi au moyen d'indicateurs de performance inscrits dans les documents budgétaires. La part des contrôles fiscaux externes des professionnels ciblés par data mining est passée de six pour cent en deux mille dix-sept à treize virgule quatre-vingt-cinq pour cent en deux mille dix-huit, puis à vingt et un virgule quatre-vingt-quinze pour cent en deux mille dix-neuf, trente-deux virgule quarante-neuf pour cent en deux mille vingt, quarante-quatre virgule quatre-vingt-cinq pour cent en deux mille vingt et un, cinquante-deux virgule trente-six pour cent en deux mille vingt-deux et cinquante-cinq virgule quatre-vingt-dix-huit pour cent en deux mille vingt-trois. L'objectif initial de cinquante pour cent a été atteint dès l'année deux mille vingt-deux.
+
+      Pour les particuliers, l'indicateur a été individualisé à partir du projet annuel de performances pour deux mille vingt-quatre. La part des contrôles de particuliers ciblés par intelligence artificielle s'est établie à trente-deux virgule sept pour cent en deux mille vingt-deux et trente-trois pour cent en deux mille vingt-trois. Les cibles fixées par l'administration prévoient d'atteindre trente-six pour cent en deux mille vingt-quatre, trente-neuf pour cent en deux mille vingt-cinq, quarante-cinq pour cent en deux mille vingt-six et cinquante pour cent à l'horizon deux mille vingt-sept.
+
+      La hausse de ces ratios a généré une augmentation marquée des propositions de contrôles issues de l'analyse de données nationales. Les propositions de contrôle fiscal externe sont passées de trois cent quarante-cinq en deux mille seize à trois mille en deux mille dix-sept, six mille neuf cent dix-sept en deux mille dix-huit, neuf mille neuf cent dix-neuf en deux mille dix-neuf, dix mille cent soixante-cinq en deux mille vingt, quinze mille trente-quatre en deux mille vingt et un et vingt mille quatorze en deux mille vingt-deux.
+
+      Les contrôles sur pièces effectués du bureau à partir des listes automatisées ont connu une progression similaire. Le nombre de contrôles du bureau est passé de vingt-deux mille sept cents en deux mille dix-sept à trente-quatre mille deux cents en deux mille dix-huit, cinquante-trois mille deux cent quatre-vingt-dix-sept en deux mille dix-neuf, cinquante-neuf mille trois cent soixante-quinze en deux mille vingt, quatre-vingt-quinze mille vingt-neuf en deux mille vingt et un et cent seize mille neuf cent trente-quatre en deux mille vingt-deux.
+
+   B. Analyse comparative des rendements financiers et part dans le recouvrement total.
+
+      Les montants des droits et pénalités mis en recouvrement à la suite de contrôles issus des listes de data mining ont augmenté régulièrement depuis deux mille dix-sept. Les sommes recouvrées s'élevaient à zéro virgule quatorze milliard d'euros en deux mille dix-sept, zéro virgule trente-six milliard en deux mille dix-huit, zéro virgule soixante-neuf milliard en deux mille dix-neuf, zéro virgule soixante-six milliard en deux mille vingt, un virgule vingt-trois milliard en deux mille vingt et un, deux virgule zéro six milliards en deux mille vingt-deux et deux virgule zéro sept milliards d'euros en deux mille vingt-trois.
+
+      L'analyse de ces chiffres révèle un contraste important entre la proportion de dossiers ciblés par l'intelligence artificielle et leur rendement financier réel. En deux mille vingt-trois, alors que le data mining est à l'origine de plus de cinquante-cinq pour cent des contrôles professionnels, les redressements issus de ces listes ne représentent que deux virgule zéro sept milliards d'euros sur un total de quinze virgule deux milliards d'euros mis en recouvrement.
+
+      Les contrôles orientés par l'intelligence artificielle représentent ainsi moins de quinze pour cent du total des montants financiers réclamés par l'administration fiscale en deux mille vingt-trois. Les dossiers ciblés par les algorithmes correspondent majoritairement à des anomalies déclaratives répétitives de faible ou moyen enjeu financier.
+
+      Le ministre délégué Thomas Cazenave a précisé devant la commission des finances que sur les quinze virgule deux milliards d'euros de droits et pénalités notifiés en deux mille vingt-trois, onze milliards d'euros ont été effectivement encaissés par le Trésor public. Les affaires à très fort enjeu restent principalement détectées par la recherche humaine et les renseignements de terrain.
+
+   C. Absence d'évaluation statistique globale de la fraude et difficultés de chiffrage.
+
+      La Cour des comptes souligne dans ses rapports successifs que la France ne dispose d'aucune évaluation statistique rigoureuse du montant global de la fraude fiscale ni de l'écart fiscal. Contrairement aux pratiques de plusieurs pays membres de l'OCDE, l'administration française ne chiffre pas précisément l'évitement fiscal global par type d'impôt.
+
+      Cette carence méthodologique rend impossible la mesure exacte de la proportion de fraude captée par les algorithmes de data mining. L'administration ne dispose pas d'outils permettant de comparer les montants recouvrés avec l'appui de l'intelligence artificielle à ceux qui auraient été redressés sans le recours à ces technologies.
+
+      Il n'existe aucun suivi permettant de ventiler précisément les montants financiers encaissés grâce au data mining impôt par impôt entre la taxe sur la valeur ajoutée, l'impôt sur les sociétés et l'impôt sur le revenu. L'efficience propre des algorithmes reste donc difficile à isoler.
+
+      La rapporteure spéciale Charlotte Leduc formule à ce titre la recommandation n° quatre visant à évaluer réellement les résultats financiers du data mining. Elle demande de détailler les montants recouvrés par type d'impôt et de suivre l'évolution globale du nombre de contrôles quelle que soit leur source de programmation.
+
+   D. Coûts financiers globaux, dérives budgétaires et empreinte environnementale.
+
+      Le chiffrage du coût global de l'intelligence artificielle dans le contrôle fiscal n'a jamais été réalisé de manière exhaustive par le ministère des finances. Si le coût de développement informatique direct du projet CFVR est évalué à trente-quatre virgule cinq millions d'euros, les coûts de fonctionnement, de structure et d'infrastructure informatique associés n'ont pas été consolidés depuis deux mille quatorze.
+
+      La direction générale des finances publiques n'a pas comptabilisé les dépenses induites par la réorganisation des services et le redéploiement du personnel. Le calcul complet des investissements matériels et logiciels nécessaires à la maintenance de la plateforme centrale de données fait défaut.
+
+      L'impact environnemental des traitements informatiques massifs du bureau SJCF-1D constitue un autre point d'ombre. La consommation électrique des serveurs et l'empreinte carbone générée par le stockage et le calcul de mille quatre cents milliards de données n'ont fait l'objet d'aucune mesure précise.
+
+      La recommandation n° cinq de la rapporteure spéciale exige la réalisation d'un bilan financier complet du data mining depuis ses origines en deux mille quatorze. Ce bilan doit obligatoirement intégrer l'évaluation rigoureuse des coûts environnementaux et énergétiques de ces technologies.
+
+IV. IMPACT SUR LES EFFECTIFS DU CONTRÔLE FISCAL ET PLACE DE L'HUMAIN DANS LA DÉCISION.
+
+   A. Trajectoire à la baisse des effectifs du contrôle fiscal entre deux mille seize et deux mille vingt-deux.
+
+      Les effectifs affectés à la mission de contrôle fiscal au sein de la direction générale des finances publiques ont subi une baisse continue. Le nombre total d'agents est passé de douze mille trois cent trois virgule sept équivalents temps plein au trente et un décembre deux mille seize à douze mille trente-quatre virgule trois ETP en deux mille dix-sept, onze mille cinq cent quatre virgule sept ETP en deux mille dix-huit, onze mille deux cent vingt-quatre virgule zéro ETP en deux mille dix-neuf, dix mille huit cent quatre-vingt-dix-huit virgule neuf ETP en deux mille vingt, dix mille cinq cent un virgule zéro ETP en deux mille vingt et un et dix mille quatre cent vingt-sept virgule zéro ETP en deux mille vingt-deux.
+
+      Cette diminution globale représente une perte de mille huit cent soixante-seize virgule sept équivalents temps plein en sept ans, soit une baisse de plus de quinze pour cent des effectifs du contrôle fiscal. La réduction a particulièrement frappé les services déconcentrés situés au niveau local dans les directions départementales, où la baisse dépasse vingt pour cent.
+
+      Les effectifs locaux dans les directions départementales ont chuté de huit mille neuf cent quatre-vingt-treize virgule sept ETP en deux mille seize à sept mille cent quatre-vingt-deux virgule zéro ETP en deux mille vingt-deux. Les brigades départementales de vérification ont perdu trois cent vingt-quatre virgule soixante-dix-huit ETP. Les pôles de contrôle et d'expertise ont diminué de cinq cent quatre-vingt-deux ETP. Les effectifs des services des impôts aux particuliers affectés au contrôle sur pièces sont passés de mille deux cent quarante-sept virgule quatre-vingt-deux ETP à quatre cent quatre-vingt-seize virgule zéro zéro ETP.
+
+      À l'inverse des services locaux, l'administration centrale a vu ses effectifs progresser sur la même période, passant de cent quatorze virgule trois ETP en deux mille seize à cent trente-trois virgule zéro ETP en deux mille vingt-deux. Les directions nationales spécialisées sont passées de mille neuf virgule huit ETP en deux mille seize à neuf cent soixante-dix virgule zéro ETP en deux mille vingt-deux, la direction nationale d'enquêtes fiscales augmentant ses effectifs de trois cent trente-six virgule quatre-vingt-quinze ETP à trois cent quatre-vingts virgule zéro zéro ETP.
+
+   B. Problématique des gains de productivité supposés et absence de bilan consolidé.
+
+      L'argument de l'automatisation et des gains de productivité permis par le data mining a régulièrement été avancé pour justifier les suppressions de postes dans les services de contrôle. Cependant, la direction générale des finances publiques n'a mené aucune étude scientifique permettant de mesurer les gains de temps réellement obtenus par les vérificateurs sur le terrain.
+
+      L'administration fiscale avance une estimation de cent cinquante équivalents temps plein économisés au niveau du pilotage grâce aux fonctionnalités de suivi automatique de la nouvelle application PILAT. Cette estimation ne démontre pas que l'intelligence artificielle libère du temps de recherche au profit d'enquêtes plus approfondies sur les fraudes complexes.
+
+      La concomitance entre le déploiement des algorithmes et la chute des effectifs a réduit la capacité globale de contrôle sur place de l'administration. La baisse du nombre de vérificateurs empêche d'exploiter la totalité des affaires signalées par les outils informatiques.
+
+      La recommandation n° sept de la rapporteure spéciale demande d'évaluer de façon contradictoire les gains de productivité réellement engendrés par l'introduction du data mining au regard des diminutions d'effectifs intervenues depuis deux mille quatorze.
+
+   C. Le projet PILAT et la gestion de la dette technologique de la DGFiP.
+
+      Le projet informatique PILAT, relatif au pilotage et à l'analyse du contrôle fiscal, a été lancé en deux mille dix-huit afin de refondre l'ensemble du système d'information de la chaine de contrôle. L'application doit assurer le suivi des dossiers depuis la phase de programmation jusqu'au recouvrement effectif et au traitement des contentieux.
+
+      Ce projet informatique majeur a enregistré d'importants retards de livraison et des dérives budgétaires considérables. Initialement évalué à trente-six millions d'euros, le coût total du projet PILAT est désormais estimé à plus de cent vingt-trois millions d'euros par la Cour des comptes.
+
+      Les représentants des personnels font état d'une dégradation des outils matériels et logiciels mis à la disposition des brigades sur le terrain. Le retard accumulé dans le renouvellement des équipements informatiques crée une dette technologique face à des fraudeurs utilisant des procédés numériques de plus en plus sophistiqués.
+
+      Soutenant les constats de la Cour des comptes, la recommandation n° six préconise la mise en œuvre d'un plan d'urgence d'apurement de la dette technologique dans tous les services de la direction générale des finances publiques concourant à la lutte contre la fraude.
+
+   D. Principe du maintien de la décision humaine et importance du contrôle sur place.
+
+      L'administration fiscale et le ministère rappellent fermement que l'intelligence artificielle constitue un simple outil d'aide à la décision. Les listes issues du data mining ne génèrent aucune notification automatique de redressement. L'examen humain par un agent reste obligatoire pour vérifier la pertinence des griefs et engager une procédure de contrôle.
+
+      Entre deux mille huit et deux mille dix-neuf, les contrôles sur place menés par les vérificateurs au sein des entreprises ont diminué de treize pour cent. Sur la même période, les contrôles sur pièces gérés depuis le bureau ont chuté de cinquante-six pour cent. Cette évolution a affaibli la présence dissuasive de l'administration sur le terrain.
+
+      Afin d'assurer la sécurité des agents lors des vérifications sur place à la suite du drame survenu lors d'un contrôle dans le Pas-de-Calais ayant coûté la vie à l'inspecteur Ludovic Montuelle, la loi de finances pour deux mille vingt-quatre a instauré de nouvelles garanties. Le texte permet d'organiser les opérations de contrôle dans des lieux neutres sécurisés lorsque des risques sont identifiés.
+
+      La recommandation n° huit affirme le principe fondamental du non-remplacement de l'humain par la machine. Charlotte Leduc préconise l'adoption d'un moratoire sur les suppressions de postes dans les services de contrôle, le recrutement de quatre mille agents d'ici deux mille vingt-sept et la réintroduction d'un maillage territorial fin des brigades de vérificateurs.
+
+V. RECOMMANDATIONS PARLEMENTAIRES, DÉBATS ET PERSPECTIVES STRATÉGIQUES.
+
+   A. Préconisations pour la transparence algorithmique et la prévention des biais.
+
+      L'entraînement des algorithmes de modèles supervisés à partir des résultats des contrôles passés présente un risque majeur de reproduction de biais historiques. Si les modèles informatiques apprennent exclusivement sur des schémas de fraude déjà identifiés dans le passé, ils deviennent incapables de détecter les nouvelles techniques d'évasion fiscale élaborées par les fraudeurs.
+
+      Pour garantir l'équité des traitements, la recommandation n° un propose de créer une commission indépendante de transparence. Cette instance associerait des représentants des organisations syndicales, des membres de la Commission nationale de l'informatique et des libertés ainsi que des élus de la République.
+
+      Cette commission indépendante aurait pour mission d'examiner le fonctionnement du bureau SJCF-1D. La direction générale des finances publiques devrait y apporter la preuve périodique que ses modèles statistiques ne comportent pas de biais discriminatoires ou d'erreurs d'orientation.
+
+      L'ouverture des algorithmes à une évaluation externe vise à renforcer la confiance des citoyens et des contribuables dans les outils automatisés d'investigation fiscale.
+
+   B. Propositions relatives au statut, aux effectifs et au maillage territorial.
+
+      La formalisation des huit recommandations du rapport d'information vise à restructurer la stratégie nationale de lutte contre la fraude fiscale. La création d'une filière interministérielle de recrutement de data scientists doit stabiliser les compétences au sein de l'État et sécuriser les outils numériques souverains.
+
+      L'extinction de la dette technologique par des investissements ciblés doit redonner des moyens d'action efficaces aux brigades départementales. L'évaluation précise des coûts financiers et environnementaux du data mining permettra d'arbitrer les futurs développements informatiques.
+
+      La revalorisation du rôle des vérificateurs de terrain passe par une meilleure prise en compte de leurs retours d'expérience dans la mise à jour des requêtes. L'humain doit demeurer au centre du dispositif de contrôle.
+
+      L'arrêt des suppressions de postes et le plan d'embauche de quatre mille agents doivent permettre de reconstituer un maillage territorial de proximité. La connaissance du tissu économique local par les agents constitue un complément indispensable à l'analyse de données centrales.
+
+   C. Perspectives sur l'échange international de données et la fiscalité des cryptoactifs.
+
+      Les travaux de l'économiste Gabriel Zucman démontrent l'efficacité majeure de l'échange automatique d'informations bancaires internationales. L'évasion fiscale offshore des particuliers a été divisée par trois en dix ans. Alors que quatre-vingt-dix pour cent des avoirs placés à l'étranger échappaient auparavant à l'impôt, soixante-quinze pour cent de ces montants sont désormais connus des administrations fiscales.
+
+      La montée en puissance des cryptoactifs constitue un nouveau défi pour le contrôle fiscal. En France, environ cinq millions de personnes possèdent des cryptoactifs, alors que seulement cent cinquante mille foyers fiscaux déclarent des revenus issus de ces actifs numériques.
+
+      Pour contrer cette fraude émergente, la direction nationale d'enquêtes fiscales s'équipe de licences logicielles spécialisées dans le traçage des transactions sur les principales blockchains, notamment Bitcoin. Le gouvernement envisage des évolutions législatives pour aligner les sanctions relatives aux cryptoactifs non déclarés sur celles des avoirs à l'étranger.
+
+      Dans le domaine douanier, le déploiement du dispositif cent pour cent scan sur les plateformes logistiques de fret postal utilise l'intelligence artificielle pour intercepter les livraisons de drogues de synthèse commandées sur internet.
+
+   D. Débats au sein de la commission des finances et réponses des autorités gouvernementales.
+
+      Lors de la présentation du rapport le cinq juin deux mille vingt-quatre devant la commission des finances, le président Éric Coquerel a souligné que les montants redressés sont passés de quinze virgule soixante-trois milliards d'euros en deux mille huit à quinze virgule deux milliards d'euros en deux mille vingt-trois, ce qui traduit une stagnation en euros courants malgré une inflation cumulée de vingt-trois pour cent et le déploiement massif de l'IA.
+
+      En réponse aux interrogations sur l'externalisation, le ministre délégué Thomas Cazenave a affirmé que les compétences en intelligence artificielle sont aujourd'hui totalement internalisées au sein de la DGFiP. Il a précisé qu'aucun prestataire privé n'interviendra dans le cadre des nouvelles expérimentations sur les réseaux sociaux.
+
+      Le ministre a annoncé le renforcement des effectifs du contrôle fiscal de mille cinq cents emplois d'ici deux mille vingt-sept et a défendu le bilan du projet Foncier innovant. Il a précisé que le système GMBI d'occupation des locaux permettra de lutter contre la fraude aux résidences secondaires non assujetties à la taxe d'habitation.
+
+      Les échanges entre la rapporteure spéciale et les députés ont confirmé la nécessité de poursuivre la modernisation technologique sans sacrifier les moyens humains nécessaires aux vérifications sur place.
+
+POINTS D'ATTENTION.
+
+      Le rendement financier direct des contrôles issus du data mining reste inférieur à quinze pour cent du total des montants mis en recouvrement en deux mille vingt-trois malgré la mobilisation de plus de cinquante-cinq pour cent des contrôles professionnels.
+
+      L'utilisation de modèles supervisés basés sur l'apprentissage de contrôles passés fait peser un risque important de reproduction des biais de ciblage et de non-détection des nouvelles formes de fraude.
+
+      La baisse de plus de quinze pour cent des effectifs globaux du contrôle fiscal entre deux mille seize et deux mille vingt-deux a frappé très lourdement les services locaux en enregistrant une chute supérieure à vingt pour cent dans les directions départementales.
+
+      L'administration ne dispose d'aucun chiffrage consolidé des coûts globaux du data mining depuis deux mille quatorze incluant les dépenses de structure et l'empreinte environnementale des serveurs de calcul.
+
+      Le projet informatique PILAT a subi un dérapage budgétaire majeur, son coût passant d'une estimation initiale de trente-six millions d'euros à plus de cent vingt-trois millions d'euros en raison de nombreux retards de déploiement.
+
+      La forte dépendance du bureau SJCF-1D envers des data scientists sous statut contractuel génère un turnover élevé qui menace la conservation des compétences techniques et la souveraineté de l'État.
+
+EXEMPLES CITÉS.
+
+      Le projet Foncier innovant a permis de détecter cent cinquante mille piscines imposables non déclarées en comparant les photographies aériennes de l'IGN aux fichiers fonciers informatisés.
+
+      L'article cent cinquante-quatre de la loi de finances pour deux mille vingt a instauré la collecte automatisée des données publiques sur les plateformes en ligne pour lutter contre les activités occultes.
+
+      L'article cent douze de la loi de finances pour deux mille vingt-quatre a autorisé la collecte de données sur les réseaux sociaux pour rechercher les minorations de recettes des entreprises.
+
+      La direction nationale d'enquêtes fiscales fait l'acquisition de logiciels de traçage des blockchains pour contrôler les cinq millions de détenteurs français de cryptoactifs.
+
+      L'administration douanière déploie des scanners automatiques couplés à l'intelligence artificielle pour atteindre cent pour cent de contrôle des colis de fret postal suspectés de contenir des produits stupéfiants.
+
+      L'application Gérer mes biens immobiliers est mobilisée pour repérer les fausses déclarations de résidence principale destinées à éluder la taxe d'habitation sur les résidences secondaires.
