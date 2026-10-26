@@ -1,0 +1,253 @@
+FICHE DE RÉVISION : LOI N° deux mille vingt-six-deux cent quarante-huit DU sept AVRIL deux mille vingt-six SUR LES SUCCESSIONS VACANTES ET LA SORTIE DE L'INDIVISION.
+
+LEXIQUE COMPLET.
+
+      Indivision : Situation juridique dans laquelle plusieurs personnes détiennent la propriété d'un même bien sans répartition matérielle de leurs parts.
+
+      Succession vacante : Situation d'une succession dans laquelle aucun héritier ne se présente pour la réclamer, aucune personne ne la revendique ou dont les héritiers connus y ont renoncé.
+
+      Bien sans maître : Immeuble qui n'a pas de propriétaire connu et dont la taxe foncière n'a pas été acquittée depuis plus de trois ans ou l'a été par un tiers, ou bien issu d'une succession ouverte depuis plus de trente ans sans héritier réclamant.
+
+      Curateur domanial : Service des domaines représenté par la Direction nationale d'interventions domaniales, désigné par une ordonnance judiciaire pour administrer et liquider une succession vacante au nom de l'État.
+
+      Licitation : Vente aux enchères publiques d'un bien immobilier ou mobilier indivis ordonnée en justice lorsque le bien ne peut pas être partagé commodément en nature.
+
+      Partage judiciaire : Procédure organisée par le tribunal judiciaire pour procéder au règlement, à la liquidation et à la distribution d'une indivision en cas d'impossibilité d'accord amiable.
+
+      Acte de disposition : Acte juridique grave comportant une aliénation de bien ou une transmission de droit engageant la valeur globale du patrimoine, tel que la vente d'un immeuble.
+
+      Acte conservatoire : Acte juridique ou matériel urgent et nécessaire visant à sauvegarder un bien ou un droit contre un péril imminent sans modifier la consistance du patrimoine.
+
+      Secret fiscal : Obligation légale de confidentialité pesant sur l'administration fiscale, levée de manière encadrée au profit des maires et présidents d'établissement public de coopération intercommunale pour l'identification des biens sans maître.
+
+      Procès-verbal d'opposition : Acte officiel établi par le notaire constatant le refus d'un ou plusieurs indivisaires à un projet de vente ou de partage en vue d'une saisine du tribunal judiciaire.
+
+      Pôle de gestion des patrimoines privés : Service de la Direction générale des Finances publiques assurant la gestion opérationnelle des successions vacantes sous l'autorité de la Direction nationale d'interventions domaniales.
+
+COURS DÉTAILLÉ.
+
+I. HISTORIQUE, CONTEXTE JURIDIQUE ET OBJECTIFS DE LA LOI N° deux mille vingt-six-deux cent quarante-huit DU sept AVRIL deux mille vingt-six.
+
+   A. Le constat des blocages de l'indivision et les lacunes du droit commun.
+
+      L'indivision se caractérise par la détention collective d'un bien par plusieurs personnes sans que leurs parts respectives ne soient matérialisées sur le plan physique. En matière immobilière, cette situation juridique découle principalement de l'ouverture d'une succession entre plusieurs héritiers. Elle tend fréquemment à se prolonger en raison de divergences d'intérêts entre les indivisaires.
+
+      L'article huit cent quinze-trois du Code civil fixe la règle de l'unanimité pour la réalisation des actes de disposition, notamment l'aliénation ou la vente d'un immeuble indivis. Ce principe accorde un droit de veto absolu à chaque co-indivisaire. Un seul indivisaire, même détenant une part minoritaire, dispose de la capacité légale de bloquer définitivement une transaction immobilière.
+
+      Cette rigidité procédurale génère un enlisement prolongé des situations patrimoniales. Les héritiers se trouvent paralysés dans la gestion des biens successoraux. L'impossibilité de dégager un accord amiable contraint régulièrement les parties à engager une procédure de partage judiciaire longue et coûteuse.
+
+      L'inertie des copropriétaires entraîne l'abandon progressif et la dégradation matérielle des immeubles concernés. Ce phénomène d'abandon génère des friches immobilières et déprécie la valeur du patrimoine. Il provoque des répercussions dommageables sur le développement urbain et la revitalisation des territoires locaux.
+
+      Déposée à l'Assemblée nationale le vingt et un janvier deux mille vingt-cinq, la proposition de loi visait à apporter une réponse législative globale à ces blocages. Promulguée le sept avril deux mille vingt-six et publiée au Journal officiel le huit avril deux mille vingt-six, la loi n° deux mille vingt-six-deux cent quarante-huit est entrée en vigueur le neuf avril deux mille vingt-six afin de moderniser le droit des successions et du partage.
+
+   B. L'influence des régimes dérogatoires locaux sur la réforme nationale.
+
+      Pour pallier la rigidité du droit commun, le législateur avait antérieurement instauré des mécanismes dérogatoires ciblés sur certains territoires confrontés à un désordre foncier récurrent. Ces expérimentations locales ont fourni au législateur les modèles procéduraux ayant inspiré la rédaction de la loi du sept avril deux mille vingt-six.
+
+      En Corse, la loi n° deux mille dix-sept-deux cent quatre-vingt-cinq du six mars deux mille dix-sept a autorisé la réalisation d'actes de disposition sur les biens indivis à la majorité des deux tiers des droits indivis. Ce dispositif spécifique répondait à une crise foncière ancienne caractérisée par la multiplication des indivisions successorales non liquidées et la perte de la mémoire des titres de propriété.
+
+      Dans les territoires d'Outre-mer, la loi n° deux mille dix-huit-mille deux cent quarante-quatre du vingt-sept décembre deux mille dix-huit dite loi Letchimy a mis en place un régime spécifique. Elle autorise la vente ou le partage d'un bien indivis à la majorité simple des droits pour les successions ouvertes depuis plus de dix ans, sous le contrôle préalable du notaire et du juge judiciaire.
+
+      En Alsace-Moselle, la loi du premier juin mille neuf cent vingt-quatre réserve une place centrale au notaire dans le cadre d'une procédure de partage judiciaire de nature gracieuse et simplifiée. Ce système fluide permet de confier l'ensemble des opérations de liquidation au notaire sous un contrôle judiciaire restreint aux seules contestations.
+
+      La loi du sept avril deux mille vingt-six s'inscrit dans le prolongement direct de ces trois expériences régionales. Son objectif est d'adapter les outils de sortie de l'indivision et de moderniser les procédures en transposant les meilleures pratiques locales au cadre législatif général.
+
+   C. Les arbitrages du débat parlementaire entre l'Assemblée nationale et le Sénat.
+
+      Le projet initial ambitionnait de généraliser à l'ensemble du territoire national le mécanisme dérogatoire outre-mer permettant de passer outre le principe d'unanimité. L'intention de départ était de faciliter la vente des biens indivis afin de débloquer le marché immobilier et de résorber la vacance logement.
+
+      L'Assemblée nationale a écarté cette généralisation directe pour privilégier un assouplissement mesuré du droit existant. Les députés ont proposé de réduire le seuil de majorité requis pour autoriser la vente d'un bien indivis, en abaissant ce seuil à la majorité simple des droits indivis sous contrôle judiciaire.
+
+      Le Sénat est revenu sur cette modification en rétablissant le principe du maintien de la règle de la majorité des deux tiers assortie de l'intervention de l'autorité judiciaire. Les sénateurs ont estimé indispensable de préserver les droits de propriété des indivisaires minoritaires contre des ventes précipitées.
+
+      Le Sénat a en revanche introduit un dispositif d'aliénation et de partage dérogatoire rendu opérationnel pour la seule Corse. Ce compromis parlementaire renonce à une refonte générale de l'article huit cent quinze-trois du Code civil tout en apportant des ajustements ciblés et sécurisés.
+
+II. NOUVEAUX DISPOSITIFS DE SORTIE DE L'INDIVISION ET ALLÈGEMENT DES RÈGLES DE MAJORITÉ.
+
+   A. L'autorisation judiciaire de vente d'un bien par un indivisaire isolé.
+
+      L'article cinq de la loi n° deux mille vingt-six-deux cent quarante-huit consacre la possibilité pour un indivisaire unique de solliciter en justice l'autorisation de vendre seul un bien immobilier indivis. Cette mesure s'insère au nouvel article huit cent quinze-six du Code civil afin de débloquer les situations d'urgence successorale.
+
+      L'octroi de cette autorisation judiciaire est subordonné à la preuve préalable d'une double condition cumulative. L'indivisaire demandeur doit établir devant le président du tribunal judiciaire l'existence d'une urgence caractérisée et démontrer que la vente projetée est conforme à l'intérêt commun de l'indivision.
+
+      Cette disposition légale consacre formellement la jurisprudence constante de la Cour de cassation. La première chambre civile avait en effet validé la faculté pour le juge des référés d'autoriser toutes mesures urgentes requises par l'intérêt commun sur le fondement général de l'article huit cent quinze-six du Code civil, notamment dans son arrêt du quatre décembre deux mille treize numéro douze-vingt.158.
+
+      Le législateur n'a pas encadré rigidement les critères appréciés par le juge pour accorder l'autorisation. Il a laissé au président du tribunal judiciaire un pouvoir d'appréciation souverain pour évaluer les circonstances de fait, garantissant une grande souplesse d'application aux cas d'espèces.
+
+   B. Le régime dérogatoire de vente et de partage à la majorité des deux tiers en Corse.
+
+      L'article six de la loi du sept avril deux mille vingt-six modifie l'article huit cent quinze-trois du Code civil et l'article deux de la loi du six mars deux mille dix-sept afin d'opérationnaliser le régime applicable en Corse. Les indivisaires détenant au moins deux tiers des droits indivis peuvent exprimer devant notaire leur volonté formelle de procéder à l'aliénation ou au partage d'un bien.
+
+      L'innovation majeure du texte réside dans l'extension du dispositif légal au-delà de la seule licitation. Contrairement aux dispositions de l'article huit cent quinze-cinq-un du Code civil qui se limitent à la vente aux enchères, le régime corse permet de réaliser une aliénation amiable ou un partage partiel des biens.
+
+      Le notaire saisi par la majorité des deux tiers est tenu d'instrumenter le projet d'acte. Il doit notifier formellement l'intention d'aliéner ou de partager aux autres co-indivisaires dans un délai maximal de un mois à compter de sa saisine.
+
+      La procédure impose au notaire d'assurer la publicité légale du projet d'opération. Cette publicité s'effectue par une insertion dans un journal d'annonces légales, par affichage sur le site de l'immeuble et par une publication sur un portail internet dédié.
+
+   C. La procédure notariale d'information, d'opposition et d'opposabilité.
+
+      Les indivisaires non consentants disposent d'un délai de trois mois à compter de la réception de la notification notariale pour faire part de leur position. Durant ce délai, ils peuvent manifester leur accord ou formuler une opposition formelle à l'opération projetée.
+
+      En l'absence de toute opposition exprimée dans le délai imparti de trois mois, les indivisaires silencieux sont légalement réputés avoir consenti à l'opération. L'aliénation ou le partage peut alors être conclu directement devant notaire sans qu'il soit nécessaire d'obtenir une autorisation judiciaire préalable.
+
+      En cas d'opposition formelle signifiée par un indivisaire dans le délai imparti, le notaire établit immédiatement un procès-verbal de difficultés ou d'opposition. Le tribunal judiciaire est alors saisi par la majorité des deux tiers pour trancher le différend.
+
+      Le juge judiciaire est habilité à autoriser l'aliénation ou le partage s'il constate que l'opération ne porte pas une atteinte excessive aux droits des indivisaires opposants. Une fois la décision rendue ou le délai expiré, l'acte devient pleinement opposable à l'ensemble des membres de l'indivision.
+
+III. LA RÉFORME ET LA MODERNISATION PROCÉDURALE DU PARTAGE JUDICIAIRE.
+
+   A. L'élargissement du champ d'application du partage judiciaire aux régimes patrimoniaux.
+
+      L'article sept de la loi n° deux mille vingt-six-deux cent quarante-huit apporte une révision profonde des articles huit cent quarante et suivants du Code civil régissant le partage judiciaire. Lorsqu'un partage amiable s'avère impossible en raison de désaccords persistants, la saisine du tribunal judiciaire demeure l'ultime voie de droit pour liquider le patrimoine.
+
+      Le champ d'application de cette procédure est expressément étendu au-delà du cadre traditionnel des seules indivisions successorales. Le nouvel article huit cent quarante du Code civil englobe désormais la liquidation, le partage et le règlement des intérêts patrimoniaux des époux séparés ou divorcés.
+
+      Le texte inclut également dans son domaine d'application les partenaires liés par un Pacte civil de solidarité ainsi que les concubins. Cette extension comble un vide juridique et unifie le traitement judiciaire des crises patrimoniales familiales.
+
+      La procédure de partage judiciaire s'articule avec les dispositions des articles mille trois cent soixante-cinq à mille trois cent soixante-seize du Code de procédure civile. Elle régit l'ensemble des opérations complexes de comptes, liquidation et rapport menées sous le contrôle du juge commis et du notaire désigné.
+
+   B. L'ouverture du partage judiciaire en l'absence ou après disparition de l'indivision.
+
+      L'une des innovations procédurales les plus marquantes réside dans la possibilité d'engager un partage judiciaire en l'absence avérée de situation d'indivision. L'article huit cent quarante alinéa deux du Code civil ouvre cette faculté dès lors que la complexité des opérations de liquidation le requiert.
+
+      Cette saisine est également recevable lorsque l'absence ou la disparition de l'indivision est révélée en cours d'instance devant le tribunal. Le juge conserve sa compétence pour achever le règlement des créances et le compte des récompenses entre les parties.
+
+      Cette réforme vise à éviter les fins de non-recevoir procédurales qui interrompaient brutalement les instances en liquidation. Le texte garantit la continuité de l'intervention judiciaire jusqu'au règlement définitif des passifs et créances réciproques.
+
+      Les modalités précises d'application de ce nouveau cas d'ouverture font l'objet de travaux réglementaires. Un décret d'application en Conseil d'État est attendu d'ici la fin de l'année deux mille vingt-six pour définir les critères matériels de complexité requis.
+
+   C. Le renforcement des prérogatives du juge commis et la suppression de la mise en demeure.
+
+      La loi renforce substantiellement les pouvoirs du juge commis au suivi des opérations de partage en modifiant l'article huit cent quarante et un du Code civil. Il est désormais investi d'une compétence directe pour statuer sur toutes les contestations s'élevant au cours de la liquidation menée par le notaire.
+
+      Le juge commis est habilité à ordonner directement la licitation des biens immobiliers ou mobiliers. Il peut trancher immédiatement les points de blocage sans obliger le notaire à établir un rapport d'étape préalable, instaurant un binôme juge-notaire précoce et réactif.
+
+      La loi supprime l'article huit cent quarante et un-un du Code civil qui prévoyait la possibilité pour le notaire de mettre en demeure un indivisaire inerte de se faire représenter dans un délai de trois mois. Cette procédure intermédiaire est abandonnée au profit d'une saisine directe du juge.
+
+      Cette suppression s'inscrit dans la perspective de la généralisation de la représentation obligatoire par avocat à l'ensemble des stades de la procédure de partage judiciaire. Ce nouveau cadre de représentation sera précisé par un décret d'application d'ici la fin de l'année deux mille vingt-six.
+
+IV. LA NOUVELLE RÈGLEMENTATION DE LA GESTION DES SUCCESSIONS VACANTES.
+
+   A. Le cadre juridique de la curatelle domaniale et le rôle de la direction nationale.
+
+      Une succession est déclarée vacante lorsqu'il ne se présente personne pour la réclamer, qu'aucun héritier n'est connu ou que tous les héritiers connus ont renoncé à leurs droits successoraux. La gestion de ces patrimoines en déshérence est confiée par le juge à l'administration des domaines.
+
+      Cette mission publique est pilotée à l'échelle nationale par la Direction nationale d'interventions domaniales rattachée à la Direction générale des Finances publiques. Elle est exécutée localement par les pôles de gestion des patrimoines privés installés dans les directions régionales et départementales des Finances publiques.
+
+      Durant les six premiers mois suivant l'ouverture de la vacance, les prérogatives du curateur sont strictly circonscrites par le Code civil. Il ne peut accomplir que des actes conservatoires, des actes d'administration provisoire et procéder à la vente des seuls biens périssables.
+
+      L'expiration du délai de six mois confère au curateur le droit d'accomplir des actes de disposition. L'article huit cent dix-deux du Code civil autorise l'aliénation des biens successoraux afin de réaliser l'actif pour apurer le passif ou mettre fin à des difficultés de conservation du patrimoine.
+
+   B. L'assouplissement de l'ordre de cession des biens meubles et immeubles.
+
+      Avant la réforme de deux mille vingt-six, l'article huit cent dix-deux du Code civil imposait au curateur une hiérarchie stricte dans la réalisation des actifs. Le curateur domanial avait l'obligation légale d'épuiser la vente des biens meubles avant de pouvoir procéder à la cession des immeubles.
+
+      L'article quatre de la loi n° deux mille vingt-six-deux cent quarante-huit supprime cette règle de priorité obligatoire. Il confère au curateur un pouvoir d'appréciation souverain pour déterminer l'ordre d'aliénation des biens le plus adapté aux intérêts de la succession vacante.
+
+      Le curateur peut désormais décider de vendre immédiatement un bien immobilier si sa conservation génère des frais excessifs pour la succession. Cet arbitrage permet de sauvegarder la valeur des actifs et d'accélérer le désintéressement des créanciers successoraux.
+
+      Cette liberté de gestion supprime des lourdeurs administratives injustifiées. Elle évite la dégradation d'immeubles laissés sans entretien durant la vente préalable d'éléments mobiliers de faible valeur.
+
+   C. La faculté d'octroi de mandat de signature par les agents des domaines.
+
+      L'exercice de la curatelle domaniale sur des successions vacantes réparties sur l'ensemble du territoire national confrontait la Direction nationale d'interventions domaniales à de lourdes contraintes géographiques. Les biens immobiliers à vendre se situent souvent hors du ressort territorial du pôle de gestion compétent.
+
+      L'article trois de la loi du sept avril deux mille vingt-six modifie l'article huit cent dix-deux du Code civil pour autoriser les agents des domaines à donner mandat à des tiers. Cette faculté permet de mandater un professionnel ou un agent territorial pour formaliser les actes de vente.
+
+      Le texte entoure cette faculté d'un encadrement strict afin d'éviter toute dérive. Le mandat confié au tiers est rigoureusement limité à la seule signature administrative des actes de vente de biens meubles et immeubles.
+
+      La phase préalable de négociation financière et commerciale demeure de la compétence exclusive des agents de la Direction nationale d'interventions domaniales. Cet encadrement préserve la maîtrise domaniale sur l'évaluation et la fixation du prix des biens.
+
+   D. La modernisation de la publicité des actes par voie numérique.
+
+      L'article deux de la loi révise les articles huit cent neuf-un à huit cent dix-sept du Code civil pour adapter les obligations de publicité légale de la curatelle. Jusqu'alors, la publicité s'effectuait exclusivement par la voie de la presse écrite dans un journal d'annonces légales papier ou en ligne.
+
+      Le nouveau texte autorise la Direction nationale d'interventions domaniales à assurer cette publicité par voie numérique. Les avis et actes peuvent être mis en ligne directement sur le site internet officiel de l'autorité administrative chargée des domaines.
+
+      Cette faculté de publication numérique concerne l'ensemble des étapes de la procédure de curatelle. Elle s'applique à l'ordonnance judiciaire de nomination du curateur prévue à l'article huit cent neuf-un du Code civil et à l'établissement de l'inventaire des biens institué par l'article huit cent neuf-deux du Code civil.
+
+      Elle couvre également le projet de règlement du passif prévu à l'article huit cent dix-cinq du Code civil ainsi que le compte de clôture rédigé en application de l'article huit cent dix-sept du Code civil. Cette dématérialisation réduit les frais de procédure et renforce la transparence de la gestion domaniale.
+
+      La loi modifie enfin la loi du six mars deux mille dix-sept pour sécuriser la publicité des actes de notoriété acquisitive en Corse. Elle consacre légalement la publication dans un journal d'annonces légales en complément de l'affichage, de la mise en ligne et de la publication au service de la publicité foncière.
+
+V. L'APPROPRIATION DES BIENS SANS MAÎTRE ET LE DÉPLOIEMENT DU PORTAIL NUMÉRIQUE.
+
+   A. L'extension de l'accès aux données fiscales pour les collectivités territoriales.
+
+      La procédure d'appropriation des biens sans maître permet aux communes et aux établissements publics de coopération intercommunale d'acquérir à titre gratuit des immeubles inutilisés ou abandonnés. Ce mécanisme est régi par l'article cent soixante-treize du Code civil et les articles L. mille cent vingt-trois-un à L. mille cent vingt-trois-trois du Code général de la propriété des personnes publiques.
+
+      Un bien immobilier est qualifié de bien sans maître dans deux hypothèses légales précises. La première concerne une succession ouverte depuis plus de trente ans sans aucun héritier réclamant. La seconde vise un immeuble sans propriétaire connu dont la taxe foncière n'a pas été acquittée depuis plus de trois ans ou l'a été par un tiers.
+
+      L'article premier de la loi du sept avril deux mille vingt-six insère l'article L. mille cent vingt-trois-quatre dans le Code général de la propriété des personnes publiques. Il élargit le droit d'accès des maires et présidents d'intercommunalité aux informations détenues par l'administration fiscale.
+
+      La transmission des données fiscales est autorisée pour les successions ouvertes depuis plus de trente ans dès lors que la collectivité apporte des indices sérieux d'abandon du bien ou de décès du propriétaire. Le texte garantit le respect du secret fiscal en limitant la communication aux seules données strictly nécessaires à la procédure d'acquisition.
+
+   B. Le fonctionnement et les services en ligne du Portail des successions vacantes.
+
+      Le Portail des successions vacantes a été ouvert en janvier deux mille vingt-cinq sur le site impots.gouv.fr au sein de l'espace professionnel sous la rubrique Démarches. Il offre un bouquet de services numériques destiné à moderniser les relations entre les collectivités locales et l'administration domaniale.
+
+      Ce portail comprend des fonctionnalités de consultation permettant aux partenaires institutionnels de vérifier si le Domaine a été désigné curateur d'une succession par le tribunal judiciaire. Il facilite l'orientation des usagers vers les démarches dématérialisées appropriées.
+
+      Le service permet aux collectivités de réaliser l'ensemble de leurs démarches administratives en ligne. Elles peuvent transmettre une ordonnance de nomination du Domaine, souscrire une déclaration de créances et fournir des justificatifs complémentaires de manière sécurisée.
+
+      Un tableau de bord général et détaillé assure le suivi en temps réel de l'état d'avancement des dossiers en gestion. Un système d'alerte automatique informe directement la collectivité locale partenaire à chaque évolution du traitement de sa demande.
+
+      Depuis le mois de décembre deux mille vingt-cinq, une messagerie sécurisée intégrée permet aux collectivités de communiquer directement avec les pôles de gestion des patrimoines privés. Cet outil facilite l'obtention de renseignements sur les successions, les legs et les biens immobiliers gérés.
+
+   C. Les évolutions fonctionnelles et les perspectives d'enrichissement du portail.
+
+      L'utilisation du Portail des successions vacantes procure des bénéfices financiers immédiats aux collectivités locales. Il accélère le paiement des créances publiques et permet le remboursement sans délai des avances d'aide sociale accordées par les conseils départementaux.
+
+      Le portail facilite la mise en vente rapide des parcelles immobilières en déshérence. Cette célérité procédurale permet aux communes de débloquer du foncier pour réaliser des opérations prioritaires d'aménagement et de renouvellement urbain.
+
+      L'activité domaniale de l'année deux mille vingt-quatre illustre l'impact économique de la mission. Les pôles de gestion ont liquidé trois cent soixante-dix-sept millions d'euros d'actifs et remboursé plus de cent quarante-deux millions d'euros de créances publiques. Le portail grand public a enregistré plus de cinq cent dix mille visites depuis mars deux mille vingt-deux.
+
+      Le portail bénéficiera de nouvelles évolutions fonctionnelles au cours de l'année deux mille vingt-six. Son accès sera étendu aux comptables publics de la Direction générale des Finances publiques et son interface sera intégralement traduite en langue anglaise.
+
+      Un formulaire unique permettra d'envoyer simultanément l'ordonnance de nomination et la déclaration de créances. Une fonctionnalité de reprise de démarche permettra d'interrompre une saisie puis de la valider ultérieurement, sous réserve de l'adhésion préalable aux e-services sur impots.gouv.fr.
+
+POINTS D'ATTENTION.
+
+      L'autorisation de vente d'un bien indivis sollicitée par un indivisaire seul repose obligatoirement sur la démonstration d'une urgence et d'un intérêt commun devant le juge.
+
+      En Corse, le seuil de majorité requis pour engager un projet d'aliénation ou de partage devant notaire est fixé à au moins deux tiers des droits indivis.
+
+      La notification notariale du projet d'aliénation en Corse fait courir un délai strict de trois mois durant lequel les indivisaires peuvent former opposition.
+
+      L'absence d'opposition signifiée dans le délai de trois mois vaut acceptation tacite du projet de vente ou de partage et dispense d'autorisation judiciaire.
+
+      La loi du sept avril deux mille vingt-six supprime définitivement la procédure de mise en demeure de l'indivisaire inerte sous trois mois qui était prévue à l'ancien article huit cent quarante et un-un du Code civil.
+
+      La représentation par avocat sera généralisée à tous les stades du partage judiciaire selon des modalités qui seront fixées par un décret réglementaire d'ici fin deux mille vingt-six.
+
+      Le juge commis peut être saisi d'une procédure de partage judiciaire même en l'absence de situation d'indivision si la complexité de la liquidation le justifie.
+
+      Les prérogatives d'action du curateur d'une succession vacante sont restreintes aux seuls actes conservatoires et d'administration provisoire durant les six premiers mois.
+
+      La suppression de l'obligation de vendre les meubles avant les immeubles accorde au curateur domanial la liberté de déterminer l'ordre optimal de cession des biens.
+
+      Le mandat pouvant être délivré à des tiers par les agents des domaines se limite exclusivement à la signature des actes de vente, la négociation restant réservée à la DNID.
+
+      La publicité des actes de curatelle sur le site internet du Domaine s'ajoute à la publication obligatoire dans un journal d'annonces légales sans la remplacer.
+
+      L'accès des collectivités territoriales aux informations fiscales sur les successions de plus de trente ans exige la démonstration d'indices sérieux d'abandon du bien.
+
+      L'accès aux services dématérialisés du Portail des successions vacantes nécessite une adhésion préalable aux e-services depuis l'espace professionnel d'impots.gouv.fr.
+
+EXEMPLES CITÉS.
+
+      Arrêt de la première chambre civile de la Cour de cassation du quatre décembre deux mille treize numéro douze-vingt.158 légitimant l'autorisation judiciaire de vente urgente d'un bien indivis.
+
+      Loi numéro deux mille dix-sept-deux cent quatre-vingt-cinq du six mars deux mille dix-sept instaurant la majorité des deux tiers des droits indivis pour les actes de disposition en Corse.
+
+      Loi Letchimy numéro deux mille dix-huit-mille deux cent quarante-quatre du vingt-sept décembre deux mille dix-huit autorisant la sortie d'indivision à la majorité simple pour les successions de plus de dix ans en Outre-mer.
+
+      Loi du premier juin mille neuf cent vingt-quatre organisant le partage judiciaire gracieux confié au notaire en Alsace-Moselle.
+
+      Proposition de loi déposée à l'Assemblée nationale le vingt et un janvier deux mille vingt-cinq marquant l'origine parlementaire de la loi du sept avril deux mille vingt-six.
+
+      Bilan financier deux mille vingt-quatre de la DNID affichant cent quarante-deux millions d'euros de créances publiques apurées sur trois cent soixante-dix-sept millions d'euros d'actifs successoraux liquidés.
+
+      Fréquentation des services de recherche du portail ayant dépassé cinq cent dix mille visites enregistrées depuis leur ouverture en mars deux mille vingt-deux.
+
+      Censure du Conseil constitutionnel ayant qualifié de cavalier législatif la mesure d'accès aux données fiscales initialement insérée dans le projet de loi urbanisme.

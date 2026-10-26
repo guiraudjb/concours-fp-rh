@@ -1605,5 +1605,28 @@
    "taille": 21164,
    "url": "https://www.senat.fr/questions/base/2026/qSEQ26061193S.html"
   }
+ ],
+ "19-120 Loi du 7 avril 2026 - Successions vacantes et sortie de l'indivision": [
+  {
+   "fichier": "source/anil-loi-2026-248.pdf",
+   "titre": "ANIL - Simplification de la sortie de l'indivision et gestion des successions vacantes",
+   "pages": 4,
+   "taille": 26245,
+   "url": "https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/analyses-juridiques-accueil/analyses-juridiques-2026/simplification-de-la-sortie-de-lindivision-et-gestion-des-successions-vacantes/"
+  },
+  {
+   "fichier": "source/notaires-loi-2026-248.pdf",
+   "titre": "Notaires de France - Ce que change la loi n° 2026-248 du 7 avril 2026",
+   "pages": 2,
+   "taille": 18817,
+   "url": "https://www.notaires.fr/fr/actualites/sortie-de-lindivision-et-succession-vacante-ce-que-change-la-loi-ndeg-2026-248-du-7-avril-2026"
+  },
+  {
+   "fichier": "source/portail-successions-vacantes.pdf",
+   "titre": "Collectivités locales - Le portail des successions vacantes s'enrichit de nouveaux services",
+   "pages": 3,
+   "taille": 18668,
+   "url": "https://www.collectivites-locales.gouv.fr/actualites/le-portail-des-successions-vacantes-senrichit-de-nouveaux-services"
+  }
  ]
 }
