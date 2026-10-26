@@ -422,6 +422,21 @@
    "taille": 2308851
   }
  ],
+ "12-30 DGFiP - Élections professionnelles 2026": [
+  {
+   "fichier": "source/elections-pro-2026.pdf",
+   "titre": "DGAFP - Les élections professionnelles 2026",
+   "pages": 4,
+   "taille": 21594,
+   "url": "https://www.fonction-publique.gouv.fr/dialogue-social-et-representation/les-elections-professionnelles-2026"
+  },
+  {
+   "fichier": "source/EFIP_hors_serie_Elections_professionnelles-1.pdf",
+   "titre": "DGFiP - EFIP hors-série, élections professionnelles 2026",
+   "pages": 5,
+   "taille": 595807
+  }
+ ],
  "13-10 DGAFP - Guide pratique de la formation professionnelle": [
   {
    "fichier": "source/guide-pratique-formation-pro.pdf",
@@ -1228,6 +1243,14 @@
    "taille": 599686
   }
  ],
+ "16-41 Bercy - Lignes directrices de gestion ministérielles, promotion": [
+  {
+   "fichier": "source/LDG-ministerielles-promotion-VF.pdf",
+   "titre": "Ministères économiques et financiers - Lignes directrices de gestion ministérielles en matière de promotion",
+   "pages": 11,
+   "taille": 391422
+  }
+ ],
  "16-50 DGAFP - Rapport d'activité 2025": [
   {
    "fichier": "source/Rapport_activite_DGAFP_2025.pdf",
@@ -1606,6 +1629,15 @@
    "url": "https://www.senat.fr/questions/base/2026/qSEQ26061193S.html"
   }
  ],
+ "19-110 PLF 2025 - Rapport sur les pensions de retraite de la fonction publique": [
+  {
+   "fichier": "source/plf2025-jaune-pensions.pdf",
+   "titre": "PLF 2025 - Rapport sur les pensions de retraite de la fonction publique",
+   "pages": 270,
+   "taille": 8221423,
+   "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF2025-Jaunes/12-Jaune_pensions.pdf"
+  }
+ ],
  "19-120 Loi du 7 avril 2026 - Successions vacantes et sortie de l'indivision": [
   {
    "fichier": "source/anil-loi-2026-248.pdf",
@@ -1627,6 +1659,15 @@
    "pages": 3,
    "taille": 18668,
    "url": "https://www.collectivites-locales.gouv.fr/actualites/le-portail-des-successions-vacantes-senrichit-de-nouveaux-services"
+  }
+ ],
+ "19-130 Cour des comptes - Systèmes d'information de la DGFiP et de la DGDDI (2019)": [
+  {
+   "fichier": "source/cour-comptes-si-dgfip-2019.pdf",
+   "titre": "Cour des comptes - Les systèmes d'information de la DGFiP et de la DGDDI (avril 2019)",
+   "pages": 133,
+   "taille": 3177394,
+   "url": "https://www.vie-publique.fr/files/rapport/pdf/194000473.pdf"
   }
  ]
 }

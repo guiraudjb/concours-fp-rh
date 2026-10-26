@@ -1,0 +1,241 @@
+LES SYSTÈMES D'INFORMATION DE LA DGFIP ET DE LA DGDDI : INVESTIR DAVANTAGE, GÉRER AUTREMENT.
+
+LEXIQUE COMPLET.
+
+      DGFiP désigne la Direction Générale des Finances Publiques, administration rattachée au Ministère de l'Économie et des Finances, née de la fusion en deux mille huit de la Direction Générale des Impôts et de la Direction Générale de la Comptabilité Publique.
+
+      DGDDI désigne la Direction Générale des Douanes et Droits Indirects, administration chargée de la perception des taxes douanières et environnementales, de la régulation des échanges internationaux et de la lutte contre les fraudes.
+
+      ESI désigne un Établissement de Services Informatiques, structure territoriale de la DGFiP chargée du développement, de la maintenance opérationnelle et de l'exploitation des applications informatiques fiscales et comptables.
+
+      CID désigne le Centre Informatique Douanier situé à Osny, infrastructure majeure de la DGDDI assurant l'hébergement et la production des applications informatiques de la Douane.
+
+      DNSCE désigne la Direction Nationale des Statistiques du Commerce Extérieur située à Toulouse, centre informatique de la DGDDI spécialisé dans la gestion des données du commerce extérieur et le traitement informatique des taxes douanières.
+
+      SDSIT désigne la Sous-Direction des Systèmes d'Information et de Télécommunication, structure centrale de pilotage de l'informatique douanière au sein de la DGDDI.
+
+      PAS désigne le Prélèvement à la Source de l'impôt sur le revenu, réforme fiscale majeure entrée en vigueur le premier janvier deux mille dix-neuf ayant mobilisé d'importants développements informatiques à la DGFiP et chez ses partenaires.
+
+      TESI désigne la Trajectoire d'Évolution des Systèmes d'Information deux mille treize-deux mille dix-sept, qui constituait le schéma directeur informatique pluriannuel de la DGFiP.
+
+      ENSU désigne l'Espace Numérique Sécurisé Unifié, portail numérique central de la DGFiP offrant aux usagers particuliers un accès unifié à l'ensemble de leurs démarches fiscales en ligne.
+
+      Dette technique désigne l'ensemble des coûts différés engendrés par l'utilisation prolongée de technologies informatiques obsolètes, nécessitant des opérations lourdes de réécriture et de maintenance corrective.
+
+      AIFE désigne l'Agence pour l'Informatique Financière de l'État, service à compétence nationale chargé de la gestion du système d'information financier de l'État, notamment l'application Chorus.
+
+      DINSIC désigne la Délégation Interministérielle au Numérique et aux Systèmes d'Information et de Communication de l'État, organisme chargé d'orienter et de coordonner la transformation numérique des ministères.
+
+      DITP désigne la Délégation Interministérielle à la Transformation Publique, structure chargée d'accompagner la modernisation administrative et de piloter le Fonds de Transformation de l'Action Publique.
+
+      ANSSI désigne l'Agence Nationale de la Sécurité des Systèmes d'Information, autorité nationale chargée de la sécurité informatique et de la défense des systèmes d'information de l'État.
+
+      Méthode Agile désigne une démarche de conduite de projet informatique fondée sur des cycles de développement courts, interactifs et évolutifs, impliquant étroitement les usagers finaux.
+
+      Cycle en V désigne une méthode traditionnelle de gestion de projet informatique organisée de manière séquentielle entre la phase de conception, la réalisation et les recettes fonctionnelles.
+
+      MAREVA désigne la Méthode d'Analyse et de Remontée de la Valeur, outil d'évaluation de la rentabilité socio-économique et financière des projets informatiques publics.
+
+COURS DÉTAILLÉ.
+
+I. ARCHITECTURE, ROBUSTESSE ET MODERNISATION DES SYSTÈMES D'INFORMATION FISCAUX ET DOUANIERS.
+
+   A. Un périmètre d'action stratégique et des volumes d'activité massifs.
+
+      La Direction Générale des Finances Publiques et la Direction Générale des Douanes et Droits Indirects gèrent des systèmes d'information stratégiques pour le fonctionnement financier et économique de l'État français. L'enquête menée par la Cour des comptes à la demande de la commission des finances de l'Assemblée nationale en application de l'article cinquante-huit-deux° de la LOLF a évalué la performance globale de ces infrastructures.
+
+      La Direction Générale des Finances Publiques s'appuie sur son informatique pour assurer la gestion de plus de trente-huit millions de foyers fiscaux au titre de l'impôt sur le revenu et près de quatre millions d'entreprises assujetties à la taxe sur la valeur ajoutée. L'administration fiscale emploie environ cent cinq mille agents au total, dont quatre mille six cent quatre-vingt-neuf équivalents temps plein travaillé sont affectés directement aux missions informatiques en deux mille dix-sept.
+
+      La Direction Générale des Douanes et Droits Indirects exploite des applications informatiques critiques pour la perception de trente-huit milliards d'euros de recettes fiscales et le contrôle annuel de plusieurs dizaines de millions de déclarations douanières. La Douane compte dix-sept mille quarante-cinq agents au total, la Sous-Direction des Systèmes d'Information et de Télécommunication regroupant quatre cent trente et un équivalents temps plein en deux mille dix-sept.
+
+      Ces deux administrations ont développé une dépendance totale envers les technologies de l'information pour l'accomplissement quotidien de leurs missions de recouvrement, de contrôle et de tenue des comptes publics. La numérisation complète des échanges d'information constitue désormais la condition sine qua non de la continuité opérationnelle des services de l'État.
+
+   B. Une robustesse opérationnelle affirmée et le succès du prélèvement à la source.
+
+      Les systèmes d'information de la Direction Générale des Finances Publiques et de la Douane affichent un taux de disponibilité très satisfaisant, atteignant régulièrement un niveau supérieur à quatre-vingt-dix-neuf virgule neuf pour cent durant les périodes de haute campagne fiscale. Cette haute disponibilité garantit aux citoyens et aux entreprises un accès ininterrompu aux services de télédéclaration et de télépaiement.
+
+      La mise en œuvre du prélèvement à la source de l'impôt sur le revenu le premier janvier deux mille dix-neuf représente une réussite technique majeure, caractérisée par un niveau de service élevé et une absence d'incident bloquant. Les chaînes de traitement informatique ont absorbé sans difficulté des volumes massifs de flux de données transmis par les collecteurs d'impôt.
+
+      Cette réforme de grande ampleur a mobilisé un investissement informatique spécifique de trente-cinq millions d'euros à la Direction Générale des Finances Publiques, permettant la transmission fluide des taux d'imposition aux collecteurs. Le projet a nécessité une interconnexion complexe entre les bases de données fiscales et le système d'information de la Déclaration Sociale Nominative de l'ACOSS.
+
+      La qualité des procédures de préparation et de qualification industrielle des versions applicatives garantit une grande stabilité globale lors du passage en production des grands systèmes informatiques. Les tests d'intégration poussés réalisés dans les centres informatiques réduisent les risques de rupture de service lors des déploiements.
+
+   C. L'impact de la dette technique et du vieillissement applicatif à la DGFiP.
+
+      La Direction Générale des Finances Publiques conserve un parc applicatif composé de sept cent soixante applications distinctes, dont une proportion importante repose sur des architectures logicielles obsolètes. Cette suraccumulation d'applications historiques résulte directement de la fusion imparfaite des systèmes de la Direction Générale des Impôts et de la Direction Générale de la Comptabilité Publique.
+
+      Plusieurs applications fiscales structurantes exploitent des langages de programmation anciens tels que COBOL, PL1, Fortran ou Pascal, associés à des systèmes d'exploitation patrimoniaux de type GCOS. L'entretien de ces langages obsolètes requiert des compétences devenues extrêmement rares sur le marché du travail informatique.
+
+      L'application PASCAL créée en mille neuf cent quatre-vingts pour la gestion de l'impôt sur le revenu et le système MEDOC dédié au recouvrement professionnel illustrent la persistance de cette dette technique considérable. Ces architectures anciennes imposent la mise en place d'interfaces complexes pour dialoguer avec les nouveaux portails web.
+
+      Le coût de résorption de la dette technique de la Direction Générale des Finances Publiques est évalué à plusieurs centaines de millions d'euros, ce qui mobilise une part disproportionnée des ressources informatiques pour la simple maintenance corrective. La surcharge de maintenance préventive et palliative asphyxie les capacités de développement de nouvelles fonctionnalités.
+
+   D. La dynamique de modernisation plus réactive de la DGDDI.
+
+      La Direction Générale des Douanes et Droits Indirects gère un portefeuille plus restreint de cent quatre-vingt-dix-huit applications, ce qui a facilité le renouvellement plus rapide de ses infrastructures informatiques. Cette taille critique plus modeste a permis à la Douane d'engager des chantiers de refonte applicative de manière plus agile et réactive.
+
+      La Douane a mené avec succès le programme e-Douane et la modernisation de la plateforme Delta, permettant une dématérialisation quasi intégrale des procédures douanières internationales. Les modules Delta-G, Delta-X et Delta-T assurent le traitement automatisé du fret commercial et du transit des marchandises.
+
+      L'implémentation de la Plateforme Nationale de Traitement a permis de concentrer les capacités de calcul et d'améliorer l'interopérabilité des données douanières au niveau européen. La concentration des serveurs de production au Centre Informatique Douanier d'Osny et à la Direction Nationale des Statistiques du Commerce Extérieur de Toulouse sécurise le fonctionnement applicatif.
+
+      La gouvernance douanière a su anticiper les évolutions réglementaires européennes relatives au Code des douanes de l'Union en adaptant progressivement ses applicatifs de dédouanement. Les investissements ciblés de la Douane ont préservé l'agilité de son système d'information face aux mutations du commerce international.
+
+II. ANOMALIES ET DIVERGENCES DANS L'ALLOCATION DES RESSOURCES BUDGÉTAIRES.
+
+   A. Une baisse continue des crédits informatiques à la DGFiP contre une hausse à la DGDDI.
+
+      Les dépenses informatiques hors personnel de la Direction Générale des Finances Publiques ont enregistré une diminution constante entre deux mille douze et deux mille dix-sept, passant de quatre cent quinze virgule sept millions d'euros à deux cent quatre-vingt-six virgule trois millions d'euros. Cette réduction drastique a été imposée dans le cadre des plans successifs d'économie budgétaire du ministère.
+
+      Cette trajectoire correspond à une baisse de trente et un virgule un pour cent en euros courants et de trente-trois pour cent en euros constants sur la période de six ans analysée par la Cour des comptes. Aucun autre grand ministère n'a subi une telle contraction de ses ressources d'exploitation et de développement informatique.
+
+      À l'inverse, les dépenses informatiques de la Direction Générale des Douanes et Droits Indirects ont progressé de trente-trois virgule trois millions d'euros en deux mille douze à quarante-trois virgule un millions d'euros en deux mille dix-sept, soit une hausse de vingt-neuf virgule quatre pour cent. En euros constants, la croissance du budget informatique douanier atteint vingt-six virgule trois pour cent sur la même période.
+
+      La part de l'informatique dans le budget total de fonctionnement de la Direction Générale des Finances Publiques a chuté de sept virgule cinq pour cent en deux mille onze à six virgule six pour cent en deux mille dix-sept, traduisant une régression marquée des moyens alloués. Durant la même période, la part de l'informatique à la Douane s'est appréciée de six virgule huit pour cent à sept virgule un pour cent de son budget total.
+
+   B. La prédominance des dépenses de fonctionnement et de personnel.
+
+      Les dépenses informatiques globales de la Direction Générale des Finances Publiques s'élèvent à environ cinq cent soixante-cinq millions d'euros en deux mille dix-sept lorsque l'on intègre la masse salariale des personnels informatiques estimée à deux cent soixante-dix-neuf millions d'euros. La prise en compte de ces coûts complets est indispensable pour évaluer la réalité de l'effort budgétaire de l'État.
+
+      La structure du budget informatique de la Direction Générale des Finances Publiques est fortement rigide, les dépenses de personnel et de fonctionnement courant absorbant près de quatre-vingt-cinq pour cent du total. Cette prédominance des charges incompressibles interdit tout redéploiement substantiel vers l'innovation technologique sans arbitrage budgétaire lourd.
+
+      À la Direction Générale des Douanes et Droits Indirects, les dépenses de personnel informatique ont atteint vingt-cinq virgule six millions d'euros en deux mille dix-sept pour un budget total consolidé de près de soixante-neuf millions d'euros. La proportion des dépenses de personnel s'établit à trente-sept pour cent du budget informatique global de la Douane.
+
+      Le poids prépondérant des coûts de maintenance des matériels et des licences logicielles réduit fortement les marges de manœuvre financières indispensables au financement des projets innovants. L'absence de comptabilité analytique précise sur les coûts informatiques nuit à l'efficacité du pilotage budgétaire.
+
+   C. L'effondrement des capacités d'investissement et la comparaison internationale.
+
+      Les dépenses d'investissement de la Direction Générale des Finances Publiques inscrites au titre cinq ont subi une chute spectaculaire, passant de soixante-dix-sept virgule deux millions d'euros en deux mille douze à trente-quatre virgule six millions d'euros en deux mille dix-sept. Cette diminution massive des crédits de paiement a directement affecté les projets de rénovation lourde des infrastructures.
+
+      Cette contraction de cinquante-cinq virgule deux pour cent des crédits de paiement destinés aux investissements a directement restreint la capacité de l'administration fiscale à moderniser son socle technologique. À la Douane, les crédits d'investissement ont augmenté de soixante-douze pour cent sur la même période, atteignant quatorze virgule un millions d'euros en deux mille dix-sept.
+
+      Les comparaisons internationales établies par la Cour des comptes avec la Suède, le Royaume-Uni, les États-Unis et l'Australie démontrent un sous-investissement chronique des administrations fiscales françaises dans leur système d'information. Les pays étrangers échantillonnés consacrent une part nettement plus élevée de leurs ressources aux investissements technologiques.
+
+      L'administration fiscale suédoise réserve une part significativement plus élevée de son budget opérationnel aux technologies de l'information, favorisant un taux d'automatisation poussé des contrôles et des services. Ce choix stratégique permet aux administrations étrangères de réaliser des gains de productivité très supérieurs sur leurs effectifs administratifs.
+
+III. DEFICITS DE GOUVERNANCE ET FAIBLESSES DANS LA CONDUITE DES PROJETS.
+
+   A. Une gouvernance lourde, morcelée et sans schéma directeur à la DGFiP.
+
+      La gouvernance des systèmes d'information à la Direction Générale des Finances Publiques se caractérise par une dispersion excessive des responsabilités entre le Service des Systèmes d'Information et la Direction des Services Informatiques. Cette séparation géographique et organisationnelle nuit à la cohérence de la prise de décision stratégique.
+
+      La Direction Générale des Finances Publiques ne dispose pas de directeur des systèmes d'information doté d'une autorité hiérarchique et budgétaire directe sur l'ensemble des moyens informatiques. L'absence de pilotage unifié favorise l'émergence de féodalités techniques et de stratégies d'acteurs divergentes.
+
+      Depuis l'échéance de la Trajectoire d'Évolution des Systèmes d'Information en deux mille dix-sept, la Direction Générale des Finances Publiques fonctionne sans schéma directeur informatique pluriannuel formalisé. Ce pilotage à vue empêche toute programmation pluriannuelle des investissements et de la résorption de la dette technique.
+
+      L'existence de multiples comités de pilotage et la séparation stricte entre la maîtrise d'ouvrage fonctionnelle et la maîtrise d'œuvre technique alourdissent les circuits décisionnels. La multiplication des instances intermédiaires retarde la validation des spécifications fonctionnelles et le lancement des phases de développement.
+
+   B. La dérive récurrente des coûts, des délais et l'inadaptation des méthodes.
+
+      L'analyse des grands projets informatiques menés par la Direction Générale des Finances Publiques révèle des dérives fréquentes sur les calendriers d'exécution, le retard moyen atteignant vingt à cinquante pour cent des délais initiaux. Ces décalages temporels génèrent des surcoûts financiers importants et retardent la concrétisation des gains de productivité.
+
+      Le projet Cap Numérique destiné à refondre l'espace numérique des contribuables a connu des augmentations importantes de coût et des décalages répétés de son calendrier de livraison. De même, les projets PILOT et RSP ont subi des ajustements de périmètre pour masquer le non-respect des échéances initiales.
+
+      Les méthodes de conduite de projet restent majoritairement ancrées dans le modèle traditionnel du cycle en V, freinant l'adoption des approches agiles préconisées au niveau interministériel. La rigidité du cycle en V empêche l'adaptation du produit informatique aux évolutions des besoins utilisateurs survenues en cours de développement.
+
+      La méthode d'évaluation socio-économique MAREVA est très insuffisamment appliquée par la Direction Générale des Finances Publiques pour mesurer le retour sur investissement des projets informatiques. Faute d'évaluation a posteriori des gains réels, l'administration fiscale ne peut mesurer l'impact économique réel de ses déploiements technologiques.
+
+   C. La gouvernance simplifiée de la DGDDI et le positionnement du ministère.
+
+      La Direction Générale des Douanes et Droits Indirects a mis en place une organisation informatique simplifiée et centralisée sous l'autorité de la Sous-Direction des Systèmes d'Information et de Télécommunication. Cette structure unique intègre directement les fonctions de cadrage stratégique, de maîtrise d'œuvre et de pilotage budgétaire.
+
+      La gouvernance informatique douanière s'articule efficacement autour de deux centres opérationnels majeurs que sont le Centre Informatique Douanier d'Osny et la Direction Nationale des Statistiques du Commerce Extérieur à Toulouse. Cette concentration géographique favorise des synergies opérationnelles et une coordination fluide des équipes techniques.
+
+      L'articulation entre les démarches informatiques des deux directions fiscales et la stratégie numérique globale du Ministère de l'Économie et des Finances demeure trop limitée. Le Secrétariat Général du ministère ne dispose pas des leviers suffisants pour imposer des choix technologiques communs aux directions opérationnelles.
+
+      Les instances ministérielles de coordination informatique ne parviennent pas à imposer une mutualisation effective des infrastructures logicielles et des développements applicatifs entre la DGFiP et la Douane. La persistence de doublons applicatifs entre les deux directions engendre des surcoûts inutiles pour les finances publiques.
+
+IV. TENSIONS SUR LES RESSOURCES HUMAINES ET DÉFICIT DE COMPÉTENCES CRITIQUES.
+
+   A. L'évolution contrastée et le vieillissement des effectifs informatiques.
+
+      Les effectifs informatiques de la Direction Générale des Finances Publiques ont diminué de cinq mille six cent dix-sept équivalents temps plein travaillé en deux mille douze à quatre mille six cent quatre-vingt-neuf en deux mille dix-sept, soit une réduction de seize virgule cinq pour cent. Cette baisse des effectifs informatiques a été nettement plus rapide que celle de l'ensemble des agents de la direction fiscale.
+
+      À l'inverse, les effectifs de la Sous-Direction des Systèmes d'Information et de Télécommunication de la Douane ont progressé de trois cent quatre-vingt-quatre équivalents temps plein en deux mille douze à quatre cent trente et un en deux mille dix-sept, soit une hausse de douze virgule deux pour cent. Cette augmentation ciblée a permis à la Douane d'accompagner l'accroissement des exigences douanières européennes.
+
+      La pyramide des âges des personnels informatiques de la Direction Générale des Finances Publiques montre un vieillissement prononcé, avec plus de quarante pour cent des agents âgés de plus de cinquante-cinq ans. La tranche des agents de moins de trente-cinq ans représente une proportion marginale, inférieure à dix pour cent des effectifs informatiques total.
+
+      Ce vieillissement démographique pose un risque élevé de perte massive d'expertises lors des départs à la retraite massifs programmés à court et moyen terme. L'absence de gestion prévisionnelle des emplois et des compétences compromet la transmission du savoir-faire sur les applications historiques.
+
+   B. Les difficultés structurelles de recrutement et de fidélisation.
+
+      La Direction Générale des Finances Publiques et la Douane font face à un déficit d'attractivité marqué pour le recrutement de profils informatiques hautement qualifiés sur le marché du travail. La concurrence intense exercée par les entreprises privées et les sociétés de conseil rend la fonction publique peu séduisante.
+
+      Les concours administratifs traditionnels s'avèrent inadaptés pour attirer des experts spécialisés dans des domaines de pointe tels que la cybersécurité, le traitement de données massives ou l'architecture cloud. Le contenu académique et théorique des épreuves de concours déconcerte les candidats issus des filières informatiques modernes.
+
+      Le recours aux agents contractuels de droit public reste très faiblement employé à la Direction Générale des Finances Publiques, représentant moins de cinq pour cent des effectifs informatiques globaux. La lourdeur des plafonds d'emplois réglementaires et la rigidité des grilles salariales freinent l'embauche de contractuels chevronnés.
+
+      L'écart entre les grilles de rémunération de la fonction publique et les salaires proposés par le secteur privé favorise une rotation importante des jeunes compétences et entrave la fidélisation. Les jeunes ingénieurs formés au sein de l'administration quittent fréquemment le secteur public après seulement quelques années de service.
+
+   C. L'inefficacité relative de l'assistance informatique de proximité.
+
+      La Direction Générale des Finances Publiques conserve un réseau très éparpillé d'Établissements de Services Informatiques comprenant encore trente-quatre sites répartis sur le territoire national. Historiquement, l'administration fiscale comptait quarante-quatre établissements informatiques avant d'engager une première phase de fusions.
+
+      Le maintien d'implantations avec des effectifs très réduits, atteignant parfois une moyenne de dix virgule cinq agents par établissement, génère un surcoût de gestion et une fragmentation des compétences. Ces petites structures ne disposent pas de la taille critique nécessaire pour constituer des pôles de développement performants.
+
+      Une part disproportionnée des effectifs informatiques territoriaux est affectée à l'assistance informatique de proximité pour la maintenance du poste de travail des agents administratifs. La prise en charge locale des dépannages informatiques de premier niveau détourne des compétences précieuses des missions de développement applicatif.
+
+      Le resserrement du réseau des Établissements de Services Informatiques vers une cible de vingt-cinq sites constitue un levier essentiel pour rationaliser le soutien utilisateur et redéployer des moyens vers la maîtrise d'œuvre. La centralisation des fonctions de support et l'automatisation de la téléassistance permettraient de réaliser des économies d'échelle substantielles.
+
+V. LES ORIENTATIONS STRATÉGIQUES ET LE PLAN DE TRANSFORMATION RECOMMANDE.
+
+   A. La définition de stratégies pluriannuelles et de contrats d'objectifs.
+
+      La Cour des comptes recommande formellement l'inscription de la trajectoire de transformation informatique des deux directions dans des conventions d'objectifs et de moyens pluriannuelles. Ce cadrage contractuel formalisé entre le Secrétariat Général du ministère, la DGFiP et la Douane doit fixer des objectifs clairs et des moyens garantis.
+
+      La Direction Générale des Finances Publiques doit impérativement concevoir et formaliser un schéma directeur informatique pluriannuel en cohérence étroite avec le plan de transformation du ministère. Ce document stratégique doit définir la vision cible du système d'information à un horizon de cinq à dix ans.
+
+      La gouvernance financière doit élaborer des indicateurs consolidés de suivi budgétaire incluant l'intégralité des coûts informatiques et de la masse salariale associée. La mise en place de tableaux de bord financiers unifiés est indispensable pour éclairer la prise de décision des directions générales.
+
+      Le pilotage opérationnel des grands projets informatiques exige la mise en place d'indicateurs de performance standardisés mesurant précisément le respect des coûts et des délais d'exécution. La détection précoce des écarts budgétaires permettra d'engager immédiatement des mesures correctives adaptées.
+
+   B. La résorption méthodique de la dette technique et la rénovation des méthodes.
+
+      Le futur schéma directeur de la Direction Générale des Finances Publiques doit comporter un plan pluriannuel chiffré et priorisé de résorption de sa dette technique applicative. Ce plan doit programmer l'extinction progressive des langages obsolètes tels que COBOL ou Pascal et le réencapsulage des bases de données anciennes.
+
+      Les services informatiques doivent accélérer la transition méthodologique vers le développement agile afin de raccourcir les cycles de livraison et de mieux répondre aux besoins des usagers. L'accroissement de la proportion de projets conduits en méthode agile constitue la sixième recommandation prioritaire formulée par le rapport.
+
+      La Direction Générale des Douanes et Droits Indirects doit rendre obligatoire l'utilisation de ses téléprocédures applicatives pour l'ensemble des redevables des taxes professionnelles qu'elle collecte. La généralisation du télépaiement douanier permettra de sécuriser les recettes et de rationaliser les tâches comptables des agents.
+
+      La simplification du portefeuille applicatif nécessite l'arrêt définitif des applications redondantes et la migration progressive des bases de données historiques vers des standards ouverts. L'utilisation d'interfaces d'application programmables ouvertes facilitera l'échange sécurisé de données entre ministères.
+
+   C. La refonte de la politique RH et le renforcement des mutualisations.
+
+      Les deux administrations doivent réaliser une gestion prévisionnelle des emplois et des compétences à un horizon de dix ans pour anticiper les besoins technologiques futurs. L'identification précise des besoins en compétences émergentes permettra d'orienter efficacement les plans de formation continue des agents.
+
+      La politique de recrutement doit être profondément diversifiée par l'augmentation du nombre de contractuels, la refonte des épreuves des concours et le développement de l'apprentissage. La création de filières de recrutement dédiées aux jeunes diplômés des écoles d'ingénieurs permettra de renouveler les viviers de compétences.
+
+      Le réseau territorial des Établissements de Services Informatiques de la Direction Générale des Finances Publiques doit être resserré pour optimiser le pilotage opérationnel des équipes. Le passage à vingt-cinq établissements permettra de regrouper les compétences techniques sur des sites de taille critique plus attractifs.
+
+      Le renforcement du caractère interministériel et la mutualisation des composants informatiques avec la Délégation Interministérielle au Numérique doivent devenir la norme de développement. Les deux directions doivent privilégier la réutilisation de briques logicielles communes évitant la réinvention de solutions propriétaires.
+
+POINTS D'ATTENTION.
+
+      La baisse de trente-trois pour cent en euros constants des dépenses informatiques de la Direction Générale des Finances Publiques fragilise directement la pérennité de son infrastructure technologique.
+
+      La présence de sept cent soixante applications à la Direction Générale des Finances Publiques génère un risque majeur d'obsolescence et d'incompatibilité avec les nouveaux standards numériques de l'État.
+
+      Le retard accumulé dans la formalisation d'un schéma directeur informatique à la Direction Générale des Finances Publiques prive les équipes de vision stratégique à moyen terme.
+
+      La pyramide des âges très défavorable avec plus de quarante pour cent d'agents de plus de cinquante-cinq ans fait peser un risque critique de rupture d'expertise lors des départs à la retraite.
+
+      La faible attractivité des rémunérations publiques entrave le recrutement des profils d'experts indispensables en cybersécurité, en architecture système et en analyse de données.
+
+      Les dérives récurrentes de calendriers sur les grands projets informatiques traduisent une maturité insuffisante dans la conduite de projet et le suivi des risques budgétaires.
+
+      La dispersion géographique des moyens sur trente-quatre Établissements de Services Informatiques nuit à la constitution d'équipes de taille critique pour la maîtrise d'œuvre.
+
+EXEMPLES CITES.
+
+      L'application PASCAL créée en mille neuf cent quatre-vingts demeure le cœur de traitement informatique de l'impôt sur le revenu pour plus de trente-huit millions de foyers fiscaux.
+
+      Le système applicatif MEDOC assure la gestion du recouvrement des impôts professionnels mais repose sur des architectures logicielles obsolètes.
+
+      La réforme du prélèvement à la source entrée en vigueur le premier janvier deux mille dix-neuf constitue un exemple réussi de déploiement informatique d'envergure nationale.
+
+      L'application Delta développée par la Douane a permis la dématérialisation complète du traitement des déclarations douanières à l'importation et à l'exportation.
+
+      Le portail Espace Numérique Sécurisé Unifié offre aux usagers un point d'accès unifié pour l'ensemble de leurs déclarations fiscales individuelles.
+
+      Le Centre Informatique Douanier d'Osny et la Direction Nationale des Statistiques du Commerce Extérieur de Toulouse constituent les deux piliers de l'infrastructure informatique de la Douane.
+
+      Les études comparatives menées en Suède, au Royaume-Uni, aux États-Unis et en Australie illustrent le niveau élevé d'automatisation et d'investissement des administrations fiscales étrangères.
