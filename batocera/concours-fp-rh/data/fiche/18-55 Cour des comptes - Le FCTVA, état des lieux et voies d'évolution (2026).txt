@@ -1,0 +1,263 @@
+FICHE DE RÉVISION EXHAUSTIVE : LE FONDS DE COMPENSATION POUR LA TAXE SUR LA VALEUR AJOUTÉE (FCTVA) EN deux mille vingt-six.
+
+LEXIQUE COMPLET.
+
+      ALiCE désigne l'Application pour la Liquidation et le Contrôle de l'Éligibilité du FCTVA, outil informatique développé par la DGFiP et la DTNUM pour automatiser l'extraction des données comptables locales.
+
+      APUL désigne les Administrations Publiques Locales, ensemble des collectivités territoriales et de leurs établissements publics régionaux, départementaux et communaux.
+
+      CCAS désigne le Centre Communal d'Action Sociale, établissement public local gérant l'action sociale municipale et bénéficiant du versement automatisé du fonds.
+
+      CFL désigne le Comité des Finances Locales, instance de concertation regroupant des élus locaux et des représentants de l'État pour rendre des avis sur les concours financiers.
+
+      CGCT désigne le Code Général des Collectivités Territoriales, corpus juridique codifié regroupant les dispositions législatives et réglementaires applicables au FCTVA.
+
+      CGI désigne le Code Général des Impôts, texte fiscal fondamental définissant les règles de la taxe sur la valeur ajoutée et les régimes d'assujettissement des personnes morales publiques.
+
+      DDFiP désigne la Direction Départementale des Finances Publiques, service déconcentré de la DGFiP assurant le contrôle comptable amont et le paiement en aval.
+
+      DETR désigne la Dotation d'Équipement des Territoires Ruraux, concours financier cerné sous forme de subvention d'investissement accordée aux collectivités rurales éligibles.
+
+      DGF désigne la Dotation Globale de Fonctionnement, principal concours financier de l'État attribué sous forme d'enveloppe forfaitaire libre d'emploi aux collectivités.
+
+      DGCL désigne la Direction Générale des Collectivités Locales, administration centrale du ministère de l'Intérieur chargée de la réglementation et du cadrage financier des collectivités.
+
+      DGFiP désigne la Direction Générale des Finances Publiques, administration centrale du ministère des Finances chargée de la gestion comptable et fiscale de l'État et des collectivités.
+
+      DSIL désigne la Dotation de Soutien à l'Investissement Local, subvention ciblée de l'État destinée à financer des projets d'investissement structurants sur les territoires.
+
+      EPCI désigne l'Établissement Public de Coopération Intercommunale, regroupement de communes exerçant des compétences transférées et bénéficiant de régimes de versement spécifiques.
+
+      FBCF désigne la Formation Brute de Capital Fixe, agrégat de la comptabilité nationale mesurant la valeur des investissements matériels et immatériels des acteurs publics.
+
+      FCDE désigne le Fonds de Compensation du Développement de l'Équipement, ancêtre du FCTVA créé en mille neuf cent soixante-quinze pour rembourser la charge fiscale grevant l'équipement local.
+
+      FCTVA désigne le Fonds de Compensation pour la Taxe sur la Valeur Ajoutée, prélèvement sur recettes de l'État compensant la taxe sur la valeur ajoutée non récupérable des collectivités.
+
+      LPF désigne le Livre des Procédures Fiscales, recueil codifié encadrant l'échange d'informations entre l'administration fiscale et les préfectures au titre de l'article cent trente-cinq ZD.
+
+      PSR désigne le Prélèvement Sur Recettes, catégorie de concours financier prélevé sur les recettes du budget général de l'État au profit des collectivités territoriales.
+
+      TEPS désigne le Traitement Automatisé des Éligibilités et Paiements Simplifiés, module technique de l'architecture applicative gérant le versement automatisé du fonds.
+
+      TVA désigne la Taxe sur la Valeur Ajoutée, impôt indirect sur la consommation supporté par les collectivités lorsqu'elles n'agissent pas en tant qu'assujettis fiscaux.
+
+COURS DÉTAILLÉ.
+
+I. CADRE JURIDIQUE, HISTORIQUE ET NATURE FINANCIÈRE DU FCTVA.
+
+   A. Genèse historique et transformation de la nature budgétaire du fonds.
+
+      Le mécanisme de compensation de la taxe sur la valeur ajoutée supportée par les collectivités territoriales a été instauré initialement par l'article treize de la loi de finances rectificative du vingt-neuf juillet mille neuf cent soixante-quinze sous la dénomination de Fonds de compensation du développement de l'équipement.
+
+      Ce dispositif visait originellement à rembourser aux collectivités locales la charge de taxe sur la valeur ajoutée acquittée sur leurs dépenses d'équipement afin de stimuler la commande publique locale.
+
+      La structure a été transformée en Fonds de compensation pour la taxe sur la valeur ajoutée par la loi n° soixante-dix-sept-mille quatre cent soixante-sept du trente décembre mille neuf cent soixante-dix-sept de finances pour mille neuf cent soixante-dix-huit.
+
+      L'évolution majeure de sa nature juridique est intervenue avec l'article trente-quatre de la loi de finances initiale pour mille neuf cent quatre-vingt-dix-huit qui a transformé ce fonds hybride en un prélèvement sur recettes de l'État.
+
+      Ce prélèvement sur recettes vise à neutraliser la charge fiscale grevant les investissements des personnes morales de droit public qui ne disposent pas du droit à déduction fiscale directe au titre des articles deux cent cinquante-six B et deux cent soixante A du Code général des impôts.
+
+   B. Caractères juridiques et modalités de calcul de la compensation.
+
+      Le Fonds de compensation pour la taxe sur la valeur ajoutée constitue un concours financier de l'État libre d'emploi qui n'est pas intégré dans les contrats de plan ou les enveloppes fermées.
+
+      Il se distingue fondamentalement des dotations d'investissement ciblées comme la Dotation d'équipement des territoires ruraux ou la Dotation de soutien à l'investissement local en raison de son caractère automatique et non sélectif.
+
+      Le montant attribué aux collectivités territoriales est calculé en appliquant un taux forfaitaire fixé par la loi aux dépenses d'investissement éligibles de l'année de référence.
+
+      Ce taux légal forfaitaire s'établit à seize virgule quatre cent quatre pour cent des dépenses d'investissement toutes taxes comprises, ce qui équivaut exactement à dix-neuf virgule six cent quatre-vingt-cinq pour cent du montant hors taxes des dépenses soumises au taux normal de taxe sur la valeur ajoutée de vingt pour cent.
+
+      Ce décalage entre le taux du fonds et le taux normal de taxe sur la valeur ajoutée résulte de réformes successives ayant déconnecté le taux forfaitaire du taux légal de l'impôt.
+
+   C. Élargissements successifs de l'assiette des dépenses éligibles.
+
+      L'assiette des dépenses ouvrant droit au bénéfice du fonds a fait l'objet d'extensions législatives successives afin d'accompagner la modernisation des équipements publics locaux.
+
+      La loi de finances initiale pour deux mille seize a ainsi intégré les dépenses d'entretien des bâtiments publics et de la voirie communale enregistrées au compte soixante et un mille cinq cent vingt-deux de la section de fonctionnement.
+
+      De même, la loi de finances initiale pour deux mille vingt a étendu le bénéfice du fonds aux dépenses d'informatique en nuage ou infonuagique afin d'encourager la dématérialisation des services territoriaux.
+
+      L'article deux cent cinquante et un de la loi n° deux mille vingt-mille sept cent vingt et un du vingt-neuf décembre deux mille vingt a gravé dans la loi la liste des comptes éligibles précisée par l'arrêté du trente décembre deux mille vingt.
+
+      Cette extension progressive vers des dépenses de fonctionnement ou de maintenance a distendu le lien exclusif entre le fonds et les dépenses d'investissement patrimonial strictes.
+
+II. RÉGIMES DE VERSEMENT ET DYNAMIQUE FINANCIÈRE DU FONDS.
+
+   A. Superposition des trois régimes chronologiques de versement.
+
+      La gestion financière du fonds se caractérise par la coexistence de trois régimes chronologiques distincts de versement des attributions aux collectivités territoriales.
+
+      Le régime de droit commun, dit régime N+deux, s'applique aux communes de droit commun qui perçoivent leur compensation deux ans après la réalisation effective de la dépense d'investissement.
+
+      Le régime intermédiaire, dit régime N+un, bénéficie aux établissements publics de coopération intercommunale à fiscalité propre créés depuis mille neuf cent quatre-vingt-neuf ainsi qu'aux communes ayant souscrit des engagements contractuels.
+
+      Le régime contemporain, dit régime N, permet un versement l'année même de l'exécution de la dépense pour les structures issues des plans de relance de deux mille neuf et de la réforme de deux mille vingt et un.
+
+      Cette superposition de trois régimes temporels engendre des complexités de gestion considérables et crée des disparités de trésorerie entre catégories de collectivités.
+
+   B. Évolution récente des volumes financiers et prépondérance du soutien étatique.
+
+      Les montants consacrés au Fonds de compensation pour la taxe sur la valeur ajoutée ont connu une croissance très soutenue au cours de la période récente.
+
+      La dépense annuelle du fonds est passée de six virgule sept milliards d'euros en deux mille vingt-deux à six virgule quatre-vingt-cinq milliards d'euros en deux mille vingt-trois pour dépasser le seuil de sept milliards d'euros à compter de deux mille vingt-quatre.
+
+      Le fonds constitue désormais le premier instrument financier de soutien de l'État à l'investissement public local, représentant une part prépondérante de l'effort financier global.
+
+      Cette hausse continue s'explique par la reprise dynamique de l'investissement local, l'élargissement de l'assiette éligible et l'automatisation qui a éradiqué les pertes d'attributions.
+
+      En comparaison, les dotations budgétaires de soutien à l'investissement comme la DETR et la DSIL représentent des enveloppes d'un montant nettement inférieur.
+
+   C. Appréciation de l'effet levier et impact sur l'investissement public local.
+
+      L'effet d'entraînement direct du fonds sur le volume global des investissements des collectivités territoriales demeure complexe à isoler sur le plan économétrique.
+
+      Les travaux d'évaluation conduits par la Cour des comptes indiquent que le fonds influe principalement sur la trésorerie et la structuration des plans de financement locaux.
+
+      En tant que ressource non affectée, les sommes perçues viennent abonder le fonds de roulement global des collectivités sans conditionnalité thématique prioritaire.
+
+      Cette absence de ciblage sélectif limite la portée incitative du fonds en faveur des orientations nationales stratégiques telles que la transition écologique.
+
+      L'influence du fonds apparaît ainsi plus avérée sur les modalités de gestion financière que sur le déclenchement ex nihilo d'opérations d'équipement.
+
+III. AUTOMATISATION ET NUMÉRISATION DU PROCESSUS DE GESTION.
+
+   A. Cadre législatif et déploiement de la réforme d'automatisation.
+
+      L'article deux cent cinquante et un de la loi n° deux mille vingt-mille sept cent vingt et un du vingt-neuf décembre deux mille vingt de finances pour deux mille vingt et un a profondément rénové la gestion du fonds en instaurant un traitement automatisé.
+
+      Ce dispositif a substitué à la procédure déclarative sur états papier un traitement informatique fondé sur l'extraction directe des écritures comptables locales.
+
+      La mise en œuvre technique s'appuie sur l'application ALiCE développée par la DGFiP et la DTNUM en liaison avec la chaîne budgétaire Chorus et l'outil ATLAS.
+
+      Le déploiement progressif s'est échelonné entre deux mille vingt et un et deux mille vingt-trois pour couvrir l'ensemble des collectivités territoriales et de leurs établissements publics rattrapés par la réforme.
+
+      L'arrêté du trente décembre deux mille vingt a fixé la liste stricte des comptes comptables éligibles intégrant automatiquement la base du calcul automatisé.
+
+   B. Bénéfices constatés pour les collectivités territoriales et les satellites locaux.
+
+      L'automatisation du fonds a permis d'assurer une régularité et une rapidité accrues des versements infra-annuels au profit des caisses locales.
+
+      La réforme a éradiqué les situations de non-recours au fonds, garantissant le versement automatique de l'intégralité des sommes dues sans démarche déclarative.
+
+      Cette avancée a bénéficié directement à environ mille sept cents centres communaux d'action sociale et près de deux cents caisses des écoles auparavant évincés du système.
+
+      Pour les directions financières locales, l'automatisation a réduit significativement la charge de constitution administrative des dossiers de demande de remboursement.
+
+      La DGFiP souligne dans son bilan au Comité des finances locales la parfaite visibilité offerte aux collectivités sur l'assiette de leurs droits.
+
+   C. Incomplétude de la dématérialisation et gains d'efficience limités.
+
+      En dépit des avancées observées, la dématérialisation du processus de gestion demeure incomplète et impose le maintien d'interventions manuelles.
+
+      Les préfectures doivent continuer d'éditer ou de valider manuellement des arrêtés d'attribution pour formaliser le titre juridique de recette.
+
+      L'automatisation fondée sur une liste arrêtée de comptes comptables soulève des difficultés d'imputation, notamment pour le compte soixante et un mille cinq cent vingt-deux relatif à l'entretien de voirie.
+
+      De plus, la prise en charge d'exclusions complexes comme les subventions d'équipement versées ou les cessions immobilières nécessite des vérifications manuelles.
+
+      En conséquence, les gains de productivité et les réductions d'effectifs en préfecture se sont révélés très inférieurs aux prévisions initiales de la réforme.
+
+IV. DISPOSITIFS ET CONTRÔLES ADMINISTRATIFS ET FINANCIERS.
+
+   A. Rôle et périmètre des contrôles assurés par la DGFiP.
+
+      L'intervention des Directions Départementales des Finances Publiques s'exerce de manière strictly circonscrite en amont et en aval de la liquidation.
+
+      En amont de la liquidation, les comptables publics vérifient la régularité de l'imputation comptable des dépenses sur les comptes éligibles fixés par l'arrêté du trente décembre deux mille vingt.
+
+      Les services fiscaux s'assurent également du paramétrage adéquat des budgets locaux afin d'isoler les activités commerciales assujetties à la taxe sur la valeur ajoutée.
+
+      En aval, les DDFiP effectuent le contrôle de conformité des ordres de paiement dans l'application Chorus sans intervenir sur le fond de l'éligibilité des opérations.
+
+      Les comptables publics ne disposent d'aucune compétence légale pour prononcer le rejet sur le fond d'une dépense validée dans le cadre de la liquidation préfectorale.
+
+   B. Modalités et hétérogénéité des contrôles exercés par les préfectures.
+
+      Les préfectures demeurent seules investies de la compétence juridique de liquidation et de contrôle du bien-fondé des attributions du fonds.
+
+      Les contrôles préfectoraux sont exécutés soit de façon exhaustive soit par voie d'échantillonnage selon les orientations fixées par les instructions nationales.
+
+      Une forte hétérogénéité des pratiques de contrôle et des taux de rejet est constatée d'un département à l'autre, avec des taux oscillant entre zéro pour cent et plus de cinq pour cent.
+
+      Les agents des préfectures se heurtent à l'absence d'accès direct aux pièces justificatives de dépenses dans l'application ALiCE pour valider l'éligibilité réelle.
+
+      L'application de l'article cent trente-cinq ZD du Livre des Procédures Fiscales encadre la transmission de renseignements entre les préfectures et l'administration fiscale.
+
+   C. Supervision nationale et outillage statistique de la DGCL.
+
+      Le pilotage national de l'activité de contrôle du fonds présente des lacunes méthodologiques en l'absence de données statistiques centralisées.
+
+      La Direction Générale des Collectivités Locales ne dispose pas d'un état récapitulatif exhaustif des contrôles réalisés et des rejets opérés par les préfectures.
+
+      La Cour des comptes préconise le renforcement du cadrage national et le développement d'outils statistiques de cartographie des risques comptables.
+
+      Une meilleure coordination entre la DGCL et la DGFiP apparaît indispensable pour harmoniser la doctrine d'éligibilité sur l'ensemble du territoire national.
+
+      Le renforcement du contrôle interne s'impose pour garantir que les deniers publics attribués au titre du fonds soient versés à bon droit.
+
+V. PRÉVISIONS BUDGÉTAIRES ET PERSPECTIVES DE RÉFORME.
+
+   A. Limites du modèle de prévision et incertitudes d'exécution.
+
+      La prévision budgétaire du prélèvement sur recettes repose sur un modèle élaboré conjointement par la DGCL, la Direction Générale du Trésor et la DGFiP.
+
+      Ce modèle s'appuie sur la modélisation de la Formation Brute de Capital Fixe des collectivités territoriales et sur des hypothèses macro-économiques.
+
+      La fiabilité de cette prévision est mise à défaut en raison de la superposition des trois régimes de versement qui bouscule la chronique des paiements.
+
+      Il en résulte des écarts d'exécution budgétaire récurrents atteignant plusieurs centaines de millions d'euros entre la loi de finances initiale et l'exécution réelle.
+
+      Cette instabilité prévisionnelle complique la trajectoire des finances publiques et la maîtrise des dépenses de l'État.
+
+   B. Scénarios d'évolution analysés par la Cour des comptes.
+
+      Afin d'assainir la gestion du fonds, la Cour des comptes préconise le retour à un régime unique de versement en année N+deux pour l'ensemble des bénéficiaires.
+
+      La Cour recommande également de recentrer l'assiette du fonds sur les seules dépenses d'investissement patrimonial en excluant les frais d'entretien courant.
+
+      Deux scénarios d'évolution sont rejetés comme inadaptés : l'intégration du fonds dans la Dotation Globale de Fonctionnement et le plafonnement en enveloppe fermée.
+
+      Les options à privilégier résident dans le maintien d'un prélèvement sur recettes évaluatif rénové ou dans une rebudgétisation partielle sous contrôle parlementaire.
+
+      Ces réformes visent à rétablir la lisibilité budgétaire tout en préservant le soutien à l'équipement public territorial.
+
+   C. Position officielle et observations de la DGFiP.
+
+      Dans sa réponse officielle du quatorze septembre deux mille vingt-six sous la référence deux mille vingt-six/neuf/cent soixante-quinze, la DGFiP dresse un bilan très favorable de l'automatisation du fonds.
+
+      L'administration fiscale souligne que l'automatisation a assuré la lisibilité de l'assiette et garanti l'attribution intégrale des droits aux petites communes.
+
+      La DGFiP alerte sur le fait qu'un retour généralisé au régime N+deux provoquerait un choc de trésorerie majeur pour les collectivités bénéficiant des régimes N et N+un.
+
+      L'administration préconise le perfectionnement ciblé des règles informatiques et de la liste des comptes éligibles plutôt qu'une remise en cause globale du dispositif.
+
+      Le dialogue entre la Cour des comptes et la DGFiP souligne la nécessité de concilier la sécurité des contrôles et la fluidité des financements locaux.
+
+POINTS D'ATTENTION.
+
+      Le taux forfaitaire du fonds fixé à seize virgule quatre cent quatre pour cent s'applique aux dépenses toutes taxes comprises et ne doit pas être confondu avec le taux de taxe sur la valeur ajoutée de vingt pour cent.
+
+      Les dépenses de fonctionnement ne sont pas éligibles au fonds, à l'exception expresse des frais d'entretien de voirie et de bâtiments enregistrés au compte soixante et un mille cinq cent vingt-deux.
+
+      Les activités à caractère commercial gérées par des budgets annexes assujettis à la taxe sur la valeur ajoutée sont exclues du bénéfice du fonds pour éviter un double remboursement.
+
+      L'application ALiCE procède à des extractions automatisées mais ne dispense pas les préfectures de procéder à des contrôles de liquidation par échantillonnage.
+
+      Le retour au régime de versement en année N+deux suggéré par la Cour des comptes se heurte aux réserves formulées par la DGFiP en raison de son impact sur la trésorerie locale.
+
+      Le secret fiscal encadré par l'article cent trente-cinq ZD du Livre des Procédures Fiscales régit la transmission d'informations entre les services des finances publiques et les préfectures.
+
+EXEMPLES CITES.
+
+      L'article deux cent cinquante et un de la loi n° deux mille vingt-mille sept cent vingt et un du vingt-neuf décembre deux mille vingt de finances pour deux mille vingt et un pose le cadre légal du traitement automatisé du fonds.
+
+      L'arrêté du trente décembre deux mille vingt fixe la liste réglementaire des comptes comptables éligibles à la procédure de traitement automatisé.
+
+      La réponse officielle du Directeur général adjoint des Finances publiques porte la référence deux mille vingt-six/neuf/cent soixante-quinze et la date du quatorze septembre deux mille vingt-six.
+
+      L'article cent trente-cinq ZD du Livre des Procédures Fiscales encadre la communication de données entre l'administration fiscale et les préfectures.
+
+      Le compte soixante et un mille cinq cent vingt-deux relatif à l'entretien de voirie illustre les difficultés d'imputation entre section de fonctionnement et section d'investissement.
+
+      Les centres communaux d'action sociale au nombre de mille sept cents et les caisses des écoles au nombre de deux cents illustrent la fin du non-recours grâce à l'automatisation.

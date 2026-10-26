@@ -1,0 +1,249 @@
+FICHE DE RÉVISION EXHAUSTIVE ET DÉTAILLÉE DU DOCUMENT DE POLITIQUE TRANSVERSALE SUR LA LUTTE CONTRE L'ÉVASION FISCALE ET LA FRAUDE.
+
+LEXIQUE COMPLET.
+
+      Le Document de politique transversale (DPT) constitue une annexe au projet de loi de finances présentant les objectifs, les moyens et les indicateurs consolidés d'une politique interministérielle.
+
+      La Loi organique relative aux lois de finances (LOLF) fixe le cadre juridique du budget de l'État et organise les crédits en missions, programmes et actions évalués par des indicateurs de performance.
+
+      La Direction générale des Finances publiques (DGFiP) assure la gestion de l'impôt, le contrôle fiscal, le recouvrement des recettes publiques et la tenue des comptes de l'État.
+
+      La Direction générale des Douanes et Droits indirects (DGDDI) est chargée de la perception des droits de douane et taxes indirectes, de la surveillance des frontières et de la lutte contre les trafics illicites.
+
+      L'Agence centrale des organismes de sécurité sociale (ACOSS) pilote le réseau des URSSAF pour le recouvrement des cotisations sociales du régime général et la lutte contre le travail dissimulé.
+
+      La Caisse centrale de la mutualité sociale agricole (CCMSA) gère le recouvrement des cotisations et la lutte contre la fraude pour l'ensemble des exploitants et salariés du secteur agricole.
+
+      La Direction générale du Travail (DGT) pilote le réseau de l'inspection du travail et coordonne les actions de prévention et de répression du travail illégal.
+
+      L'Office national anti-fraude (ONAF), créé le premier mai deux mille vingt-quatre, est un service d'enquête judiciaire commun à la DGFiP et à la DGDDI compétent pour les fraudes fiscales, douanières et financières graves.
+
+      La Brigade nationale de répression de la délinquance fiscale (BNRDF) est une unité judiciaire spécialisée dans la recherche et la poursuite des infractions fiscales complexes et pénales.
+
+      La Mission interministérielle anti-fraude (MIAF), succédant à la MICAF et à la DNLF, anime et coordonne la politique nationale de lutte contre les fraudes aux finances publiques et sociales.
+
+      Les Comités opérationnels départementaux anti-fraude (CODAF), co-présidés par les préfets et les procureurs de la République, coordonnent l'action locale des services de l'État et des organismes sociaux.
+
+      Le Livre des procédures fiscales (LPF) rassemble les règles régissant le contrôle fiscal, le droit de communication, la dénonciation obligatoire et les garanties offertes aux contribuables.
+
+      Le fichier PATRIM est un registre national automatisé recensant les transactions immobilières permettant aux agents d'évaluer la valeur vénale des biens fonciers.
+
+      Le Fichier des comptes bancaires (FICOBA) centralise l'ensemble des ouvertures de comptes bancaires des personnes physiques et morales sur le territoire national.
+
+      Le fichier FICOVIE recense les contrats d'assurance-vie et de capitalisation souscrits auprès des organismes d'assurance établis en France.
+
+      La Base nationale des données patrimoniales (BNDP) regroupe les informations relatives au patrimoine des contribuables pour faciliter les investigations fiscales et sociales.
+
+      La Convention judiciaire d'intérêt public (CJIP) permet au procureur de la République de proposer à une personne morale une transaction pénale comportant une amende d'intérêt public.
+
+      Le Service national de douane judiciaire (SNDJ) apportait son concours aux enquêtes judiciaires douanières avant son intégration au sein du nouvel Office national anti-fraude.
+
+      La Direction nationale de la police aux frontières (DNPAF) lutte contre l'immigration irrégulière, l'emploi d'étrangers sans titre et les réseaux d'escroquerie documentaire.
+
+      Le Parquet européen (EPPO) est un organe indépendant de l'Union européenne chargé d'enquêter et de poursuivre les infractions portant atteinte au budget communautaire comme la fraude à la TVA.
+
+COURS DÉTAILLÉ.
+
+I. CADRE JURIDIQUE, STRATÉGIQUE ET FINANCIER DE LA POLITIQUE TRANSVERSALE DE LUTTE CONTRE LA FRAUDE.
+
+   A. Fondements légaux et gouvernance du document de politique transversale.
+
+      Le document de politique transversale consacré à la lutte contre l'évasion fiscale et la fraude trouve son ancrage législatif dans l'article cent vingt-huit de la loi n° deux mille cinq-mille sept cent vingt du trente décembre deux mille cinq de finances rectificative pour deux mille cinq, modifié ultérieurement par les lois n° deux mille dix-neuf-mille quatre cent soixante-dix-neuf du vingt-huit décembre deux mille dix-neuf et n° deux mille vingt-trois-mille trois cent vingt-deux du vingt-neuf décembre deux mille vingt-trois de finances pour deux mille vingt-quatre. Ce texte législatif impose au gouvernement d'annexer au projet de loi de finances une présentation consolidée et stratégique des politiques publiques qui mobilisent plusieurs ministères et programmes budgétaires distincts.
+
+      La gouvernance interministérielle de cette politique publique majeure est placée sous l'autorité du ministre chef de file compétent en matière d'Action et de Comptes publics. Ce pilotage stratégique associe de façon permanente les départements ministériels de la Justice, de l'Intérieur, du Travail ainsi que les organismes chargés de la gestion de la sécurité sociale afin de couvrir l'ensemble des champs de la fraude aux finances publiques.
+
+      Le document de politique transversale s'intègre dans un ensemble de quinze documents thématiques prévus par la loi pour éclairer le Parlement sur les enjeux territoriaux et sectoriels transversaux. Cette approche permet de synthétiser les orientations stratégiques, d'attribuer les ressources financières nécessaires et de mesurer l'efficacité des contrôles grâce à une grille d'indicateurs de performance unifiée.
+
+      L'architecture institutionnelle repose sur une coopération étroite entre la sphère fiscale, la sphère douanière, la sphère sociale et les services d'enquête judiciaire. La synergie entre ces administrations permet d'aligner les priorités opérationnelles, de partager les outils informatiques d'analyse de risque et de lutter simultanément contre le travail dissimulé et la fraude aux prélèvements obligatoires.
+
+   B. Feuille de route et plan de lutte contre les fraudes aux finances publiques de mai deux mille vingt-trois.
+
+      Le gouvernement a présenté en mai deux mille vingt-trois une feuille de route pluriannuelle pour la période deux mille vingt-trois à deux mille vingt-sept comportant trente-cinq mesures concrètes pour lutter contre toutes les formes de fraudes aux finances publiques. Ce plan d'action vise à moderniser les outils de détection, à renforcer les sanctions contre les fraudeurs délibérés et à étendre le soutien aux usagers de bonne foi dans le cadre de la relation de confiance.
+
+      En matière de fraude sociale, la feuille de route fixe un objectif ambitieux consistant à doubler le montant des redressements de cotisations et contributions sociales pour atteindre cinq milliards d'euros de redressements cumulés sur l'ensemble du quinquennat. Cet effort cible prioritairement les fraudes complexes, le travail dissimulé d'ampleur et le détournement des règles de détachement international de salariés.
+
+      Pour atteindre ces objectifs chiffrés, la feuille de route prévoit la création de mille cinq cents emplois supplémentaires dédiés à la lutte contre la fraude fiscale au sein de la Direction générale des Finances publiques. Entre deux mille vingt-trois et deux mille vingt-cinq, cinq cent cinquante-cinq emplois ont déjà été implantés spécifiquement dans les services de contrôle fiscal sur un total de sept cent quatre-vingts emplois créés à ce stade.
+
+      La stratégie nationale combine le renforcement des sanctions répressives avec des dispositifs de prévention des erreurs déclaratives pour les petites et moyennes entreprises. Le plan encourage la publication de cartes des schémas fiscaux abusifs, l'accompagnement fiscal personnalisé et le développement de contrôles automatisés sur pièces en amont du versement de restitutions ou de remboursements d'impôts.
+
+   C. Structure budgétaire, crédits d'engagement et indicateurs de la LOLF.
+
+      Les ressources financières consacrées par l'État à la lutte contre l'évasion et la fraude fiscale sont retracées au sein de plusieurs programmes budgétaires de la loi organique relative aux lois de finances. Le programme P156 intitulé Gestion fiscale et financière de l'État et du secteur public local constitue le principal support budgétaire des moyens humains et matériels de la Direction générale des Finances publiques.
+
+      La Direction générale des Douanes et Droits indirects s'appuie de son côté sur le programme P302 relatif à la Facilitation et sécurisation des échanges pour financer ses opérations de contrôle, de surveillance et d'enquête judiciaire. Le programme P218 assure quant à lui le pilotage transverse, la coordination interministérielle et le financement des fonctions d'appui des politiques économiques et financières.
+
+      Les crédits budgétaires sont présentés en autorisations d'engagement (AE) et en crédits de paiement (CP), conformément à l'article huit de la loi organique relative aux lois de finances. Le document intègre également la mesure des dépenses fiscales associées ainsi que les prélèvements sur recettes concourant à la réalisation des objectifs de recouvrement et de contrôle fixés par le Parlement.
+
+      Chaque programme budgétaire se décline en objectifs de performance assortis d'indicateurs chiffrés permettant d'évaluer l'efficacité des contrôles du point de vue du citoyen et des finances publiques. L'indicateur principal du programme P156 mesure la part des dossiers répressifs transmis à la justice et le taux d'opérations de contrôle ciblées par intelligence artificielle et analyse de données massives.
+
+II. STRATÉGIE ET OPÉRATIONS DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES EN MATIÈRE FISCALE.
+
+   A. Modernisation du contrôle fiscal, ciblage par datamining et accompagnement.
+
+      La Direction générale des Finances publiques a engagé une transformation profonde de ses méthodes de ciblage en s'appuyant sur le traitement automatisé des données et la modélisation prédictive. L'utilisation des algorithmes de datamining permet de croiser de vastes volumes d'informations déclaratives, bancaires et patrimoniales pour détecter de manière précoce les anomalies et les risques d'évasion fiscale.
+
+      L'administration fiscale s'est assignée pour objectif stratégique de réaliser cinquante pour cent de ses contrôles fiscaux à partir d'outils de ciblage automatisé et d'intelligence artificielle. Ce dispositif s'applique tant à la fiscalité des entreprises pour la détection de fraudes à la taxe sur la valeur ajoutée qu'à la fiscalité des particuliers pour l'identification des incohérences de revenus et de patrimoine.
+
+      Le contrôle fiscal s'articule entre le contrôle sur pièces (CSP) réalisé à partir des dossiers administratifs et les vérifications approfondies conduites sur place dans les locaux professionnels des entreprises. Pour les personnes physiques, l'examen contradictoire de la situation fiscale personnelle (ESFP) permet de vérifier la cohérence entre les revenus déclarés, le train de vie et les éléments de patrimoine possédés en France ou à l'étranger.
+
+      Parallèlement à la répression, la Direction générale des Finances publiques consolide la relation de confiance et l'accompagnement fiscal sur mesure des petites et moyennes entreprises. Ce dispositif vise à sécuriser les opérations complexes en amont et à permettre aux contribuables de bonne foi de corriger spontanément leurs erreurs sans encourir de pénalités répressives.
+
+   B. Contrôle fiscal international, prix de transfert et lutte contre l'optimisation agressive.
+
+      La lutte contre la fraude fiscale internationale constitue une priorité majeure de la Direction des vérifications nationales et internationales (DVNI) qui concentre ses moyens sur les grands groupes multinationaux. Les équipes spécialisées contrôlent rigoureusement la politique de prix de transfert appliquée entre les filiales d'un même groupe pour éviter la délocalisation artificielle de la matière imposable vers des juridictions à fiscalité privilégiée.
+
+      L'administration fiscale exploite intensément les mécanismes de coopération administrative internationale prévus par les directives européennes relatives à la coopération administrative (DAC). La mise en œuvre de la directive DAC7 permet de collecter les données de ventes transmises par les plateformes numériques, tandis que la directive DAC8 encadre la transparence et le partage d'informations sur les transactions en crypto-actifs.
+
+      L'échange automatique de renseignements relatifs aux comptes financiers, fondé sur la norme commune de déclaration (CRS), offre aux vérificateurs un accès direct aux avoirs détenus à l'étranger par des résidents français. Ces données bancaires internationales sont systématiquement rapprochées des déclarations de revenus pour identifier les comptes non déclarés et les avoirs dissimulés dans des paradis fiscaux.
+
+      En matière de contrôle des montages complexes, l'administration fait valoir la notion d'abus de droit fiscal pour écarter les actes fictifs ou à but exclusivement fiscal dépourvus de substance économique. Les vérificateurs rectifient ainsi les schémas d'optimisation agressive visant à contourner les retenues à la source ou à créer des déductions de charges artificielles.
+
+   C. Volet répressif, judiciarisation, ONAF et recouvrement des créances.
+
+      La loi n° deux mille dix-huit-huit cent quatre-vingt-dix-huit du vingt-trois octobre deux mille dix-huit relative à la lutte contre la fraude a profondément réformé la transmission des dossiers fiscaux à l'autorité judiciaire en instaurant un mécanisme de dénonciation obligatoire au procureur de la République selon l'article L. deux cent vingt-huit du LPF. L'administration fiscale est désormais tenue de transmettre automatiquement les dossiers de contrôle donnant lieu à des rappels de droits supérieurs à cent mille euros assortis de pénalités de quatre-vingts pour cent.
+
+      Les investigations judiciaires en matière de fraude fiscale d'ampleur sont confiées à des services d'enquête spécialisés que sont la Brigade nationale de répression de la délinquance fiscale (BNRDF) et le nouvel Office national anti-fraude (ONAF). L'Office national anti-fraude, actif depuis le premier mai deux mille vingt-quatre, regroupe des agents des douanes et des finances publiques dotés de compétences d'enquête judiciaire sur l'ensemble du territoire.
+
+      Le traitement répressif des personnes morales intègre la possibilité d'interrompre les poursuites pénales par la signature d'une Convention judiciaire d'intérêt public (CJIP). Ce dispositif transactionnel impose à l'entreprise le paiement d'une amende d'intérêt public pouvant atteindre trente pour cent de son chiffre d'affaires annuel moyen ainsi qu'un programme de mise en conformité sous le contrôle de l'Agence française anticorruption.
+
+      Le recouvrement des sommes redressées constitue l'ultime étape de l'action de la Direction générale des Finances publiques qui cherche à optimiser l'encaissement effectif des droits et des pénalités. Les agents utilisent les articles L. quatre-vingt-deux C et L. cent un du Livre des procédures fiscales (LPF) pour obtenir communication de pièces judiciaires et procéder à des saisies conservatoires sur les avoirs bancaires et immobiliers des fraudeurs.
+
+III. ACTION DE LA DIRECTION GÉNÉRALE DES DOUANES ET DROITS INDIRECTS EN MATIÈRE DOUANIÈRE ET ÉNERGÉTIQUE.
+
+   A. Orientations stratégiques et régulation des flux du commerce international.
+
+      La Direction générale des Douanes et Droits indirects déploie son plan stratégique articulé autour de la protection du territoire national, de la sécurisation de la frontière extérieure de l'Union européenne et de l'accompagnement des entreprises légitimes. La douane constitue la première ligne de défense économique du pays face aux trafics illicites et aux fraudes fiscales transfrontalières.
+
+      L'explosion des échanges issus du commerce électronique international représente un défi majeur pour les services douaniers chargés de contrôler des millions de petits colis postaux et express. L'administration adapte ses systèmes d'information pour traiter les déclarations de mise en libre pratique et percevoir la taxe sur la valeur ajoutée due dès le premier euro à l'importation.
+
+      La douane assure le recouvrement et le contrôle d'importantes fiscalités spécifiques portant sur les produits énergétiques, les alcools et les tabacs. L'action des services vise à sécuriser la perception de la taxe intérieure de consommation sur les produits énergétiques (TICPE) et de la taxe générale sur les activities polluantes (TGAP) tout en luttant contre les détournements de produits détaxés.
+
+      Le ciblage des contrôles douaniers s'appuie sur l'analyse automatisée du risque basée sur le traitement des données du manifeste de chargement et des déclarations en douane. Cette sélectivité permet de bloquer les envois suspects sans entraver la fluidité du commerce international et le dédouanement des marchandises réglementaires.
+
+   B. Répression des trafics de tabac, des contrefaçons et action de Cyberdouane.
+
+      La lutte contre les réseaux criminels de contrebande et de contrefaçon de tabacs manufacturés constitue une priorité nationale absolue pour préserver les recettes fiscales de l'État et la santé publique. Les unités douanières effectuent des opérations de contrôle ciblé sur les axes routiers, les zones portuaires, les aéroports et le réseau de distribution parallèle pour intercepter les cargaisons clandestines.
+
+      La protection des droits de propriété intellectuelle mobilise l'ensemble des services douaniers qui saisissent chaque année plusieurs millions d'articles contrefaits. Ces marchandises frauduleuses présentent un danger grave pour la sécurité des consommateurs et occasionnent d'importants préjudices économiques pour les entreprises titulaires de brevets et de marques déposées.
+
+      Le service spécialisé Cyberdouane assure une veille permanente sur Internet, le réseau anonyme Darknet et les plateformes de réseaux sociaux pour déceler les marchés clandestins de produits illicites. Les enquêteurs de Cyberdouane identifient les vendeurs de tabac de contrefaçon, de produits stupéfiants et de devises d'origine frauduleuse opérant en ligne.
+
+      L'administration douanière renforce la destruction des saisies et l'application de sanctions financières lourdes à l'encontre des passeurs et des organisateurs de réseaux de contrebande. La douane travaille en lien direct avec les buralistes et les autorités de police pour démanteler les points de vente de rue et les entrepôts de stockage clandestins.
+
+   C. Ancrage judiciaire avec l'ONAF et partenariat avec le Parquet européen.
+
+      La création de l'Office national anti-fraude au premier mai deux mille vingt-quatre consacre la fusion opérationnelle des compétences d'enquête judiciaire douanière et fiscale au sein d'un service à compétence nationale. L'Office national anti-fraude est chargé de mener des enquêtes d'évasion fiscale complexe, d'escroquerie aux douanes et de détournement de deniers publics sous l'autorité des procureurs et juges d'instruction.
+
+      Les officiers de douane judiciaire intégrés au nouvel office disposent de prérogatives d'enquête étendues comprenant la réalisation de gardes à vue, de perquisitions, d'écoutes téléphoniques et de saisies d'avoirs criminels. Ils interviennent sur des dossiers à très forts enjeux financiers impliquant des réseaux criminels organisés et des structures de blanchiment transfrontalières.
+
+      La coopération avec le Parquet européen (EPPO) s'est fortement intensifiée pour poursuivre les infractions portant atteinte aux intérêts financiers de l'Union européenne. La douane apporte son expertise technique et judiciaire aux procureurs européens délégués pour enquêter sur les carrousels de taxe sur la valeur ajoutée et les fraudes aux droits de douane d'importation.
+
+      L'interconnexion des bases de données et la réalisation d'opérations conjointes avec les administrations douanières étrangères renforcent l'efficacité des investigations transfrontalières. Cette coordination internationale permet d'intercepter les flux financiers illicites et d'obtenir l'entraide judiciaire pour la confiscation des biens situés hors du territoire national.
+
+IV. DISPOSITIFS DE LUTTE CONTRE LA FRAUDE AUX COTISATIONS SOCIALES ET LE TRAVAIL ILLÉGAL.
+
+   A. Cadre constitutionnel, légal et orientations des organismes de recouvrement.
+
+      La lutte contre la fraude aux cotisations sociales revêt une valeur de principe à valeur constitutionnelle affirmée par le Conseil constitutionnel dans ses décisions n° deux mille dix-six cent vingt-deux DC de deux mille dix et n° deux mille dix-neuf-sept cent quatre-vingt-neuf QPC de deux mille dix-neuf. Les juges constitutionnels ont consacré la nécessité de préserver l'équilibre financier de la sécurité sociale et la justice sociale face aux manœuvres de soustraction aux prélèvements sociaux.
+
+      L'Agence centrale des organismes de sécurité sociale (ACOSS) et le réseau des URSSAF pilotent les actions de contrôle pour le régime général de sécurité sociale, tandis que la Caisse centrale de la mutualité sociale agricole (CCMSA) agit pour le secteur agricole. La loi du vingt-trois octobre deux mille dix-huit a élargi les compétences et les moyens d'investigation des contrôleurs en matière de recherche du travail dissimulé.
+
+      Les organismes du recouvrement social bénéficient d'un droit d'accès direct aux principaux fichiers d'information gérés par la Direction générale des Finances publiques. Les agents de contrôle peuvent ainsi consulter les bases PATRIM pour l'immobilier, FICOBA pour les comptes bancaires, FICOVIE pour les contrats d'assurance-vie et la Base nationale des données patrimoniales (BNDP).
+
+      Cette interconnexion des données fiscales et sociales permet d'harmoniser les procédures de contrôle, de croiser les revenus déclarés avec le patrimoine réel et de sanctionner les omissions de déclaration de salaires. Les textes légaux ont instauré une sanction financière dissuasive en cas d'opposition ou de refus de réponse aux demandes de communication d'informations.
+
+   B. Prévention et répression du travail dissimulé par la Direction générale du travail.
+
+      La Direction générale du Travail (DGT) et le réseau de l'inspection du travail mènent des actions ciblées pour réprimer le travail dissimulé, le marchandage de main-d'œuvre et le prêt illicite de salariés. Les inspecteurs du travail effectuent des visites de contrôle impromptues sur les chantiers de bâtiment et travaux publics, dans la restauration et le secteur des services.
+
+      Le contrôle du détachement transfrontalier de travailleurs constitue un axe stratégique d'action pour vérifier le respect du noyau dur du droit du travail et le paiement effectif des cotisations sociales. Les agents vérifient la réalité des déclarations préalables de détachement et s'assurent que les entreprises étrangères ne créent pas d'établissements fictifs ou de sociétés coquilles vides.
+
+      Lorsqu'une infraction de travail dissimulé est constatée, les agents rédigent un procès-verbal transmis au procureur de la République et appliquent des sanctions administratives lourdes. Ces mesures comprennent le redressement forfaitaire des cotisations, l'annulation rétroactive des exonérations de charges sociales et le refus des aides publiques à l'emploi.
+
+      L'autorité administrative peut également prononcer des fermetures administratives temporaires d'établissements et décider du remboursement des aides d'État perçues par les entreprises fraudeuses. Ce cumul de sanctions administratives et pénales vise à neutraliser l'avantage concurrentiel indu tiré de la fraude sociale.
+
+   C. Résultats financiers des redressements et concours des forces de sécurité intérieure.
+
+      Les résultats financiers issus des contrôles du recouvrement social traduisent une progression constante des montants redressés au titre du travail dissimulé. L'objectif fixé par le plan gouvernemental prévoit de passer d'un rythme annuel d'environ un milliard d'euros à près de deux milliards d'euros par an d'ici la fin du quinquennat, pour atteindre cinq milliards d'euros cumulés.
+
+      Les forces de sécurité intérieure apportent un concours décisif aux organismes sociaux lors des opérations de contrôle sur le terrain et des enquêtes judiciaires au long cours. Les unités spécialisées de la police judiciaire ainsi que les formations de la Gendarmerie nationale apportent leur expertise pour le démantèlement des réseaux de traite d'êtres humains et de travail illégal.
+
+      La Direction nationale de la police aux frontières (DNPAF) intervient spécifiquement pour détecter l'emploi de travailleurs étrangers dépourvus de titre de travail et les réseaux de falsification documentaire. Les contrôles menés conjointement sur les sites de production permettent d'interpeller les recruteurs clandestins et les marchands de sommeil.
+
+      Les sommes redressées par les URSSAF et la MSA font l'objet de procédures de recouvrement forcé et d'inscriptions d'hypothèque légale sur les biens des dirigeants fraudeurs. La solidarité financière des donneurs d'ordre est systématiquement engagée pour obtenir le paiement des cotisations éludées par leurs sous-traitants défaillants.
+
+V. COORDINATION INTERMINISTÉRIELLE, DISPOSITIFS LOCAUX ET INDICATEURS DE PERFORMANCE.
+
+   A. Coordination nationale par la Mission interministérielle anti-fraude.
+
+      La coordination stratégique et opérationnelle de l'ensemble des acteurs de la lutte contre la fraude est assurée au niveau national par la Mission interministérielle anti-fraude (MIAF). Cette structure interministérielle met en œuvre les orientations fixées par le décret n° deux mille vingt-huit cent soixante-douze du vingt juillet deux mille vingt et la circulaire du Premier ministre n° six mille deux cent soixante-trois/SG du vingt-sept avril deux mille vingt et un.
+
+      La mission interministérielle est chargée d'élaborer les feuilles de route nationales, d'organiser les échanges de données automatisés entre administrations et de décliner les priorités gouvernementales. Elle favorise le décloisonnement entre les services fiscaux, douaniers, sociaux et judiciaires pour créer une synergie globale face aux bandes organisées.
+
+      L'harmonisation du droit de communication constitue un chantier réglementaire majeur piloté par la mission interministérielle. Les règles d'interconnexion permettent désormais la transmission automatique de signalements d'anomalies, de listes d'entreprises éphémères et de procès-verbaux entre la sphère fiscale et les caisses de sécurité sociale.
+
+      La mission supervise également le développement d'outils technologiques mutualisés et de modules de formation destinés aux agents de contrôle. Elle évalue l'impact des mesures législatives anti-fraude et propose au gouvernement les ajustements nécessaires pour combler les failles juridiques exploitées par les fraudeurs.
+
+   B. Action territoriale intégrée des Comités opérationnels départementaux anti-fraude.
+
+      La déclinaison territoriale de la politique anti-fraude repose sur les Comités opérationnels départementaux anti-fraude (CODAF) implantés dans chaque département métropolitain et d'outre-mer. Ces comités apportent une réponse intégrée de proximité en réunissant sous une même instance les préfets, les procureurs de la République et les directeurs des administrations locales.
+
+      Les comités se réunissent en formation plénière pour définir la stratégie départementale et en formation restreinte opérationnelle animée par le procureur pour programmer des opérations ciblées. La participation conjointe de la DGFiP, de la douane, de l'inspection du travail, de la police, de la gendarmerie, des URSSAF, des CAF et des CPAM garantit une couverture complète des risques.
+
+      Sur le terrain, les opérations conjointes des comités départementaux ciblent prioritairement les secteurs d'activité vulnérables comme le bâtiment, la restauration nocturne, le gardiennage, le travail saisonnier agricole et les salons de coiffure. Ces contrôles coordonnés permettent de constater simultanément des infractions fiscales, douanières, de travail dissimulé et de fraude aux prestations.
+
+      Les comités locaux veillent à la mise en œuvre de sanctions administratives et judiciaires graduées allant du redressement financier à la fermeture administrative d'établissement et aux poursuites pénales. Le suivi régulier des affaires d'ampleur permet de garantir le recouvrement effectif des créances publiques et l'assainissement du tissu économique local.
+
+   C. Indicateurs de performance budgétaire et bilan consolidé des préjudices évités.
+
+      L'efficacité de la politique transversale est mesurée à l'aide d'indicateurs de performance inscrits dans les annexes budgétaires du projet de loi de finances. Pour le programme P156, l'indicateur principal P156-onze mille six cent soixante et un-treize mille trois cent quarante-six retrace la part des dossiers répressifs transmis aux parquets et le pourcentage d'opérations de contrôle fiscal ciblées par la valorisation de données informatisées.
+
+      S'agissant du programme P302 de la douane, les indicateurs P302-vingt mille cent vingt-neuf-dix-sept mille neuf cent sept et P302-vingt mille cent trente-dix-sept mille neuf cent neuf évaluent le taux de ciblage efficace des contrôles douaniers fondés sur l'analyse de risque ainsi que les volumes financiers redressés. L'administration mesure également la valeur marchande des marchandises contrefaites ou contrebandées retirées du marché et le niveau de perception des taxes indirectes.
+
+      Le bilan annuel consolidé permet d'apprécier le montant total des droits rappelés, des pénalités appliquées et des montants de fraude évités en amont grâce aux contrôles automatisés. Ces résultats traduisent la montée en puissance des outils d'intelligence artificielle et de la coopération inter-administrations sur l'ensemble du territoire.
+
+      L'évaluation régulière des indicateurs de performance permet au Parlement d'apprécier le retour sur investissement des emplois et des crédits budgétaires alloués à la lutte contre la fraude. Les cibles fixées à l'horizon deux mille vingt-sept et deux mille vingt-huit visent à maintenir une pression de contrôle élevée et à pérenniser les gains financiers au profit du budget de l'État et des comptes sociaux.
+
+POINTS D'ATTENTION.
+
+      L'obligation de transmission automatique au procureur s'applique uniquement si les droits rappelés dépassent cent mille euros et s'accompagnent de pénalités de quatre-vingts pour cent.
+
+      L'annulation des exonérations de cotisations sociales en cas de travail dissimulé présente un caractère rétroactif et peut porter sur l'ensemble de la période contrôlée.
+
+      L'exercice du droit de communication bancaire ne nécessite pas d'autorisation judiciaire préalable mais impose le respect des règles de confidentialité et de traçabilité des accès.
+
+      Les procès-verbaux rédigés par les agents de l'inspection du travail font foi jusqu'à preuve contraire et sont transmis directement à l'autorité judiciaire.
+
+      La signature d'une Convention judiciaire d'intérêt public (CJIP) n'emporte pas déclaration de culpabilité mais implique le paiement d'une amende et la réparation du préjudice.
+
+      La responsabilité solidaire du donneur d'ordre peut être engagée sans qu'il soit nécessaire de prouver sa complicité directe dès lors qu'il n'a pas vérifié la régularité de son sous-traitant.
+
+      Les données bancaires issues de l'échange automatique CRS ne peuvent être utilisées à des fins de contrôle sans procédure contradictoire préalable.
+
+      La fermeture administrative d'un établissement pour travail dissimulé peut être prononcée par le préfet pour une durée maximale de trois mois.
+
+      L'opposition à contrôle fiscal ou social expose l'entreprise à des taxations et redressements d'office assortis de majorations financières très lourdes.
+
+      Les Officiers de douane judiciaire et Officiers de fiscalité judiciaire au sein de l'ONAF agissent sous la direction exclusive des procureurs et des juges d'instruction.
+
+EXEMPLES CITES.
+
+      Création et déploiement opérationnel de l'Office national anti-fraude au premier mai deux mille vingt-quatre combinant les compétences de la douane et des finances publiques.
+
+      Opérations de contrôle conjointes menées dans le cadre des Comités opérationnels départementaux anti-fraude sur les chantiers de bâtiment et travaux publics.
+
+      Démantèlement de réseaux internationaux de fraude à la taxe sur la valeur ajoutée de type carrousel en coordination avec le Parquet européen.
+
+      Interception par les services douaniers de plusieurs tonnes de tabac de contrebande et de cigarettes de contrefaçon sur les axes autoroutiers.
+
+      Utilisation de l'algorithme de datamining pour croiser les données bancaires FICOBA avec la Base nationale des données patrimoniales (BNDP).
+
+      Mise en œuvre des directives européennes DAC7 et DAC8 pour la collecte d'informations auprès des plateformes numériques et des acteurs de crypto-actifs.
+
+      Application de redressements forfaitaires de cotisations sociales pour l'emploi de travailleurs détachés en situation de détachement frauduleux.
+
+      Fermeture administrative provisoire de commerces et de restaurants par décision préfectorale suite à la constatation de travail dissimulé répétitif.
+
+      Poursuite d'entreprises devant les tribunaux judiciaires ayant donné lieu à la conclusion de Conventions judiciaires d'intérêt public (CJIP).
+
+      Saisie à l'importation par la douane de cargaisons de produits de consommation contrefaits portant atteinte aux droits de propriété intellectuelle.
