@@ -1544,5 +1544,41 @@
    "taille": 16761,
    "url": "https://www.collectivites-locales.gouv.fr/competences/le-foncier-innovant"
   }
+ ],
+ "19-53 Gouvernement - Feuille de route de lutte contre toutes les fraudes aux finances publiques (2023)": [
+  {
+   "fichier": "source/plan-lutte-fraudes-2023.pdf",
+   "titre": "Gouvernement - Feuille de route Lutte contre toutes les fraudes aux finances publiques (mai 2023)",
+   "pages": 59,
+   "taille": 1049669,
+   "url": "https://www.douane.gouv.fr/sites/default/files/2023-06/06/894%20-%20FEUILLE%20DE%20ROUTE%20%C2%AB%20LUTTE%20CONTRE%20TOUTES%20LES%20FRAUDES%20AUX%20FINANCES%20PUBLIQUES%20%C2%BB.pdf"
+  }
+ ],
+ "19-54 PLF 2025 - Document de politique transversale, lutte contre l'évasion et la fraude fiscales": [
+  {
+   "fichier": "source/plf2025-orange-fraude-fiscale.pdf",
+   "titre": "PLF 2025 - Document de politique transversale Lutte contre l'évasion et la fraude fiscales",
+   "pages": 166,
+   "taille": 2752856,
+   "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF2025-Oranges/14-Orange_Fraude_fiscale.pdf"
+  }
+ ],
+ "19-60 Mission Gardette - Réforme du recouvrement fiscal et social (2019)": [
+  {
+   "fichier": "source/rapport-gardette-recouvrement-2019.pdf",
+   "titre": "Alexandre Gardette - Réforme du recouvrement fiscal et social, rapport aux ministres (31 juillet 2019)",
+   "pages": 48,
+   "taille": 2010778,
+   "url": "https://www.ifrap.org/sites/default/files/documents/import/2019_07_31_rapport_gardette_reforme_recouvrement_fiscal_juillet_2019.pdf"
+  }
+ ],
+ "19-64 Sénat - Dysfonctionnements de la collecte de la taxe d'aménagement (2025)": [
+  {
+   "fichier": "source/senat-r25-119-taxe-amenagement.pdf",
+   "titre": "Sénat - Rapport d'information n° 119 (2025-2026), collecte de la taxe d'aménagement",
+   "pages": 22,
+   "taille": 487141,
+   "url": "https://www.senat.fr/rap/r25-119/r25-1191.pdf"
+  }
  ]
 }

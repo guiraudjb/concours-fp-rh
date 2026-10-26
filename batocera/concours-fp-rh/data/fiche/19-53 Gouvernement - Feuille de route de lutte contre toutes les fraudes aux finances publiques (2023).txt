@@ -1,0 +1,293 @@
+FEUILLE DE ROUTE DE LUTTE CONTRE TOUTES LES FRAUDES AUX FINANCES PUBLIQUES.
+
+LEXIQUE COMPLET.
+
+      DGFiP : Direction Générale des Finances Publiques, administration du ministère de l'Économie chargée du contrôle fiscal, du recouvrement de l'impôt et du soutien à la conformité des usagers.
+
+      DGDDI : Direction Générale des Douanes et Droits Indirects, administration veillant à la régulation des flux de marchandises, à la lutte contre les trafics illicites et à la fiscalité douanière.
+
+      Urssaf : Unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales, organismes assurant la collecte des prélèvements sociaux et le contrôle du travail dissimulé.
+
+      Tracfin : Cellule française de renseignement financier chargée de la lutte contre les circuits financiers clandestins, le blanchiment d'argent et la fraude aux finances publiques.
+
+      DNRED : Direction Nationale du Renseignement et des Enquêtes Douanières, service de renseignement douanier luttant contre la grande fraude douanière et financière.
+
+      SEJF : Service d'Enquêtes Judiciaires des Finances, service d'enquêtes judiciaires compétent pour les fraudes fiscales complexes, transformé en Office National Anti-Fraude.
+
+      ONAF : Office National Anti-Fraude aux finances publiques, nouvel organisme issu de la transformation du SEJF avec des compétences étendues à l'ensemble des fraudes aux finances publiques.
+
+      MICAF : Mission Interministérielle de Coordination Anti-Fraude, instance assurant le suivi et la coordination de la politique de lutte contre les fraudes aux finances publiques.
+
+      CNAV : Caisse Nationale d'Assurance Vieillesse, organisme gérant la retraite du régime général et la vérification de l'existence des retraités résidant à l'étranger.
+
+      CNAM : Caisse Nationale d'Assurance Maladie, organisme gérant la couverture santé et la prévention des fraudes aux prestations et soins de santé.
+
+      CNAF : Caisse Nationale des Allocations Familiales, organisme gérant le versement des prestations familiales et sociales telles que le revenu de solidarité active ou la prime d'activité.
+
+      HCFIPS : Haut Conseil au Financement de la Protection Sociale, instance d'expertise évaluant le coût du travail dissimulé et de la fraude sociale.
+
+      FICOBA : Fichier National des Comptes Bancaires et Assimilés, répertoire géré par la DGFiP recensant l'ensemble des comptes bancaires ouverts en France.
+
+      PNR : Passenger Name Record, fichier automatisé centralisant les données de réservation et de voyage des passagers du transport aérien et maritime.
+
+      TUP : Transmission Universelle de Patrimoine, procédure juridique de dissolution d'une société entraînant le transfert de son patrimoine à son associé unique.
+
+      DRM : Dispositif de Ressources Mensuelles, base de données centralisant les revenus des salariés issue de la déclaration sociale nominative.
+
+      IOSS : Import One Stop Shop, guichet unique européen permettant la déclaration et le paiement de la taxe sur la valeur ajoutée sur les ventes à distance de biens importés.
+
+      TIG : Travail d'Intérêt Général, peine pénale alternative à l'emprisonnement exigeant un travail non rémunéré au profit de la collectivité.
+
+COURS DÉTAILLÉ.
+
+I. ADAPTATION DE LA LUTTE ANTI-FRAUDE AUX ENJEUX DU NUMÉRIQUE ET DE LA DÉMATÉRIALISATION.
+
+   A. Déploiement massif de la facturation électronique et exploitation des données fiscales.
+
+      La généralisation de la facturation électronique interentreprises associée au transfert électronique des données à l'administration constitue une réforme majeure pour moderniser la collecte de la taxe sur la valeur ajoutée.
+
+      Ce dispositif permettra des gains de simplification substantiels évalués à au moins quatre virgule cinq milliards d'euros pour les entreprises, tout en renforçant considérablement le pré-remplissage des déclarations fiscales.
+
+      Grâce à la collecte en temps réel des données de facturation, la Direction Générale des Finances Publiques pourra vérifier la conformité des déclarations et bloquer immédiatement les remboursements indus de crédits de taxe sur la valeur ajoutée.
+
+      Les outils informatiques de datamining seront pleinement exploités d'ici deux mille vingt-sept afin de générer un gain annuel d'au moins trois milliards d'euros de recettes fiscales supplémentaires.
+
+      L'accès accordé à Tracfin sur les plateformes de facturation dématérialisée renforcera les capacités d'investigation sur les circuits de fraude complexe de type carrousel de taxe sur la valeur ajoutée.
+
+   B. Renforcement de la lutte contre les fraudes liées aux actifs numériques et cryptomonnaies.
+
+      Le recours aux actifs numériques s'est intensifié dans les schémas de fraude complexes afin de détourner des fonds tout en préservant l'anonymat des bénéficiaires effectifs.
+
+      Pour contrer ces pratiques, un plan de formation des agents aux technologies de la chaîne de blocs sera déployé d'ici deux mille vingt-cinq au sein de Tracfin, de la DNRED, du SEJF et de la DGFiP.
+
+      Certains agents de la direction nationale des enquêtes fiscales obtiendront l'habilitation juridique nécessaire pour mener des investigations sous pseudonyme sur internet.
+
+      La France soutiendra activement la directive européenne DAC huit afin de collecter et d'échanger les données sur les bénéficiaires effectifs des transactions en crypto-actifs d'ici deux mille vingt-sept.
+
+      Un groupe de travail interministériel veillera à neutraliser les outils d'opacification financière tels que les mixeurs de cryptomonnaies.
+
+   C. Sécurisation des données bancaires et sociales via les fichiers centralisés et le pré-remplissage.
+
+      La généralisation de l'accès des organismes sociaux au fichier FICOBA permettra de vérifier automatiquement la concordance entre l'identité des allocataires et les coordonnées bancaires transmises.
+
+      Ce contrôle automatisé évitera les détournements de versements par usurpation d'identité ou falsification de pièces administratives lors des téléprocédures.
+
+      Le pré-remplissage des déclarations de ressources pour le revenu de solidarité active et la prime d'activité sera généralisé d'ici deux mille vingt-cinq grâce au dispositif de ressources mensuelles.
+
+      L'affichage du montant net social sur les bulletins de paie à partir de juillet deux mille vingt-trois simplifiera les démarches des usagers et réduira drastiquement les erreurs déclaratives.
+
+      Cette automatisation permettra aux Caisses d'Allocations Familiales de récupérer jusqu'à cinq années de versements indus en cas de manœuvres frauduleuses avérées.
+
+   D. Régulation du commerce en ligne et responsabilisation des plateformes numériques.
+
+      Des protocoles de coopération seront souscrits entre la douane et les plateformes de vente en ligne afin de traquer les produits interdits, contrefaits ou dangereux.
+
+      Les administrations fiscale et douanière disposeront de pouvoirs d'injonction numérique pour faire déréférencer les vendeurs fraudeurs ou bloquer les sites hors Union européenne ne payant pas la taxe sur la valeur ajoutée.
+
+      Les contrôles douaniers seront intensifiés dans les grands entrepôts de stockage logistique répartis sur l'ensemble du territoire national grâce à une cartographie dédiée.
+
+      L'activité de dropshipping sera assujettie à la taxe sur la valeur ajoutée en France en désignant comme redevable le bénéficiaire réel de la transaction d'intermédiation.
+
+      L'obligation de tierce-déclaration du chiffre d'affaires des micro-entrepreneurs par les plateformes devient obligatoire en deux mille vingt-six avant d'appliquer un précompte des cotisations sociales à la source en deux mille vingt-sept.
+
+II. RENFORCEMENT DE LA DÉTECTION ET DURCISSEMENT DES SANCTIONS CONTRE LES FRAUDES.
+
+   A. Dispositif interministériel de lutte contre la captation des aides publiques.
+
+      Une cellule interministérielle de veille et d'analyse des risques de fraude aux aides publiques sera rattachée à la Mission Interministérielle de Coordination Anti-Fraude.
+
+      Chaque ministère devra inscrire la prévention de la fraude dans ses dispositifs de maîtrise des risques sous le contrôle des contrôleurs budgétaires et comptables ministériels.
+
+      Une base de données interministérielle centralisant les relevés d'identité bancaire frauduleux sera déployée pour bloquer instantanément les versements suspects.
+
+      Tracfin pourra solliciter à titre expérimental la suspension provisoire du versement d'une aide publique pendant une durée de trente jours en cas de présomption de fraude organisée.
+
+      Une sanction administrative ad hoc sera créée pour assortir le remboursement des aides indues d'une majoration de quarante pour cent pour manquement délibéré et quatre-vingts pour cent pour manœuvres frauduleuses.
+
+   B. Entrave aux schémas de sociétés éphémères et d'insolvabilité organisée.
+
+      Pour empêcher les entreprises frauduleuses d'échapper aux contrôles par dissolution anticipée, le délai d'opposition des créanciers publics à une Transmission Universelle de Patrimoine sera porté à soixante jours.
+
+      La publication de ces procédures de dissolution devient obligatoire au Bulletin officiel des annonces civiles et commerciales afin de garantir l'information immédiate des services de l'État.
+
+      Toute liquidation amiable d'entreprise sera conditionnée par la loi à la délivrance préalable d'une attestation de conformité fiscale et sociale.
+
+      Les échanges d'informations entre les Greffes des Tribunaux de Commerce et les administrations seront automatisés pour bloquer les gérants de fait frappés d'interdiction de gérer.
+
+   C. Répression renforcée des fraudes aux prestations de santé et aux arrêts de travail.
+
+      L'Assurance Maladie déploiera un système d'alerte permettant aux assurés de signaler les facturations anormales ou fictives directement depuis leur compte numérique Ameli.
+
+      Dès deux mille vingt-cinq, une notification systématique des frais de santé pris en charge sera envoyée sur le smartphone de l'usager, ciblant en priorité les centres de santé ophtalmologiques et dentaires.
+
+      Un programme national de contrôle ciblerat quatre cas sur cinq d'arrêts de travail et s'attaquera aux fausses déclarations d'accidents du travail vendues sur les réseaux sociaux.
+
+      En cas de fraude avérée, les professionnels de santé devront rembourser l'intégralité des cotisations sociales prises en charge par la collectivité au titre de leur régime conventionnel.
+
+      La e-carte Vitale sera généralisée pour vérifier en temps réel les droits des assurés, tandis qu me étude évaluera le rapprochement technique entre la carte Vitale et la carte nationale d'identité.
+
+   D. Refonte de la réponse pénale et pénalisation des procédés frauduleux.
+
+      Un délit spécifique d'incitation à la fraude fiscale punira la commercialisation ou la diffusion sur internet et les réseaux sociaux de kits de fraude et de montages d'évasion.
+
+      Ce nouveau délit sera autonome et permettra à l'autorité judiciaire de poursuivre les concepteurs sans attendre le résultat des contrôles fiscaux individuels.
+
+      Des peines de travail d'intérêt général seront prononcées à l'encontre des personnes condamnées pour fraude fiscale et exécutées notamment au sein des trésoreries-amendes.
+
+      Une peine d'indignité fiscale sera instaurée pour priver temporairement les fraudeurs graves du bénéfice des réductions et crédits d'impôt.
+
+      Les conventions judiciaires d'intérêt public continueront d'être mobilisées pour sanctionner sévèrement les fraudes d'ampleur commises par des personnes morales.
+
+III. LUTTE CONTRE LA FRAUDE À L'INTERNATIONAL ET FISCALITÉ DES MULTINATIONALES.
+
+   A. Contrôle de la résidence fiscale et sociale à travers l'accès au fichier des données de voyage.
+
+      Certains agents habilités de la DGFiP et des organismes sociaux auront accès aux données du fichier Passenger Name Record de l'Agence nationale des données de voyage.
+
+      La vérification des dates de réservation et d'embarquement aérien ou maritime permettra de prouver la présence effective ou l'absence d'un contribuable sur le territoire national.
+
+      Cet outil neutralisera les fausses attestations d'hébergement ou la dissimulation d'installations prolongées à l'étranger pour percevoir indûment des aides sociales.
+
+      En matière fiscale, les données de voyage serviront à caractériser l'existence d'un siège de direction effective en France pour les sociétés artificiellement localisées hors de France.
+
+   B. Harmonisation des conditions de résidence et lutte contre la non-déclaration des décès à l'étranger.
+
+      La condition de résidence sur le territoire national pour bénéficier des prestations familiales, des aides au logement et des minima sociaux sera harmonisée à neuf mois par an.
+
+      Les versements de prestations sociales soumises à condition de résidence sur un compte bancaire situé hors de la zone européenne sont strictement interdits depuis le premier juillet deux mille vingt-trois.
+
+      Une pénalité administrative forfaitaire de dix pour cent sera appliquée aux allocataires fraudeurs ne respectant pas les règles de résidence.
+
+      Pour les retraités vivant à l'étranger dans des pays sans échange automatisé d'état-civil, un contrôle sur place contrôlera la totalité des dossiers des assurés de plus de quatre-vingt-cinq ans d'ici deux mille vingt-sept.
+
+      Une application mobile sécurisée intégrant la reconnaissance faciale permettra aux retraités résidant hors de France de prouver leur existence de manière dématérialisée.
+
+   C. Encadrement rigoureux des prix de transfert et valorisation des actifs incorporels.
+
+      Le seuil rendant obligatoire la présentation d'une documentation complète sur la politique de prix de transfert sera abaissé de quatre cents millions d'euros à cent cinquante millions d'euros de chiffre d'affaires.
+
+      La documentation soumise par l'entreprise deviendra opposable, obligeant le groupe à justifier tout écart par rapport à sa politique déclarée.
+
+      L'amende pour défaut de réponse à la demande de documentation sur les prix de transfert sera très nettement revalorisée au-delà du plancher actuel de dix mille euros.
+
+      Le délai de reprise de l'administration fiscale sera étendu pour permettre le contrôle rétrospectif des cessions d'actifs incorporels difficiles à évaluer.
+
+      Cette mesure permettra d'aligner le droit français sur les principes de l'Organisation de Coopération et de Développement Économiques pour rectifier les transferts de bénéfices abusifs.
+
+   D. Mobilisation du renseignement fiscal et stratégie internationale de transparence.
+
+      Une unité de renseignement fiscal sera créée au sein de la DNRED pour détecter les montages internationaux d'une extrême opacité, les trusts et les recours aux cabinets de défiscalisation.
+
+      Une enveloppe d'investissement de cent millions d'euros renforcera les moyens technologiques, immobiliers et humains du renseignement économique et financier.
+
+      La France engagera une initiative internationale pour harmoniser la transmission rapide des informations sur les bénéficiaires effectifs de structures patrimoniales.
+
+      Cette stratégie d'influence promouvra la création de registres fiables de détention d'actifs financiers et immobiliers à l'échelle mondiale.
+
+IV. RENFORCEMENT DES MOYENS HUMAINS ET ACTION COLLECTIVE DÉCLOISONNÉE.
+
+   A. Plan pluriannuel de recrutement d'agents et investissements technologiques.
+
+      Les effectifs du contrôle fiscal de la DGFiP seront renforcés par le recrutement de mille cinq cents agents supplémentaires d'ici la fin du quinquennat.
+
+      Les caisses de sécurité sociale bénéficieront de mille agents dédiés supplémentaires, complétés par l'action de quatre cent cinquante cyber-enquêteurs habilités.
+
+      Un plan d'investissement de un milliard d'euros financera la modernisation globale des systèmes d'information des organismes de protection sociale.
+
+      La douane redéploiera plus de cent emplois spécialisés dans le contrôle du commerce en ligne et du fret postal international d'ici deux mille vingt-cinq.
+
+   B. Transformation du service judiciaire en Office National Anti-Fraude aux finances publiques.
+
+      Le Service d'Enquêtes Judiciaires des Finances est transformé en Office National Anti-Fraude aux finances publiques pour devenir l'interlocuteur judiciaire de référence.
+
+      Les compétences de cet office seront élargies à l'ensemble des infractions portant atteinte aux finances publiques, aux dépenses, aux aides et aux fonds de l'Union européenne.
+
+      Le nombre d'officiers fiscaux judiciaires sera doublé d'ici deux mille vingt-cinq par le recrutement de quarante agents supplémentaires.
+
+      L'Office pourra se saisir d'office d'une enquête dans toutes ses matières d'attribution non douanières ou non fiscales, en coopération avec les autres offices de police judiciaire.
+
+   C. Partage d'informations et ouvertures des bases de données inter-administrations.
+
+      L'accès à la Déclaration Sociale Nominative sera progressivement étendu aux services d'enquête de la police, de la gendarmerie, des douanes et de l'inspection du travail d'ici deux mille vingt-cinq.
+
+      L'application DOCVERIF du ministère de l'Intérieur sera ouverte aux agents de la sécurité sociale pour vérifier immédiatement la validité des titres d'identité présentés.
+
+      Le Fichier National des Interdits de Gérer tenu par les greffes sera directement accessible aux contrôleurs de la sécurité sociale et de la fiscalité dès deux mille vingt-quatre.
+
+      Des protocoles de coopération renforcés entre la douane, la DGFiP et les services préfectoraux neutraliseront l'usage des faux documents administratifs.
+
+   D. Partenariats stratégiques entre la fiscalité, les douanes et la sécurité sociale.
+
+      Un nouveau partenariat unifiant le recouvrement fiscal et social organisera des contrôles coordonnés sur les rémunérations cachées, les sous-traitances frauduleuses et le travail dissimulé.
+
+      Les contrôleurs des Urssaf seront formés pour détecter les risques d'évasion fiscale lors de leurs vérifications et déclencher des signalements automatiques vers la DGFiP.
+
+      L'Assurance Maladie et les organismes complémentaires de santé partageront leurs données d'enquêtes pour évaluer le préjudice global des surfacturations et fermer les centres de santé frauduleux.
+
+      Dans le secteur agricole, les échanges d'informations entre la Mutualité Sociale Agricole et les plateformes de délivrance des autorisations de travail lutteront contre l'emploi de main-d'œuvre clandestine.
+
+V. RENOVATION DE LA RELATION DE CONFIANCE ET RÉGULARISATION DE BONNE FOI.
+
+   A. Consolidation du droit à l'erreur et accompagnement fiscal des entreprises.
+
+      En application de la loi pour un État au service d'une société de confiance, la distinction entre l'erreur commise de bonne foi et la fraude intentionnelle reste au cœur des procédures.
+
+      L'accompagnement fiscal personnalisé sera étendu pour intégrer huit mille cinq cents petites et moyennes entreprises supplémentaires gérées directement au niveau départemental.
+
+      Le partenariat fiscal s'élargira avec la signature de cent soixante nouveaux protocoles auprès des grands groupes et entreprises de taille intermédiaire.
+
+      La délivrance de plus de vingt mille rescrits fiscaux annuels garantira aux usagers une sécurité juridique préalable et évitera les litiges a posteriori.
+
+   B. Massification des régularisations proactives et versement automatique des intérêts moratoires.
+
+      Cinq pôles nationaux de contrôle à distance réunissant deux cents agents traiteront cent mille dossiers de particuliers d'ici deux mille vingt-sept pour corriger leurs erreurs déclaratives par simple courrier.
+
+      Les contribuables procédant à une régularisation spontanée bénéficieront d'une réduction de cinquante pour cent sur le calcul des intérêts de retard dus au Trésor public.
+
+      Des consignes nationales imposeront la remise gracieuse automatique des pénalités financières lorsqu'un usager de bonne foi commet une infraction pour la première fois.
+
+      En contrepartie, l'administration fiscale versera automatiquement des intérêts moratoires aux usagers à chaque fois qu'une erreur commise par ses propres services est rectifiée.
+
+   C. Déploiement du guichet de régularisation des dettes sociales pour les micro-entrepreneurs.
+
+      Un guichet de régularisation amiable permettra aux micro-entrepreneurs de corriger les sous-déclarations de chiffre d'affaires sans supporter de pénalités de retard.
+
+      Des campagnes d'information ciblées croisant les données fiscales et les revenus déclarés sur les plateformes inciteront les travailleurs indépendants à régulariser leur situation.
+
+      Un téléservice dédié sera ouvert en deux mille vingt-cinq pour permettre le paiement en ligne des cotisations omises et la reconstitution immédiate de leurs droits à la retraite.
+
+      Les procédures répressives pour travail dissimulé demeureront réservées aux situations de fraude massive, organisée ou réitérée.
+
+   D. Création du Conseil d'évaluation des fraudes et mesure scientifique des enjeux.
+
+      Un Conseil d'évaluation des fraudes présidé par le ministre des Comptes publics rassemblera des experts indépendants, des parlementaires et les administrations compétentes.
+
+      Cette instance garantira la rigueur méthodologique des estimations du coût des fraudes fiscales, sociales et douanières présentées à l'opinion publique.
+
+      L'évaluation globale intégrera la mesure des fraudes évitées grâce aux dispositifs préventifs pour apprécier la performance réelle des services.
+
+      Des échantillonnages et contrôles aléatoires menés avec l'Institut National de la Statistique et des Études Économiques stabiliseront la mesure de l'écart fiscal au fil du temps.
+
+POINTS D'ATTENTION.
+
+      La feuille de route établit une séparation juridique nette entre le contribuable de bonne foi bénéficiant du droit à l'erreur et le fraudeur délibéré soumis à des répressions renforcées.
+
+      L'estimation du rendement des services ne repose plus uniquement sur les montants financiers redressés mais intègre l'évaluation des fraudes évitées grâce aux contrôles préventifs.
+
+      L'harmonisation de la condition de résidence à neuf mois par an s'applique aux prestations familiales, aides au logement et minima sociaux, mais l'Assurance Maladie maintient une durée de six mois.
+
+      Le précompte des cotisations sociales des micro-entrepreneurs par les plateformes en deux mille vingt-sept modifie le mode de collecte sans changer les règles d'assujettissement ni requalifier la relation en contrat de travail.
+
+      L'interdiction de verser des prestations sociales sur des comptes bancaires hors zone européenne ne concerne pas les pensions de retraite qui ne sont pas soumises à une condition de résidence en France.
+
+EXEMPLES CITES.
+
+      La détection d'un réseau criminel de comptes bancaires lituaniens a permis à la Caisse Nationale d'Assurance Vieillesse de bloquer le détournement de pensions de retraite.
+
+      L'utilisation d'une Transmission Universelle de Patrimoine vers une société basée en Irlande après un contrôle Urssaf a illustré la nécessité de porter le délai d'opposition des créanciers à soixante jours.
+
+      Une opération menée sur le réseau informatique sombre TOR par la douane a permis l'interpellation d'un trafiquant de stupéfiants blanchissant ses gains en cryptomonnaies via des cartes bancaires prépayées.
+
+      Un contrôle de l'Assurance Maladie a sanctionné un médecin généraliste pour des surfacturations de cinquante-six mille euros et exigé le remboursement de sept mille cinq cents euros de cotisations sociales prises en charge.
+
+      Des affaires d'escroquerie au fonds de solidarité ou au dispositif MaPrimeRénov' utilisant des factures ficitives ont motivé la création d'un pouvoir de suspension provisoire des aides sur signalement de Tracfin.

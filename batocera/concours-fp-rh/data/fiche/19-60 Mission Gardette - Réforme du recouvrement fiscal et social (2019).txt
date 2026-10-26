@@ -1,0 +1,313 @@
+FICHE DE RÉVISION : RÉFORME DU RECOUVREMENT FISCAL ET SOCIAL (RAPPORT GARDETTE deux mille dix-neuf).
+
+LEXIQUE COMPLET.
+
+      ACOSS (Agence centrale des organismes de sécurité sociale) : Organisme national assurant la gestion financière et la trésorerie de la Sécurité sociale ainsi que le pilotage du réseau des URSSAF.
+
+      DGFiP (Direction générale des Finances publiques) : Administration fiscale française chargée du recouvrement des impôts, de la gestion du secteur public local et de la comptabilité de l'État.
+
+      DGDDI (Direction générale des douanes et droits indirects) : Administration chargée de la perception des droits de douane, des contributions indirectes et de la surveillance des flux de marchandises.
+
+      URSSAF (Union de recouvrement des cotisations de sécurité sociale et d'allocations familiales) : Organisme privé chargé d'une mission de service public consistant à collecter les cotisations et contributions sociales.
+
+      DGAC (Direction générale de l'aviation civile) : Administration rattachée au ministère de la Transition écologique, disposant d'un budget annexe et gérant les taxes aéronautiques.
+
+      CNC (Centre national du cinéma et de l'image animée) : Établissement public bénéficiant de taxes affectées au financement des filières cinématographique et audiovisuelle.
+
+      TGAP (Taxe générale sur les activités polluantes) : Fiscalité environnementale portant sur les déchets, les émissions polluantes et les huiles, en cours de transfert vers la DGFiP.
+
+      TSVR (Taxe sur les véhicules routiers) : Fiscalité poids lourds prélevée par la Douane, en voie de transformation en un impôt annuel autoliquidé géré par la DGFiP.
+
+      TICPE (Taxe intérieure de consommation sur les produits énergétiques) : Prélèvement majeur sur la consommation de carburants et combustibles dont le recouvrement demeure à la Douane.
+
+      TICFE (Taxe intérieure sur la consommation finale d'électricité) : Fiscalité de l'électricité transférée à la DGFiP dans le cadre de la rationalisation du recouvrement.
+
+      TICGN (Taxe intérieure de consommation sur le gaz naturel) : Prélèvement sur la consommation de gaz naturel basculant du réseau douanier vers le réseau fiscal.
+
+      TICC (Taxe intérieure de consommation sur le charbon) : Fiscalité portant sur l'utilisation du charbon dont le recouvrement est transféré à la DGFiP.
+
+      DAFN (Droit annuel de francisation et de navigation) : Taxe sur la navigation de plaisance destinée à faire l'objet d'un recouvrement simplifié par télépaiement.
+
+      TSA (Taxe sur les entrées en salles de cinéma) : Prélèvement mensuel assis sur les billets de cinéma, géré directement par le CNC.
+
+      TST (Taxe sur les services de télévision) : Fiscalité due par les éditeurs et distributeurs de services de télévision, affectée au budget du CNC.
+
+      TSV (Taxe sur les ventes et locations de vidéos) : Prélèvement sur les supports vidéo et la vidéo à la demande, déjà recouvré par la DGFiP pour le compte du CNC.
+
+      SATD (Saisie administrative à tiers détenteur) : Procédure d'exécution forcée unifiée permettant à l'administration fiscale d'exiger le paiement d'une dette auprès d'un tiers.
+
+      OTD (Opposition à tiers détenteur) : Procédure de recouvrement forcé spécifique à la sphère sociale nécessitant l'obtention préalable d'un titre exécutoire.
+
+      PRS (Pôle de recouvrement spécialisé) : Structure départementale spécialisée de la DGFiP chargée du recouvrement des créances complexes et à forts enjeux.
+
+      ROCSP (Recouvrement de l'ensemble des créances publiques) : Projet applicatif modulaire de la DGFiP destiné à unifier le traitement informatique du recouvrement forcé.
+
+      SCN (Service à compétence nationale) : Structure administrative interministérielle dédiée à la maîtrise d'ouvrage informatique et opérationnelle du futur portail commun.
+
+      FTAP (Fonds pour la transformation de l'action publique) : Guichet financier destiné à financer les projets d'investissement stratégiques des administrations publiques.
+
+      France Recouvrement : Mission interministérielle créée par décret pour piloter l'ensemble de la réforme et assurer la coordination stratégique entre les sphères fiscale et sociale.
+
+      Autoliquidation : Procédure fiscale dans laquelle l'usager calcule, déclare et acquitte lui-même le montant de sa dette fiscale sans émission préalable d'un rôle.
+
+      Prélèvements obligatoires : Ensemble des impôts, taxes et cotisations sociales perçus par les administrations publiques, représentant un volume supérieur à mille milliards d'euros.
+
+      Recouvrement forcé : Phase contentieuse et contraignante engagée par les comptables publics ou les organismes sociaux à l'encontre d'un débiteur défaillant après l'échec des relances amiables.
+
+COURS DÉTAILLÉ.
+
+I. L'UNIFICATION DU RECOUVREMENT AU SEIN DE LA SPHÈRE FISCALE ET LE TRANSFERT DES TAXES DOUANIÈRES ET DES OPÉRATEURS.
+
+   A. La rationalisation des taxes douanières gérées par la Douane au profit de la Direction générale des Finances publiques.
+
+      Le rapport rédigé par Alexandre Gardette et Lauren Turfait dresse le bilan d'étape et formule les recommandations définitives de la mission confiée par le gouvernement le deux octobre deux mille dix-huit et le vingt-neuf avril deux mille dix-neuf. L'objectif stratégique réside dans la polarisation du recouvrement fiscal autour de la DGFiP et du recouvrement social autour de l'ACOSS.
+
+      Dans la sphère fiscale, les travaux interdirectionnels menés en mai et juin deux mille dix-neuf permettent de proposer le transfert échelonné à la DGFiP de onze prélèvements sur les quatorze restants à la DGDDI postérieurs à la loi de finances initiale pour deux mille dix-neuf. Ces transferts supplémentaires représentent un montant brut annuel de trente-six milliards d'euros sur la base des encaissements de deux mille dix-huit.
+
+      Le calendrier de mise en œuvre démarre avec les mesures déjà votées en deux mille dix-neuf, à savoir les boissons non alcooliques en deux mille dix-neuf, la TGAP en deux mille vingt et sa composante déchets en deux mille vingt et un, accompagnées de la TVA sur le pétrole en deux mille vingt et un. Les transferts complémentaires s'échelonnent avec la TSVR en deux mille vingt et un pour un paiement en deux mille vingt-deux, puis la TVA à l'importation des assujettis, la TICFE, la TICGN, la TICC et le DAFN en deux mille vingt-deux. Les amendes douanières basculent en deux mille vingt-trois, tandis que le recouvrement de la fiscalité des tabacs et des alcools est transféré en deux mille vingt-quatre.
+
+      Pour permettre ce transfert sans alourdir le coût de gestion de l'impôt, la mission préconise de généraliser la procédure d'autoliquidation par les entreprises. Cette simplification s'applique par exemple à la TSVR qui devient un impôt annuel autoliquidé à terme échu en remplacement d'un régime semestriel sur rôle à terme à échoir.
+
+      Trois exceptions majeures justifient le maintien du recouvrement par la Douane. Il s'agit des droits de douane dont les recettes sont reversées à l'Union européenne, de la TICPE dont le suivi exige un contrôle continu de l'exploitation des carburants, et de la TVA à l'importation due par les non-assujettis.
+
+   B. La nouvelle répartition des fonctions et des compétences entre la DGDDI et la DGFiP.
+
+      Le transfert du recouvrement de la Douane vers la DGFiP exige une redistribution claire des missions métier en amont et en aval de l'encaissement. La gestion des carrières des débitants de tabacs, le suivi de la filière vitivinicole et la délivrance des agréments aux opérateurs économiques restent sous la compétence exclusive de la DGDDI afin de sécuriser l'assiette.
+
+      Les déclarations fiscales seront exploitées de manière conjointe par les deux administrations grâce à des applications informatiques partagées. Ce partage des données permettra à la DGFiP d'effectuer des contrôles documentaires de cohérence sur pièces tout en assurant un recouvrement fluide.
+
+      En raison de son organisation de terrain et de son expertise en matière de surveillance des flux physiques de marchandises, la DGDDI conserve la programmation et la réalisation de l'essentiel des contrôles physiques sur place. Une convention bidirectionnelle doit formaliser les objectifs respectifs des deux réseaux et organiser les flux d'informations.
+
+      Cette réorganisation permet de recentrer la Douane sur son cœur de métier tout en confiant au réseau comptable de la DGFiP la centralisation des recettes fiscales des entreprises. Elle implique des adaptations sociales et managériales importantes qui font l'objet d'un groupe de travail interdirectionnel avec les organisations syndicales le douze septembre deux mille dix-neuf.
+
+   C. La prise en charge des taxes affectées aux opérateurs de l'État et aux budgets annexes.
+
+      Au-delà de la Douane, la direction du Budget a recensé cinquante-trois organismes publics collectant pour leur propre compte des taxes affectées. L'instruction générale relative au transfert de ces prélèvements est programmée pour le second semestre deux mille dix-neuf, mais la mission a instruit en avance de phase le cas de la DGAC et du CNC en vue du projet de loi de finances pour deux mille vingt.
+
+      La DGAC gère quatre taxes aéronautiques regroupées au sein d'un guichet fiscal unique situé à Aix-en-Provence. Il s'agit de la taxe de l'aviation civile, de la taxe de solidarité sur les billets d'avion, de la taxe d'aéroport et de la taxe sur les nuisances sonores aériennes. Ces taxes font l'objet d'une télédéclaration à quatre-vingt-quinze pour cent et de l'obligation progressive de télépaiement d'ici avril deux mille vingt et un.
+
+      Sur le plan technique, la transmission du recouvrement des taxes de la DGAC à la DGFiP est réalisable via le module de paiement PayFip. Malgré l'opposition de la DGAC qui redoute une gestion moins intégrée du secteur aérien, cette mesure permet d'unifier l'interface de paiement publique.
+
+      Le CNC perçoit directement la taxe sur les entrées en salles de cinéma et la taxe sur les services de télévision, toutes deux gérées en interne par seulement deux agents, tandis que la taxe sur les ventes de vidéos est déjà recouvrée par la DGFiP avec des frais de gestion de deux virgule cinq pour cent. Le rapport préconise le transfert à la DGFiP du recouvrement de l'ensemble des taxes du CNC à compter de deux mille vingt-deux en s'appuyant sur la chaîne de traitement de la TVA.
+
+   D. Le véhicule législatif et le calendrier de mise en œuvre échelonné jusqu'en deux mille vingt-quatre.
+
+      Pour offrir une visibilité claire aux administrations et aux opérateurs économiques, la mission préconise d'inscrire la feuille de route globale de la réforme dans le projet de loi de finances pour deux mille vingt. Ce texte fixe le périmètre des transferts, les principes d'unification et le calendrier d'application étalé jusqu'en deux mille vingt-quatre.
+
+      La complexité juridique du chantier réside dans la modification de plus de deux cents articles de code, à comparer aux treize articles modifiés lors de la loi de finances initiale pour deux mille dix-neuf. En conséquence, la direction de la Législation fiscale propose d'isoler dans le projet de loi de finances pour deux mille vingt un article dédié au transfert de la TVA à l'importation des assujettis, qui présente des enjeux économiques majeurs.
+
+      Pour les autres prélèvements douaniers, le projet de loi de finances pour deux mille vingt doit poser les principes et le calendrier, tout en prévoyant une habilitation au gouvernement à légiférer par ordonnance pour les dispositions techniques. Cette méthode permet de sécuriser la rédaction des textes sans surcharger le débat parlementaire.
+
+      En parallèle, le ministère de l'Action et des Comptes publics projette d'inscrire dans la prochaine loi de programmation des finances publiques le principe de la compétence générale de la DGFiP pour le recouvrement fiscal. Ce cadre législatif solennel garantit la perennité des transferts interadministrations.
+
+II. LE PORTAIL INFORMATIQUE COMMUN DU RECOUVREMENT ET LA CONSULTATION DES USAGERS.
+
+   A. Les enseignements de l'enquête auprès des entreprises et la priorité accordée aux services authentifiés.
+
+      En réponse aux attentes exprimées par les ministres, la mission a engagé au printemps deux mille dix-neuf une démarche de conception centrée sur l'utilisateur menée par la société BearingPoint et financée par le secrétariat général des ministères économiques et financiers. Cette étude s'appuie sur une enquête en ligne adressée à deux mille six cents petites et moyennes entreprises de moins de cinq cents salariés tirées de la base SIRENE.
+
+      L'enquête en ligne a recueilli quatre cents réponses complètes, ce qui représente un panel représentatif composé de quarante-quatre pour cent de cadres d'entreprises et de cinquante-six pour cent de tiers déclarants et cabinets d'expertise comptable. Le résultat fait apparaître un intérêt très marqué pour un portail unique du recouvrement fiscal et social, évalué à une note moyenne de sept virgule sept sur dix globalement et de sept virgule neuf sur dix par les représentants d'entreprises.
+
+      Les professionnels recherchent avant tout un gain de temps, une simplification des démarches et la centralisation des moyens de connexion. Les cinq fonctionnalités prioritaires dégagées par l'enquête sont dans l'ordre les services de déclaration en ligne, l'accès sous une connexion unique, la réalisation des démarches administratives comme la demande de délais de paiement, la consultation des créances et historiques, et enfin les services de paiement en ligne.
+
+      Il ressort clairement de cette consultation que la mise en place d'un portail informatif sans identification préalable ne présente aucun intérêt pour les entreprises. Dès son lancement, le portail doit proposer un espace personnalisé sécurisé offrant des démarches contributives et déclaratives authentifiées.
+
+   B. L'ergonomie du futur site et les ateliers de co-construction avec les professionnels.
+
+      En complément de l'enquête statistique, trois ateliers de co-construction se sont tenus au mois de juin deux mille dix-neuf à Paris, Tours et Marseille réunissant des dirigeants d'entreprises, des experts-comptables et des conseillers de gestion. Les participants ont élaboré des maquettes fonctionnelles qui ont été présentées au comité de pilotage le vingt-deux juillet deux mille dix-neuf.
+
+      Les travaux d'ergonomie distinguent un espace public avant authentification dédié aux actualités réglementaires et aux simulateurs, et un espace privé accessible par un identifiant unique. Dans cet espace sécurisé, un tableau de bord unifié présente la balance comptable globale, les échéances à venir et l'état des paiements.
+
+      Deux parcours utilisateurs spécifiques ont été conçus pour répondre à la diversité des profils. Le parcours mono-entreprise permet au dirigeant de piloter ses déclarations, de visualiser une frise chronologique des événements et de consulter un historique comptable réunissant les sphères fiscale, sociale et douanière.
+
+      Le parcours multi-entreprises est adapté aux experts-comptables et aux dirigeants de groupes gérant plusieurs établissements. Il offre une vision synthétique du portefeuille, un accès direct aux fiches détaillées par SIREN et un coffre-fort numérique hébergeant l'ensemble des pièces justificatives et des relevés d'identité bancaire. L'authentification unique s'appuiera sur le dispositif ProConnect articulé avec FranceConnect.
+
+   C. L'étude de faisabilité et les scénarios d'architecture des systèmes d'information.
+
+      Pour définir la trajectoire technique permettant de livrer une première version opérationnelle du portail en deux mille vingt-deux, une étude de faisabilité est lancée en septembre deux mille dix-neuf auprès d'un cabinet de conseil externe. Ce marché est porté juridiquement par la DGFiP pour le compte commun des administrations concernées.
+
+      Le premier volet de la prestation consiste à réaliser un audit complet de l'urbanisation des systèmes d'information de l'ACOSS, de la DGFiP et de la DGDDI. Il s'agit d'évaluer le degré de réutilisabilité des briques applicatives existantes et de cartographier les écarts fonctionnels entre les réseaux pour les besoins des professionnels comme des particuliers.
+
+      Le second volet doit proposer trois scénarios d'architecture applicative évalués en fonction des coûts, des délais et des impacts informatiques. Les options comparées sont la réutilisation d'un portail existant comme socle de développement, la création d'un portail ex nihilo, et la construction d'une plateforme nouvelle alimentée par des briques logicielles préexistantes.
+
+      La trajectoire projet doit adopter une démarche agile pour distribuer progressivement des services à forte valeur ajoutée. L'étude doit également mesurer la capacité des systèmes d'information à mettre à disposition des interfaces de programmation applicative dites API pour assurer la synchronisation des données d'identification.
+
+   D. L'articulation entre le domaine déclaratif et la chaîne de paiement du recouvrement.
+
+      Un enjeu stratégique de l'étude de faisabilité réside dans le niveau d'intégration entre la sphère des déclarations et celle du paiement. Les ministres ont rappelé qu'un simple portail agrégateur qui se bornerait à rediriger l'usager vers les sites de la DGFiP ou des URSSAF constituerait un échec sans valeur ajoutée.
+
+      Une première option d'architecture consiste à limiter le portail commun à la fonction de paiement et de consultation des dettes, tout en conservant les formulaires déclaratifs sur les portails respectifs de chaque réseau. Cette solution offre l'avantage de la rapidité de déploiement mais impose une rupture dans le parcours d'utilisation.
+
+      La seconde option, privilégiée par les usagers et recommandée par la mission, intègre de manière native l'ensemble de la chaîne déclarative et contributive sur le portail unique. Les entreprises peuvent ainsi remplir leurs déclarations, effectuer leurs règlements, demander des échéanciers et suivre leurs remboursements en un lieu unique.
+
+      Outre la gestion des cotisations sociales et des impôts d'État, le portail a vocation à accueillir le paiement des amendes, des produits locaux et des recettes non fiscales de la DGFiP. L'extension aux usagers particuliers constitue une phase ultérieure de développement qui devra s'inscrire dans la même architecture technique.
+
+III. LA GOUVERNANCE STRATÉGIQUE ET INFORMATIQUE DE LA RÉFORME DU RECOUVREMENT.
+
+   A. Le rôle et les missions de la mission interministérielle France Recouvrement.
+
+      Face à l'ampleur et à la transversalité de la réforme, le gouvernement a décidé de créer par décret durant l'été deux mille dix-neuf une mission interministérielle dénommée France Recouvrement. Cette structure est instituée pour une durée initiale de trois ans afin d'assurer le pilotage unifié de l'ensemble des chantiers.
+
+      Placée sous l'autorité conjointe du ministre chargé du Budget et de la ministre chargée de la Sécurité sociale, la mission dispose d'un ancrage institutionnel fort. Elle est rattachée administrativement et financièrement au secrétariat général des ministères économiques et financiers.
+
+      France Recouvrement a pour attributions la coordination des transferts de recouvrement au sein des sphères fiscale et sociale, le développement des synergies interadministrations, l'harmonisation des procédures juridiques et le déploiement du portail informatique unique. Elle formule également toute proposition de simplification réglementaire au profit des cotisants et contribuables.
+
+      Le chef de la mission préside un comité stratégique réunissant les directeurs généraux de la DGFiP, de la DGDDI, de l'ACOSS et de la DSS, ainsi que des personnalités qualifiées. Ce comité valide les orientations majeures, tranche les difficultés d'exécution et rend compte régulièrement de l'avancement des travaux aux ministres.
+
+   B. La création d'un service à compétence nationale pour la maîtrise d'ouvrage informatique.
+
+      Si la mission France Recouvrement assure le pilotage politique et stratégique, la conduite opérationnelle du chantier informatique exige une structure dédiée disposant de compétences techniques propres. Le rapport préconise la création rapide d'un service à compétence nationale pour porter la maîtrise d'ouvrage du portail commun.
+
+      Créé par décret pour une effectivité au début de l'année deux mille vingt, ce SCN est dirigé par le chef de la mission France Recouvrement afin de garantir un alignement parfait entre la stratégie métier et les développements informatiques. Il est rattaché conjointement à la DGFiP et à la DSS.
+
+      Cette structure légère regroupe une équipe mixte d'une vingtaine d'experts issus de la DGFiP, de l'ACOSS, de la DGDDI, de la DSS et du secteur contractuel. L'équipe définit les spécifications fonctionnelles, réalise les arbitrages d'ergonomie et pilote les prestataires externes, tout en confiant la réalisation informatique lourde aux directions des systèmes d'information des réseaux partenaires.
+
+      Les alternatives juridiques au SCN ont été écartées par le rapport. L'établissement public engendrerait des coûts de structure inutiles, le groupement d'intérêt public offrirait une autonomie trop grande par rapport aux ministères, et la délégation à une direction unique exposerait le projet au risque de désengagement des autres acteurs.
+
+   C. La comitologie opérationnelle et l'articulation entre les ministères concernés.
+
+      Pour garantir la réactivité du service à compétence nationale et assurer la convergence des méthodes, une comitologie opérationnelle structurée est déployée. Le comité de pilotage stratégique réunit périodiquement les directeurs généraux pour valider la feuille de route pluriannuelle et les étapes d'avancement.
+
+      Des comités techniques informatiques sont institués entre le SCN et les DSI des trois administrations pour contrôler le respect des budgets, vérifier la conformité architecturale et organiser le partage des briques applicatives existantes. Ces instances veillent également à la gouvernance de l'exploitation réseau du portail.
+
+      Des comités de coordination métier rassemblent les directeurs opérationnels du recouvrement afin de faire converger les processus de gestion et les parcours des usagers. Parallèlement, des comités d'échanges juridiques étudient les évolutions réglementaires et les propositions de simplification juridique.
+
+      Chaque direction générale désigne des interlocuteurs autonomes investis d'un mandat de décision pour participer à ces groupes de travail agile. Cette organisation souple prévient les blocages bureaucratiques et garantit le respect des jalons fixés par le gouvernement.
+
+   D. La stratégie de financement du projet informatique et l'allocation des moyens.
+
+      Le financement du développement du portail unique et du fonctionnement des structures de pilotage repose sur une stratégie combinant crédits d'État et contributions des organismes partenaires. Un dossier de candidature est préparé pour solliciter une subvention auprès du Fonds pour la transformation de l'action publique au début de l'année deux mille vingt.
+
+      Dans l'attente de la mise à disposition des crédits du FTAP prévue à l'été deux mille vingt, un financement d'amorçage est mis en place avec le concours de la direction de l'Immobilier de l'État et de la direction du Budget. La prestation d'audit UX de BearingPoint est prise en charge par le secrétariat général des ministères économiques et financiers.
+
+      Le budget de fonctionnement du SCN est alimenté par des transferts de charges et d'emplois depuis les programmes budgétaires de la DGFiP, de la DGDDI et du budget de la Sécurité sociale. Chaque direction générale doit inscrire les livrables informatiques du portail dans son propre schéma directeur numérique.
+
+      Les dépenses relatives à l'étude de faisabilité et aux prestations informatiques ultérieures sont réparties entre la DGFiP, l'ACOSS et la DGDDI selon une clé de ventilation financière négociée sous l'égide de la mission France Recouvrement.
+
+IV. L'ÉVALUATION ET L'EXPÉRIMENTATION DU RECOUVREMENT FORCÉ DANS LES DEUX SPHÈRES.
+
+   A. Le bilan du scénario de filiale commune et l'analyse de la mission d'appui de l'Inspection générale des finances.
+
+      Le rapport d'étape de décembre deux mille dix-huit envisageait la création d'une filiale commune dédiée au recouvrement forcé des créances fiscales et sociales. Ce scénario a fait l'objet d'une expertise approfondie par une mission d'appui de l'Inspection générale des finances durant le premier semestre deux mille dix-neuf.
+
+      L'étude comparative menée par l'IGF révèle des différences d'organisation considérables entre les deux réseaux. À la DGFiP, le recouvrement forcé mobilise environ neuf mille équivalents temps plein sur un total de dix-sept mille huit cent quatre agents dédiés au recouvrement, répartis entre les services territoriaux et les pôles de recouvrement spécialisés.
+
+      À l'ACOSS, les effectifs affectés au recouvrement forcé ne représentent que cinq cent soixante-dix-neuf équivalents temps plein, soit cinq virgule un pour cent des onze mille deux cent soixante-quatorze agents du réseau des URSSAF. Cette faiblesse relative s'explique par le recours massif aux études d'huissiers de justice privés dont le coût est refacturé aux débiteurs défaillants.
+
+      En raison de ces divergences structurelles, de l'absence d'indicateurs d'efficience comparables et du manque de données consolidées, la mission d'appui de l'IGF n'a pas pu démontrer l'existence de gains financiers ou d'économies d'échelle associés à la création immédiate d'une filiale commune de recouvrement forcé.
+
+   B. La caractérisation statistique et les enjeux des défaillants communs aux réseaux.
+
+      Pour évaluer la pertinence d'une action unifiée sur le recouvrement forcé, la DGFiP a mené un recoupement statistique des fichiers de créances défaillantes de la DGFiP, de l'ACOSS et de la DGDDI. Cette analyse porte séparément sur le stock des restes à recouvrer au trente et un décembre deux mille dix-huit et sur le flux des défaillances du premier semestre deux mille dix-huit.
+
+      Le stock de créances en recouvrement forcé au trente et un décembre deux mille dix-huit représente un volume de un virgule quatorze million de créances pour un montant total de trente-quatre virgule neuf milliards d'euros. Les entreprises défaillantes simultanément auprès d'au moins deux réseaux constituent seize pour cent du nombre total des débiteurs, mais représentent trente-huit pour cent des montants dus, soit treize virgule trois milliards d'euros.
+
+      Pour le réseau des URSSAF, le recoupement révèle que vingt-neuf virgule trois pour cent des entreprises défaillantes sont également débitrices de la DGFiP, ce qui concentre quarante-huit virgule neuf pour cent de la valeur totale de leurs créances en stock. Du côté de la DGFiP, vingt-quatre virgule six pour cent des entreprises défaillantes sont connues de l'ACOSS, soit vingt-six virgule un pour cent de ses montants restants.
+
+      Le flux semestriel du premier semestre deux mille dix-huit porte sur six cent dix mille créances représentant quatre virgule sept milliards d'euros et cinq cent quarante mille entités. Les défaillants communs en flux représentent onze virgule neuf pour cent des entreprises et trente virgule quatre pour cent des montants. Ces chiffres démontrent l'existence d'un noyau dur de débiteurs à hauts enjeux justifiant une coordination des poursuites.
+
+   C. Le développement de l'expérimentation du recouvrement forcé au sein des pôles spécialisés de la DGFiP.
+
+      Sans attendre la création d'une structure inter-réseaux, le rapport recommande d'expérimenter une rénovation du recouvrement forcé au sein de la seule DGFiP en s'appuyant sur les pôles de recouvrement spécialisés. Il s'agit de démontrer l'efficience d'une structure dédiée sur un périmètre élargi.
+
+      L'expérimentation préconise d'étendre la compétence des PRS selon trois modalités au choix. La première option leur confie la totalité du recouvrement forcé fiscal, y compris les procédures de masse comme la SATD. La deuxième option leur attribue le recouvrement forcé complexe de l'ensemble des créances publiques, incluant les amendes et produits locaux. La troisième option combine ces deux périmètres.
+
+      Cette démarche prolonge l'expérimentation en cours relative à la centralisation du recouvrement des redressements issus du contrôle fiscal externe mené par les directions interrégionales de contrôle fiscal. Les PRS spécialisés permettent un raccourcissement des délais de prise de garanties et une amélioration du taux de recouvrement des créances issues de la lutte contre la fraude.
+
+      En parallèle, les enseignements de l'expérimentation conduite par l'URSSAF Île-de-France au sein de son département de lutte contre le travail illégal doivent être formalisés. Ces retours d'expérience permettront de bâtir des procédures communes d'action rapide à l'encontre des fraudeurs organisant leur insolvabilité.
+
+   D. La construction de l'applicatif ROCSP comme future plateforme d'État du recouvrement.
+
+      Le renouvellement de l'architecture informatique du recouvrement forcé à la DGFiP constitue un levier majeur de la réforme. Le projet ROCSP succède au projet ROCADE qui avait fait l'objet de réserves stratégiques de la part de la DINSIC en novembre deux mille dix-sept pour son manque de modularité.
+
+      Conformément aux directives de la DINSIC, ROCSP est conçu comme une plateforme de services modulaire capable de s'interfacer avec d'autres administrations. Il vise à remplacer les applications obsolètes de la DGFiP, à savoir RAR pour les particuliers, AMD pour les amendes, REP pour les recettes non fiscales, ainsi qu'Hélios et Eifel pour le secteur local et hospitalier.
+
+      Le budget de développement de ROCSP est évalué par Cap Numérique à cinquante-deux millions d'euros, se décomposant en quarante virgule six millions d'euros de coûts directs et onze virgule quatre millions d'euros de coûts indirects. La maintenance récurrente est estimée à six millions d'euros les deux premières années puis à quatre millions d'euros par an.
+
+      Le rapport préconise d'associer l'ACOSS et la DGDDI au comité de pilotage du projet ROCSP. Cette gouvernance croisée garantit l'interopérabilité future des systèmes informatiques et prépare l'utilisation de ROCSP comme outil partagé du recouvrement forcé multicréances.
+
+V. LA TRAJECTOIRE D'UNIFICATION ORGANIQUE COMPLÈTE À L'HORIZON deux mille trente ET L'HARMONISATION DES PROCÉDURES.
+
+   A. Les fondamentaux et les enjeux partagés des métiers du recouvrement fiscal et social.
+
+      L'analyse approfondie des processus montre que les métiers du recouvrement reposent sur des étapes identiques dans les deux sphères. La chaîne de gestion s'appuie sur un système d'information référentiel, un encaissement spontané prépondérant, une phase de relance amiable et un arsenal de recouvrement forcé.
+
+      En France, le taux de recouvrement spontané est particulièrement élevé en raison du civisme fiscal et social des contribuables et cotisants. L'enjeu central pour l'administration consiste à offrir des services de paiement dématérialisés modernes et à développer l'accompagnement personnalisé lors de la phase amiable.
+
+      L'ACOSS et la DGFiP partagent la même priorité d'octroi de délais de paiement et de plans d'étalement de dettes pour les entreprises en difficulté passagère. La création du portail commun impose de rapprocher les outils de relance amiable par courrier électronique et SMS pour offrir un parcours usager harmonisé.
+
+      Lorsque l'amiable échoue, l'exercice de poursuites contraignantes est indispensable pour préserver l'égalité devant l'impôt et entretenir la discipline déclarative. Des pays comme les Pays-Bas ou l'Estonie ont démontré l'intérêt d'unifier l'ensemble de cette chaîne au sein d'un opérateur public unique.
+
+   B. L'harmonisation nécessaire des règles juridiques et des voies d'exécution.
+
+      L'unification fonctionnelle exige un rapprochement des régimes juridiques du recouvrement fiscal et social qui résultent aujourd'hui de traditions historiques distinctes. Les fondements légaux diffèrent entre le livre des procédures fiscales pour la DGFiP et le code de la sécurité sociale ou le code des procédures civiles d'exécution pour les URSSAF.
+
+      La généralisation de la saisie administrative à tiers détenteur constitue une étape d'harmonisation majeure. Alors que la DGFiP peut émettre une SATD dès la notification d'un titre exécutoire, l'ACOSS doit délivrer une mise en demeure puis une contrainte avant de pouvoir procéder à une opposition à tiers détenteur, ce qui alourdit ses délais d'intervention.
+
+      Les règles de prescription, les modalités de notification des actes, les barèmes de majoration de retard et les procédures de gracieuses remises doivent faire l'objet d'un chantier d'alignement juridique porté par la mission France Recouvrement.
+
+      L'harmonisation des voies d'exécution permettra de traiter de manière équitable les dettes fiscales et sociales d'un même débiteur et d'éviter une concurrence stérile entre les comptables publics et les organismes sociaux lors des procédures collectives.
+
+   C. L'estimation des retours sur investissement et des gains d'efficience à long terme.
+
+      L'évaluation économique d'une unification complète du recouvrement à l'horizon de la prochaine décennie révèle des gisements d'efficience considérables sur une assiette globale de prélèvements obligatoires dépassant mille milliards d'euros.
+
+      Une augmentation de seulement zéro virgule un pour cent du taux de recouvrement net sur l'ensemble des prélèvements générerait un gain annuel récurrent de cent millions d'euros pour les finances publiques. De plus, la mutualisation des systèmes d'information permettrait d'économiser cinq pour cent du budget informatique cumulé de la DGFiP, de l'ACOSS et de la Douane qui s'élevait à huit cent dix-huit millions d'euros en deux mille seize, soit une économie récurrente de quarante millions d'euros par an.
+
+      Sur le plan des ressources humaines, les effectifs globaux affectés au recouvrement dépassent trente mille équivalents temps plein publics et privés. Une hausse de productivité prudente de dix pour cent sur dix ans représenterait une suppression nette de trois mille emplois, générant une économie annuelle récurrente de cent cinquante millions d'euros.
+
+      Par ailleurs, la seule amélioration du taux de recouvrement des amendes fiscales permise par l'applicatif ROCSP doit rapporter des recettes supplémentaires s'élevant à quatre-vingts millions d'euros en deux mille vingt-deux, cent vingt millions d'euros en deux mille vingt-trois, cent soixante millions d'euros en deux mille vingt-quatre et deux cents millions d'euros par an à compter de deux mille vingt-cinq.
+
+   D. Le cadre budgétaire pluriannuel et la gouvernance informatique croisée.
+
+      Pour conduire la transformation numérique et organisationnelle du recouvrement sur dix ans, le rapport préconise d'inscrire le projet dans un cadre pluriannuel doté de un milliard d'euros en autorisations d'engagement, une échelle d'investissement comparable au programme Copernic.
+
+      Ce budget d'investissement est largement autofinancé par les gains de recouvrement attendus sur les amendes et par les économies générées par le décommissionnement des applications informatiques anciennes. Le budget informatique annuel de la DGFiP s'élevait à cinq cent soixante-trois millions d'euros en deux mille dix-sept et celui de l'ACOSS à cent sept millions d'euros.
+
+      Afin de prévenir toute divergence technique d'ici deux mille trente, une gouvernance informatique croisée doit être instaurée immédiatement. Entre la DGFiP et la DGDDI, une structure de maîtrise d'ouvrage commune est préconisée pour l'informatique fiscale. Entre la DGFiP et l'ACOSS, des comités de pilotage semestriels sont secrétariés par la mission France Recouvrement.
+
+      Une instance d'arbitrage interministérielle placée sous l'autorité directe des ministres valide les choix d'architecture applicative. Cette gouvernance garantit la convergence progressive des systèmes et prépare l'avènement d'un opérateur unique du recouvrement à l'horizon deux mille trente.
+
+POINTS D'ATTENTION.
+
+      Le transfert des taxes douanières vers la DGFiP exclut strictement les droits de douane au sens propre qui restent gérés par la DGDDI pour le compte de l'Union européenne.
+
+      La fiscalité pétrolière représentée par la TICPE demeure sous la responsabilité exclusive de la Douane en raison de la nécessité de contrôles physiques en raffineries.
+
+      La création du portail commun ne doit pas être un simple agrégateur de liens mais un site autonome offrant des démarches déclaratives et contributives unifiées.
+
+      L'enquête UX démontre que le lancement d'un portail à visée uniquement informative sans espace authentifié est rejeté par les professionnels et tiers déclarants.
+
+      Le service à compétence nationale dédié à l'informatique doit rester une structure légère d'une vingtaine d'experts sans reconstituer une direction lourde.
+
+      L'évaluation d'un gain immédiat de un milliard d'euros sur le recouvrement forcé issue du rapport CAP deux mille vingt-deux reposait sur des bases empiriques non confirmées par l'IGF.
+
+      La comparaison directe des taux de recouvrement entre les URSSAF et la DGFiP est biaisée par des méthodes de calcul différentes sur les montants bruts ou nets.
+
+      Le recours aux huissiers de justice privés est massif à l'ACOSS alors que la DGFiP privilégie le recouvrement en propre et les huissiers des finances publiques.
+
+      Le recoupement des défaillants communs démontre que seize pour cent d'entreprises communes en stock concentrent trente-huit pour cent des montants totaux restant à recouvrer.
+
+      L'unification organique complète des réseaux fiscale et sociale ne peut pas être réalisée en deux mille vingt-deux et constitue un objectif stratégique à l'horizon deux mille trente.
+
+EXEMPLES CITES.
+
+      Exemple de la transformation de la TSVR en un impôt annuel autoliquidé à terme échu pour supprimer la gestion lourde des rôles semestriels.
+
+      Exemple du guichet unique de la DGAC situé à Aix-en-Provence regroupant la gestion des quatre taxes aéronautiques avec obligation de télépaiement.
+
+      Exemple de la gestion intégrée des taxes du CNC par seulement deux agents qui s'oppose au modèle d'administration fiscale éclatée.
+
+      Exemple du module de paiement PayFip développé par la DGFiP permettant la transmission automatisée d'ordres de prélèvement pour les créanciers publics.
+
+      Exemple des ateliers de co-construction UX organisés à Paris, Tours et Marseille pour dessiner les maquettes du futur portail unifié.
+
+      Exemple du parcours mono-entreprise intégrant un tableau de bord comptable, une frise chronologique d'événements et un suivi d'échéances.
+
+      Exemple du parcours multi-entreprises adapté aux experts-comptables offrant une vision consolidée par portefeuille et un coffre-fort numérique.
+
+      Exemple de l'expérimentation menée par la DGFiP sur la centralisation du recouvrement du contrôle fiscal externe par un pôle spécialisé régional.
+
+      Exemple de l'expérimentation du département de lutte contre le travail illégal à l'URSSAF Île-de-France réunissant inspecteurs et juristes.
+
+      Exemple de la réorganisation du programme informatique ROCSP remplaçant les applications historiques RAR, AMD, REP, Hélios et Eifel.
