@@ -1,0 +1,219 @@
+COMPTABILITÉ GÉNÉRALE, CADRE LÉGAL ET PRINCIPES COMPTABLES, BASES DE LA QUESTION AUTONOME D'ANALYSE FINANCIÈRE DU CONCOURS D'INSPECTEUR PRINCIPAL DES FINANCES PUBLIQUES.
+
+LEXIQUE COMPLET.
+
+      La comptabilité désigne la technique quantitative de collecte, de traitement et d'interprétation des faits matériels, juridiques ou économiques qui ont une incidence sur le patrimoine d'une entité économique comme l'entreprise.
+
+      Le PCG désigne le plan comptable général, qui fixe les règles de la comptabilité des entreprises et la liste normalisée des comptes.
+
+      L'ANC désigne l'Autorité des normes comptables, qui élabore les règlements comptables et tient à jour le plan comptable général.
+
+      Les documents de synthèse désignent le bilan, le compte de résultat et l'annexe, qui forment un tout indissociable appelé comptes annuels.
+
+      Le livre-journal désigne le registre obligatoire qui enregistre chronologiquement toutes les opérations de l'entreprise.
+
+      Le grand-livre désigne le registre obligatoire qui regroupe l'ensemble des comptes de l'entreprise, tenu parallèlement au livre-journal.
+
+      L'image fidèle désigne l'objectif final des principes comptables : donner une représentation exacte du patrimoine, de la situation financière et du résultat de l'entreprise.
+
+      La partie double désigne la règle technique selon laquelle toute opération est enregistrée au débit d'un ou plusieurs comptes et au crédit d'un ou plusieurs autres comptes pour un même montant.
+
+      La comptabilité d'engagement désigne la règle qui impose d'enregistrer les créances et les dettes dès leur naissance, sans attendre l'encaissement ou le décaissement.
+
+      La permanence des méthodes désigne le principe qui interdit de changer de méthode comptable d'un exercice à l'autre, sauf changement exceptionnel ou recherche d'une meilleure information.
+
+COURS DÉTAILLÉ.
+
+I. LA PLACE DE LA COMPTABILITÉ DANS L'ÉPREUVE ET SA DÉFINITION.
+
+   A. Une question autonome d'analyse financière introduite à partir du concours deux mille vingt-sept.
+
+      Une question autonome portant sur l'analyse financière est introduite à l'épreuve écrite d'admissibilité n° deux du concours d'inspecteur principal des finances publiques à partir de la session deux mille vingt-sept.
+
+      Cette partie commune est notée sur cinq points sur vingt, la partie optionnelle restant notée sur quinze points, pour une épreuve de quatre heures au coefficient six.
+
+      L'École nationale des finances publiques accompagne les candidats par des fiches publiées tout au long de la préparation, complétées par des exercices autocorrectifs.
+
+      Les fiches rappellent qu'il est impossible d'étudier l'analyse financière sans comprendre au préalable les mécanismes de la comptabilité générale, c'est pourquoi les premières fiches portent sur la comptabilité.
+
+      Les fiches ne suffisent pas pour réussir : l'école recommande un entraînement régulier avec des manuels et des sites d'exercices corrigés, en veillant à consulter des sources qui appliquent les normes comptables françaises.
+
+      L'école recommande aussi d'acquérir une liste intégrale et récente des comptes du plan comptable général, utilisable le jour du concours.
+
+   B. Définition, rôle et double objectif de la comptabilité.
+
+      La comptabilité s'applique à des faits matériels, comme la perte d'un billet de banque, à des faits juridiques, comme une vente, et à des faits économiques, comme la baisse de titres cotés, dès lors qu'ils ont une incidence patrimoniale.
+
+      Son rôle est de saisir, classer, interpréter et analyser ces faits pour retracer toutes les transformations subies par le patrimoine de l'entité.
+
+      Son premier objectif est de dégager le résultat, bénéfice ou perte, de l'activité en fin d'exercice comptable.
+
+      Son second objectif est d'établir à cette date des documents de synthèse destinés au chef d'entreprise et aux tiers, associés, créanciers, organismes financiers et administrations, afin de présenter une image fidèle du patrimoine, de la situation financière et des résultats.
+
+      Le bilan décrit de façon statique la situation patrimoniale à une date déterminée, le compte de résultat présente le résultat net global de l'exercice à partir des éléments qui l'ont formé, et l'annexe complète et explicite ces deux documents.
+
+   C. Le cadre institutionnel.
+
+      La comptabilité est un moyen de preuve entre commerçants et un élément de gestion pour les entreprises.
+
+      Elle constitue aussi un moyen d'information interne, pour les associés et les salariés, ce qui justifie l'obligation de conserver la comptabilité pendant dix ans.
+
+      Elle informe enfin l'extérieur : l'État pour la connaissance de l'économie nationale, la DGFiP pour la justification des éléments déclarés et les apporteurs de capitaux comme les banques.
+
+      L'article L. cent vingt-trois-douze du code de commerce impose à tout commerçant, personne physique ou morale, d'enregistrer chronologiquement les mouvements affectant le patrimoine de son entreprise.
+
+      Le même article impose de contrôler par inventaire, au moins une fois tous les douze mois, l'existence et la valeur des éléments actifs et passifs, puis d'établir des comptes annuels à la clôture de l'exercice.
+
+      Ces comptes annuels comprennent le bilan, le compte de résultat et une annexe, qui forment un tout indissociable.
+
+   D. Les dispositions générales du plan comptable.
+
+      La normalisation comptable vise l'amélioration et le contrôle des comptabilités, la comparaison des informations comptables dans le temps et dans l'espace, et l'élaboration des statistiques.
+
+      Toute entreprise doit tenir un livre-journal qui retrace l'ensemble de ses opérations et un grand-livre qui suit les comptes en concordance avec les totaux du livre-journal.
+
+      La comptabilité est tenue en français, les écritures rappellent les numéros et intitulés des comptes, et chaque écriture s'appuie sur une pièce justificative datée, susceptible d'être présentée à toute demande.
+
+      Le plan comptable général a connu une évolution importante au premier janvier deux mille vingt-cinq avec le règlement de l'ANC n° deux mille vingt-deux-six du quatre novembre deux mille vingt-deux relatif à la modernisation des états financiers, ce qui impose d'utiliser des manuels à jour.
+
+II. LES GRANDS PRINCIPES COMPTABLES.
+
+   A. Continuité d'exploitation et indépendance des exercices.
+
+      Selon l'article cent vingt et un-deux du PCG, la comptabilité permet d'effectuer des comparaisons périodiques et d'apprécier l'évolution de l'entité dans une perspective de continuité d'activité.
+
+      Faire le point en fin d'exercice ne signifie donc pas remettre le compteur à zéro : la vie de l'entreprise continue, ce qui est essentiel lors des régularisations d'inventaire.
+
+      Le principe d'indépendance, ou de séparation, des exercices découpe la comptabilité en périodes, souvent l'année civile.
+
+      Il justifie le rattachement des charges et des produits à l'exercice qui les concerne, même lorsque la facture arrive après la clôture.
+
+   B. Nominalisme, ou coûts historiques.
+
+      Les éléments qui entrent dans le patrimoine sont enregistrés pour leur valeur nominale, c'est-à-dire leur valeur d'origine, sans tenir compte de l'inflation ou de la déflation.
+
+      Les biens acquis à titre onéreux sont enregistrés à leur coût d'acquisition, les biens acquis à titre gratuit à leur valeur vénale et les biens produits par l'entreprise à leur coût de production.
+
+      Cette valeur d'origine n'est jamais modifiée dans le compte où elle est inscrite, même si le bien se déprécie ou prend de la valeur.
+
+   C. Prudence.
+
+      Selon l'article cent vingt et un-quatre du PCG, la comptabilité est établie sur la base d'appréciations prudentes, pour éviter de transférer sur des périodes à venir des incertitudes présentes susceptibles de grever le patrimoine et le résultat.
+
+      La prudence impose de constater les pertes probables et les moins-values latentes par des dépréciations ou des provisions, même en cas d'insuffisance ou d'absence de bénéfice.
+
+      Elle interdit au contraire d'enregistrer les gains latents ou probables, comme la plus-value d'un local dont la valeur de marché a augmenté.
+
+      Une perte seulement éventuelle ne se provisionne pas, tandis qu'une perte probable, comme une condamnation que l'avocat juge vraisemblable, doit être provisionnée.
+
+   D. Permanence des méthodes.
+
+      Selon l'article cent vingt et un-cinq du PCG, la cohérence et la comparabilité des informations comptables reposent sur la permanence des méthodes et de la structure du bilan et du compte de résultat.
+
+      Ce principe permet de comparer les comptes annuels dans le temps et dans l'espace.
+
+      Toute exception doit être justifiée par un changement exceptionnel dans la situation de l'entité ou par la recherche d'une meilleure information, puis signalée, justifiée et expliquée dans l'annexe.
+
+      Changer de méthode d'évaluation des stocks ou de mode d'amortissement dans le seul but d'améliorer ou d'alléger le résultat est donc interdit.
+
+   E. Non-compensation.
+
+      Les entreprises évaluent et comptabilisent séparément tous leurs actifs et tous leurs passifs, ainsi que toutes leurs charges et tous leurs produits.
+
+      Aucune compensation n'est possible entre un poste d'actif et un poste de passif du bilan, ni entre une charge et un produit du compte de résultat.
+
+      Un client qui est aussi fournisseur reste inscrit séparément en créance et en dette, et la reprise d'un ancien véhicule par le garage donne lieu à une vente distincte de l'achat du nouveau véhicule.
+
+   F. Bonne information des tiers, sincérité et régularité.
+
+      La sincérité est l'application de bonne foi des règles et procédures d'enregistrement, dans le souci permanent d'une traduction fidèle de la réalité.
+
+      La régularité est la conformité aux règles et procédures en vigueur.
+
+      La bonne information, qui tient compte de l'importance relative des éléments, doit apporter aux lecteurs des comptes une information suffisante et significative.
+
+      L'application de l'ensemble de ces principes concourt à donner une image fidèle du patrimoine de l'entreprise.
+
+III. LES RÈGLES TECHNIQUES ET LA CODIFICATION DES COMPTES.
+
+   A. La partie double.
+
+      Chaque relation d'échange avec un partenaire se traduit par un double flux en sens inverse, dont l'enregistrement fonde la comptabilité en partie double.
+
+      Toute opération est comptabilisée au débit d'un ou plusieurs comptes en contrepartie du crédit d'un ou plusieurs comptes, pour un total identique.
+
+      Les comptes d'actif et les comptes de charges augmentent au débit et diminuent au crédit.
+
+      Les comptes de passif et les comptes de produits augmentent au crédit et diminuent au débit.
+
+      Les comptes sont arrêtés en fin de période pour dégager un solde débiteur, créditeur ou nul.
+
+   B. La comptabilité d'engagement.
+
+      Les créances et les dettes sont enregistrées dès leur naissance, sans attendre l'encaissement ou le décaissement effectif.
+
+      Le compte de résultat ne retrace donc pas des recettes et des dépenses mais des produits et des charges, ce qui distingue la comptabilité générale d'une comptabilité de caisse.
+
+      Une marchandise livrée avant la clôture dont la facture arrive après la clôture est enregistrée en charge de l'exercice de livraison, par une écriture de facture non parvenue au compte quatre zéro huit.
+
+   C. Le classement décimal en sept classes.
+
+      Les comptes de bilan forment les classes un à cinq : la classe un regroupe les capitaux au passif, la classe deux les immobilisations à l'actif, la classe trois les stocks et en-cours à l'actif, la classe quatre les comptes de tiers à l'actif ou au passif, la classe cinq les comptes financiers.
+
+      Les comptes de gestion forment la classe six pour les charges et la classe sept pour les produits.
+
+      Chaque classe se divise en comptes et sous-comptes : dans la classe deux, le compte deux un regroupe les immobilisations corporelles et le compte deux un un les terrains.
+
+   D. La signification de la position des chiffres.
+
+      Un zéro en dernière position est réservé aux comptes globaux et aux regroupements, comme le compte quatre un zéro qui regroupe les comptes quatre un un à quatre un huit.
+
+      Un huit en deuxième position d'un compte d'immobilisation désigne un compte d'amortissement, comme le compte deux huit un trois qui amortit les constructions du compte deux un trois.
+
+      Un neuf en deuxième position d'un compte d'actif désigne une dépréciation, comme le compte quatre neuf un qui déprécie les créances clients du compte quatre un un.
+
+      Un neuf en troisième position ou au-delà signale un compte qui fonctionne en sens inverse, comme le compte quatre zéro neuf qui enregistre les avances versées à un fournisseur débiteur.
+
+      Un huit en troisième position d'un compte de tiers désigne des produits à recevoir ou des charges à payer, comme le compte quatre un huit des clients produits non encore facturés.
+
+      Certains comptes sont symétriques, comme le compte six zéro sept des achats de marchandises et le compte sept zéro sept des ventes de marchandises.
+
+   E. Les comptes selon le type d'entreprise et le système retenu.
+
+      Une entreprise commerciale achète et revend en l'état, et mouvemente les comptes six zéro sept et sept zéro sept.
+
+      Une entreprise industrielle transforme des matières premières du compte six zéro un en produits finis vendus au compte sept zéro un.
+
+      Une entreprise prestataire de services vend des services au compte sept zéro six.
+
+      Le plan comptable distingue un système abrégé pour les petites entreprises, un système de base qui constitue le minimum pour les entreprises moyennes et grandes, et un système développé qui détaille l'analyse pour éclairer la gestion.
+
+POINTS D'ATTENTION.
+
+      Le bilan permet de connaître le patrimoine mais pas la formation du résultat, c'est le compte de résultat qui permet d'analyser la rentabilité.
+
+      La prudence est asymétrique : on constate les moins-values latentes mais jamais les plus-values latentes, et une hausse de valeur ne compense pas une baisse sur un autre bien.
+
+      Un changement de méthode motivé par l'amélioration du résultat est irrégulier, même s'il paraît plus favorable à l'entreprise.
+
+      La dépréciation d'une créance douteuse se calcule sur le montant hors taxe, alors que le transfert en compte de clients douteux quatre un six porte sur le montant toutes taxes comprises.
+
+      L'absence de bénéfice ne dispense jamais de constater une dépréciation ou une provision : le principe de prudence s'applique quel que soit le résultat.
+
+      Le corrigé de l'école rappelle que le détail des écritures n'est pas attendu dans la question autonome : il faut surtout identifier et justifier le principe en cause.
+
+EXEMPLES CITÉS.
+
+      Entreprise MARIO : un litige dont l'avocat estime le coût à deux mille cinq cents euros sans écriture à la clôture méconnaît le principe de prudence.
+
+      Entreprise MARIO : passer d'un amortissement linéaire sur cinq ans à un amortissement dégressif parce qu'une machine plus performante est sortie méconnaît la permanence des méthodes.
+
+      Entreprise MARIO : réévaluer à cent quatre-vingt-dix mille euros un immeuble acquis cent mille euros dix ans plus tôt méconnaît le principe des coûts historiques.
+
+      Entreprise MARIO : enregistrer un véhicule de douze mille euros pour huit mille euros en déduisant la reprise de l'ancien de quatre mille euros méconnaît la non-compensation, il faut une vente de quatre mille euros et un achat de douze mille euros.
+
+      Société SAXO : cinquante clarinettes à cent cinquante euros hors taxe livrées le quinze décembre et facturées le quatre janvier doivent être rattachées à l'exercice de livraison, soit sept mille cinq cents euros hors taxe et mille cinq cents euros de TVA en facture non parvenue.
+
+      Société SAXO : une créance de douze mille euros toutes taxes comprises sur un orchestre en redressement judiciaire est transférée en clients douteux et dépréciée sur sa base hors taxe de dix mille euros.
+
+      Société SAXO : la boutique achetée cinq cent mille euros et estimée deux millions euros ne donne lieu à aucune écriture, et le passage du coût moyen unitaire pondéré au premier entré premier sorti pour gagner cinq mille euros de résultat est interdit.

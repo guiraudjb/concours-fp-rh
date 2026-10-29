@@ -1476,6 +1476,8 @@
    "taille": 3342033
   }
  ],
+ "18-01 ENFiP - Comptabilité générale, cadre légal et principes comptables": [],
+ "18-02 ENFiP - Comptabilité générale, bilan, compte de résultat et fonctionnement des comptes": [],
  "18-05 IP DGFiP - Méthode de la partie analyse financière (épreuve professionnelle 2027)": [],
  "18-10 DGFiP - Analyse financière des communes, équilibres fondamentaux et ratios": [
   {
@@ -1491,6 +1493,8 @@
    "taille": 200510
   }
  ],
+ "18-15 DGFiP - Guide ANAFI, produits et charges réels de fonctionnement en analyse consolidée": [],
+ "18-16 DGFiP - Guide ANAFI, EBF, CAF brute, dépenses d'investissement et CAF nette": [],
  "18-20 Banque des Territoires - Finances locales, budget, fiscalité et équilibre": [
   {
    "fichier": "source/bdt-fiches-pedagogiques-finances-locales.pdf",
@@ -1610,6 +1614,10 @@
    "taille": 2597408
   }
  ],
+ "18-72 ENFiP - Analyse financière de l'entreprise, méthode et soldes intermédiaires de gestion": [],
+ "18-73 ENFiP - Capacité d'autofinancement et ratios de l'entreprise": [],
+ "18-80 ENFiP - Sujets types et devoirs corrigés de la question d'analyse financière (2026)": [],
+ "18-81 ENFiP - Cas d'analyse financière, FRNG, BFR, trésorerie et tableau de financement": [],
  "19-10 DGFiP - Rapport d'activité 2025": [
   {
    "fichier": "source/rapport-activite-dgfip-2025.pdf",

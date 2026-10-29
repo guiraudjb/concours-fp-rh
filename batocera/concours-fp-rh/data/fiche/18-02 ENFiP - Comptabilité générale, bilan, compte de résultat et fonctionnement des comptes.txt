@@ -1,0 +1,197 @@
+COMPTABILITÉ GÉNÉRALE, LE BILAN, LE COMPTE DE RÉSULTAT ET LE FONCTIONNEMENT DES COMPTES.
+
+LEXIQUE COMPLET.
+
+      Le patrimoine désigne l'universalité juridique qui réunit l'ensemble des droits et des obligations, évalués en argent, propres à une même personne.
+
+      L'actif désigne la partie gauche du bilan qui recense les biens et les créances de l'entreprise, c'est-à-dire l'emploi des ressources.
+
+      Le passif désigne la partie droite du bilan qui recense les capitaux propres et les dettes, c'est-à-dire l'origine des ressources.
+
+      Les capitaux propres désignent le capital apporté et les résultats accumulés, souvent appelés passif fictif car ils sont dus aux associés et à l'entreprise elle-même.
+
+      L'actif immobilisé désigne les biens et valeurs destinés à rester durablement dans l'entreprise : immobilisations incorporelles, corporelles et financières.
+
+      L'actif circulant désigne les valeurs susceptibles d'être transformées à court terme : stocks et en-cours, créances et disponibilités.
+
+      Le compte de résultat désigne l'état de synthèse qui récapitule les produits et les charges de l'exercice, sans tenir compte de leur date d'encaissement ou de paiement.
+
+      La balance désigne le document facultatif, établi à partir du grand-livre, qui récapitule les masses et les soldes de tous les comptes pour contrôler la comptabilité.
+
+      Les comptes de situation désignent les comptes de bilan des classes un à cinq, et les comptes de gestion désignent les comptes de charges et de produits des classes six et sept.
+
+      Le compte un deux huit désigne le compte facultatif de détermination du résultat de l'exercice, soldé par le compte un deux zéro en cas de bénéfice ou le compte un deux neuf en cas de perte.
+
+COURS DÉTAILLÉ.
+
+I. LE BILAN, PHOTOGRAPHIE DU PATRIMOINE.
+
+   A. Patrimoine, patrimoine commercial et capital.
+
+      La valeur du patrimoine est la différence entre la valeur des biens et créances possédés et la valeur des dettes contractées par la même personne.
+
+      Dans l'exemple de la fiche, un particulier possède un appartement de soixante mille euros, des meubles de huit mille euros, une voiture de six mille euros, mille euros en banque et deux cents euros en espèces, soit soixante-quinze mille deux cents euros, pour un emprunt de cinquante mille euros : son patrimoine net s'élève à vingt-cinq mille deux cents euros.
+
+      L'entreprise a besoin de moyens d'investissement durables comme le fonds de commerce, les locaux et les matériels, de moyens d'exploitation comme les stocks et les créances clients, et de moyens de trésorerie comme les disponibilités.
+
+      Ces biens forment l'actif, financés par les capitaux propres et par les dettes réelles contractées auprès des tiers, emprunts, découverts et sommes dues aux fournisseurs.
+
+      Le patrimoine commercial est égal à la valeur des biens diminuée des dettes réelles, c'est-à-dire aux capitaux propres.
+
+      Dans une société, personne morale distincte, les associés font des apports qui forment le capital social et reçoivent en échange des parts d'intérêts dans une SNC, des actions dans une SA ou des parts sociales dans une SARL.
+
+      Dans une entreprise individuelle, le patrimoine commercial est un patrimoine d'affectation inclus dans le patrimoine personnel de l'exploitant, dont il est séparé en fait sur le plan comptable.
+
+   B. Les deux lectures du bilan.
+
+      Selon l'approche économique, tout flux se décompose en une ressource, origine du flux, et en un emploi, destination du flux.
+
+      Acheter cent mille euros de matières premières grâce à un emprunt bancaire crée une ressource, la dette financière, et un emploi, le stock de matières premières.
+
+      Il en découle l'égalité fondamentale : le total des emplois est égal au total des ressources, donc l'actif est égal au passif.
+
+      Selon l'approche juridique, l'actif exprime la nature et le montant des biens et créances possédés, et le passif la nature et le montant des dettes contractées pour les acquérir.
+
+   C. La structure de l'actif.
+
+      L'actif immobilisé comprend les immobilisations incorporelles comme les frais d'établissement, le droit au bail ou le fonds commercial, les immobilisations corporelles comme les terrains, constructions, installations techniques et matériels, et les immobilisations financières comme les titres de participation, les prêts et les dépôts et cautionnements.
+
+      L'actif circulant comprend les stocks et en-cours de matières premières, de produits et de marchandises, les créances comme les créances clients, et les disponibilités en banque et en caisse.
+
+      Les comptes d'actif sont débités quand un bien, une créance ou des disponibilités entrent dans l'entreprise et crédités quand ils en sortent : leur solde est en général débiteur, le compte banque pouvant toutefois être créditeur.
+
+      La valeur d'origine portée au débit est la valeur d'acquisition, la valeur vénale en cas d'apport à titre gratuit ou le coût de production si le bien est fabriqué, et elle n'est jamais modifiée même si le bien se déprécie.
+
+   D. La structure du passif.
+
+      Les capitaux propres comprennent le capital, au compte un zéro un, et le résultat de l'exercice.
+
+      Dans l'entreprise individuelle, le compte un zéro un de capital individuel enregistre les apports et prélèvements définitifs de l'exploitant, et le compte un zéro huit de l'exploitant enregistre ses apports et prélèvements temporaires avant d'être viré au compte un zéro un en fin d'exercice.
+
+      Dans une société, le compte un zéro un de capital social ne bouge qu'en cas d'augmentation ou de réduction du capital, selon la règle de fixité du capital.
+
+      Les dettes réelles comprennent notamment les emprunts et dettes assimilées, les fournisseurs et les autres tiers dont l'État.
+
+      Les comptes de passif sont crédités quand une dette est contractée et débités quand elle est apurée : leur solde est en général créditeur.
+
+      Le résultat de l'exercice figure toujours au passif du bilan de clôture, avec le signe moins ou entre parenthèses s'il s'agit d'une perte.
+
+   E. Un exemple de bilan d'ouverture.
+
+      Monsieur DUPUIS crée une société avec un apport de cent mille euros et emprunte trois cent mille euros pour acheter un terrain de cent cinquante mille euros, des bâtiments de deux cent mille euros, des machines de cinquante mille euros et un stock de marchandises de cinquante mille euros.
+
+      Son bilan présente un actif de quatre cent cinquante mille euros, dont quatre cent mille euros d'actif immobilisé et cinquante mille euros de stocks, et un passif de quatre cent cinquante mille euros, composé de cent mille euros de capital, de trois cent mille euros d'emprunt et de cinquante mille euros de dettes fournisseurs.
+
+II. LES DOCUMENTS DU SYSTÈME COMPTABLE CLASSIQUE.
+
+   A. Le livre-journal.
+
+      L'article R. cent vingt-trois-cent soixante-treize du code de commerce impose aux commerçants la tenue d'un livre-journal et d'un grand-livre.
+
+      Le livre-journal enregistre les opérations jour par jour, ou récapitule mensuellement leurs totaux à condition de conserver les documents qui permettent de les vérifier jour par jour.
+
+      Chaque écriture indique la date, les numéros et intitulés des comptes débités et crédités, les sommes et un libellé explicatif.
+
+      En fin d'exercice, le journal est arrêté : le total des débits est égal au total des crédits, le total est mentionné en toutes lettres, puis le comptable date et signe.
+
+   B. Le grand-livre, le livre d'inventaire et la balance.
+
+      Le grand-livre regroupe l'ensemble des comptes de situation et de gestion, tenu parallèlement au journal, et permet la vérification arithmétique de la comptabilité.
+
+      Le livre d'inventaire, facultatif, détaille les postes du bilan pour justifier leur contenu, notamment les immobilisations, les stocks, les dettes fournisseurs et les créances clients.
+
+      La balance, facultative, est établie à partir du grand-livre : les masses débitrices et créditrices doivent être égales et correspondre aux totaux du journal, et les soldes débiteurs doivent égaler les soldes créditeurs.
+
+      Il existe des balances à six colonnes, à quatre colonnes et par soldes.
+
+      Le travail comptable suit trois phases : enregistrement des pièces justificatives au journal, report au grand-livre, puis établissement de la balance.
+
+III. LE COMPTE DE RÉSULTAT.
+
+   A. Objet et définition.
+
+      Selon l'article L. cent vingt-trois-treize du code de commerce, le compte de résultat récapitule les produits et les charges de l'exercice sans tenir compte de leur date d'encaissement ou de paiement, et fait apparaître par différence, après amortissements, dépréciations et provisions, le bénéfice ou la perte.
+
+      Le bilan permet de connaître le résultat mais pas les causes de sa formation, d'où la nécessité de ce second document de synthèse, présenté en tableau ou en liste.
+
+      Les produits sont un enrichissement : sommes reçues ou à recevoir en contrepartie de livraisons de marchandises, de biens fabriqués, de travaux ou de services.
+
+      Les charges sont un appauvrissement : charges engagées en contrepartie d'achats, de sous-traitance, de locations, de salaires et charges sociales ou sans contrepartie comme les impôts professionnels, et charges calculées comme les dotations aux amortissements et provisions, sans flux financier.
+
+   B. La structure du compte de résultat.
+
+      Les charges de la classe six se répartissent en charges d'exploitation, achats, variation des stocks, autres charges externes, impôts et taxes, salaires, charges sociales, dotations et autres charges, puis en charges financières, charges exceptionnelles, participation des salariés et impôt sur les bénéfices.
+
+      Dans une entreprise individuelle, l'impôt sur le revenu de l'exploitant n'est pas une charge de l'entreprise.
+
+      Les produits de la classe sept se répartissent en produits d'exploitation, ventes de marchandises, production vendue et production stockée, puis en produits financiers et produits exceptionnels.
+
+      Le compte de résultat dégage trois niveaux : le résultat d'exploitation, le résultat financier et le résultat exceptionnel.
+
+      Il ne faut pas confondre le poste résultat, qui figure au bilan et au compte de résultat sous le compte un deux, avec le compte de résultat, état de synthèse qui n'a pas de numéro de compte.
+
+   C. La nouvelle définition du résultat exceptionnel.
+
+      Le règlement de l'ANC n° deux mille vingt-deux-six, obligatoire depuis le premier janvier deux mille vingt-cinq, définit les éléments exceptionnels comme les produits et charges liés à un événement majeur et inhabituel, qui n'auraient pas été constatés sans cet événement.
+
+      Les éléments inscrits par nature en résultat exceptionnel se limitent aux opérations fiscales, comme les amortissements dérogatoires, et aux changements de méthode et corrections d'erreurs.
+
+   D. Le résultat comptable et sa détermination.
+
+      Le résultat comptable est à la fois la différence entre les produits et les charges et la variation des capitaux propres entre le début et la fin de l'exercice, hors opérations qui affectent directement les capitaux propres.
+
+      Il faut déconnecter totalement le résultat de la trésorerie, car produits et charges sont comptabilisés indépendamment des flux financiers, nuance indispensable pour l'analyse financière.
+
+      Selon l'article cent douze-trois du PCG, le solde des charges et des produits constitue le bénéfice ou la perte de l'exercice, ou l'excédent ou l'insuffisance de ressources, et aucune compensation n'est possible entre charges et produits.
+
+      En fin d'exercice, on solde d'abord les comptes de rabais, remises et ristournes, comptes ayant un neuf en troisième position, puis on vire toutes les charges et tous les produits au compte un deux huit, lui-même soldé par le compte un deux zéro ou le compte un deux neuf.
+
+IV. LE FONCTIONNEMENT DES COMPTES.
+
+   A. Le compte en T.
+
+      Chaque compte se présente en T, avec à gauche le débit et à droite le crédit.
+
+      Les comptes d'actif augmentent au débit, les comptes de passif au crédit, les comptes de charges enregistrent les charges au débit et leurs réductions au crédit, les comptes de produits enregistrent les produits au crédit et leurs réductions au débit.
+
+   B. L'arrêté des comptes.
+
+      Arrêter un compte, c'est faire apparaître son solde, différence entre la masse débit et la masse crédit.
+
+      Le solde est débiteur si les débits l'emportent, créditeur si les crédits l'emportent, et le compte est soldé si les deux masses sont égales.
+
+      Les soldes des comptes de gestion des classes six et sept sont virés au compte un deux pour déterminer le résultat.
+
+   C. Des exemples d'écritures.
+
+      Un retrait de trois cents euros de la banque pour alimenter la caisse débite le compte cinq trois et crédite le compte cinq un deux.
+
+      L'encaissement du règlement d'un client de deux mille euros débite le compte cinq un deux et crédite le compte quatre un un.
+
+      Le paiement d'un fournisseur par chèque de dix mille euros débite le compte quatre zéro un et crédite le compte cinq un deux.
+
+      L'achat de timbres de cent euros payé en espèces débite le compte six deux six des frais postaux et crédite le compte cinq trois zéro de la caisse.
+
+POINTS D'ATTENTION.
+
+      Le résultat est un enrichissement ou un appauvrissement, pas un solde de trésorerie : un bénéfice peut coexister avec une trésorerie négative.
+
+      Les rabais, remises et ristournes accordés diminuent les produits et ceux obtenus diminuent les charges, ils ne sont pas des produits ou des charges distincts.
+
+      Les stocks de marchandises, de produits finis et de matières premières se cumulent dans le poste stocks de l'actif circulant.
+
+      Le matériel et le véhicule sont des immobilisations corporelles, l'emprunt et les fournisseurs des dettes, et le capital incluant le résultat antérieur figure dans les capitaux propres.
+
+      Le compte un deux huit est facultatif : il permet de n'inscrire au compte un deux zéro ou un deux neuf que le montant net du résultat.
+
+EXEMPLES CITÉS.
+
+      Entreprise VOITURE au premier janvier : actif immobilisé de cinq cent cinquante mille euros, terrains cent mille euros, constructions trois cent mille euros et matériel cent cinquante mille euros.
+
+      Entreprise VOITURE : actif circulant de cent dix mille euros, dont quatre-vingt mille euros de stocks et trente mille euros de créances clients, et disponibilités de vingt mille euros, pour un total de six cent quatre-vingt mille euros.
+
+      Entreprise VOITURE : passif composé de quatre cent quatre-vingt mille euros de capitaux propres et de deux cent mille euros de dettes, dont cent cinquante mille euros d'emprunt et cinquante mille euros de fournisseurs.
+
+      Entreprise MAYA : total des produits de deux millions sept cent quatre-vingt-quatorze mille euros et total des charges de deux millions cinq cent cinquante-quatre mille euros après imputation des rabais, soit un bénéfice de deux cent quarante mille euros.
+
+      Entreprise MAYA : les achats de marchandises nets s'établissent à un million cent dix-sept mille euros et les ventes de marchandises nettes à un million neuf cent soixante-quinze mille euros après solde des comptes six zéro neuf sept et sept zéro neuf sept.

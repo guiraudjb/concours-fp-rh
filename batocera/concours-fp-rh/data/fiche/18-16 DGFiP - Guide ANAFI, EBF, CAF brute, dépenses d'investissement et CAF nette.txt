@@ -1,0 +1,173 @@
+GUIDE ANAFI DE LA DGFIP, EXCÉDENT BRUT DE FONCTIONNEMENT, CAF BRUTE, DÉPENSES D'INVESTISSEMENT ET CAF NETTE EN ANALYSE CONSOLIDÉE.
+
+LEXIQUE COMPLET.
+
+      L'EBF désigne l'excédent brut de fonctionnement, solde intermédiaire égal aux produits de fonctionnement courants moins les charges de fonctionnement courantes, comptes sept zéro à sept cinq et six zéro à six cinq.
+
+      La CAF brute désigne la capacité d'autofinancement brute, aussi appelée épargne brute, différence entre les produits réels et les charges réelles de fonctionnement.
+
+      La CAF nette désigne la CAF brute diminuée du remboursement en capital des emprunts.
+
+      Les dépenses d'équipement désignent les acquisitions d'immobilisations et les travaux, principale composante des emplois d'investissement.
+
+      Les emplois d'investissement désignent l'ensemble des dépenses d'investissement budgétaires, dépenses d'équipement, remboursements de dettes et autres emplois.
+
+      Les nomenclatures M quatorze, M cinquante-sept et M quatre désignent les instructions budgétaires et comptables des communes, des collectivités ayant adopté le référentiel M cinquante-sept et des services publics industriels et commerciaux.
+
+      L'équilibre réel désigne la règle de l'article L. mille six cent douze-quatre du CGCT qui impose notamment que les ressources propres couvrent le remboursement en capital des annuités d'emprunt.
+
+      Un prêt-relais désigne un emprunt de court terme remboursé en une fois, dont le remboursement peut rendre la CAF nette négative de façon exceptionnelle.
+
+      Un BA SPIC désigne un budget annexe de service public industriel et commercial, dont la CAF est en principe non fongible.
+
+      La NOTRé désigne la loi portant nouvelle organisation territoriale de la République, source de transferts de compétences à prendre en compte dans les évolutions.
+
+COURS DÉTAILLÉ.
+
+I. L'EXCÉDENT BRUT DE FONCTIONNEMENT.
+
+   A. Définition.
+
+      L'EBF est l'excédent des produits de fonctionnement courants sur les charges de fonctionnement courantes.
+
+      Il représente la ressource dégagée par le fonctionnement courant hors coût du financement de l'investissement, c'est-à-dire hors charges et produits financiers, hors renouvellement des immobilisations, c'est-à-dire hors dotations aux amortissements, et hors éléments exceptionnels ou spécifiques.
+
+      Si l'EBE mesure la performance économique brute d'une entreprise, l'EBF est privilégié pour caractériser le fonctionnement d'une collectivité et mesurer sa performance intrinsèque, et il est particulièrement instructif pour un service public industriel et commercial.
+
+      L'analyse consolidée calcule la CAF brute à partir de l'EBF, qui sert aussi à l'étude individuelle des budgets annexes significatifs.
+
+   B. Les repères d'appréciation.
+
+      Le guide admet à titre indicatif que l'EBF d'une commune est satisfaisant au-delà de vingt pour cent des produits de gestion, sous réserve de l'absence de charges exceptionnelles récurrentes importantes, et insuffisant en dessous.
+
+      Le tableau d'appréciation retient un niveau insuffisant en dessous de dix-huit pour cent, faible de dix-huit à vingt pour cent, satisfaisant de vingt à vingt-deux pour cent et élevé au-delà de vingt-deux pour cent, ces seuils n'ayant aucune valeur normative.
+
+      L'analyste vérifie si un EBF faible relève d'un accident de parcours ou d'une tendance de plusieurs années, en renvoyant à l'analyse des produits et des charges courantes.
+
+      Il vérifie aussi si le niveau de la CAF brute résulte de l'importance ou de la faiblesse de l'EBF.
+
+II. LA CAF BRUTE.
+
+   A. Définition et formation.
+
+      L'étude de l'autofinancement est une étape clé de l'analyse rétrospective, et l'épargne brute est le solde le plus utilisé par les élus locaux.
+
+      La CAF brute est la différence entre les produits réels et les charges réelles de fonctionnement, obtenue au moyen des seules opérations qui se dénouent en trésorerie.
+
+      Elle correspond à ce qui reste à la collectivité après avoir acquitté toutes ses charges réelles et encaissé tous ses produits réels de fonctionnement.
+
+      Le tableau de formation part de l'EBF, ajoute les transferts de charges, les produits financiers hors reprises et les produits exceptionnels hors reprises, et retranche les charges financières hors dotations et les charges exceptionnelles hors dotations.
+
+   B. Les exigences et les signaux d'alerte.
+
+      Quel que soit son niveau, la CAF brute doit couvrir au minimum le remboursement en capital des emprunts.
+
+      Une CAF satisfaisante obtenue grâce à des opérations exceptionnelles doit être signalée, car ce caractère exceptionnel est un indice de faiblesse.
+
+      À défaut de dégager des ressources suffisantes pour investir, la collectivité doit au moins assurer l'équilibre de son fonctionnement courant.
+
+   C. La CAF des budgets annexes SPIC.
+
+      L'analyse consolidée révèle l'importance des activités portées par les budgets annexes.
+
+      La CAF d'un budget annexe SPIC est en principe non fongible : elle doit traduire un autofinancement du service sans subvention extérieure, notamment du budget principal, et ne devrait pas être consolidée.
+
+      Sa consolidation se justifie parce que la collectivité reste en dernier ressort l'unique garante en cas de difficulté financière du budget annexe.
+
+   D. L'exemple chiffré.
+
+      Dans l'ensemble consolidé du guide, l'EBF passe de cinq virgule un millions d'euros en deux mille vingt à trois virgule six millions d'euros en deux mille vingt-trois puis remonte à cinq millions d'euros en deux mille vingt-quatre, soit plus trente-sept virgule six pour cent sur la dernière année et moins trois virgule trois pour cent sur la période.
+
+      La CAF brute passe de cinq virgule six millions d'euros en deux mille vingt à trois virgule deux millions d'euros en deux mille vingt-trois puis à quatre virgule sept millions d'euros en deux mille vingt-quatre, soit plus quarante-quatre virgule un pour cent sur un an mais moins seize virgule un pour cent depuis deux mille vingt.
+
+      Les produits exceptionnels, encore de un virgule un millions d'euros en deux mille vingt, ne sont plus que de zéro virgule quatre millions d'euros en deux mille vingt-quatre, ce qui explique une partie de la baisse de la CAF sur la période.
+
+III. LES DÉPENSES D'INVESTISSEMENT.
+
+   A. Les objectifs de l'analyse.
+
+      L'approche consolidée appréhende la globalité des investissements de l'exercice et des financements mobilisés pour les couvrir.
+
+      Il s'agit d'analyser la structure des dépenses d'investissement, notamment la part des dépenses d'équipement, de commenter leur évolution sur la période et sur le dernier exercice, et d'identifier la part portée par les budgets annexes SPIC.
+
+   B. La structure et la définition comptable.
+
+      La structure se répartit principalement entre les dépenses d'équipement et les remboursements de dettes bancaires et assimilées, qui représentent dans l'exemple de deux mille vingt-quatre respectivement soixante-deux virgule six pour cent et trente-sept virgule un pour cent des dépenses, les autres emplois ne pesant que zéro virgule trois pour cent.
+
+      En M quatorze, les emplois d'investissement correspondent au débit des comptes un zéro sauf un zéro deux deux neuf et un zéro six neuf, un trois sauf un trois neuf, un six sauf un six quatre quatre neuf, un six huit huit et un six neuf, un huit, deux zéro, deux un, deux deux, deux trois sauf deux trois sept et deux trois huit, deux six sauf deux six neuf, deux sept sauf deux sept six huit et deux sept neuf, et de quelques comptes d'opérations sous mandat et d'investissement pour compte de tiers.
+
+      Les définitions en M cinquante-sept et en M quatre reprennent la même logique avec des exclusions adaptées à chaque nomenclature.
+
+   C. L'évolution et les budgets annexes.
+
+      Dans l'exemple, les emplois d'investissement passent de huit millions d'euros en deux mille vingt à douze millions d'euros en deux mille vingt-quatre, soit plus cinquante virgule cinq pour cent, et les dépenses d'équipement de cinq virgule un millions d'euros à sept virgule cinq millions d'euros, soit plus quarante-huit virgule sept pour cent.
+
+      La part des budgets annexes SPIC dans les dépenses d'équipement passe de trois pour cent en deux mille vingt à quarante pour cent en deux mille vingt-trois puis vingt-trois pour cent en deux mille vingt-quatre.
+
+      Les opérations des budgets annexes SPIC s'analysent sur la durée des investissements : la reconstruction d'une station d'épuration ne s'équilibre que si la structure a anticipé l'investissement et constitué des réserves, sinon un déséquilibre, en théorie provisoire, apparaît malgré la hausse des tarifs.
+
+   D. L'évolution des immobilisations.
+
+      L'approche consolidée des immobilisations permet d'étudier la politique d'investissement quelle que soit la compétence exercée.
+
+      Elle analyse le montant et la nature des investissements, corporels, incorporels, en cours et financiers, et leur évolution sur le dernier exercice.
+
+      L'analyste vérifie que le périmètre des compétences n'a pas évolué ou, dans le cas contraire, que les immobilisations ont fait l'objet d'écritures de mise à disposition, et que les immobilisations en cours sont suivies d'imputations définitives.
+
+IV. LE FINANCEMENT DES INVESTISSEMENTS ET LA CAF NETTE.
+
+   A. Définition.
+
+      La CAF nette s'étudie dans l'analyse du financement des investissements, dont elle est une composante avec les emprunts, les fonds et les subventions d'investissement.
+
+      La CAF nette est égale à la CAF brute diminuée du remboursement en capital des emprunts, car la CAF brute doit être affectée en priorité au remboursement de la dette.
+
+      La CAF est la seule ressource d'investissement véritablement propre à la collectivité et devrait couvrir au minimum l'annuité en capital de la dette.
+
+   B. Le fondement juridique.
+
+      Selon l'article L. mille six cent douze-quatre du CGCT, le budget est en équilibre réel lorsque les sections de fonctionnement et d'investissement sont votées en équilibre, que les recettes et les dépenses sont évaluées de façon sincère.
+
+      Il faut en outre que le prélèvement sur les recettes de fonctionnement au profit de l'investissement, ajouté aux recettes propres de l'investissement hors emprunts, et éventuellement aux dotations aux amortissements et provisions, couvre le remboursement en capital des annuités d'emprunt à échoir dans l'exercice.
+
+      Une dégradation prolongée de la CAF brute, donc de la CAF nette, compromet l'équilibre budgétaire, la soutenabilité de la politique d'investissement, voire la solvabilité de la collectivité à moyen terme.
+
+   C. Les signaux d'alerte.
+
+      La CAF nette peut être négative de façon exceptionnelle pour un exercice, notamment lors du remboursement d'un prêt-relais, mais elle ne doit pas l'être de façon permanente et structurelle.
+
+      Une évolution croissante du remboursement annuel en capital peut constituer un indicateur d'alerte d'un risque d'insolvabilité.
+
+      Une évolution irrégulière du remboursement en capital peut révéler un profil d'amortissement de la dette insuffisamment lissé, qui expose la collectivité à un risque de manque de liquidités.
+
+      Le tableau d'évolution de la CAF nette met aussi en évidence la part des budgets annexes SPIC, ce qui peut conduire à un focus sur un budget annexe particulier.
+
+   D. L'exemple chiffré.
+
+      Dans l'exemple, le remboursement en capital passe de deux virgule un millions d'euros en deux mille vingt à sept virgule sept millions d'euros en deux mille vingt-deux puis quatre virgule cinq millions d'euros en deux mille vingt-quatre, soit plus cent douze pour cent sur la période.
+
+      La CAF nette, de trois virgule quatre millions d'euros en deux mille vingt, devient négative trois années de suite, moins un virgule quatre millions d'euros en deux mille vingt et un, moins quatre virgule un millions d'euros en deux mille vingt-deux et moins zéro virgule cinq millions d'euros en deux mille vingt-trois, avant de redevenir à peine positive en deux mille vingt-quatre à zéro virgule deux millions d'euros.
+
+POINTS D'ATTENTION.
+
+      L'EBF ne contient ni charges ni produits financiers, ni dotations aux amortissements, ni éléments exceptionnels, alors que la CAF brute intègre les éléments financiers et exceptionnels réels.
+
+      Le seuil de vingt pour cent s'apprécie par rapport aux produits de gestion et reste indicatif.
+
+      Une CAF nette négative une année peut s'expliquer par un prêt-relais, mais plusieurs années négatives traduisent une impasse structurelle.
+
+      La CAF d'un budget annexe SPIC n'est pas censée financer le budget principal, ni l'inverse.
+
+      L'analyse des investissements doit tenir compte des transferts de compétences et des mises à disposition d'immobilisations.
+
+EXEMPLES CITÉS.
+
+      EBF consolidé de quatre millions neuf cent soixante et un mille cent quatre-vingt-quinze euros en deux mille vingt-quatre pour trente-huit millions six cent soixante-neuf mille cent euros de produits courants, soit environ douze virgule huit pour cent, niveau insuffisant au regard du repère de vingt pour cent.
+
+      CAF brute de quatre millions six cent soixante-quatre mille vingt-sept euros en deux mille vingt-quatre, dont huit cent soixante-douze mille six cent quatre-vingt-douze euros portés par les budgets annexes SPIC.
+
+      Remboursement en capital de quatre millions quatre cent soixante-neuf mille trois cent quarante-cinq euros en deux mille vingt-quatre, laissant une CAF nette de cent quatre-vingt-quatorze mille six cent quatre-vingt-un euros.
+
+      Dépenses d'équipement du budget annexe assainissement de quatre virgule huit millions d'euros en deux mille vingt-trois, puis deux virgule trois millions d'euros en deux mille vingt-quatre.
+
+      Les dépenses d'équipement du budget annexe des zones d'activité passent de zéro virgule deux millions d'euros en deux mille vingt à deux virgule trois millions d'euros en deux mille vingt-quatre.

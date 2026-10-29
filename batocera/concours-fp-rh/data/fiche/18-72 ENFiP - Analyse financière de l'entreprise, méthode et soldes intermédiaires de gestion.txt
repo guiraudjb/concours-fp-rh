@@ -1,0 +1,185 @@
+ANALYSE FINANCIÈRE DE L'ENTREPRISE, MÉTHODE DU COMMENTAIRE ET SOLDES INTERMÉDIAIRES DE GESTION.
+
+LEXIQUE COMPLET.
+
+      L'analyse financière désigne l'ensemble des méthodes qui exploitent des informations financières et économiques pour porter un jugement sur la performance, la situation financière et les risques d'une entreprise.
+
+      Les SIG désignent les soldes intermédiaires de gestion, neuf soldes qui décomposent la formation du résultat net à partir du compte de résultat.
+
+      La marge commerciale désigne l'excédent des ventes de marchandises sur le coût d'achat des marchandises vendues.
+
+      La production de l'exercice désigne la somme de la production vendue, de la production stockée et de la production immobilisée.
+
+      La valeur ajoutée désigne la richesse créée par l'entreprise grâce à ses facteurs de production, égale à la marge commerciale plus la production de l'exercice moins les consommations en provenance des tiers.
+
+      L'EBE désigne l'excédent brut d'exploitation, ressource fondamentale du cycle d'exploitation, égal à la valeur ajoutée plus les subventions d'exploitation moins les impôts et taxes et les charges de personnel.
+
+      L'insuffisance brute d'exploitation désigne un EBE négatif, signe d'une situation grave si elle se répète.
+
+      Le RCAI désigne le résultat courant avant impôts, qui mesure l'impact de la politique financière.
+
+      Un retraitement désigne le déplacement d'un poste vers un autre solde que celui prévu à l'origine, pour comparer des entreprises sur des bases homogènes.
+
+      Le crédit-bail désigne la location d'un bien avec option d'achat, dont la redevance est retraitée en dotation aux amortissements et en charge d'intérêts.
+
+COURS DÉTAILLÉ.
+
+I. L'ANALYSE FINANCIÈRE ET SA PRÉSENTATION.
+
+   A. Définition et utilité.
+
+      L'analyse financière tire des renseignements sur la santé d'une entreprise, notamment sa solvabilité et sa rentabilité, à partir des documents comptables.
+
+      Elle établit un diagnostic financier et aide à la décision : valeur de l'entreprise, capacité à créer de la richesse, rentabilité, équilibre de la structure financière, compétitivité, points forts, points faibles et risques.
+
+      Ses utilisateurs sont le dirigeant pour la gestion interne, les associés pour la rentabilité des capitaux, les investisseurs, les salariés et leurs représentants qui peuvent déclencher un droit d'alerte, les tiers comme les banques et les fournisseurs qui mesurent le risque d'insolvabilité, et les concurrents.
+
+   B. Les sources d'information.
+
+      L'information comptable provient des comptes annuels : bilan, compte de résultat et annexe.
+
+      L'analyste mobilise aussi le rapport de gestion, le rapport du commissaire aux comptes le cas échéant, les publications au greffe du tribunal de commerce comme l'extrait K bis, les statistiques de l'INSEE, des chambres consulaires et des syndicats professionnels, et les plaquettes ou sites spécialisés.
+
+      Toute étude chiffrée doit être replacée dans son contexte : étape de la vie de l'entreprise, environnement économique, secteur et place dans la filière.
+
+   C. La structure type du commentaire.
+
+      La première étape présente en quelques lignes l'entreprise et son environnement, sans analyse : date de création, forme juridique, effectif, objet social, dirigeants et événements marquants.
+
+      La deuxième étape analyse l'activité et la rentabilité à partir du compte de résultat, des SIG, de la capacité d'autofinancement et des ratios.
+
+      La troisième étape est une synthèse des points forts et des points faibles, suivie de perspectives et de solutions envisageables.
+
+      Décrire des évolutions ne constitue pas une analyse : écrire que le résultat a augmenté de dix pour cent puis baissé de deux pour cent n'est qu'un constat, c'est l'explication des causes qui apporte la valeur ajoutée.
+
+   D. Lire, comparer et proposer.
+
+      La lecture des chiffres repère les postes qui ont fortement évolué, les postes aux montants les plus élevés et les postes à forts enjeux comme le résultat, le chiffre d'affaires, les achats, les charges de personnel, les charges financières et les dotations.
+
+      Une donnée brute ne sert à rien sans terme de comparaison : un chiffre d'affaires de un million d'euros ne se juge qu'au regard des concurrents ou des exercices précédents.
+
+      Il existe deux comparaisons : dans le temps, entre N et N moins un, et dans l'espace, avec d'autres entreprises.
+
+      Les solutions proposées peuvent être d'investir pour accroître le chiffre d'affaires, de revoir la politique d'achats, de se repositionner sur un secteur plus lucratif, d'améliorer la qualité pour augmenter les prix, de réduire certaines charges, de maîtriser les charges de personnel ou de renégocier les emprunts trop coûteux.
+
+II. LES INDICATEURS D'ACTIVITÉ.
+
+   A. Le tableau des SIG.
+
+      Le résultat net, solde du compte un deux au passif, est la différence entre tous les produits et toutes les charges, et les SIG expliquent sa formation en le décomposant.
+
+      Le tableau comporte neuf soldes : trois indicateurs d'activité, la marge commerciale, la production de l'exercice et la valeur ajoutée, et six indicateurs de résultat, l'EBE, le résultat d'exploitation, le RCAI, le résultat exceptionnel, le résultat net et les plus ou moins-values de cession d'immobilisations financières.
+
+      Le PCG de deux mille vingt-cinq ne propose plus de modèle de SIG, et la fiche utilise le modèle de l'ordre des experts-comptables, la présentation en liste étant admise.
+
+      Les SIG permettent de comparer l'évolution sur plusieurs exercices et avec les entreprises du même secteur, et d'apprécier la création et la consommation de richesse.
+
+   B. La marge commerciale.
+
+      Elle concerne les entreprises commerciales et les entreprises industrielles qui revendent des marchandises en l'état.
+
+      Elle se calcule par les ventes de marchandises, comptes sept zéro sept et sept zéro huit moins sept zéro neuf sept et sept zéro neuf huit, diminuées du coût d'achat des marchandises vendues, comptes six zéro sept et six zéro huit sept moins six zéro neuf sept, corrigé de la variation de stock du compte six zéro trois sept.
+
+      Un solde débiteur du compte six zéro trois sept, présenté avec le signe plus, s'ajoute aux charges, et un solde créditeur, présenté avec le signe moins, s'en retranche.
+
+      Une marge commerciale élevée doit couvrir toutes les autres charges et rend probable un résultat bénéficiaire.
+
+   C. La production de l'exercice.
+
+      Elle concerne les entreprises de fabrication ou de transformation et mesure l'activité plutôt que l'efficacité commerciale, puisqu'elle compte les produits fabriqués, vendus ou non.
+
+      Elle additionne la production vendue, comptes sept zéro un à sept zéro six et sept zéro huit, la production stockée du compte sept un trois, ou le déstockage s'il est négatif, et la production immobilisée du compte sept deux, livraison à soi-même comme un bâtiment construit par l'entreprise.
+
+      Son évolution n'est pas homogène, car la production vendue est valorisée au prix de vente alors que les productions stockée et immobilisée le sont au coût de production.
+
+   D. La valeur ajoutée.
+
+      La valeur ajoutée est égale à la marge commerciale plus la production de l'exercice moins les consommations en provenance des tiers, comptes six zéro à six deux hors marchandises déjà comptées dans la marge.
+
+      Les variations de stocks de matières premières et d'autres approvisionnements, comptes six zéro trois un et six zéro trois deux, s'ajoutent aux consommations si elles sont débitrices et s'en retranchent si elles sont créditrices.
+
+      La valeur ajoutée mesure le poids économique de l'entreprise, son degré d'intégration et constitue un bon indicateur de croissance.
+
+      Une valeur ajoutée qui progresse plus vite que la production révèle une meilleure gestion des achats ou une externalisation, à analyser avec le ratio charges de personnel sur valeur ajoutée.
+
+      Une valeur ajoutée en baisse peut aussi traduire un choix de recentrage sur l'activité la plus rentable.
+
+III. LES INDICATEURS DE RÉSULTAT.
+
+   A. L'excédent brut d'exploitation.
+
+      L'EBE est égal à la valeur ajoutée plus les subventions d'exploitation du compte sept quatre, hors quote-part sept quatre sept, moins les impôts et taxes du compte six trois et les charges de personnel du compte six quatre, salaires bruts et cotisations patronales.
+
+      Il se calcule aussi directement par les comptes sept zéro à sept quatre moins les comptes six zéro à six quatre.
+
+      Il mesure la rentabilité d'exploitation indépendamment des modes de financement, d'amortissement et de l'impôt.
+
+      Une insuffisance brute d'exploitation signifie que l'entreprise ne peut couvrir ni ses amortissements ni ses charges financières, situation grave qui menace sa survie si elle dure.
+
+   B. Le résultat d'exploitation.
+
+      Il part de l'EBE, ajoute les reprises du compte sept huit un, la quote-part de subventions d'investissement du compte sept quatre sept, les produits de cession d'immobilisations du compte sept cinq sept et les autres produits, puis retranche les dotations du compte six huit un, la valeur comptable des immobilisations cédées du compte six cinq sept et les autres charges.
+
+      Il se calcule aussi directement par les comptes sept zéro à sept cinq moins les comptes six zéro à six cinq.
+
+      Il reflète la performance du cœur de métier avant éléments financiers et exceptionnels, et un résultat d'exploitation durablement négatif remet en cause l'existence de l'entreprise.
+
+   C. Le RCAI, le résultat exceptionnel et le résultat net.
+
+      Le RCAI ajoute au résultat d'exploitation les produits financiers des comptes sept six et sept huit six, retranche les charges financières des comptes six six et six huit six et intègre les quotes-parts d'opérations faites en commun.
+
+      L'usage répété des lignes de trésorerie et des découverts pèse sur le RCAI.
+
+      Le résultat exceptionnel, différence entre les produits des comptes sept sept et sept huit sept et les charges des comptes six sept et six huit sept, est un solde indépendant des précédents.
+
+      Le résultat net part du RCAI, ajoute ou retranche le résultat exceptionnel et retranche la participation des salariés du compte six neuf un et l'impôt sur les bénéfices du compte six neuf cinq.
+
+      Les plus ou moins-values de cession d'immobilisations financières, comptes sept six sept un et sept six sept deux moins six six sept un et six six sept deux, figurent pour information car elles sont déjà dans le RCAI.
+
+IV. LES PRINCIPAUX RETRAITEMENTS.
+
+   A. Personnel intérimaire et participation.
+
+      Le personnel intérimaire du compte six deux un un est reclassé en charges de personnel : les consommations externes diminuent, la valeur ajoutée augmente et l'EBE supporte le coût réel du facteur travail.
+
+      La participation des salariés du compte six neuf un est elle aussi reclassée en charges de personnel.
+
+   B. Crédit-bail et subventions.
+
+      La redevance de crédit-bail du compte six un deux est retirée des consommations externes, ce qui augmente la valeur ajoutée.
+
+      Une première fraction, équivalente à l'amortissement du bien, rejoint les dotations au niveau du résultat d'exploitation, et une seconde, équivalente à des intérêts, rejoint les charges financières au niveau du RCAI.
+
+      Les subventions d'exploitation et d'équilibre du compte sept quatre, destinées à compléter un prix de vente insuffisant ou à compenser un coût élevé, sont traitées comme un complément de chiffre d'affaires et intégrées à la valeur ajoutée.
+
+   C. Les autres retraitements.
+
+      Les impôts sur les rémunérations, comptes six trois un et six trois trois, peuvent être ajoutés aux charges de personnel.
+
+      Les autres impôts du compte six trois cinq peuvent être réintégrés dans les consommations externes, car ils rémunèrent des services publics ou des infrastructures.
+
+      La sous-traitance peut être retirée à la fois des consommations externes et de la production, ce qui ne change pas la valeur ajoutée mais isole la production réalisée par l'entreprise elle-même.
+
+POINTS D'ATTENTION.
+
+      L'ordre des SIG est à connaître par cœur : marge commerciale, production, valeur ajoutée, EBE, résultat d'exploitation, RCAI, résultat exceptionnel, résultat net, puis plus ou moins-values de cession financières.
+
+      Une embauche ne modifie pas la valeur ajoutée, elle diminue l'EBE du coût du salaire et des cotisations.
+
+      La quote-part de subventions d'investissement virée au résultat ne fait pas partie de l'EBE, elle intervient au niveau du résultat d'exploitation.
+
+      Depuis le règlement de l'ANC n° deux mille vingt-deux-six, les cessions d'éléments d'actif sont enregistrées en exploitation et non plus en résultat exceptionnel.
+
+      Une production stockée en forte hausse peut signaler des difficultés de débouchés.
+
+EXEMPLES CITÉS.
+
+      Entreprise SIMA : marge commerciale égale à un million cinquante mille moins cinq cent vingt-cinq mille moins soixante-quinze mille, soit six cent mille euros.
+
+      Entreprise SIMA : consommations en provenance des tiers de sept cent cinquante mille plus soixante mille plus trois cent soixante mille, soit un million cent soixante-dix mille euros, et valeur ajoutée de deux millions quatre cent trente mille euros.
+
+      Embauche d'un commercial à vingt-cinq mille euros de salaire et douze mille cinq cents euros de cotisations : aucun effet sur la valeur ajoutée et baisse de trente-sept mille cinq cents euros de l'EBE.
+
+      Entreprise ALPHAJET en N : valeur ajoutée de cent deux millions deux cent soixante-quinze mille trois cent quatre-vingts euros, EBE de quatorze millions trois cent soixante-deux mille quatre-vingts euros et résultat d'exploitation négatif de trois millions neuf cent seize mille sept cent vingt euros.
+
+      Entreprise ALPHAJET en N moins un : valeur ajoutée de cent onze millions cinquante et un mille deux cent quarante euros, EBE de vingt-huit millions deux cent quatorze mille deux cent quarante euros et résultat net de neuf millions huit cent quarante-cinq mille cinq cent douze euros, contre une perte de six millions huit cent soixante-seize mille cinq cent quatre-vingt-quatre euros en N.

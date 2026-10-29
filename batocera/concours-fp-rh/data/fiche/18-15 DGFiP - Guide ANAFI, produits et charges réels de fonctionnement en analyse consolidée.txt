@@ -1,0 +1,163 @@
+GUIDE ANAFI DE LA DGFIP, ANALYSE FINANCIÈRE RÉTROSPECTIVE CONSOLIDÉE, PRODUITS ET CHARGES RÉELS DE FONCTIONNEMENT.
+
+LEXIQUE COMPLET.
+
+      ANAFI désigne l'application d'analyse financière de la DGFiP, dont le guide méthodologique est tenu par le pôle national de soutien au réseau de Montpellier, expertise financière.
+
+      L'analyse consolidée désigne l'analyse qui agrège le budget principal et les budgets annexes d'une collectivité, après neutralisation des flux croisés.
+
+      Les flux croisés désignent les opérations réciproques entre le budget principal et les budgets annexes, neutralisées pour éviter de compter deux fois les mêmes sommes.
+
+      Le BP désigne le budget principal, et le BA désigne un budget annexe.
+
+      Un SPIC désigne un service public industriel et commercial, principalement financé par les recettes tirées de l'exploitation du service.
+
+      Un SPA désigne un service public administratif, exclusivement ou essentiellement financé par les ressources propres de la collectivité.
+
+      Les produits courants désignent les produits réels de fonctionnement liés au cycle d'exploitation, hors produits financiers et exceptionnels.
+
+      Les charges réelles de fonctionnement désignent les charges qui donnent lieu à un décaissement, à l'exclusion des charges calculées.
+
+      Les charges courantes désignent les charges de fonctionnement liées au cycle d'exploitation, hors charges financières, dotations aux amortissements et charges exceptionnelles.
+
+      L'EBF désigne l'excédent brut de fonctionnement, différence entre les produits courants et les charges courantes.
+
+COURS DÉTAILLÉ.
+
+I. LES PRODUITS DE FONCTIONNEMENT COURANTS.
+
+   A. Définition et agrégat.
+
+      Les produits courants retenus par ANAFI sont les produits réels de fonctionnement liés au cycle d'exploitation.
+
+      Ils comprennent les ressources fiscales du compte sept trois, dont les impôts locaux du compte sept trois un, la fiscalité reversée du compte sept trois deux, la taxe d'enlèvement des ordures ménagères du compte sept trois trois et le versement transport du compte sept trois quatre.
+
+      Ils comprennent aussi les prestations de services du compte sept zéro, dont la redevance d'enlèvement des ordures ménagères du compte sept zéro six un, les dotations et participations du compte sept quatre, dont la DGF du compte sept quatre un, et les autres produits de gestion courante du compte sept cinq.
+
+      Pour les groupements à fiscalité propre, la suppression de la taxe d'habitation sur les résidences principales est compensée par une fraction de TVA.
+
+      L'agrégat se calcule par les crédits des comptes sept zéro à sept cinq, diminués du débit du compte sept trois neuf des reversements et restitutions sur impôts et taxes.
+
+      Les produits courants excluent les produits exceptionnels ou spécifiques et les produits financiers, et ils participent au calcul de l'EBF.
+
+   B. L'exemple chiffré du guide.
+
+      Dans l'ensemble consolidé étudié, les produits de fonctionnement courants passent de trente-deux virgule neuf millions d'euros en deux mille vingt à trente-huit virgule sept millions d'euros en deux mille vingt-quatre, soit une hausse de dix-sept virgule six pour cent sur la période et de six virgule six pour cent sur la dernière année.
+
+      Les impôts locaux chutent de quarante-deux virgule un pour cent sur la période, car à partir de deux mille vingt et un la taxe d'habitation sur les résidences principales est supprimée pour les communes et les groupements, tandis que les autres impôts et taxes progressent de deux cent soixante et un virgule trois pour cent avec les fractions de TVA compensatoires.
+
+      Les communes reçoivent en compensation la part départementale de taxe foncière sur les propriétés bâties, avec une contribution en cas de surcompensation et un complément en cas de sous-compensation.
+
+      Depuis deux mille vingt-trois, les communes et les groupements ne perçoivent plus de CVAE et reçoivent une fraction de TVA, dont le montant affiché est prévisionnel, un solde positif ou négatif étant perçu l'exercice suivant.
+
+      En deux mille vingt-quatre, la fiscalité représente soixante et un virgule quatre pour cent des produits, les dotations et participations dix-sept virgule six pour cent, les prestations de services treize virgule huit pour cent et les autres produits sept virgule deux pour cent.
+
+   C. Les quatre questions à se poser.
+
+      Les montants relevés, notamment sur les budgets annexes, sont-ils significatifs au regard de la situation financière globale de la collectivité.
+
+      Un focus sur certains postes de produits est-il nécessaire.
+
+      La structure des produits courants est-elle cohérente avec celle des charges courantes.
+
+      Quelle est la tendance, au vu de la structure et de l'évolution des produits.
+
+   D. Structure, rigidité et budgets annexes.
+
+      Un bref rappel du volume des produits, éventuellement en millions d'euros sur la dernière année, permet d'évaluer rapidement l'enjeu financier.
+
+      L'analyse distingue les produits flexibles, sur lesquels la collectivité dispose de leviers comme la fiscalité propre et les ressources d'exploitation, des produits rigides sur lesquels l'assemblée délibérante n'a pas ou peu de prise comme les dotations, les participations et la fiscalité reversée.
+
+      ANAFI permet d'analyser individuellement un à trois budgets annexes aux enjeux significatifs ou en difficulté.
+
+      Selon un avis du Conseil d'État du dix avril mille neuf cent quatre-vingt-douze, un service d'élimination des déchets financé par la redevance est un SPIC, soumis aux règles d'équilibre des articles L. deux mille deux cent vingt-quatre-un et L. deux mille deux cent vingt-quatre-deux du CGCT et géré en régie dotée d'un budget annexe.
+
+      Certains produits financent spécifiquement un budget annexe, comme le versement transport pour un budget transports ou la redevance et la taxe d'ordures ménagères pour un budget environnement.
+
+      Des produits flexibles face à des charges fixes signalent un risque, comme des recettes de billetterie d'un cinéma, d'un camping, d'un théâtre ou d'un palais des congrès insuffisantes pour couvrir des charges salariales et financières rigides et qui exigent des subventions d'équilibre.
+
+      Le rapport consolidé comprend deux focus, l'un sur les impôts locaux et l'autre sur la DGF et les autres dotations.
+
+II. LES CHARGES RÉELLES DE FONCTIONNEMENT.
+
+   A. Définition et agrégat.
+
+      Les charges réelles de fonctionnement sont celles dont la comptabilisation se traduit par un décaissement et qui participent à la formation de la CAF brute.
+
+      Les charges calculées en sont exclues : dotations aux amortissements et provisions des comptes six huit, valeurs comptables des immobilisations cédées du compte six sept cinq et différences sur réalisations transférées en investissement du compte six sept six.
+
+      L'agrégat est le débit net des comptes de classe six, à l'exception des comptes six sept cinq, six sept six et six huit, après neutralisation des flux croisés.
+
+   B. Structure et poids des budgets.
+
+      Dans l'exemple de deux mille vingt-quatre, les charges de personnel représentent cinquante-cinq virgule sept pour cent des charges, les achats et charges externes vingt-sept virgule trois pour cent, les autres charges de gestion courante quatorze virgule cinq pour cent, les charges financières deux virgule un pour cent et les autres charges zéro virgule quatre pour cent.
+
+      Le budget principal porte soixante-six virgule huit pour cent des charges réelles, les budgets annexes SPA vingt-quatre virgule deux pour cent et les budgets annexes SPIC neuf pour cent.
+
+      Les charges réelles de fonctionnement passent de vingt-huit virgule cinq millions d'euros en deux mille vingt à trente-quatre virgule cinq millions d'euros en deux mille vingt-quatre, soit une hausse de vingt virgule neuf pour cent, celles des budgets annexes SPIC progressant de quarante-cinq virgule sept pour cent.
+
+      L'évolution doit être lue au regard des changements de périmètre géographique, comme l'adhésion de nouvelles communes à un EPCI, et de périmètre de compétences, comme les transferts de la loi NOTRé.
+
+      Les budgets annexes SPIC aux charges élevées doivent être signalés et renvoyés à l'étude individuelle des budgets annexes significatifs, notamment pour l'eau et l'assainissement des EPCI.
+
+III. LES CHARGES COURANTES.
+
+   A. Définition et agrégat.
+
+      Les charges courantes sont les charges liées au cycle d'exploitation, hors charges financières, coût du financement de l'investissement, hors dotations aux amortissements, coût du renouvellement des immobilisations, et hors charges exceptionnelles ou spécifiques.
+
+      Elles comprennent les charges de personnel du compte six quatre, les achats et charges externes des comptes six zéro, six un et six deux, les impôts et taxes du compte six trois et les autres charges de gestion courante du compte six cinq.
+
+      Les autres charges de gestion courante incluent les contributions aux organismes de regroupement du compte six cinq cinq quatre et les subventions de fonctionnement versées aux organismes publics du compte six cinq sept trois et aux personnes de droit privé du compte six cinq sept quatre.
+
+      L'agrégat retient les débits nets des comptes six zéro à six cinq après neutralisation des remboursements internes : personnel affecté par la collectivité de rattachement au compte six deux un cinq, mises à disposition et remboursements de frais, reversements d'excédents et prises en charge de déficits des budgets annexes administratifs, subventions aux établissements administratifs et industriels.
+
+   B. Les quatre axes d'analyse.
+
+      Les montants sont-ils significatifs au regard de la nature de la dépense et des efforts attendus pour rétablir les comptes.
+
+      Un focus est-il nécessaire sur certains postes importants, notamment les charges de personnel.
+
+      Les charges sont-elles rigides ou flexibles et leur structure est-elle cohérente avec celle des produits courants.
+
+      Quelle est la structure et l'évolution des charges, et révèlent-elles une tendance plus globale.
+
+   C. Le focus sur les charges de personnel.
+
+      Dans l'exemple, les charges de fonctionnement courant passent de vingt-sept virgule sept millions d'euros en deux mille vingt à trente-trois virgule sept millions d'euros en deux mille vingt-quatre, soit vingt et un virgule cinq pour cent de hausse, dont vingt-neuf virgule cinq pour cent pour les charges de personnel, qui atteignent dix-neuf virgule deux millions d'euros.
+
+      Les charges de personnel représentent en général une part importante des charges courantes et certains budgets annexes deviennent déficitaires à cause d'elles.
+
+      Le guide fournit des seuils indicatifs, sans valeur obligatoire : en dessous de cinquante pour cent des charges courantes le niveau est faible, de cinquante à cinquante-cinq pour cent il est normal, de cinquante-cinq à soixante pour cent il est élevé mais soutenable, au-delà de soixante pour cent il est très élevé et traduit une extrême rigidité des charges.
+
+      Une maîtrise apparente peut résulter d'une externalisation ou d'une mise à disposition de personnel par d'autres entités comme un EPCI ou un CCAS.
+
+   D. Lire l'évolution.
+
+      Seules les charges et les produits dont l'évolution et l'importance sont significatives doivent être commentés.
+
+      L'évolution se rapporte à un contexte local ou à une tendance nationale : création ou modification d'une intercommunalité, politique salariale, mutualisation, changements législatifs ou réglementaires, niveau d'endettement.
+
+      Les points de rupture importants, à la hausse comme à la baisse, méritent une attention particulière et une explication.
+
+POINTS D'ATTENTION.
+
+      Les produits courants s'arrêtent au compte sept cinq et excluent les produits financiers et exceptionnels, tout comme les charges courantes s'arrêtent au compte six cinq.
+
+      Les charges réelles de fonctionnement comprennent les charges financières et exceptionnelles décaissées, alors que les charges courantes les excluent.
+
+      Le seuil de soixante pour cent de charges de personnel s'apprécie par rapport aux charges courantes, et il reste indicatif.
+
+      La consolidation n'a de sens qu'après neutralisation des flux croisés entre le budget principal et les budgets annexes.
+
+      Un produit rigide ne se pilote pas : la marge de manœuvre de la collectivité porte sur sa fiscalité propre et ses tarifs.
+
+EXEMPLES CITÉS.
+
+      Produits de fonctionnement courant consolidés : trente-deux virgule neuf millions d'euros en deux mille vingt et trente-huit virgule sept millions d'euros en deux mille vingt-quatre, dont vingt-quatre millions d'euros de ressources fiscales et six virgule neuf millions d'euros de dotations et participations, la DGF atteignant deux virgule cinq millions d'euros.
+
+      La taxe d'enlèvement des ordures ménagères passe de quatre virgule cinq millions d'euros à six virgule cinq millions d'euros entre deux mille vingt et deux mille vingt-quatre, soit plus quarante-six virgule deux pour cent.
+
+      Les charges réelles du budget annexe des ordures ménagères progressent de cinquante et un virgule quatre pour cent et celles du service public d'assainissement non collectif de cent quatre virgule neuf pour cent entre deux mille vingt et deux mille vingt-quatre.
+
+      Les subventions de fonctionnement aux personnes de droit privé reculent de quarante et un virgule six pour cent sur la période, de deux virgule trois millions d'euros à un virgule trois millions d'euros.

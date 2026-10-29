@@ -1,0 +1,145 @@
+CAS D'ANALYSE FINANCIÈRE DE L'ENTREPRISE, SOLDES INTERMÉDIAIRES DE GESTION, CAF, FONDS DE ROULEMENT, BESOIN EN FONDS DE ROULEMENT, TRÉSORERIE ET TABLEAU DE FINANCEMENT.
+
+LEXIQUE COMPLET.
+
+      Le bilan fonctionnel désigne le bilan retraité qui classe les éléments par cycle, investissement et financement en haut de bilan, exploitation et trésorerie en bas de bilan, les actifs étant pris pour leur valeur brute.
+
+      Les ressources durables désignent les capitaux propres, les provisions, les amortissements et dépréciations cumulés et les dettes financières hors concours bancaires courants.
+
+      Les emplois stables désignent l'actif immobilisé brut.
+
+      Le FRNG désigne le fonds de roulement net global, égal aux ressources durables moins les emplois stables.
+
+      Le BFR désigne le besoin en fonds de roulement, égal à l'actif circulant hors trésorerie moins les dettes à court terme hors trésorerie.
+
+      La trésorerie nette désigne la trésorerie active moins la trésorerie passive, et elle est aussi égale au FRNG moins le BFR.
+
+      Les concours bancaires courants désignent les découverts et soldes créditeurs de banque, classés en trésorerie passive et retirés des dettes financières.
+
+      Le tableau de financement désigne le tableau des emplois et des ressources qui explique la variation du FRNG en première partie et son utilisation en seconde partie.
+
+      La rentabilité financière désigne le rapport entre le résultat net et les capitaux propres.
+
+      Le taux de marge brute désigne, pour une entreprise industrielle, le rapport entre le chiffre d'affaires diminué des achats de matières et le chiffre d'affaires.
+
+COURS DÉTAILLÉ.
+
+I. LE CAS BIRINI, DES SIG À LA CAF.
+
+   A. Les soldes intermédiaires de gestion.
+
+      BIRINI est une entreprise de production sans activité commerciale, sa production vendue de deux millions deux mille huit cent trente-huit euros constitue toute sa production de l'exercice.
+
+      La consommation en provenance des tiers de deux cent quarante-huit mille sept cent vingt et un euros regroupe les achats de matières, la variation de stocks et les autres achats et charges externes, ce qui donne une valeur ajoutée de un million sept cent cinquante-quatre mille cent dix-sept euros.
+
+      Après les subventions d'exploitation de trois mille deux cent huit euros, les impôts et taxes de trente-huit mille sept cent quarante-cinq euros et les charges de personnel de cinq cent quarante-cinq mille quatre cent quatre-vingt-dix euros, l'EBE atteint un million cent soixante-treize mille quatre-vingt-dix euros.
+
+      Le résultat d'exploitation est de un million cent huit mille cent vingt-quatre euros, le résultat courant avant impôts de un million soixante-trois mille cinq cent cinq euros, le résultat exceptionnel de deux mille trois cent six euros et le résultat net de sept cent quarante-quatre mille six cent soixante et un euros après trois cent vingt et un mille cent cinquante euros d'impôt sur les bénéfices.
+
+   B. Le calcul de la CAF par les deux méthodes.
+
+      La méthode additive part du résultat net, ajoute les dotations de quatre-vingt-douze mille trois cent quatorze euros et la valeur comptable des actifs cédés de trente-six mille deux cents euros, retranche les reprises de onze mille sept cent quarante-quatre euros et les produits de cession de trente-neuf mille sept cent quatorze euros.
+
+      La méthode soustractive part de l'EBE, ajoute les autres produits, les produits financiers et exceptionnels encaissables, retranche les autres charges, les charges financières et exceptionnelles décaissables et l'impôt sur les bénéfices.
+
+      Les deux méthodes donnent une CAF de huit cent vingt et un mille sept cent dix-sept euros, et leur concordance sert de contrôle.
+
+      Les produits de cession et la valeur comptable des actifs cédés sont neutralisés, car la cession relève des opérations d'investissement et non de l'activité.
+
+II. LE CAS BIRINI, LE FRNG ET LE TABLEAU DE FINANCEMENT.
+
+   A. Le fonds de roulement par le haut de bilan.
+
+      Le FRNG se détermine par le haut de bilan après retraitement en bilan fonctionnel.
+
+      Les emplois stables, actif immobilisé brut, valent un million soixante-huit mille quatre cent quatre-vingt-trois euros en N et un million quarante-deux mille quatre cent soixante-quatorze euros en N moins un.
+
+      Les ressources durables valent un million six cent cinquante et un mille six cent trente-quatre euros en N et un million cinq cent cinquante-trois mille trois cent soixante-trois euros en N moins un, les emprunts étant retenus hors concours bancaires courants, soit cent douze mille cinq cents et cent trente-cinq mille euros.
+
+      Le FRNG passe de cinq cent dix mille huit cent quatre-vingt-neuf euros à cinq cent quatre-vingt-trois mille cent cinquante et un euros, soit une hausse de soixante-douze mille deux cent soixante-deux euros.
+
+      Les valeurs brutes et les amortissements de N moins un se reconstituent en neutralisant les dotations de l'exercice et la sortie du matériel cédé, acquis cent dix mille euros et cédé pour une valeur nette comptable de trente-six mille deux cents euros.
+
+   B. La première partie du tableau de financement.
+
+      Les ressources comprennent la CAF de huit cent vingt et un mille sept cent dix-sept euros, le prix de cession de trente-neuf mille sept cent quatorze euros, l'augmentation de capital de trente mille euros et le nouvel emprunt de quarante mille euros, soit neuf cent trente et un mille quatre cent trente et un euros.
+
+      Les emplois comprennent les dividendes de six cent soixante mille six cent soixante euros, les acquisitions corporelles de cent trente-trois mille neuf euros, financières de trois mille euros et le remboursement d'emprunt de soixante-deux mille cinq cents euros, soit huit cent cinquante-neuf mille cent soixante-neuf euros.
+
+      Les dividendes se calculent à partir du résultat de N moins un et du report à nouveau, diminués des dotations aux réserves statutaire et facultative.
+
+      Le remboursement se déduit de l'égalité entre la dette de fin d'exercice et la dette d'ouverture diminuée des remboursements et augmentée des nouveaux emprunts.
+
+      La ressource nette de soixante-douze mille deux cent soixante-deux euros égale la variation du FRNG calculée par les bilans, ce qui valide le tableau.
+
+III. LE CAS HARDWARE, LA PERFORMANCE ÉCONOMIQUE.
+
+   A. Le contexte.
+
+      HARDWARE conçoit et fabrique des composants électroniques, emploie quatre-vingt-huit salariés et réalise quinze millions d'euros de chiffre d'affaires en N après trois ans d'un plan d'investissement important.
+
+      Les données sont exprimées en milliers d'euros sur trois exercices, de N moins deux à N.
+
+   B. Les soldes et les ratios.
+
+      Le chiffre d'affaires progresse de vingt pour cent, de douze mille cinq cents à quinze mille milliers d'euros, et le taux de marge brute passe de quarante-deux virgule quatre pour cent à quarante-quatre pour cent.
+
+      Le taux de valeur ajoutée passe de vingt-huit pour cent à trente pour cent et l'EBE de mille cent quatre-vingts à mille cinq cent trente milliers d'euros, soit un taux d'EBE de neuf virgule quatre pour cent puis dix virgule deux pour cent.
+
+      Le résultat d'exploitation recule pourtant de cinq cents à trois cent quatre-vingts milliers d'euros, soit de quatre pour cent à deux virgule cinq pour cent du chiffre d'affaires, car les dotations aux amortissements et provisions passent de six cents à mille cinquante milliers d'euros.
+
+      Les charges financières passent de quatre-vingt-dix à cent cinquante milliers d'euros avec la hausse de l'endettement, et le résultat net baisse de trois cents à deux cents milliers d'euros.
+
+      La rentabilité financière, résultat net sur capitaux propres, passe de neuf virgule quatre pour cent à cinq virgule cinq pour cent.
+
+IV. LE CAS HARDWARE, LA STRUCTURE FINANCIÈRE.
+
+   A. Le FRNG, le BFR et la trésorerie.
+
+      Le FRNG vaut deux mille deux cents, deux mille neuf cent quatre-vingts puis trois mille quatre cent trente milliers d'euros, le BFR mille deux cents, mille cent quatre-vingts puis mille quatre cent trente milliers d'euros, et la trésorerie nette mille, mille huit cents puis deux mille milliers d'euros.
+
+      La CAF, résultat net plus dotations faute de cession et de reprise, vaut neuf cents, mille cent trente puis mille deux cent cinquante milliers d'euros.
+
+      Les dettes financières à long terme passent de mille six cents à trois mille deux cents milliers d'euros, soit de la moitié à près de quatre-vingt-dix pour cent des capitaux propres, et de un virgule huit à deux virgule six années de CAF.
+
+   B. Les limites des données du sujet.
+
+      Les flux annoncés ne concordent pas avec les bilans : mille deux cents milliers d'euros d'investissements en N pour une hausse de l'actif brut de neuf cents milliers d'euros sans aucune cession.
+
+      De même, les capitaux propres augmentent de cent cinquante milliers d'euros alors que le résultat mis en réserve n'est que de cinquante milliers d'euros, si bien qu'un tableau de financement exact ne peut pas être établi avec ces seules données.
+
+      Le module retient donc les ratios, le FRNG, le BFR, la trésorerie et la CAF, qui se calculent sans ambiguïté.
+
+   C. L'interprétation.
+
+      La politique d'investissement est financée surtout par l'emprunt, ce qui gonfle le fonds de roulement et la trésorerie mais alourdit les charges financières et les amortissements.
+
+      La distribution de dividendes croissants, de cent à cent cinquante milliers d'euros, alors que le résultat baisse, réduit l'autofinancement.
+
+      Les recommandations portent sur le rythme des investissements, la rentabilisation des équipements, la maîtrise des charges de personnel et une politique de distribution prudente.
+
+POINTS D'ATTENTION.
+
+      Les concours bancaires courants se retirent des dettes financières pour être classés en trésorerie passive.
+
+      Dans le bilan fonctionnel, l'actif est pris en valeur brute et les amortissements cumulés figurent parmi les ressources durables.
+
+      La CAF calculée par le résultat et par l'EBE doit donner le même montant.
+
+      Un EBE en hausse avec un résultat en baisse révèle en général le poids des amortissements et des frais financiers liés à l'investissement.
+
+      Une trésorerie abondante financée par l'emprunt n'est pas un signe de bonne santé si la rentabilité se dégrade.
+
+      Lorsque les données d'un sujet sont incohérentes, le candidat le signale et explique les hypothèses retenues.
+
+EXEMPLES CITÉS.
+
+      BIRINI : EBE de un million cent soixante-treize mille quatre-vingt-dix euros, soit soixante-six virgule neuf pour cent de la valeur ajoutée.
+
+      BIRINI : dividendes de six cent soixante mille six cent soixante euros, soit environ quatre-vingts pour cent de la CAF de l'exercice.
+
+      BIRINI : acquisitions corporelles de cent trente-trois mille neuf euros, une nouvelle machine de cent trente mille euros et trois mille neuf euros d'autres matériels.
+
+      HARDWARE : charges de personnel de deux mille cent à deux mille sept cents milliers d'euros, soit plus vingt-huit virgule six pour cent, pour un chiffre d'affaires en hausse de vingt pour cent.
+
+      HARDWARE : impôt sur les bénéfices ramené de cent dix à trente milliers d'euros avec la baisse du résultat.

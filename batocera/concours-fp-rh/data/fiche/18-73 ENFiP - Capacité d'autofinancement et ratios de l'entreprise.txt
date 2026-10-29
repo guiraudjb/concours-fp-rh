@@ -1,0 +1,173 @@
+CAPACITÉ D'AUTOFINANCEMENT ET RATIOS D'ANALYSE DE L'ACTIVITÉ ET DE LA RENTABILITÉ DE L'ENTREPRISE.
+
+LEXIQUE COMPLET.
+
+      La CAF désigne la capacité d'autofinancement, totalité des ressources internes potentielles dégagées par l'activité de l'exercice, aussi appelée cash-flow ou marge brute d'autofinancement.
+
+      L'autofinancement désigne la part de la CAF conservée par l'entreprise après distribution des dividendes.
+
+      Les charges non décaissables désignent les charges calculées sans sortie de trésorerie : dotations aux amortissements et provisions et valeur comptable des immobilisations cédées.
+
+      Les produits non encaissables désignent les produits sans entrée de trésorerie : reprises sur amortissements et provisions et quote-part des subventions d'investissement virée au résultat.
+
+      Un ratio désigne le rapport entre deux postes du bilan ou du compte de résultat, exprimé en pourcentage, qui sert à comparer dans le temps et dans l'espace.
+
+      Le taux de marge bénéficiaire, ou taux de profitabilité, désigne le rapport entre le résultat de l'exercice et le chiffre d'affaires hors taxes.
+
+      Le taux de marge nette d'exploitation désigne le rapport entre la CAF et le chiffre d'affaires hors taxes, multiplié par cent.
+
+      Le taux d'intégration désigne le rapport entre la valeur ajoutée et le chiffre d'affaires hors taxes.
+
+      La capacité de remboursement, ou capacité d'endettement, désigne le rapport entre les dettes financières et la CAF, exprimé en années.
+
+      Le règlement de l'ANC n° deux mille vingt-deux-six désigne le texte de modernisation des états financiers, applicable depuis le premier janvier deux mille vingt-cinq, qui restreint le résultat exceptionnel.
+
+COURS DÉTAILLÉ.
+
+I. L'UTILITÉ ET LE CONTENU DE LA CAF.
+
+   A. Des besoins de financement couverts par des ressources externes et internes.
+
+      Une entreprise doit financer l'acquisition d'immobilisations, la dépréciation probable des stocks et des créances, les risques et charges, l'augmentation de son fonds de roulement et le remboursement de ses emprunts.
+
+      Ses ressources externes sont les augmentations de capital par apport, les subventions d'investissement et les emprunts.
+
+      Ses ressources internes proviennent de ses ventes et autres produits, diminués des dépenses entraînées par les charges : c'est l'autofinancement.
+
+      La CAF représente la totalité des ressources internes potentielles de l'exercice, et seule la part non distribuée en dividendes assure l'autofinancement.
+
+   B. Produits encaissables et charges décaissables.
+
+      La CAF est la différence entre les produits encaissables, qui génèrent des recettes, et les charges décaissables, qui génèrent des dépenses.
+
+      Les charges non décaissables, dites charges calculées, sont les dotations aux amortissements, les dotations aux provisions et la valeur comptable des immobilisations incorporelles et corporelles cédées du compte six cinq sept.
+
+      Les produits non encaissables sont les reprises sur amortissements et provisions et la quote-part des subventions d'investissement virée au résultat du compte sept quatre sept.
+
+      Les produits de cession d'immobilisations du compte sept cinq sept sont encaissés mais exclus de la CAF, car les cessions relèvent comme les acquisitions de la fonction d'investissement, ce qui facilite le calcul de l'investissement net.
+
+   C. La CAF, agent de liaison entre le compte de résultat et le bilan.
+
+      La CAF résulte des charges et produits du compte de résultat, mais elle finance les investissements, le cycle d'exploitation ou la consolidation de la trésorerie, qui apparaissent au bilan.
+
+      Elle est l'un des meilleurs critères de rentabilité : pour cent euros de chiffre d'affaires, elle indique le montant disponible pour renouveler les immobilisations, assurer la croissance et rémunérer les capitaux.
+
+II. LE CALCUL DE LA CAF.
+
+   A. La méthode soustractive à partir de l'EBE.
+
+      Préconisée par le PCG, elle découle directement de la définition : produits encaissables moins charges décaissables.
+
+      On part de l'EBE, on ajoute les autres produits d'exploitation hors comptes sept cinq cinq et sept cinq sept, on retranche les autres charges hors comptes six cinq cinq et six cinq sept, on intègre les quotes-parts d'opérations en commun.
+
+      On ajoute les produits financiers hors reprises et hors cessions d'immobilisations financières, on retranche les charges financières hors dotations et hors valeur des immobilisations financières cédées.
+
+      On ajoute les produits exceptionnels hors reprises, on retranche les charges exceptionnelles hors dotations, puis la participation des salariés et l'impôt sur les bénéfices.
+
+   B. La méthode additive à partir du résultat net.
+
+      Plus rapide, elle part du résultat net, retranche les produits de cession d'immobilisations et la quote-part des subventions d'investissement virée au résultat, et ajoute les valeurs comptables des immobilisations cédées.
+
+      Elle ajoute ensuite toutes les dotations aux amortissements, dépréciations et provisions, d'exploitation, financières et exceptionnelles, et retranche toutes les reprises.
+
+      À partir de l'EBE, on descend vers la CAF en ajoutant les produits encaissables et en retranchant les charges décaissables, et à partir du résultat net, on remonte vers la CAF en retranchant les produits non encaissables et en ajoutant les charges non décaissables.
+
+      La CAF est unique : les deux méthodes doivent toujours donner le même montant, ce qui constitue un excellent contrôle de calcul.
+
+   C. CAF et autofinancement.
+
+      L'autofinancement de l'exercice N est égal à la CAF de N diminuée des dividendes distribués en N.
+
+      L'autofinancement accroît l'indépendance financière de l'entreprise et renforce sa capacité d'endettement.
+
+      La CAF finance le renouvellement des immobilisations, le remboursement des emprunts, la distribution de dividendes et le renforcement de la structure financière.
+
+III. LES RATIOS D'ACTIVITÉ ET DE PROFITABILITÉ.
+
+   A. Principes d'usage des ratios.
+
+      Les ratios analysent la gestion, la rentabilité et la structure financière, et révèlent les forces et faiblesses en matière d'autonomie, de performance, de solvabilité et de trésorerie.
+
+      Ils servent à comparer dans l'espace, entre entreprises, et dans le temps, au sein d'une même entreprise.
+
+      Tous les ratios ne sont pas à calculer : seules les progressions ou diminutions significatives doivent être mises en évidence.
+
+   B. Les ratios d'évolution de l'activité.
+
+      Le taux de croissance du chiffre d'affaires est égal au chiffre d'affaires de N moins celui de N moins un, rapporté à celui de N moins un.
+
+      Le taux de croissance de la valeur ajoutée se calcule de la même façon sur la valeur ajoutée.
+
+      Le taux d'intégration, valeur ajoutée sur chiffre d'affaires hors taxes, mesure l'intégration de l'entreprise dans le processus de production et le poids des charges externes.
+
+      La part des charges de personnel dans la valeur ajoutée mesure la maîtrise de ce poste.
+
+   C. Les ratios de profitabilité.
+
+      Le taux de marge bénéficiaire est égal au résultat de l'exercice sur le chiffre d'affaires hors taxes.
+
+      Le taux de marge nette d'exploitation, CAF sur chiffre d'affaires, indique pour cent euros de ventes la somme disponible pour renouveler les immobilisations, croître et verser des dividendes, et il est naturellement plus élevé dans les industries lourdes.
+
+      Le taux de marge brute d'exploitation, EBE sur chiffre d'affaires, mesure la performance industrielle et commerciale indépendamment des aspects financiers et exceptionnels.
+
+      Le taux de marge commerciale, ou taux de marque, rapporte la marge commerciale au chiffre d'affaires hors taxes et constitue le premier indicateur des entreprises commerciales.
+
+IV. L'ÉTUDE DE L'ACTIVITÉ ET DE LA RENTABILITÉ.
+
+   A. Le résultat et la CAF.
+
+      Le résultat mesure la rentabilité pour les associés : il doit rémunérer les capitaux et alimenter les réserves, faute de quoi la structure financière se dégrade.
+
+      La CAF s'apprécie en valeur absolue, car elle doit couvrir ses usages, et en valeur relative, car toute hausse d'activité doit s'accompagner d'une hausse de la CAF, le ratio CAF sur chiffre d'affaires devant être stable ou croissant.
+
+      La CAF diminue en cas de baisse d'activité sans baisse des charges, de hausse des charges sans développement, de charges qui croissent plus vite que l'activité ou de pression sur les prix, et augmente avec les gains de productivité.
+
+   B. Le chiffre d'affaires et les premiers soldes.
+
+      Le chiffre d'affaires s'étudie par son évolution, sa répartition géographique, sa composition par produit et ses perspectives.
+
+      Sa stagnation, et plus encore sa régression durable, est un signe défavorable qui interroge sur la pérennité de l'entreprise et sur d'éventuels défauts d'organisation.
+
+      Le chiffre d'affaires et la production devraient évoluer ensemble, une production qui croît plus vite pouvant révéler un gonflement des stocks et des problèmes de débouchés.
+
+      La valeur ajoutée a quatre destinataires : le personnel, l'État, les apporteurs de capitaux et l'entreprise elle-même par l'autofinancement.
+
+   C. EBE, résultat d'exploitation et RCAI.
+
+      Un EBE négatif est un sujet de préoccupation, et le ratio charges de personnel sur valeur ajoutée mesure la maîtrise de la masse salariale, les impôts et taxes étant peu compressibles.
+
+      Le résultat d'exploitation s'analyse surtout par l'évolution des dotations aux amortissements et dépréciations, dont l'impact ne se mesure vraiment qu'avec l'étude du bilan.
+
+      Le ratio charges financières sur chiffre d'affaires ne devrait pas dépasser deux à trois pour cent, et sa hausse annonce une structure financière inadaptée.
+
+   D. Le résultat exceptionnel depuis deux mille vingt-cinq.
+
+      Le règlement de l'ANC n° deux mille vingt-deux-six réserve le résultat exceptionnel aux événements majeurs et inhabituels, et limite les inscriptions par nature aux opérations fiscales comme les amortissements dérogatoires et aux changements de méthode et corrections d'erreurs.
+
+      Est majeur un événement susceptible d'influencer le jugement des utilisateurs des comptes, et inhabituel un événement étranger à l'exploitation normale, présumé tel s'il ne s'est pas produit récemment et a peu de chances de se reproduire.
+
+      Les cessions d'éléments d'actif sont désormais enregistrées en exploitation.
+
+POINTS D'ATTENTION.
+
+      CAF et autofinancement sont deux notions distinctes : seule la CAF non distribuée finance l'entreprise.
+
+      Les produits de cession sont encaissés mais exclus de la CAF, car ils relèvent du cycle d'investissement.
+
+      Les deux méthodes de calcul doivent aboutir au même montant de CAF, sinon une erreur de classement a été commise.
+
+      Pour les banques, la capacité de remboursement, dettes financières sur CAF, ne doit pas dépasser trois à quatre années.
+
+      Une forte hausse de l'activité avec une CAF stable ou en baisse traduit une dégradation de la rentabilité.
+
+EXEMPLES CITÉS.
+
+      Société Jouons Écolo : CAF de neuf cent vingt, mille trois cent quatre-vingt-dix puis neuf cent quatre-vingts milliers d'euros de N moins deux à N, identique selon les deux méthodes.
+
+      Société Jouons Écolo : production en hausse de près de quatre-vingt-quinze pour cent sur la période et charges de personnel en hausse de plus de cent vingt pour cent, ce qui explique un résultat net revenu à sept cent vingt milliers d'euros.
+
+      Société BELMONT : CAF de un million cinq cent cinquante-six mille deux cent onze euros en N contre huit cent soixante et un mille quarante-huit euros en N moins un.
+
+      Société BELMONT : taux de marge bénéficiaire de dix-sept virgule douze pour cent et chiffre d'affaires en hausse de vingt et un virgule zéro huit pour cent.
+
+      Société BELMONT : dettes financières de deux millions sept cent cinquante mille euros pour une capacité de remboursement de un virgule soixante-dix-sept année.

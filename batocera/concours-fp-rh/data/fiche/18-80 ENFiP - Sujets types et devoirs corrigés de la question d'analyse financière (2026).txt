@@ -1,0 +1,153 @@
+SUJETS TYPES ET DEVOIRS CORRIGÉS DE LA QUESTION AUTONOME D'ANALYSE FINANCIÈRE, ÉPREUVE N° deux DU CONCOURS D'INSPECTEUR PRINCIPAL DES FINANCES PUBLIQUES.
+
+LEXIQUE COMPLET.
+
+      La partie commune désigne la question autonome d'analyse financière de l'épreuve écrite d'admissibilité n° deux, notée sur cinq points dans une épreuve de quatre heures au coefficient six.
+
+      Le fonds documentaire désigne les annexes fournies au candidat, limitées en principe à cinq pages, qu'il doit exploiter pour répondre.
+
+      Les ratios de niveau désignent des montants en euros par habitant comparés à la moyenne de la strate aux niveaux départemental, régional et national.
+
+      Les ratios de structure désignent des rapports entre agrégats, exprimés en pourcentage, qui précisent le diagnostic au regard de la doctrine financière.
+
+      La strate désigne le groupe des communes comparables par la population et par le régime fiscal du groupement d'appartenance.
+
+      L'AEFF désigne l'analyse des équilibres financiers fondamentaux, fiche de la DGFiP présentant pour une commune ses opérations de fonctionnement, d'investissement, son autofinancement et son endettement.
+
+      Le fonds de roulement désigne l'excédent des ressources durables sur les emplois stables, laissé à la disposition du cycle d'exploitation.
+
+      Le taux de partage de la valeur ajoutée désigne le rapport entre l'EBE et la valeur ajoutée, qui mesure la part de richesse revenant à l'entreprise.
+
+      Le taux de rentabilité économique désigne le rapport entre l'EBE et le capital engagé pour l'exploitation.
+
+      La franchise désigne un système de commercialisation reposant sur la collaboration de deux entreprises juridiquement et financièrement indépendantes, le franchiseur restant propriétaire de la marque et du savoir-faire.
+
+COURS DÉTAILLÉ.
+
+I. LES MODALITÉS DE L'ÉPREUVE.
+
+   A. Le format des sujets types.
+
+      Les sujets types de la partie commune placent le candidat dans un rôle professionnel et posent en général trois questions : une définition, une analyse limitée à trente lignes et des propositions argumentées.
+
+      Le matériel autorisé comprend les calculatrices non programmables sans mémoire alphanumérique, les calculatrices dotées d'un mode examen et le plan comptable général, version antérieure ou en vigueur, non photocopié, non annoté et sans les documents de synthèse.
+
+      La composition se fait au stylo bleu ou noir sur les copies officielles anonymes, le surligneur et les couleurs étant interdits sur la copie.
+
+   B. Les attentes méthodologiques.
+
+      La définition demandée doit être précise et donner l'intérêt de la notion.
+
+      L'analyse s'appuie sur les chiffres du fonds documentaire, compare dans le temps et avec la strate ou le secteur, et explique les causes plutôt que de décrire les évolutions.
+
+      Les propositions découlent directement du diagnostic et restent réalistes au regard de la situation constatée.
+
+      Le détail des écritures comptables n'est pas attendu dans la question autonome.
+
+II. LE SUJET TYPE DU SECTEUR PUBLIC, LA COMMUNE DES DEUX MONTAGNES.
+
+   A. Le contexte.
+
+      Le candidat est inspecteur principal chargé du suivi des collectivités locales à la division du secteur public local et prépare la rencontre de son directeur avec le maire.
+
+      Il doit définir le fonds de roulement, analyser la situation de la commune au regard de sa CAF et de son endettement par rapport aux autres communes, puis proposer deux mesures.
+
+      Les annexes présentent les ratios de niveau, un tableau de synthèse et les ratios de structure.
+
+   B. Les éléments du corrigé.
+
+      Le fonds de roulement, ou fonds de roulement net global, est l'excédent des ressources durables, dotations et réserves, subventions d'investissement, amortissements et provisions, dettes financières à moyen et long terme, sur les emplois stables, c'est-à-dire les investissements réalisés ou en cours.
+
+      Il permet de vérifier l'équilibre financier, un fonds de roulement négatif indiquant que les ressources stables ne couvrent pas les emplois stables.
+
+      La CAF brute rebondit de deux cent huit pour cent en deux mille vingt-quatre après une chute de cinquante-quatre virgule trois pour cent en deux mille vingt-trois, les dépenses de fonctionnement augmentant de dix virgule deux pour cent sur cinq ans et les recettes de trente pour cent.
+
+      La CAF atteint quatre cent quatre-vingt-douze euros par habitant contre cent quatre-vingt-treize euros en moyenne nationale et trois cent trente euros en moyenne départementale, mais elle ne couvre pas le remboursement en capital de trois cent quatre-vingt-sept milliers d'euros, si bien que la CAF nette est négative de cent soixante-cinq milliers d'euros.
+
+      La dette diminue de trente pour cent entre deux mille vingt-deux et deux mille vingt-quatre mais atteint encore neuf cent soixante-dix-neuf milliers d'euros, soit deux mille cent soixante-dix-sept euros par habitant contre neuf cent six euros en moyenne départementale et cinq cents euros en moyenne nationale, et la trésorerie est fortement négative sur les deux derniers exercices.
+
+      Les deux mesures proposées sont la consolidation de l'autofinancement et une politique d'investissement mesurée qui limite le recours à l'emprunt.
+
+III. LE SUJET TYPE DU SECTEUR PRIVÉ, AU GRAND SPORTIF.
+
+   A. Le contexte.
+
+      L'entreprise vend du matériel de randonnée dans trois boutiques de la région toulousaine et hésite entre ouvrir de nouvelles boutiques, investissement lourd, et créer une franchise, moins consommatrice de trésorerie.
+
+      Les annexes présentent un extrait des SIG, la CAF, un extrait du bilan fonctionnel et la première partie du tableau de financement.
+
+   B. Les éléments du corrigé.
+
+      La CAF représente les ressources internes générées par l'activité, calculées à partir des produits encaissables et des charges décaissables, et elle finance les investissements, le remboursement des emprunts et les dividendes.
+
+      Le chiffre d'affaires baisse de plus de cinq pour cent entre N moins deux et N, la valeur ajoutée de un virgule quarante-cinq pour cent et l'EBE d'environ neuf pour cent sous l'effet de la hausse des charges de personnel, tandis que la CAF recule d'un quart.
+
+      Le fonds de roulement net global baisse d'un tiers, de quatre cent dix à deux cent soixante-treize milliers d'euros, le besoin en fonds de roulement augmente de près de neuf pour cent et la trésorerie nette s'effondre de près de quatre-vingt-cinq pour cent.
+
+      Le tableau de financement montre des investissements de trois cent soixante-treize milliers d'euros financés en partie par un emprunt de cent milliers d'euros et une distribution de dividendes de cent milliers d'euros, qui interroge en période de baisse d'activité.
+
+      Le corrigé recommande la franchise, moins coûteuse et moins risquée, car l'ouverture de boutiques exigerait locaux, agencement et recrutements alors que l'entreprise doit encore absorber ses investissements récents.
+
+IV. LE DEVOIR N° un, L'ENTREPRISE ALPHAJET.
+
+   A. Les données.
+
+      Malgré une hausse de son chiffre d'affaires, ALPHAJET termine l'exercice N sur une perte de six millions huit cent soixante-seize mille cinq cent quatre-vingt-quatre euros, contre un bénéfice de neuf millions huit cent quarante-cinq mille cinq cent douze euros en N moins un.
+
+      Le taux de marge d'exploitation, EBE sur chiffre d'affaires, passe de huit virgule trente-neuf pour cent à quatre virgule dix-huit pour cent, le partage de la valeur ajoutée de vingt-cinq virgule quarante-deux pour cent à quatorze virgule zéro six pour cent et la rentabilité économique de onze virgule vingt-neuf pour cent à cinq virgule soixante-treize pour cent, pour un capital engagé stable de deux cent cinquante millions d'euros.
+
+   B. L'analyse corrigée.
+
+      Les SIG décomposent la formation du résultat, mesurent la création de richesse, décrivent son partage entre salariés, État, apporteurs de capitaux et entreprise, et permettent un suivi dans le temps et dans l'espace.
+
+      Le chiffre d'affaires croît de deux virgule vingt-trois pour cent mais sa composition change : les ventes de marchandises passent d'environ un pour cent à dix pour cent du chiffre d'affaires avec des marges faibles, tandis que la production vendue recule.
+
+      Presque toutes les charges d'exploitation augmentent, d'environ huit pour cent au total, et la richesse revenant à l'entreprise pour renouveler son capital et rémunérer ses apporteurs se réduit fortement.
+
+      La situation est préoccupante mais l'entreprise garde une CAF positive de quinze virgule quatre millions d'euros, des charges d'intérêts en légère baisse et des produits financiers importants.
+
+      La proposition est de mener une étude pour renouveler la gamme ou améliorer la productivité tant que l'entreprise dispose de ressources.
+
+V. LE DEVOIR N° deux, LA COMMUNE DE LUMIÈRES.
+
+   A. Le contexte.
+
+      L'inspecteur principal responsable du service de gestion comptable est consulté sur la capacité de la commune à autofinancer la construction d'une école primaire, à partir de trois fiches AEFF de deux mille vingt-trois à deux mille vingt-cinq.
+
+      La commune de huit mille cinq cent un habitants appartient à la strate des communes de cinq mille à dix mille habitants membres d'un groupement à fiscalité professionnelle unique.
+
+   B. L'analyse corrigée.
+
+      La CAF brute d'une commune est l'excédent des recettes réelles sur les dépenses réelles de fonctionnement, elle couvre en priorité le capital de la dette et le solde, la CAF nette, finance l'investissement ou renforce le fonds de roulement.
+
+      La CAF brute passe de huit cent dix milliers d'euros en deux mille vingt-trois à mille cent soixante-quatre milliers d'euros en deux mille vingt-cinq, soit près de quarante-quatre pour cent de hausse, car les charges réelles baissent de huit virgule quarante et un pour cent plus vite que les produits réels, qui reculent de quatre virgule vingt-huit pour cent.
+
+      La CAF nette atteint six cent quarante-trois milliers d'euros en deux mille vingt-cinq, soit soixante-seize euros par habitant, mais la CAF brute reste inférieure à la moyenne, cent trente-sept euros par habitant contre cent quatre-vingt-seize euros, et l'encours de dette est élevé, mille cent soixante-quatre euros par habitant contre huit cent vingt-huit euros.
+
+      Les leviers sont l'augmentation des recettes, par une révision des tarifs des services, les bases d'imposition étant inférieures à la moyenne mais les taux déjà supérieurs, et la poursuite de la baisse des charges.
+
+      Les charges de personnel représentent soixante-six virgule onze pour cent des charges de fonctionnement retenues pour la CAF en deux mille vingt-cinq, contre cinquante-six virgule cinquante-sept pour cent pour la strate, et l'effort d'économie pourrait passer par des transferts de compétences à l'intercommunalité.
+
+POINTS D'ATTENTION.
+
+      Une CAF supérieure à la moyenne de la strate ne suffit pas : il faut vérifier qu'elle couvre le remboursement en capital de la dette.
+
+      Les ratios par habitant se comparent avec prudence, car les modes d'exercice des compétences diffèrent entre communes, budget annexe, budget autonome ou délégation de service public.
+
+      Une baisse de la trésorerie peut venir à la fois d'un fonds de roulement en recul et d'un besoin en fonds de roulement en hausse.
+
+      Verser des dividendes en période de baisse d'activité est un choix du dirigeant, mais il fragilise la structure financière.
+
+      Des taux d'imposition déjà supérieurs à la moyenne laissent peu de marge fiscale, le levier porte alors sur les tarifs et les charges.
+
+EXEMPLES CITÉS.
+
+      Deux Montagnes : mille trois cent deux euros de produits de fonctionnement par habitant, proches des moyennes départementale et régionale de mille deux cent soixante et mille deux cent quinze euros, mais très supérieurs à la moyenne nationale de neuf cent vingt-trois euros.
+
+      Deux Montagnes : excédent brut de fonctionnement de cinq cent soixante-dix euros par habitant contre trois cent cinquante-cinq, deux cent soixante-douze et deux cent cinq euros aux niveaux départemental, régional et national.
+
+      Au Grand Sportif : CAF de deux cent quatorze milliers d'euros en N contre deux cent quatre-vingt-neuf milliers d'euros en N moins deux, et trésorerie nette tombée à vingt-huit milliers d'euros.
+
+      ALPHAJET : EBE de quatorze virgule quatre millions d'euros en N contre vingt-huit virgule deux millions d'euros en N moins un.
+
+      Lumières : charges de fonctionnement retenues pour la CAF ramenées de neuf mille quatre cent vingt-deux à huit mille six cent trente milliers d'euros entre deux mille vingt-trois et deux mille vingt-cinq, et taux de foncier bâti de trente et un virgule quatre-vingt-dix pour cent contre vingt virgule quatre-vingt-seize pour cent pour la strate.
