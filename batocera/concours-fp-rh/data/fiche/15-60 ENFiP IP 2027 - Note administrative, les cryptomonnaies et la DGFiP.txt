@@ -1,0 +1,233 @@
+NOTE ADMINISTRATIVE SUR LES CRYPTOMONNAIES ET LEUR PRISE EN COMPTE PAR LA DGFIP, FASCICULE N° UN DE PRÉPARATION DE L'ENFIP AU CONCOURS D'INSPECTEUR PRINCIPAL DES FINANCES PUBLIQUES DEUX MILLE VINGT-SEPT.
+
+LEXIQUE COMPLET.
+
+      Un cryptoactif désigne un actif numérique émis sans intervention d'une banque centrale, stocké sur un support électronique et permettant des transactions sans recourir à une monnaie légale.
+
+      Une cryptomonnaie désigne une catégorie de cryptoactifs, qui n'est pas une monnaie fiduciaire, n'a pas cours légal et n'est émise ni par un gouvernement ni par une banque centrale.
+
+      La blockchain, ou chaîne de blocs, désigne un registre public partagé et inviolable où les transactions sont enregistrées de manière chronologique, sans intermédiaire ni organe central de contrôle.
+
+      Le DEEP désigne le dispositif d'enregistrement électronique partagé, nom juridique français de la blockchain.
+
+      La preuve de travail, ou proof of work, désigne la méthode de validation des blocs fondée sur la résolution d'un calcul brut, très consommatrice d'électricité.
+
+      La preuve d'enjeu, ou proof of stake, désigne la méthode de validation fondée sur la capacité à mettre en jeu son capital, beaucoup moins énergivore.
+
+      Le PSAN désigne le prestataire de services sur actifs numériques, statut créé par la loi PACTE et enregistré auprès de l'Autorité des marchés financiers.
+
+      Le règlement MiCA, pour Markets in Crypto-Assets, désigne le règlement européen approuvé par le Parlement européen le vingt avril deux mille vingt-trois, qui impose la transparence aux émetteurs et négociants de cryptoactifs.
+
+      Le statut CASP, pour Crypto-Asset Service Providers, désigne le statut que les prestataires doivent obtenir sous MiCA pour poursuivre leur activité.
+
+      La directive DAC huit désigne la directive européenne de coopération administrative, applicable au premier janvier deux mille vingt-six, qui organise l'échange automatique des données sur les transactions en cryptoactifs.
+
+      Le CARF désigne le cadre de déclaration des cryptoactifs de l'OCDE, présenté avec DAC huit lors de la journée d'étude franco-néerlandaise.
+
+      Le formulaire deux mille quatre-vingt-six désigne la déclaration annexe où le contribuable détaille ses plus ou moins-values de cession d'actifs numériques.
+
+      Le formulaire trois mille neuf cent seize bis désigne la déclaration annexe des comptes d'actifs numériques ouverts à l'étranger.
+
+      La politique Know Your Customer désigne l'obligation de vérifier l'identité des clients pour lutter contre la fraude et le blanchiment.
+
+      Le déteintage désigne l'opération consistant à tracer l'origine d'un cryptoactif saisi et à anonymiser le vendeur, pour que l'État n'apparaisse pas comme vendeur.
+
+      La clé privée désigne le code qui donne la maîtrise d'un portefeuille de cryptoactifs, et dont la saisie est indispensable pour saisir entre les mains du redevable.
+
+      L'OPN désigne un organisme public national.
+
+COURS DÉTAILLÉ.
+
+I. LE SUJET ET LA MÉTHODE.
+
+   A. La commande.
+
+      Le candidat est Dominique Dubois, inspecteur principal des finances publiques, adjoint au responsable de la division contrôle fiscal et recouvrement offensif de la DRFiP de Seine-et-Oise, à Ivry-sur-Oise.
+
+      Le nouveau directeur régional, Camille Laforet, demande un projet de note cadre qui fait le point sur l'émergence des cryptoactifs et leur prise en compte dans les procédures de la DGFiP.
+
+      La même note doit décliner localement les orientations nationales de gestion et de contrôle des cryptomonnaies et assurer leur appropriation par les agents.
+
+      La note s'adresse aux responsables des structures infra-départementales : SIP, SIE, PRS, PCRP, PCE, BCR, BDV, SDE, SPF, SGC et trésoreries.
+
+      Le fonds documentaire compte onze documents et vingt-sept pages.
+
+   B. L'analyse attendue par le correcteur.
+
+      Le sujet est à dominante fiscale mais n'exige pas de connaissances techniques particulières : une culture générale sur un thème d'actualité suffisait.
+
+      L'exercice comporte deux parties : une synthèse informative sur le phénomène et sa prise en compte par la DGFiP, puis un cadre stratégique de déclinaison opérationnelle et locale.
+
+      Il n'existe pas de document pivot, ce qui fait la difficulté de l'épreuve. Les documents à exploiter en priorité sont les documents un, deux, trois et six.
+
+      Les documents un, six et dix donnent le contexte général. Les documents trois et huit précisent le cadre fiscal et déclaratif. Les documents deux, quatre, cinq et sept éclairent le contrôle, la lutte contre la fraude et le recouvrement. Les documents sept, neuf et onze traitent de la formation, des acteurs régulés et de l'interdiction faite aux structures publiques d'encaisser ou de payer en cryptomonnaies.
+
+      Le candidat ne doit pas faire l'impasse sur la gestion publique, abordée par les documents dix et onze.
+
+II. DÉFINITION, FONCTIONNEMENT ET RISQUES DES CRYPTOMONNAIES.
+
+   A. Une invention récente fondée sur la blockchain.
+
+      Les premiers bitcoins sont émis le trois janvier deux mille neuf, sous le pseudonyme de Satoshi Nakamoto. Le Bitcoin est l'acte de naissance des cryptomonnaies.
+
+      Une cryptomonnaie est un protocole informatique associé à une base de données partagée qui permet des paiements de pair à pair, sans banque.
+
+      Pour le bitcoin, toutes les dix minutes, des ordinateurs appelés mineurs reçoivent des jetons en récompense de la validation des transactions et de leur inscription dans la blockchain.
+
+      Des milliers d'autres cryptomonnaies ont suivi, dont Ethereum, la deuxième plus importante, Ripple, Cardano ou Solana.
+
+      Le réseau Bitcoin consommerait entre soixante-deux et deux cent trente térawattheures d'électricité par an. Ethereum est passé de la preuve de travail à la preuve d'enjeu en septembre deux mille vingt-deux.
+
+      Au-delà de la monnaie, la blockchain permet de partager des données sensibles en protégeant la confidentialité, par exemple avec les preuves à divulgation nulle de connaissance, et pourrait porter une monnaie numérique de banque centrale comme l'euro numérique.
+
+   B. Le statut juridique en France.
+
+      Les cryptomonnaies n'ont pas cours légal en France. Sur le plan fiscal, ce sont des biens meubles incorporels.
+
+      Selon l'article L. cinquante-quatre-dix-un du code monétaire et financier, les actifs numériques comprennent les jetons et toute représentation numérique d'une valeur qui n'est ni émise ni garantie par une banque centrale ou une autorité publique, mais acceptée comme moyen d'échange.
+
+      Un cryptoactif, coin ou token, NFT compris, est un bien meuble incorporel, cessible et saisissable : la procédure de saisie des droits incorporels s'applique.
+
+   C. Des risques importants.
+
+      La volatilité est forte : en novembre deux mille vingt et un, un bitcoin valait près de soixante-neuf mille dollars, puis environ trente mille dollars deux mois plus tard. Sans banque centrale ni actif sous-jacent, la valeur repose sur la seule confiance.
+
+      Les intermédiaires sont fragiles : la plateforme FTX se déclare insolvable en novembre deux mille vingt-deux, avec plus de cent mille créanciers et plus de huit milliards de dollars de dettes, puis Genesis fait faillite en janvier deux mille vingt-trois avec plus de trois milliards et demi de dollars de dettes.
+
+      Le pseudonymat facilite la fraude fiscale, le blanchiment, le financement du terrorisme, les rançongiciels et la fraude à la TVA, même si la blockchain trace toutes les opérations.
+
+      La France compte cinq millions et demi de détenteurs de cryptomonnaies, mais seulement sept pour cent déclareraient correctement leurs gains.
+
+   D. Des usages et opportunités.
+
+      Les cryptomonnaies servent d'alternative dans les pays où la monnaie est défaillante, comme le Liban en deux mille dix-neuf. Le Salvador a adopté le bitcoin comme monnaie légale en septembre deux mille vingt et un, avec peu de succès.
+
+      En France, des villes comme Talence, Cannes, Nice ou Auxerre accompagnent leurs commerçants pour accepter les paiements en cryptomonnaies. À Talence, la solution Lyzi verse au commerçant cent pour cent du prix en euros à J plus un ou deux.
+
+      Un organisme public ne peut en revanche ni encaisser ses recettes ni payer ses dépenses en cryptoactifs, qui ne sont ni des instruments financiers ni des instruments de paiement. Il ne peut pas non plus détenir de comptes ni placer de fonds libellés en cryptoactifs.
+
+III. LA RÉGULATION ET LE CADRE FISCAL.
+
+   A. La régulation des acteurs.
+
+      La loi PACTE de deux mille dix-neuf crée le statut de PSAN. La conservation pour le compte de tiers et l'achat-vente contre une monnaie ayant cours légal exigent un enregistrement obligatoire auprès de l'AMF ; un agrément optionnel est possible.
+
+      L'ordonnance du neuf décembre deux mille vingt, prise après l'attentat de Conflans-Sainte-Honorine, renforce la lutte contre l'anonymat des transactions et interdit aux PSAN de tenir des comptes anonymes. Le décret du deux avril deux mille vingt et un interdit la monnaie électronique anonyme pour acheter des actifs numériques.
+
+      Le règlement MiCA, en vigueur pour les prestataires en décembre deux mille vingt-quatre, impose le statut CASP et la politique Know Your Customer.
+
+      La directive DAC huit, applicable au premier janvier deux mille vingt-six, oblige les plateformes, y compris hors Union européenne quand elles ciblent des clients européens, à transmettre aux administrations fiscales l'historique des transactions et l'identité des utilisateurs.
+
+   B. L'imposition des particuliers.
+
+      Depuis deux mille dix-neuf, les plus-values de cession d'actifs numériques des particuliers relèvent de l'article cent cinquante VH bis du CGI et sont taxées au prélèvement forfaitaire unique de trente pour cent, soit douze virgule huit pour cent d'impôt sur le revenu et dix-sept virgule deux pour cent de prélèvements sociaux.
+
+      Le contribuable peut opter pour le barème progressif en cochant la case trois CN ; cette option est expresse et irrévocable.
+
+      Les cessions dont le total n'excède pas trois cent cinq euros par an sont exonérées. Les échanges sans soulte entre actifs numériques ne sont pas imposés l'année de l'échange.
+
+      La plus-value se calcule par différence entre le prix de cession et le prix total d'acquisition du portefeuille multiplié par le rapport entre le prix de cession et la valeur globale du portefeuille.
+
+      Le montant est détaillé sur le formulaire deux mille quatre-vingt-six et reporté en case trois AN pour une plus-value ou trois BN pour une moins-value. La moins-value ne s'impute que sur les plus-values de même nature de la même année et n'est pas reportable.
+
+   C. L'imposition des professionnels.
+
+      L'achat-revente habituel d'actifs numériques est un acte de commerce : les bénéfices relèvent des BIC.
+
+      Les investisseurs qui opèrent dans des conditions analogues à un professionnel, ainsi que les mineurs, relèvent des BNC au barème progressif, avec un abattement de trente-quatre pour cent en micro-BNC ou la déduction des frais en déclaration contrôlée.
+
+   D. Les obligations déclaratives et les sanctions.
+
+      L'article mille six cent quarante-neuf bis C du CGI impose de déclarer les portefeuilles d'actifs numériques ouverts, détenus, utilisés ou clos à l'étranger, sur le formulaire trois mille neuf cent seize bis.
+
+      L'amende est de mille cinq cents euros par compte non déclaré, et de dix mille euros si le compte est situé hors d'Europe selon le document six.
+
+      Les majorations vont jusqu'à quatre-vingts pour cent des impôts éludés, avec des rappels sur trois à dix ans selon la bonne ou mauvaise foi.
+
+      Les revenus passifs du staking et des prêts de cryptoactifs sont à déclarer depuis deux mille vingt-trois.
+
+IV. L'ADAPTATION DES PROCÉDURES DE LA DGFIP.
+
+   A. Le recouvrement forcé.
+
+      La note du bureau GF deux B du quinze octobre deux mille vingt-cinq et son guide en sept fiches encadrent la saisie des cryptoactifs : nature juridique, renseignement, valeur, saisie, saisie conservatoire, vente et procès-verbaux disponibles sous Docad.
+
+      Le comptable apprend la détention de cryptoactifs par la déclaration de revenus ou par le contrôle fiscal et la fiche Licorn.
+
+      La seule voie de saisie en droit interne est la saisie des biens meubles incorporels de l'article L. deux cent trente et un-un du code des procédures civiles d'exécution.
+
+      Auprès d'un tiers, en priorité un PSAN, la signification peut être papier ou électronique. Une double saisie est faite : saisie-attribution du compte numéraire en euros et saisie des cryptoactifs. Elle bloque immédiatement tout achat et toute vente.
+
+      Entre les mains du redevable, seule la signification papier est possible et la saisie de la clé privée est nécessaire. L'huissier ne doit jamais connecter un support de stockage, clé Ledger, disque dur ou clé USB, à son ordinateur professionnel ou personnel.
+
+      La saisie conservatoire est possible avec l'autorisation du juge de l'exécution ou sans elle après une procédure de flagrance fiscale.
+
+      Avant la vente forcée, réalisée par un commissaire de justice ou par la DNID après la phase de vente amiable, les cryptoactifs doivent être déteintés. Un échange avec le bureau GF deux B est préconisé.
+
+   B. Le contrôle fiscal.
+
+      Les signaux d'alerte sont les incohérences entre train de vie et revenus, les transferts répétés avec Binance, Kraken ou Coinbase, les retraits massifs injustifiés, l'usage de mixers et la multiplication des portefeuilles. Un retrait de cinquante mille euros sans revenu déclaré suffit à déclencher une alerte.
+
+      Les outils sont le data mining, le traçage de blockchain avec Chainalysis ou TRM, et les signalements bancaires transmis par TRACFIN, à l'origine de plus de quatre-vingts pour cent des contrôles selon le document six.
+
+      La DNEF dispose d'une équipe dédiée, exerce des droits de communication auprès des plateformes et compare les données avec les déclarations. Elle envisage un service de régularisation sur le modèle du STDR avant DAC huit.
+
+   C. La formation des agents.
+
+      L'ENFiP a créé l'action de formation « le contrôle des cryptoactifs » du plan national de formation deux mille vingt-trois, de deux jours, en simple cascade : formateurs interrégionaux formés en janvier deux mille vingt-quatre, puis agents formés dans les CIF à partir de février deux mille vingt-quatre.
+
+      Elle vise les agents A plus, A et B des structures de contrôle fiscal, environ deux cents agents par an, et n'est pas éligible au compte personnel de formation.
+
+   D. La coopération internationale et TRACFIN.
+
+      La journée d'étude du trente juin deux mille vingt-cinq avec les Pays-Bas a présenté le programme néerlandais Concealed Wealth, opérationnel depuis dix ans, avec environ deux cents personnes et des pénalités possibles de trois cents pour cent en cas de non-déclaration intentionnelle.
+
+      Les Pays-Bas revendent tous les cryptoactifs saisis pour ne garder que des euros et n'autorisent pas l'usage de pseudonymes par l'administration, contrairement à la France.
+
+      En deux mille vingt, TRACFIN a adressé neuf cent soixante-quatorze notes en matière de financement du terrorisme et mis au jour un circuit mêlant coupons prépayés, bitcoins et hawala.
+
+V. LE PLAN DU CORRIGÉ ET LA DÉCLINAISON LOCALE.
+
+   A. Le plan proposé.
+
+      Première partie : les cryptomonnaies sont des actifs numériques porteurs d'enjeux importants mais difficiles à appréhender. Sous-partie un point un : définition, enjeux et risques. Sous-partie un point deux : l'adaptation des processus de gestion et de contrôle de la DGFiP.
+
+      Deuxième partie : l'action locale doit améliorer le recouvrement et la lutte contre la fraude. Sous-partie deux point un : renforcer la formation et la circulation de l'information. Sous-partie deux point deux : renforcer le contrôle fiscal et le recouvrement des cryptoactifs.
+
+   B. La déclinaison locale proposée.
+
+      Tous les agents du contrôle fiscal de la direction suivront la formation de l'ENFiP dans les douze mois.
+
+      Des sessions locales d'une journée sur la gestion, assiette et recouvrement, et le contrôle des actifs numériques seront animées par la division, en priorité pour les SIP, les SIE, le PRS, les huissiers et les comptables, avant la campagne déclarative. Le réseau France services recevra un support sur les obligations déclaratives.
+
+      Une veille sur les PSAN agréés, sur DAC huit, sur les instructions des bureaux et sur les fiches du Pôle national d'assistance au recouvrement complexe sera assurée dans une communauté NOVAÉ.
+
+      Les contrôles sur pièces et externes intégreront systématiquement les cryptoactifs ; les formulaires trois mille neuf cent seize bis seront exploités dans les ESFP et les vérifications ; les signaux TRACFIN serviront au ciblage.
+
+      Des conventions seront recherchées avec la justice, les douanes et les forces de l'ordre.
+
+      La saisie de cryptoactifs, complexe, sera réservée aux créances à fort enjeu quand les autres voies du recouvrement forcé échouent. Un tableau de bord des opérations de recouvrement liées aux cryptoactifs mesurera les résultats.
+
+POINTS D'ATTENTION.
+
+      Une note cadre s'adresse aux chefs de service : la seconde partie doit être opérationnelle, avec des responsables, des publics, des délais et des indicateurs.
+
+      Les cryptomonnaies ne sont pas des monnaies au sens juridique : le mot exact est cryptoactif ou actif numérique.
+
+      Ne pas oublier la gestion publique : aucune entité publique ne peut encaisser ou payer en cryptoactifs, même si des communes en font la promotion auprès de leurs commerçants.
+
+      Le seuil d'exonération de trois cent cinq euros porte sur le total des prix de cession de l'année, pas sur la plus-value.
+
+      L'huissier ne branche jamais un support de stockage saisi sur un ordinateur de la DGFiP.
+
+      Le corrigé rappelle que le fonds documentaire ne suffit pas : une culture personnelle sur MiCA, DAC huit et la fiscalité est attendue.
+
+EXEMPLES CITÉS.
+
+      FTX, insolvable en novembre deux mille vingt-deux, plus de huit milliards de dollars de dettes envers plus de cent mille créanciers.
+
+      Cannes et sa stratégie Web trois, avec un rassemblement Ethereum de dix mille participants attendu.
+
+      Talence et la solution Lyzi, une vingtaine de commerçants participants.
+
+      Un contribuable ayant omis cent mille euros de gains pourrait devoir jusqu'à cent quarante-quatre mille euros en impôts, majorations et pénalités.

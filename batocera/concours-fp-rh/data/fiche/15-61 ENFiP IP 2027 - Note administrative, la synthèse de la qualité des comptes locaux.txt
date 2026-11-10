@@ -1,0 +1,215 @@
+NOTE ADMINISTRATIVE SUR LA SYNTHÈSE DE LA QUALITÉ DES COMPTES LOCAUX, FASCICULE N° TROIS DE PRÉPARATION DE L'ENFIP AU CONCOURS D'INSPECTEUR PRINCIPAL DES FINANCES PUBLIQUES DEUX MILLE VINGT-SEPT.
+
+LEXIQUE COMPLET.
+
+      La SQC désigne la synthèse de la qualité des comptes, examen des comptes clos d'une collectivité qui met en évidence les points forts et les axes d'amélioration de la tenue de la comptabilité et propose une démarche de progrès.
+
+      Le CDL désigne le conseiller aux décideurs locaux, qui rédige la synthèse au titre de ses missions de conseil, avec le comptable.
+
+      La DSPL désigne la division du secteur public local de la direction départementale ou régionale, qui anime le dispositif et vise un échantillon de synthèses.
+
+      Le bureau GP un B désigne le bureau « comptabilités locales et hospitalières » de la direction générale, qui pilote la SQC au niveau national.
+
+      Les CCA désignent les contrôles comptables automatisés de l'application Hélios, qui vérifient la bonne utilisation des comptes, l'équilibre des opérations et l'enregistrement des opérations d'inventaire.
+
+      L'IPC désigne l'indicateur de pilotage comptable, produit par la DGFiP depuis deux mille vingt à partir d'Hélios et valorisé sous la forme d'un score sur cent.
+
+      Le COM désigne le cadre d'objectifs et de moyens de la DGFiP pour la période deux mille vingt-trois à deux mille vingt-sept.
+
+      La CP désigne la convention de partenariat tripartite entre l'ordonnateur, le comptable et la direction locale, rénovée au premier janvier deux mille vingt-six.
+
+      Le repère d'activité CL seize désigne le taux de couverture du partenariat, calculé en points pondérés selon la taille ou l'enjeu financier des signataires.
+
+      Le CHD désigne le contrôle hiérarchisé de la dépense, et le CAP le contrôle allégé en partenariat.
+
+      Le SFACT désigne le service facturier, qui professionnalise la chaîne de la dépense.
+
+      Le CFU désigne le compte financier unique, qui remplace le compte administratif et le compte de gestion, généralisé avec le référentiel M cinquante-sept.
+
+      La RGP désigne le régime de responsabilité des gestionnaires publics.
+
+      Le FOVI désigne le faux ordre de virement international, risque de fraude visé par le volet cybersécurité des conventions.
+
+      Nausicaa désigne l'intranet métier de la gestion publique où se trouve la documentation de la SQC.
+
+COURS DÉTAILLÉ.
+
+I. LE SUJET ET LES ATTENDUS.
+
+   A. La commande.
+
+      Le candidat est Dominique Risée, inspecteur principal, responsable de la division du secteur public local de la DDFiP de Seine-et-Loire. La note est datée du premier mars deux mille vingt-cinq.
+
+      Le directeur interviendra au congrès des maires du département lors d'une table ronde sur la fiabilisation des comptes locaux.
+
+      La note doit exposer les grandes lignes de la SQC et sa vocation partenariale, puis donner le taux deux mille vingt-cinq de réalisation par rapport au potentiel cible et le nombre de synthèses restant à réaliser d'ici fin deux mille vingt-sept pour atteindre l'objectif du COM.
+
+      En annexe, le directeur veut un plan d'action de portée générale pour accompagner les collectivités dans la fiabilisation et la sécurisation des chaînes comptables et financières.
+
+      Le fonds documentaire compte sept documents et vingt-quatre pages : extrait du COM, mémento des conventions de partenariat, page du portail des collectivités locales, fiche méthodologique et foire aux questions de janvier deux mille vingt-quatre, page sur l'IPC et données départementales.
+
+   B. Les exigences du corrigé.
+
+      Le corrigé rappelle que le fonds documentaire ne contient pas tous les éléments : un investissement personnel est indispensable.
+
+      Le plan retenu oppose le cadre méthodologique du diagnostic technique, en première partie, à la démarche partenariale et au pilotage national décliné localement, en seconde partie.
+
+II. L'ORIGINE ET LE CADRE DU DISPOSITIF.
+
+   A. De l'expérimentation à l'offre pérenne.
+
+      La SQC a été expérimentée à partir de deux mille vingt sur les comptes deux mille dix-neuf, pendant trois ans, sous l'égide du Comité de fiabilité des comptes locaux, auprès d'environ cinq cent cinquante entités.
+
+      Le rapport du Gouvernement sur le bilan final de l'expérimentation de la certification des comptes des collectivités, publié au Journal officiel du quatre juillet deux mille vingt-trois, la présente comme le dispositif alternatif « le plus prometteur ».
+
+      Depuis deux mille vingt-quatre, elle fait partie de l'offre de service pérenne de la DGFiP en matière de qualité des comptes locaux, selon la note de généralisation du vingt-huit décembre deux mille vingt-trois.
+
+   B. Le périmètre.
+
+      La SQC examine exclusivement la régularité, la sincérité et la fidélité des comptes. Elle exclut toute analyse financière, tout volet budgétaire et toute appréciation de la gestion de la collectivité.
+
+      Elle est ouverte à toutes les collectivités volontaires, mais vise en priorité les communes et groupements à fiscalité propre de trois mille cinq cents à cent mille habitants. Les grandes collectivités sont plutôt orientées vers un professionnel du chiffre.
+
+      Une collectivité en bénéficie une fois par mandature, sur un seul exercice, le dernier arrêté. Un simple courriel au comptable ou au CDL suffit pour la demander.
+
+      En principe, tous les budgets sont couverts, budget principal, budgets annexes et régies ; la synthèse peut se limiter aux budgets annexes significatifs selon un faisceau d'indices : activité, bilan, actif, recettes et dépenses de fonctionnement.
+
+   C. Le lien avec le COM.
+
+      Le chantier un point trois du COM vise à améliorer la qualité comptable : généralisation du référentiel M cinquante-sept, compte financier unique déployé à cent pour cent en deux mille vingt-sept, modernisation d'Hélios et de Chorus.
+
+      L'indicateur du COM est le taux de synthèses réalisées au cours d'une mandature : cinquante pour cent des collectivités éligibles doivent en avoir bénéficié d'ici deux mille vingt-sept.
+
+III. LA PREMIÈRE PHASE, UN RAPPORT NORMÉ.
+
+   A. Le contenu obligatoire.
+
+      Le CDL ou le comptable rédige un rapport normé de dix à vingt pages, à partir d'une trame type et d'un guide d'élaboration disponibles sur Nausicaa. La DSPL peut le rédiger à leur place en cas de difficulté.
+
+      Le rapport comprend l'analyse des thèmes majeurs, un état des lieux du contrôle interne pour les collectivités de plus de dix mille habitants, et un recensement formalisé des actions d'amélioration prioritaires.
+
+      Le travail demande en moyenne six jours.
+
+   B. Les cinq thèmes obligatoires.
+
+      Premier thème : les postes du bilan, c'est-à-dire immobilisations, stocks, créances, opérations pour compte de tiers, dettes, subventions transférables, provisions et flux financiers réciproques.
+
+      Deuxième thème : le principe d'indépendance des exercices, avec les rattachements de charges et de produits, les intérêts courus non échus et les charges à répartir.
+
+      Troisième thème : les soldes comptables à la clôture, sans solde anormal, avec une attention aux comptes d'imputation provisoire.
+
+      Quatrième thème : le bilan des contrôles sélectifs de la dépense, CHD et CAP, et les erreurs d'imputation constatées au visa.
+
+      Cinquième thème, pour les plus de dix mille habitants : le contrôle interne et la maîtrise des risques, sur trois leviers, organisation, documentation et traçabilité, avec un auto-questionnaire rempli par l'ordonnateur et joint au rapport.
+
+      Pour les collectivités de moins de trois mille cinq cents habitants, quatre thèmes sont facultatifs : les stocks, les opérations pour compte de tiers, les amortissements et les rattachements.
+
+   C. Les ressources.
+
+      L'exploitation des CCA est impérative mais non exclusive. Le rédacteur vérifie que les signalements sont de vraies anomalies, en cherche les causes et complète par la revue analytique des balances.
+
+      Les autres sources sont le bilan, le compte de résultat, la balance, l'état des provisions, l'état de la dette, l'inventaire de l'ordonnateur et l'état de l'actif du comptable, les délibérations sur les amortissements, les restes à recouvrer et les restitutions DELPHES.
+
+      Les ressources utilisées doivent être citées dans le rapport et lors de la présentation.
+
+   D. L'indicateur de pilotage comptable.
+
+      L'IPC est calculé à partir de trente-trois contrôles comptables automatisés au plus, répartis en sept thématiques : immobilisations, provisions et dépréciations, fonds propres et subventions reçues, stocks, trésorerie, comptes de tiers, produits et charges.
+
+      Il couvre près de soixante-quinze mille cinq cents collectivités et établissements, figure au projet annuel de performances du programme cent cinquante-six et apparaît dans le tableau de bord financier de l'ordonnateur.
+
+      L'IPC n'est ni un label de qualité ni un jugement sur la gestion ou la solidité financière, et il n'apprécie pas le contrôle interne. Il est à la fois un outil et une cible intermédiaire.
+
+IV. LA SECONDE PHASE, UNE PRÉSENTATION ORALE PARTENARIALE.
+
+   A. Les modalités.
+
+      La présentation est obligatoirement précédée d'un échange avec l'ordonnateur, pour s'accorder sur les constats et anticiper les questions. La synthèse reste sous la seule responsabilité de celui qui la présente.
+
+      Elle a lieu devant l'assemblée délibérante ou la commission des finances, au choix de l'ordonnateur, dont l'accord suffit sans délibération ni modification du règlement intérieur.
+
+      Elle dure environ trente minutes, de préférence lors de l'approbation des comptes, soit au plus tard le trente juin, avec un diaporama pour les non-initiés.
+
+      Il n'y a pas de transmission écrite du rapport aux élus ou aux administrés par son rédacteur ; sa diffusion relève de l'ordonnateur. Aucune délibération n'est prise et aucun débat de type questions-réponses n'est prévu, seules les questions techniques reçoivent une réponse.
+
+      En période de réserve électorale, la présentation peut être maintenue en se limitant à des éléments techniques.
+
+   B. Le contenu de la présentation.
+
+      En préambule, le présentateur rappelle que le périmètre est la seule qualité comptable et cite ses sources, en expliquant le fonctionnement des CCA.
+
+      La synthèse valorise aussi les points positifs et les efforts de fiabilisation, par thème avec une conclusion ou par points forts, points faibles et perspectives.
+
+   C. Le pilotage à trois niveaux.
+
+      La DSPL promeut le dispositif, recueille les candidatures en début d'année, soutient les rédacteurs et vise un échantillon de synthèses, sans exhaustivité, avec une fiche de visa.
+
+      La délégation anime les DSPL, recueille les plans de charge et produit un tableau de suivi interrégional. Elle peut assurer un visa de second niveau.
+
+      Le bureau GP un B anime au plan national, produit le bilan annuel et suit l'indicateur du COM avec des cibles intermédiaires.
+
+V. LES CHIFFRES DU DÉPARTEMENT.
+
+   A. Les données.
+
+      Le potentiel cible est de cent collectivités, et l'objectif du COM de cinquante synthèses entre deux mille vingt-trois et deux mille vingt-sept.
+
+      Dix synthèses ont été réalisées en deux mille vingt-trois et deux mille vingt-quatre, et dix-sept sont programmées en deux mille vingt-cinq sur les comptes deux mille vingt-quatre.
+
+      Les seuils intermédiaires du bureau GP un B sont six pour cent fin deux mille vingt-trois, quinze pour cent fin deux mille vingt-quatre, trente pour cent fin deux mille vingt-cinq, quarante pour cent fin deux mille vingt-six et cinquante pour cent fin deux mille vingt-sept.
+
+   B. Les calculs attendus.
+
+      Le taux de réalisation deux mille vingt-cinq est de dix-sept sur cent, soit dix-sept pour cent du potentiel cible.
+
+      Le cumul prévisionnel fin deux mille vingt-cinq est de dix plus dix-sept, soit vingt-sept synthèses, donc vingt-sept pour cent, légèrement en dessous du seuil de trente pour cent, sans être alarmant.
+
+      Il reste cinquante moins vingt-sept, soit vingt-trois synthèses à produire d'ici fin deux mille vingt-sept.
+
+VI. LES CONVENTIONS DE PARTENARIAT ET LE PLAN D'ACTION.
+
+   A. Les conventions de partenariat rénovées.
+
+      La note du quinze décembre deux mille vingt-cinq rénove les conventions au premier janvier deux mille vingt-six. Elles sont ouvertes à toutes les régions, départements, communes, groupements à fiscalité propre, établissements de santé, établissements sociaux et médico-sociaux, syndicats et SDIS.
+
+      Une convention comprend un préambule, des fiches actions et un tableau de suivi, pour trois ans recommandés, entre trois et cinq ans. Elle retient au moins deux des six axes : culture commune de maîtrise des risques, interopérabilité de la chaîne applicative, chaînes de recette et de dépense, fiabilisation des comptes, moyens de paiement dématérialisés, coopération fiscale, financière et domaniale.
+
+      Un avenant ne prolonge pas la convention ; une nouvelle convention remplace les précédentes, et une restructuration de l'organisme les rend caduques.
+
+      Le taux de couverture CL seize rapporte les points des conventions signées depuis cinq ans au potentiel minoré de cinquante pour cent. La pondération va d'un point, moins de mille cinq cents habitants ou moins de cinq millions d'euros, à cent points, cent mille habitants ou plus de cent millions d'euros. Il est calculé au trente juin à titre provisoire et au trente et un décembre.
+
+      Seules les conventions avec les établissements publics de santé sont visées par l'administration centrale, via la MCCE, en trois à quatre semaines. Toutes les conventions sont déclarées sur Novae.
+
+   B. Le plan d'action départemental du corrigé.
+
+      Un comité de pilotage présidé par la DSPL associe la division des opérations de l'État, la mission départementale risques et audit et la division des ressources humaines. Il désigne des référents qualité comptable et rend compte au moins une fois par an au comité de direction par un tableau de bord.
+
+      Un tutorat est organisé pour les comptables entrants ; la MDRA appuie le contrôle interne ; la formation professionnelle forme les agents des SGC à la M cinquante-sept, au CFU et à la RGP.
+
+      L'animation comprend un séminaire annuel avec table ronde, au moins deux réunions par an avec les SGC, les CDL et un représentant par SIE et SDIF, des groupes de travail produisant des courriers types et un espace ressources sur l'intranet Ulysse.
+
+      Les conventions de partenariat intègrent la cybersécurité contre les FOVI et la fiabilisation de la base tiers avant le déploiement de l'ENSU, la fiabilisation des comptes avec l'IPC, les CCA, DELPHES et DATAVIZ, et la dématérialisation.
+
+      La direction cible les collectivités à enjeux, promeut le service facturier, programme les SQC sur plusieurs années et organise des journées d'étude aux sièges des EPCI avec les CDL et les correspondants moyens de paiement.
+
+POINTS D'ATTENTION.
+
+      La SQC ne porte que sur la qualité comptable : y introduire de l'analyse financière ou un jugement sur la gestion est une erreur de fond.
+
+      Le rapport écrit n'est pas remis aux élus par la DGFiP : la restitution est orale.
+
+      Le contrôle interne n'est un thème obligatoire qu'au-dessus de dix mille habitants.
+
+      Les calculs demandés doivent apparaître clairement : dix-sept pour cent pour deux mille vingt-cinq, vingt-sept pour cent en cumul, vingt-trois synthèses restantes.
+
+      La note est destinée à préparer une intervention du directeur devant des maires : le ton doit valoriser le partenariat et la démarche de progrès.
+
+      Le sujet nomme le département Seine-et-Loire, mais le document sept parle de Seine-et-Oise : il faut garder le cadre du sujet.
+
+EXEMPLES CITÉS.
+
+      Environ cinq cent cinquante entités ont participé à l'expérimentation de deux mille vingt à deux mille vingt-trois.
+
+      Près de soixante-quinze mille cinq cents entités sont dans le périmètre de l'IPC.
+
+      Six jours de travail en moyenne pour une synthèse, trente minutes de présentation.

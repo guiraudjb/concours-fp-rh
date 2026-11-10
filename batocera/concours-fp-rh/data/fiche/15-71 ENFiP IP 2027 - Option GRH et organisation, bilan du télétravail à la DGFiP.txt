@@ -1,0 +1,217 @@
+BILAN DU TÉLÉTRAVAIL À LA DGFIP, GALOP D'ESSAI N° UN DE PRÉPARATION DE L'ENFIP, ÉPREUVE N° DEUX, PARTIE OPTIONNELLE GESTION DES RESSOURCES HUMAINES ET ORGANISATION, CONCOURS D'INSPECTEUR PRINCIPAL DES FINANCES PUBLIQUES DEUX MILLE VINGT-SEPT.
+
+LEXIQUE COMPLET.
+
+      La MNRA désigne la mission nationale risques et audit de la DGFiP, auteur de l'audit numéro deux mille vingt-quatre trois sur la mise en œuvre du télétravail.
+
+      Le PPR désigne le pôle pilotage et ressources d'une direction départementale.
+
+      SIRHIUS désigne le système d'information des ressources humaines, dont le module décisionnel fournit les statistiques de télétravail.
+
+      Le TBVS désigne le tableau de bord de veille sociale.
+
+      Le taux de télétravailleurs désigne le nombre d'agents disposant d'une autorisation de télétravail dans SIRHIUS rapporté à l'effectif total.
+
+      Le taux de télétravailleurs quotidiens désigne la part des agents effectivement en télétravail un jour donné, objectif de vingt-cinq pour cent en deux mille vingt-sept.
+
+      Le flex-office désigne l'aménagement de bureaux sans poste attribué, mesuré par un taux de foisonnement, nombre de postes rapporté au nombre d'agents.
+
+      Le droit à la déconnexion désigne le droit du télétravailleur à ne pas être sollicité en dehors de ses plages de travail.
+
+      Le référent télétravail local désigne l'agent chargé de conseiller les agents et encadrants, de suivre les statistiques et d'animer les bonnes pratiques.
+
+      Le bureau CVT désigne le bureau conditions de vie au travail et diversité, qui définit la stratégie de télétravail de la DGFiP et héberge le référent national.
+
+      L'ANACT désigne l'Agence nationale pour l'amélioration des conditions de travail, dont l'ARACT Île-de-France propose un autodiagnostic de l'organisation hybride.
+
+      ECOFiP désigne la démarche de transition écologique de la DGFiP.
+
+      NOVAÉ désigne la plateforme collaborative de la DGFiP, avec audioconférence, visioconférence, messagerie, Tchap et communautés.
+
+COURS DÉTAILLÉ.
+
+I. LE SUJET.
+
+   A. Première partie, synthèse et plan d'action.
+
+      Le candidat est Claude Jeanmonnot, inspecteur principal, responsable de la division stratégie de la DDFiP de Tarn-et-Garonne.
+
+      Le thème du bilan du télétravail a été abordé en réunion des directeurs par le délégué et lors d'une journée d'étude RH de janvier deux mille vingt-cinq. Le directeur l'inscrit au prochain collège des chefs de service.
+
+      Il demande, pour le sept février deux mille vingt-cinq, une synthèse de trois à quatre pages du rapport de la Cour des comptes de deux mille vingt-deux et de l'audit de la MNRA de deux mille vingt-quatre, préparatoire à la note du PPR.
+
+      La synthèse est accompagnée d'un plan d'action départemental de trois ou quatre objectifs, comportant chacun trois ou quatre actions opérationnelles à déployer d'ici la fin de l'année.
+
+   B. Seconde partie, la lettre de mission.
+
+      La candidate est Camille Maillet, inspectrice principale, responsable de la division des ressources humaines de la DDFiP du Tarn.
+
+      Elle rédige une lettre de mission nommant Alexandre Dumont, inspecteur divisionnaire, référent télétravail local, en reprenant les lignes directrices du plan d'action.
+
+      Le fonds documentaire compte vingt pages : audit MNRA, synthèse du rapport de la Cour des comptes, fiche sur le droit à la déconnexion, présentation du bureau CVT et autodiagnostic de l'ARACT.
+
+II. LE RAPPORT DE LA COUR DES COMPTES DE NOVEMBRE DEUX MILLE VINGT-DEUX.
+
+   A. Une accélération volontariste.
+
+      La crise sanitaire a imposé le télétravail dans l'urgence. Le décret du cinq mai deux mille vingt et l'accord collectif du treize juillet deux mille vingt et un ont facilité son développement.
+
+      Il reste concentré dans les grands services et les fonctions administratives sans contact physique avec l'usager. À terme, il pourrait concerner environ trente pour cent des agents publics et dix pour cent des jours de travail.
+
+      En administration centrale du ministère de l'économie, les taux de télétravailleurs sont de soixante-cinq virgule quatre pour cent en catégorie A, cinquante-sept virgule huit pour cent en B et vingt-neuf pour cent en C.
+
+      Le ministère a acheté soixante-seize mille quatre cents ordinateurs portables, ultraportables et tablettes et huit mille ordinateurs pour quarante-six millions d'euros. Pour la seule DGFiP, l'équipement lié au télétravail a coûté plus de cinquante-sept millions d'euros en deux mille vingt et deux mille vingt et un, dont cinquante-quatre virgule deux millions pour les ordinateurs et près de trois millions pour la téléphonie.
+
+   B. Les défis pour les employeurs.
+
+      L'effort d'équipement paraît achevé, mais le fonctionnement des visioconférences doit être amélioré.
+
+      À partir d'un certain seuil d'agents durablement en télétravail, les employeurs devraient réduire les surfaces de bureaux et repenser l'immobilier.
+
+      Ils doivent s'assurer de la productivité du télétravail et de l'efficacité du contrôle des agents.
+
+   C. Une chance pour le service public.
+
+      Le télétravail peut renforcer l'attractivité des fonctions délaissées et faciliter les déménagements de services ou les mutations.
+
+      Il peut élargir les plages de contact avec les usagers et ouvrir un quatrième canal de contact par visioconférence, qui limite les effets de la dématérialisation.
+
+III. L'AUDIT DE LA MISSION NATIONALE RISQUES ET AUDIT DE DEUX MILLE VINGT-QUATRE.
+
+   A. Un dispositif plébiscité mais inégal.
+
+      Le taux de télétravailleurs est stable à cinquante-neuf pour cent en juin deux mille vingt-quatre. Selon les départements, il varie de trente-cinq à quatre-vingt-dix pour cent en deux mille vingt-trois.
+
+      Le télétravail recule dans les SIP, les trésoreries et les services d'accueil du public. Il concerne surtout les catégories A et B. Les femmes représentent soixante-deux pour cent des télétravailleurs autorisés pour cinquante-sept pour cent des effectifs.
+
+      Les agents télétravaillent surtout un ou deux jours par semaine. Soixante-seize pour cent des cadres autorisés télétravaillent moins que leur quotité, et quatre-vingt-deux pour cent en sont satisfaits.
+
+      Le parangonnage porte sur la RATP, la Ville de Paris, la région Île-de-France, la DGDDI, l'INSEE, l'URSSAF, le ministère des Armées et le ministère de la Justice.
+
+   B. Des écarts à la réglementation et un pilotage insuffisant.
+
+      Quarante-neuf pour cent des directeurs ont fixé des quotités maximales inférieures à la réglementation pour les agents, et quatre-vingt-quatre pour cent pour les encadrants. Quarante-huit pour cent ont adopté une note départementale plus restrictive.
+
+      Quatre-vingt-cinq pour cent des encadrants imposent un délai d'adaptation aux nouveaux arrivants, supérieur à trois mois dans quarante-sept pour cent des cas.
+
+      Ces écarts exposent les services à des recours. Un comité de suivi national, comme à la DGDDI ou dans les ministères de la Justice et des Armées, est proposé.
+
+      Soixante-cinq pour cent des directions n'assurent pas de suivi propre du télétravail, faute de requêtes SIRHIUS simples. Un outil de datavisualisation, un meilleur suivi des refus et des enquêtes qualitatives régulières sont recommandés.
+
+   C. Des encadrants à accompagner.
+
+      Cinquante-trois pour cent des directeurs estiment qu'un chef de service n'a pas de réelle marge pour remettre en cause une autorisation, et quarante-cinq pour cent que les encadrants sont mal accompagnés.
+
+      Chez les cadres supérieurs, quarante-huit pour cent peinent à gérer les plannings, quarante-sept pour cent à gérer l'activité d'un télétravailleur et à intégrer les nouveaux arrivants, et trente-huit pour cent ressentent une charge supplémentaire.
+
+      Soixante-dix-neuf pour cent des encadrants n'ont jamais remis en cause une autorisation ; soixante-trois pour cent organisent un entretien préalable ; seuls cinquante-cinq pour cent ont suivi une formation sur le télétravail.
+
+      Les besoins portent sur des outils de suivi de l'activité dans les applications métiers et une solution collaborative unique, réunissant visioconférence, appel, messagerie instantanée et statut de disponibilité.
+
+   D. Les leviers immobiliers et écologiques.
+
+      Le télétravail n'est pas encore un levier immobilier à la DGFiP. La RATP, la région Île-de-France et l'URSSAF sont passées au flex-office avec des taux de foisonnement de zéro virgule sept, zéro virgule six et zéro virgule soixante-quinze.
+
+      Soixante-quinze pour cent des directeurs pensent que le télétravail permet de rationaliser les implantations et sont favorables au flex-office.
+
+      L'objectif de vingt-cinq pour cent de télétravailleurs quotidiens en deux mille vingt-sept, fixé par la circulaire du Premier ministre du vingt et un novembre deux mille vingt-trois, n'est pas suivi ; le taux réel avoisinerait quatorze pour cent selon ECOFiP.
+
+      Quarante-cinq pour cent des directions associent le télétravail à des objectifs écologiques, et aucune n'a évalué les économies d'énergie ou de papier.
+
+IV. LA SYNTHÈSE PROPOSÉE PAR LE CORRIGÉ.
+
+   A. La structure.
+
+      L'introduction rappelle l'essor du télétravail, cinquante-neuf pour cent des agents en juin deux mille vingt-quatre, les disparités, les défis et opportunités relevés par la Cour, puis le parangonnage de la MNRA.
+
+      Les marges de progrès conduisent à quatre objectifs, qui structurent à la fois la synthèse et le plan d'action.
+
+   B. Les quatre objectifs.
+
+      Premier objectif : améliorer les conditions d'exercice, en renouvelant le socle d'équipement défini en deux mille dix-neuf, en garantissant le droit à la déconnexion, l'égalité selon le genre et le grade et l'effectivité des conventions.
+
+      Deuxième objectif : renforcer le pilotage et le suivi, par la sensibilisation au cadre réglementaire, un comité de suivi national, un référent local renforcé, un suivi SIRHIUS complet avec datavisualisation et traçabilité des refus, et des enquêtes qualitatives.
+
+      Troisième objectif : soutenir les encadrants du mode hybride, par un projet de service, un entretien préalable systématique et un bilan annuel, des autorisations d'un an par défaut, des axes de contrôle interne, des formations managériales rénovées et des outils de gestion et de collaboration.
+
+      Quatrième objectif : saisir les opportunités immobilières et écologiques, avec une surface cible de seize mètres carrés par résident, de nouveaux espaces de travail, des fermetures de sites, des tiers lieux et une mesure de l'impact fondée sur les journées réellement télétravaillées.
+
+V. LE PLAN D'ACTION DÉPARTEMENTAL DU CORRIGÉ.
+
+   A. Conditions d'exercice.
+
+      Action un : état des lieux des équipements, par la division BIL, immédiatement.
+
+      Action deux : équiper les télétravailleurs avec du matériel réformé en état et du matériel neuf, par la BIL, au trente juin deux mille vingt-cinq.
+
+      Action trois : suivre l'effectivité des conventions et le droit à la déconnexion, par le service RH avec le référent, au trente juin.
+
+      Action quatre : respecter et enrichir la mention des fiches de poste sur l'ouverture au télétravail avec la quotité indicative, par le service RH, immédiatement.
+
+   B. Pilotage et suivi.
+
+      Action cinq : lettre de mission du référent télétravail, par le responsable du PPR, immédiatement.
+
+      Action six : sensibiliser les chefs de service à la réglementation, aux risques de recours, à la motivation des refus et à leur saisie dans SIRHIUS, au trente et un mai.
+
+      Action sept : communiquer sur la documentation d'Ulysse, au trente avril.
+
+      Action huit : suivi trimestriel quantitatif et qualitatif, au trente et un mars.
+
+   C. Encadrants.
+
+      Action neuf : un projet de service par service, fixant les règles du mode hybride, au trente juin.
+
+      Action dix : des formations managériales adaptées et leur bilan annuel, par la formation professionnelle, au trente et un décembre.
+
+      Action onze : promouvoir les outils collaboratifs de NOVAÉ, au trente juin.
+
+   D. Immobilier et écologie.
+
+      Action douze : état des lieux des mètres carrés par agent, par la BIL, au trente juin.
+
+      Action treize : promouvoir les nouvelles organisations spatiales avec des fiches méthodologiques, au trente juin.
+
+      Action quatorze : bilan du plan local de rationalisation des bâtiments et réflexion sur les tiers lieux, au trente et un décembre.
+
+VI. LA LETTRE DE MISSION DU RÉFÉRENT TÉLÉTRAVAIL.
+
+   A. La forme.
+
+      La lettre est signée par le directeur de la DDFiP du Tarn, affaire suivie par la responsable de la division RH, adressée à l'inspecteur divisionnaire nommé.
+
+      Elle précise que le référent agit en amont et en aval du déploiement et s'appuie sur la cellule informatique, la BIL, le service RH et la formation professionnelle.
+
+   B. Les missions.
+
+      Conseiller agents et encadrants sur le plan juridique, décisions, motivation des refus, recours, télétravail pour raison de santé, et pratique, équipements et installation.
+
+      Collaborer à la politique immobilière, à la transition écologique et à la formation obligatoire sur le télétravail.
+
+      Alimenter le tableau statistique de la direction et suivre les refus et les situations sensibles.
+
+      Accompagner les chefs de service dans leur projet de télétravail et dans le diagnostic de l'hybridation, avec l'autodiagnostic de l'ANACT.
+
+      Participer aux bilans annuels avec le référent national du bureau CVT, mener des actions de sensibilisation et promouvoir Ulysse et les outils de NOVAÉ.
+
+      Le référent accède à la communauté NOVAÉ nationale des référents télétravail.
+
+POINTS D'ATTENTION.
+
+      La consigne impose trois ou quatre objectifs de trois ou quatre actions chacun : chaque action a un responsable et une échéance avant la fin de l'année.
+
+      Fixer des quotités plus restrictives que la réglementation est un écart, source de recours.
+
+      Le taux de télétravailleurs autorisés, cinquante-neuf pour cent, ne mesure pas le télétravail effectif, souvent inférieur à la quotité autorisée.
+
+      La lettre de mission doit reprendre le plan d'action : elle n'est pas un simple acte de nomination.
+
+      Le droit à la déconnexion est une responsabilité partagée : le manager en est le garant, et une déconnexion automatique intervient après huit heures de connexion continue.
+
+EXEMPLES CITÉS.
+
+      RATP au siège, taux de foisonnement de zéro virgule sept ; région Île-de-France, zéro virgule six ; URSSAF, zéro virgule soixante-quinze.
+
+      Taux de télétravailleurs départementaux entre trente-cinq et quatre-vingt-dix pour cent en deux mille vingt-trois.
+
+      Plus de cinquante-sept millions d'euros d'équipements pour la DGFiP en deux mille vingt et deux mille vingt et un.

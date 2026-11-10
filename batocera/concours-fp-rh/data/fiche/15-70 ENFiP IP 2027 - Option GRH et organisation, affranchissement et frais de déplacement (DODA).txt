@@ -1,0 +1,193 @@
+RÉDUIRE LES DÉPENSES D'AFFRANCHISSEMENT ET LES FRAIS DE DÉPLACEMENT DANS LE CADRE DU DODA, FASCICULE N° DEUX DE PRÉPARATION DE L'ENFIP, ÉPREUVE N° DEUX, PARTIE OPTIONNELLE GESTION DES RESSOURCES HUMAINES ET ORGANISATION, CONCOURS D'INSPECTEUR PRINCIPAL DES FINANCES PUBLIQUES DEUX MILLE VINGT-SEPT.
+
+LEXIQUE COMPLET.
+
+      Le DODA désigne le dispositif d'optimisation des dépenses et des achats, lancé par la note du huit octobre deux mille vingt-quatre, qui organise un premier plan d'économies sur deux ans, deux mille vingt-cinq et deux mille vingt-six, avec une thématique nationale et une thématique locale.
+
+      La DGF désigne la dotation globale de fonctionnement allouée à chaque direction.
+
+      La doctrine affranchissement désigne la note du vingt-sept juin deux mille vingt-quatre sur la réduction des dépenses d'affranchissement, mise à jour le dix-huit juillet deux mille vingt-cinq.
+
+      Le courrier égrené désigne le courrier affranchi localement par les directions, par opposition au courrier industriel traité par les ESI.
+
+      La LRAR désigne la lettre recommandée avec accusé de réception, le produit postal le plus coûteux, à partir de six euros quarante-quatre en deux mille vingt-cinq.
+
+      Clic'ESI désigne l'application qui transfère le courrier non dématérialisable vers la filière industrielle d'impression et d'affranchissement.
+
+      Escale désigne la plateforme de transmission électronique sécurisée des pièces de procédure.
+
+      Le PES V deux désigne le protocole d'échange standard par lequel l'ordonnateur transmet à la DGFiP ses titres de recettes et ses avis des sommes à payer.
+
+      L'ASAP désigne l'avis des sommes à payer adressé aux débiteurs des collectivités locales.
+
+      Le bureau SPiB deux B désigne le bureau achats, logistique et pilotage de la dotation globale de fonctionnement.
+
+      Le service GPLABE désigne le service des gestions publiques locales, des activités bancaires et économiques.
+
+      L'indicateur SPiB vingt-six désigne l'indicateur de suivi, dans Opéra, de la réduction des dépenses de LRAR.
+
+      Les FDD désignent les frais de déplacement temporaire des agents, en mission ou en formation.
+
+      Le PDME désigne le plan de mobilité employeur, ici départemental, qui organise les déplacements domicile-travail durables.
+
+      La division BIL désigne la division budget, immobilier et logistique.
+
+COURS DÉTAILLÉ.
+
+I. LE SUJET.
+
+   A. Question un, la note sur l'affranchissement.
+
+      Le candidat est Dominique Dupont, responsable de la division budget, immobilier et logistique de la DDFiP d'Orne-sur-Oise.
+
+      Pour le CODIR élargi du vingt-neuf mars deux mille vingt-six, le directeur demande un plan d'action sur l'affranchissement inscrit dans le DODA et les notes de la direction générale, après des groupes de travail menés au dernier trimestre deux mille vingt-cinq.
+
+      La note, de trois pages au plus, s'adresse aux responsables de service et de division : enjeux de la doctrine nationale, données locales et plan d'action immédiat pour deux mille vingt-six.
+
+   B. Question deux, le diaporama sur les frais de déplacement.
+
+      Le directeur de pôle demande, pour la prochaine réunion des chefs de service, un diaporama de trois ou quatre diapositives au plus sur l'axe deux du DODA, la réduction des frais de déplacement.
+
+      Le fonds documentaire compte sept documents et vingt et une pages.
+
+II. LES ENJEUX NATIONAUX DE L'AFFRANCHISSEMENT.
+
+   A. Les chiffres.
+
+      En deux mille vingt-quatre, la DGFiP a adressé deux cent soixante-huit millions de plis, soit un million deux cent mille de plus qu'en deux mille vingt-trois, pour cent quatre-vingts millions d'euros, soit trois millions et demi de plus.
+
+      Les cent quatre-vingts millions comprennent trente-trois millions d'affranchissement direct par les directions, dont douze millions de LRAR.
+
+      Les tarifs postaux ont augmenté de dix pour cent en moyenne en deux mille vingt-quatre et de huit pour cent en deux mille vingt-cinq, et une hausse d'environ huit pour cent est prévue en deux mille vingt-six.
+
+      Les directions ont réduit leurs envois de cinq millions sept cent mille plis. Quatre-vingt-quinze directions sur cent vingt, soit soixante-dix-neuf pour cent, ont baissé leurs dépenses. Les envois en LRAR ont reculé de onze pour cent, et leur coût de cinq pour cent.
+
+      Les directions les plus économes ont agi sur trois axes à la fois : moins de courriers simples et de LRAR, le tarif le plus avantageux par la centralisation du courrier, et un suivi régulier des dépenses.
+
+   B. Les tarifs à connaître.
+
+      L'Ecopli grand compte, dit G quatre, coûte zéro euro soixante-quatre par pli, pour des dépôts d'au moins mille plis de moins de cinquante grammes au même format, lisibles par les machines de tri.
+
+      L'Ecopli en nombre coûte zéro euro quatre-vingt-quatre, pour au moins quatre cents plis de moins de trente-cinq grammes en diffusion départementale.
+
+      L'Ecopli va de un euro quatorze à quatre euros trente-cinq, la lettre verte de un euro dix-huit à quatre euros soixante-neuf, et la LRAR commence à six euros quarante-quatre.
+
+   C. Les quatre leviers de la doctrine mise à jour en juillet deux mille vingt-cinq.
+
+      Premier levier : appliquer les annexes de la doctrine affranchissement, étendue aux procédures des services RH, annexe douze, et du Domaine, annexe treize.
+
+      Deuxième levier : appliquer le DODA, dont l'affranchissement est le thème national en deux mille vingt-cinq et deux mille vingt-six. L'objectif est de réduire d'au moins vingt pour cent le coût des LRAR par rapport à deux mille vingt-trois, suivi par l'indicateur SPiB vingt-six dans Opéra.
+
+      Troisième levier : la note GPLABE du quatre juin deux mille vingt-cinq met fin, au plus tard fin deux mille vingt-cinq, au remboursement des frais d'impression et d'affranchissement des collectivités qui n'utilisent pas l'offre standard PES V deux, et à l'affranchissement direct par les directions des courriers remis par les collectivités. Les envois des régies restent à la charge de l'ordonnateur.
+
+      Quatrième levier : renforcer Clic'ESI. Les plis grands volumes passent de sept à quarante feuilles, avec un gain jusqu'à deux euros soixante et onze par pli. L'envoi de LRAR par Clic'ESI, expérimenté par cinq puis douze directions depuis janvier deux mille vingt-cinq, économise de zéro euro vingt et un à zéro euro quatre-vingt-un par pli et cinq à six minutes de travail, et met à disposition la preuve de dépôt et l'accusé de réception.
+
+   D. La dématérialisation des pièces de contrôle fiscal.
+
+      La note SJCF un B du vingt-huit février deux mille vingt-quatre rappelle que presque aucun texte n'impose la LRAR en contrôle fiscal : le Conseil d'État l'a jugé le huit février deux mille douze.
+
+      La notification par Escale est possible pour le contrôle sur pièces, la vérification et l'examen de comptabilité, l'ESFP, les mises en demeure et les demandes d'éclaircissements. Le contribuable doit disposer d'au moins quinze jours pour télécharger la pièce.
+
+      Elle est exclue pour la proposition de transaction, les demandes sur les successions et les procédures sur place comme la visite et saisie, la flagrance fiscale ou le droit d'enquête.
+
+      Elle n'est pas préconisée après le quinze novembre pour une imposition qui se prescrit au trente et un décembre, ni sans adresse électronique fiable du contribuable lui-même.
+
+III. LES DONNÉES DE LA DDFIP D'ORNE-SUR-OISE.
+
+   A. Les volumes et les coûts.
+
+      Au trente et un décembre deux mille vingt-cinq, deux cent dix-neuf mille neuf cent vingt et un plis ont coûté trois cent dix-neuf mille cinq cent six euros, contre deux cent quatre-vingt-quatorze mille neuf cent quarante-cinq plis pour deux cent quatre-vingt-huit mille sept cent vingt-sept euros en deux mille vingt-quatre.
+
+      Le nombre de plis baisse de vingt-cinq virgule quarante-quatre pour cent, mais la dépense augmente d'environ dix virgule sept pour cent à cause des tarifs.
+
+   B. Les LRAR.
+
+      La direction a envoyé quinze mille quatre cent trois LRAR en deux mille vingt-trois, année de référence du DODA, quatorze mille quatre cent seize en deux mille vingt-quatre et treize mille deux cent quarante-huit en deux mille vingt-cinq.
+
+      La baisse est de huit virgule dix pour cent sur un an et de quatorze pour cent depuis deux mille vingt-trois, loin de l'objectif de vingt pour cent. L'indicateur SPiB vingt-six atteignait douze virgule quatre-vingt-sept pour cent au trente et un août deux mille vingt-cinq.
+
+   C. Les collectivités.
+
+      Le remboursement des frais d'impression et d'affranchissement des collectivités a coûté cent quarante-quatre mille trois cent soixante-douze euros en deux mille vingt-quatre.
+
+      Les envois directs pour le compte des collectivités ont coûté cent quatre-vingt-six mille sept cent quatre-vingt-dix-neuf euros, soit quarante-sept virgule cinquante-quatre pour cent des trois cent quatre-vingt-douze mille neuf cent cinquante-sept euros d'affranchissement total de deux mille vingt-quatre.
+
+IV. LE PLAN D'ACTION DU CORRIGÉ POUR L'AFFRANCHISSEMENT.
+
+   A. La forme.
+
+      Le corrigé prend la forme d'une note du directeur aux responsables de divisions et de services, avec objet, calendrier d'application immédiate, références des quatre notes et un résumé.
+
+      Le plan suit quatre temps : bilan national, bilan local deux mille vingt-cinq, plan local d'actions prioritaires deux mille vingt-six, conditions de mise en œuvre et suivi.
+
+   B. Les cinq axes.
+
+      Premier axe : la dématérialisation systématique, avec E-Contacts, la messagerie sécurisée, la fiabilisation des adresses des usagers, des conventions avec les mandataires judiciaires pour les procédures collectives via Escale, Escale en contrôle fiscal et la promotion du PES ASAP.
+
+      Deuxième axe : le recours systématique à Clic'ESI et Clic'ESI plus pour les courriers non dématérialisables.
+
+      Troisième axe : la réduction de vingt pour cent du coût des LRAR d'ici fin deux mille vingt-six, suivie par l'indicateur SPiB vingt-six, en distinguant les cas où la LRAR reste obligatoire.
+
+      Quatrième axe : l'arrêt de la prise en charge des frais d'affranchissement des collectivités, avec le passage obligatoire à l'offre PES V deux et l'accompagnement des collectivités.
+
+      Cinquième axe : la mise en œuvre du DODA, avec la baisse des plis, la réduction des LRAR et le développement du PES ASAP et de l'ORMC.
+
+   C. Les bonnes pratiques et le suivi.
+
+      Les statistiques d'affranchissement seront publiées chaque mois, service par service, sur Ulysse dès le premier semestre deux mille vingt-six, et une communauté Novae pilotée par le responsable de la division BIL partagera les retours d'expérience.
+
+      Le paramétrage des machines à affranchir permet de cibler les services les plus consommateurs et d'orienter vers Clic'ESI.
+
+      Un contrôle interne trimestriel par échantillon sur les LRAR, à visée pédagogique, corrige les envois avec accusé de réception injustifiés.
+
+      Chaque chef de service sensibilise ses agents ; l'e-formation GEN zéro zéro cinquante-zéro quarante-six forme à Clic'ESI. Un bilan est prévu mi-deux mille vingt-six.
+
+V. LA RÉDUCTION DES FRAIS DE DÉPLACEMENT.
+
+   A. Les enjeux.
+
+      La note du vingt et un janvier deux mille vingt-six fixe la doctrine de réduction des frais de déplacement. Les FDD ont atteint environ cinquante-trois millions d'euros en deux mille vingt-quatre, en hausse de six pour cent, soit neuf pour cent de la DGF.
+
+      Les déplacements professionnels ont émis seize kilotonnes équivalent CO deux en deux mille vingt-quatre, dont soixante-quinze pour cent dus aux véhicules personnels. Soixante-dix pour cent des directions ont fait des FDD un axe prioritaire du DODA.
+
+      L'objectif deux mille vingt-six est modulé : maintien des dépenses pour les collectivités d'outre-mer, les directions à moins de vingt mille euros d'enjeu et celles ayant déjà économisé au moins dix pour cent entre fin deux mille vingt-trois et fin deux mille vingt-cinq ; baisse de dix pour cent pour celles ayant économisé moins de dix pour cent ; baisse de vingt pour cent pour les autres.
+
+   B. Les trois leviers de la doctrine.
+
+      Premier levier : diminuer le nombre de déplacements. Les doctrines métiers des agents itinérants sont révisées, en regroupant les interventions par journée ou par secteur, près de la résidence. Le télétravail et le distanciel sont privilégiés pour les réunions, entretiens et formations compatibles.
+
+      Deuxième levier : privilégier les transports collectifs, conformément à l'arrêté du deux juillet deux mille vingt-cinq, utiliser en priorité les véhicules de service, selon la note du huit décembre deux mille vingt-cinq, avec un suivi du kilométrage, et réserver le véhicule personnel aux cas autorisés, remboursé en général sur la base du tarif SNCF de seconde classe.
+
+      Troisième levier : appliquer strictement les règles de remboursement des repas et de l'hébergement et contrôler les pièces justificatives. Le PNSR RH apporte son appui.
+
+   C. Le diaporama du corrigé.
+
+      Diapositive un : les enjeux, cinquante-trois millions d'euros, neuf pour cent de la DGF, soixante-quinze pour cent des gaz à effet de serre dus au véhicule personnel, objectif modulé jusqu'à moins vingt pour cent, avec le pilotage : validation rigoureuse des ordres de mission, contrôle interne, suivi budgétaire trimestriel et reporting des itinérants.
+
+      Diapositive deux : diminuer le volume des déplacements, en ciblant les agents nomades, huissiers, géomètres, vérificateurs, agents des Domaines et auditeurs.
+
+      Diapositive trois : optimiser les modes de transport, véhicules de service d'abord avec une cible d'au moins neuf mille kilomètres par an et par véhicule, train en seconde classe réservé tôt, véhicule personnel sur autorisation et remboursement plafonné.
+
+      Diapositive quatre : la mobilité durable, avec la finalisation du plan de mobilité employeur, diagnostic des trajets domicile-travail et indicateurs annuels, et le covoiturage entre agents.
+
+POINTS D'ATTENTION.
+
+      La note de la question un s'adresse aux chefs de service : elle doit chiffrer, fixer des responsables et des échéances, et non seulement résumer la doctrine.
+
+      Les calculs locaux sont attendus : moins vingt-cinq virgule quarante-quatre pour cent de plis, hausse de la dépense, moins huit virgule dix pour cent de LRAR sur un an, moins quatorze pour cent depuis deux mille vingt-trois.
+
+      Le corrigé indique une hausse de dix virgule soixante-seize pour cent de la dépense, mais le calcul donne dix virgule soixante-six pour cent.
+
+      Baisser le nombre de plis ne suffit pas à baisser la dépense quand les tarifs augmentent de huit à dix pour cent par an.
+
+      La LRAR reste obligatoire dans certains cas, comme la proposition de transaction : l'objectif est de supprimer les recommandés injustifiés, pas tous.
+
+      Un diaporama se limite à trois ou quatre diapositives avec des titres d'action et des chiffres, sans phrases longues.
+
+EXEMPLES CITÉS.
+
+      Clic'ESI grands volumes : quarante feuilles par pli au lieu de sept, jusqu'à deux euros soixante et onze d'économie par pli.
+
+      Orne-sur-Oise : quarante-sept virgule cinquante-quatre pour cent de l'affranchissement deux mille vingt-quatre consacrés aux envois des collectivités.
+
+      Véhicules de service : cible d'au moins neuf mille kilomètres par an et par véhicule.
